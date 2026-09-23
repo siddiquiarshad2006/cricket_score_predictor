@@ -160,6 +160,22 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
+# Backward and forward compatibility for numpy._core deserialization
+import sys
+try:
+    import numpy._core
+except ImportError:
+    try:
+        import numpy.core as _core
+        sys.modules['numpy._core'] = _core
+        sys.modules['numpy._core.numeric'] = _core.numeric
+        if hasattr(_core, 'multiarray'):
+            sys.modules['numpy._core.multiarray'] = _core.multiarray
+        if hasattr(_core, 'umath'):
+            sys.modules['numpy._core.umath'] = _core.umath
+    except Exception:
+        pass
+
 # Load model pipeline
 try:
     pipe = pickle.load(open('pipe.pkl', 'rb'))
