@@ -176,9 +176,14 @@ except ImportError:
     except Exception:
         pass
 
-# Load model pipeline
+# Load model pipeline efficiently with caching
+@st.cache_resource(show_spinner=False)
+def get_pipeline():
+    with open('pipe.pkl', 'rb') as f:
+        return pickle.load(f)
+
 try:
-    pipe = pickle.load(open('pipe.pkl', 'rb'))
+    pipe = get_pipeline()
 except Exception as e:
     st.error(f"Error loading model pipeline: {e}")
     st.stop()
