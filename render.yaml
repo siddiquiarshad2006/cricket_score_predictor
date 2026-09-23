@@ -3,8 +3,9 @@ services:
     name: cricket-score-predictor
     env: python
     plan: free
+    region: singapore
     buildCommand: "pip install -r requirements.txt"
     startCommand: "sh setup.sh && streamlit run app.py --server.port=$PORT --server.address=0.0.0.0 --server.enableCORS=false --server.enableXsrfProtection=false"
     envVars:
       - key: PYTHON_VERSION
-        value: 3.10.0
+        value: 3.12.7
