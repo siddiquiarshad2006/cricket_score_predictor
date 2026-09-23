@@ -1,0 +1,1242 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-08-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Vantaa
+  dates:
+  - '2026-08-18'
+  gender: male
+  match_type: T20
+  match_type_number: 4089
+  outcome:
+    winner: Spain
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - SJ Hughes-Pinan
+  players:
+    Bulgaria:
+    - M Gogev
+    - Manan Bashir
+    - Isa Zaroo
+    - H Lakov
+    - K Krishnakumar
+    - Jakob Gul
+    - Danyal Raja
+    - A Dowling
+    - J Dowling
+    - O Duff
+    - P Mishra
+    Spain:
+    - Hamza Nisar
+    - C Munoz-Mills
+    - A Davidson Soler
+    - Atif Mehmood
+    - C Rumistrzewicz
+    - D Doyle-Calle
+    - Mohammad Atif
+    - Mohammad Ihsan
+    - Mohammad Kamran
+    - Raja Adeel
+    - SJ Hughes-Pinan
+  registry:
+    people:
+      A Davidson Soler: 524943f1
+      A Dowling: ec064d97
+      Atif Mehmood: 7fcc57bf
+      C Munoz-Mills: 17bc032c
+      C Rumistrzewicz: 3ed4e2ad
+      D Doyle-Calle: 74be2916
+      Danyal Raja: 324e00a9
+      H Lakov: 87a6f411
+      Hamza Nisar: '08da9c7a'
+      Isa Zaroo: 9822fb85
+      J Dowling: 9f16f7c8
+      Jakob Gul: a4696d64
+      K Krishnakumar: ff60c8ba
+      M Gogev: 995fd3b2
+      Manan Bashir: 5c14bd52
+      Mohammad Atif: 705b8c5c
+      Mohammad Ihsan: 510e33d3
+      Mohammad Kamran: 1a628a92
+      O Duff: 550c9b2c
+      P Mishra: 3fa5672e
+      Prakash Bhatt: f848ab0b
+      Raja Adeel: 7ee25c46
+      Rizwan Akram: b5346f1e
+      SG Chandiramani: 4fa795d2
+      SJ Hughes-Pinan: ca72ea31
+      Vinay Malhotra: 452837d1
+  team_type: international
+  teams:
+  - Bulgaria
+  - Spain
+  toss:
+    winner: Bulgaria
+    decision: bat
+  umpires:
+  - Rizwan Akram
+  - Vinay Malhotra
+  venue: Tikkurila Cricket Ground
+innings:
+- 1st innings:
+    team: Bulgaria
+    deliveries:
+    - 0.1:
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Manan Bashir
+        actual_delivery: '0.1'
+        batsman: M Gogev
+    - 0.2:
+        non_striker: M Gogev
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.2'
+        batsman: Manan Bashir
+    - 0.3:
+        non_striker: Manan Bashir
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: M Gogev
+    - 0.4:
+        non_striker: Manan Bashir
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: M Gogev
+        wicket:
+          player_out: Manan Bashir
+          fielders:
+          - A Davidson Soler
+          kind: run out
+    - 0.5:
+        non_striker: M Gogev
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Isa Zaroo
+    - 0.6:
+        non_striker: M Gogev
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: Isa Zaroo
+    - 1.1:
+        non_striker: M Gogev
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.1'
+        batsman: Isa Zaroo
+    - 1.2:
+        non_striker: M Gogev
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: Isa Zaroo
+    - 1.3:
+        non_striker: M Gogev
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.3'
+        batsman: Isa Zaroo
+    - 1.4:
+        non_striker: M Gogev
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: Isa Zaroo
+    - 1.5:
+        non_striker: M Gogev
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Isa Zaroo
+    - 1.6:
+        non_striker: M Gogev
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Isa Zaroo
+    - 2.1:
+        non_striker: Isa Zaroo
+        bowler: Atif Mehmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.1'
+        batsman: M Gogev
+    - 2.2:
+        non_striker: Isa Zaroo
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: M Gogev
+    - 2.3:
+        non_striker: M Gogev
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: Isa Zaroo
+    - 2.4:
+        non_striker: Isa Zaroo
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: M Gogev
+    - 2.5:
+        non_striker: Isa Zaroo
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: M Gogev
+    - 2.6:
+        non_striker: Isa Zaroo
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.5'
+        batsman: M Gogev
+    - 2.7:
+        non_striker: Isa Zaroo
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: M Gogev
+    - 3.1:
+        non_striker: Isa Zaroo
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.1'
+        batsman: M Gogev
+    - 3.2:
+        non_striker: Isa Zaroo
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: M Gogev
+    - 3.3:
+        non_striker: Isa Zaroo
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.3'
+        batsman: M Gogev
+    - 3.4:
+        non_striker: Isa Zaroo
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: M Gogev
+    - 3.5:
+        non_striker: Isa Zaroo
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: M Gogev
+    - 3.6:
+        non_striker: Isa Zaroo
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.6'
+        batsman: M Gogev
+    - 4.1:
+        non_striker: M Gogev
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: Isa Zaroo
+    - 4.2:
+        non_striker: Isa Zaroo
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: M Gogev
+    - 4.3:
+        non_striker: Isa Zaroo
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.3'
+        batsman: M Gogev
+    - 4.4:
+        non_striker: Isa Zaroo
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: M Gogev
+    - 4.5:
+        non_striker: Isa Zaroo
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: M Gogev
+    - 4.6:
+        non_striker: M Gogev
+        bowler: Atif Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Isa Zaroo
+    - 5.1:
+        non_striker: Isa Zaroo
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: M Gogev
+    - 5.2:
+        non_striker: M Gogev
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: Isa Zaroo
+        wicket:
+          player_out: Isa Zaroo
+          fielders:
+          - SJ Hughes-Pinan
+          kind: caught
+    - 5.3:
+        non_striker: M Gogev
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '5.3'
+        batsman: H Lakov
+    - 5.4:
+        non_striker: H Lakov
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: M Gogev
+    - 5.5:
+        non_striker: H Lakov
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: M Gogev
+        wicket:
+          player_out: M Gogev
+          fielders:
+          - A Davidson Soler
+          kind: caught
+    - 5.6:
+        non_striker: H Lakov
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: K Krishnakumar
+    - 6.1:
+        non_striker: K Krishnakumar
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: H Lakov
+    - 6.2:
+        non_striker: K Krishnakumar
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: H Lakov
+    - 6.3:
+        non_striker: H Lakov
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: K Krishnakumar
+    - 6.4:
+        non_striker: H Lakov
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: K Krishnakumar
+    - 6.5:
+        non_striker: K Krishnakumar
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: H Lakov
+    - 6.6:
+        non_striker: H Lakov
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: K Krishnakumar
+    - 7.1:
+        non_striker: H Lakov
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: K Krishnakumar
+    - 7.2:
+        non_striker: H Lakov
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: K Krishnakumar
+    - 7.3:
+        non_striker: H Lakov
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: K Krishnakumar
+    - 7.4:
+        non_striker: H Lakov
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.4'
+        batsman: K Krishnakumar
+    - 7.5:
+        non_striker: H Lakov
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: K Krishnakumar
+    - 7.6:
+        non_striker: H Lakov
+        bowler: Mohammad Atif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.6'
+        batsman: K Krishnakumar
+    - 7.7:
+        non_striker: H Lakov
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: K Krishnakumar
+    - 8.1:
+        non_striker: H Lakov
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: K Krishnakumar
+    - 8.2:
+        non_striker: K Krishnakumar
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '8.2'
+        batsman: H Lakov
+    - 8.3:
+        non_striker: H Lakov
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: K Krishnakumar
+        wicket:
+          player_out: K Krishnakumar
+          fielders:
+          - D Doyle-Calle
+          kind: caught
+    - 8.4:
+        non_striker: H Lakov
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: Jakob Gul
+    - 8.5:
+        non_striker: H Lakov
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: Jakob Gul
+    - 8.6:
+        non_striker: H Lakov
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: Jakob Gul
+    - 9.1:
+        non_striker: H Lakov
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: Jakob Gul
+    - 9.2:
+        non_striker: H Lakov
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Jakob Gul
+    - 9.3:
+        non_striker: H Lakov
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: Jakob Gul
+    - 9.4:
+        non_striker: H Lakov
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: Jakob Gul
+        wicket:
+          player_out: Jakob Gul
+          fielders:
+          - A Davidson Soler
+          kind: stumped
+    - 9.5:
+        non_striker: H Lakov
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: Danyal Raja
+    - 9.6:
+        non_striker: H Lakov
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: Danyal Raja
+    - 10.1:
+        non_striker: Danyal Raja
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: H Lakov
+    - 10.2:
+        non_striker: Danyal Raja
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: H Lakov
+    - 10.3:
+        non_striker: H Lakov
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: Danyal Raja
+        wicket:
+          player_out: Danyal Raja
+          fielders:
+          - D Doyle-Calle
+          kind: run out
+    - 10.4:
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Dowling
+        actual_delivery: '10.4'
+        batsman: H Lakov
+    - 10.5:
+        non_striker: H Lakov
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: A Dowling
+        wicket:
+          player_out: A Dowling
+          kind: lbw
+    - 10.6:
+        non_striker: H Lakov
+        bowler: C Rumistrzewicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: J Dowling
+    - 11.1:
+        non_striker: J Dowling
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: H Lakov
+    - 11.2:
+        non_striker: J Dowling
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: H Lakov
+        wicket:
+          player_out: H Lakov
+          fielders:
+          - D Doyle-Calle
+          kind: caught
+    - 11.3:
+        non_striker: J Dowling
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: O Duff
+    - 11.4:
+        non_striker: J Dowling
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: O Duff
+    - 11.5:
+        non_striker: J Dowling
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: O Duff
+    - 11.6:
+        non_striker: J Dowling
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: O Duff
+    - 12.1:
+        non_striker: O Duff
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: J Dowling
+    - 12.2:
+        non_striker: O Duff
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: J Dowling
+    - 12.3:
+        non_striker: O Duff
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: J Dowling
+    - 12.4:
+        non_striker: O Duff
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: J Dowling
+    - 12.5:
+        non_striker: O Duff
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: J Dowling
+        wicket:
+          player_out: J Dowling
+          kind: bowled
+    - 12.6:
+        non_striker: O Duff
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: P Mishra
+    - 13.1:
+        non_striker: P Mishra
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: O Duff
+    - 13.2:
+        non_striker: P Mishra
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: O Duff
+    - 13.3:
+        non_striker: P Mishra
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: O Duff
+    - 13.4:
+        non_striker: P Mishra
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: O Duff
+    - 13.5:
+        non_striker: P Mishra
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: O Duff
+    - 13.6:
+        non_striker: P Mishra
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: O Duff
+    - 14.1:
+        non_striker: O Duff
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: P Mishra
+    - 14.2:
+        non_striker: O Duff
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: P Mishra
+    - 14.3:
+        non_striker: O Duff
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: P Mishra
+    - 14.4:
+        non_striker: P Mishra
+        bowler: Raja Adeel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: O Duff
+        wicket:
+          player_out: O Duff
+          kind: bowled
+- 2nd innings:
+    team: Spain
+    deliveries:
+    - 0.1:
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: C Munoz-Mills
+        actual_delivery: '0.1'
+        batsman: Hamza Nisar
+    - 0.2:
+        bowler: O Duff
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: C Munoz-Mills
+        actual_delivery: '0.2'
+        batsman: Hamza Nisar
+    - 0.3:
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Munoz-Mills
+        actual_delivery: '0.2'
+        batsman: Hamza Nisar
+    - 0.4:
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Munoz-Mills
+        actual_delivery: '0.3'
+        batsman: Hamza Nisar
+    - 0.5:
+        non_striker: Hamza Nisar
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.4'
+        batsman: C Munoz-Mills
+    - 0.6:
+        non_striker: Hamza Nisar
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: C Munoz-Mills
+    - 0.7:
+        non_striker: Hamza Nisar
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: C Munoz-Mills
+    - 1.1:
+        non_striker: C Munoz-Mills
+        bowler: J Dowling
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.1'
+        batsman: Hamza Nisar
+    - 1.2:
+        non_striker: C Munoz-Mills
+        bowler: J Dowling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.2'
+        batsman: Hamza Nisar
+    - 1.3:
+        non_striker: C Munoz-Mills
+        bowler: J Dowling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: Hamza Nisar
+    - 1.4:
+        non_striker: C Munoz-Mills
+        bowler: J Dowling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: Hamza Nisar
+    - 1.5:
+        non_striker: C Munoz-Mills
+        bowler: J Dowling
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.5'
+        batsman: Hamza Nisar
+    - 1.6:
+        non_striker: C Munoz-Mills
+        bowler: J Dowling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.6'
+        batsman: Hamza Nisar
+    - 2.1:
+        non_striker: Hamza Nisar
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.1'
+        batsman: C Munoz-Mills
+    - 2.2:
+        non_striker: Hamza Nisar
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.2'
+        batsman: C Munoz-Mills
+    - 2.3:
+        non_striker: Hamza Nisar
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: C Munoz-Mills
+    - 2.4:
+        non_striker: Hamza Nisar
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: C Munoz-Mills
+    - 2.5:
+        non_striker: C Munoz-Mills
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: Hamza Nisar
+    - 2.6:
+        non_striker: Hamza Nisar
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.6'
+        batsman: C Munoz-Mills
+    - 3.1:
+        non_striker: C Munoz-Mills
+        bowler: J Dowling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.1'
+        batsman: Hamza Nisar
+    - 3.2:
+        non_striker: C Munoz-Mills
+        bowler: J Dowling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Hamza Nisar
+        wicket:
+          player_out: Hamza Nisar
+          fielders:
+          - K Krishnakumar
+          kind: caught
+    - 3.3:
+        non_striker: C Munoz-Mills
+        bowler: J Dowling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: A Davidson Soler
+    - 3.4:
+        non_striker: A Davidson Soler
+        bowler: J Dowling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: C Munoz-Mills
+    - 3.5:
+        non_striker: A Davidson Soler
+        bowler: J Dowling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: C Munoz-Mills
+    - 3.6:
+        non_striker: C Munoz-Mills
+        bowler: J Dowling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: A Davidson Soler
+    - 3.7:
+        non_striker: A Davidson Soler
+        bowler: J Dowling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: C Munoz-Mills
+    - 4.1:
+        non_striker: A Davidson Soler
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.1'
+        batsman: C Munoz-Mills
+    - 4.2:
+        non_striker: A Davidson Soler
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: C Munoz-Mills
+    - 4.3:
+        non_striker: C Munoz-Mills
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: A Davidson Soler
+    - 4.4:
+        non_striker: C Munoz-Mills
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: A Davidson Soler
+    - 4.5:
+        non_striker: A Davidson Soler
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: C Munoz-Mills
+    target:
+      overs: 20
+      runs: 60

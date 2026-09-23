@@ -1,0 +1,2083 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-07-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Brondby
+  dates:
+  - '2026-07-13'
+  gender: male
+  match_type: T20
+  match_type_number: 4931
+  outcome:
+    winner: Estonia
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - Habib Khan
+  players:
+    Turkey:
+    - Abdullah Khan Lodhi
+    - A Turkmen
+    - I Elec
+    - Ilyas Ataullah
+    - Murat Yilmaz
+    - Mustafa Balkis
+    - Muhammad Fahad
+    - M Ozturk
+    - Serdar Burak Emir
+    - Ibrahim Kursad Dalyan
+    - Mertcan Filiz
+    Estonia:
+    - Habib Khan
+    - Sahil Chauhan
+    - Arslan Amjad
+    - Bilal Masud
+    - Zeeshan Ali
+    - H Aggarwal
+    - Aditya Panwar
+    - A Paul
+    - Ashraful Shuvo
+    - R Sekaran
+    - K Vislapuu
+  registry:
+    people:
+      A Paul: fa308279
+      A Turkmen: e56f4180
+      Abdullah Khan Lodhi: 6d8b7ac4
+      Aditya Panwar: 77e321db
+      Aidan Seaver: 862c0b16
+      Arslan Amjad: c228c52d
+      Ashraful Shuvo: 9bb259b4
+      Bilal Masud: 643e4882
+      Furkan Tuskan: 32009b6a
+      G McCrea: 46f4a901
+      H Aggarwal: 021ac4dd
+      Habib Khan: 5152ab02
+      I Elec: 4d0d5b7d
+      Ibrahim Kursad Dalyan: f0f20cf8
+      Ilyas Ataullah: 357484e9
+      K Vislapuu: '04855b85'
+      M Ozturk: d62f04f5
+      M Prabhudesa: c36bcd1e
+      Mertcan Filiz: b2e15fa9
+      Muhammad Fahad: 3f778477
+      Munib Haq: 5ac45f13
+      Murat Yilmaz: f2990906
+      Mustafa Balkis: 55e6c23c
+      R Sekaran: 5da43a10
+      Sahil Chauhan: f219df21
+      Serdar Burak Emir: 6d9238ac
+      Zeeshan Ali: 2c89dbf9
+  team_type: international
+  teams:
+  - Turkey
+  - Estonia
+  toss:
+    winner: Turkey
+    decision: bat
+  umpires:
+  - M Prabhudesa
+  - Munib Haq
+  venue: Svanholm Park, Brondby
+innings:
+- 1st innings:
+    team: Turkey
+    deliveries:
+    - 0.1:
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Turkmen
+        actual_delivery: '0.1'
+        batsman: Abdullah Khan Lodhi
+    - 0.2:
+        non_striker: Abdullah Khan Lodhi
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.2'
+        batsman: A Turkmen
+    - 0.3:
+        non_striker: Abdullah Khan Lodhi
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.3'
+        batsman: A Turkmen
+    - 0.4:
+        non_striker: Abdullah Khan Lodhi
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: A Turkmen
+    - 0.5:
+        non_striker: Abdullah Khan Lodhi
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: A Turkmen
+        wicket:
+          player_out: A Turkmen
+          kind: bowled
+    - 0.6:
+        non_striker: Abdullah Khan Lodhi
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: I Elec
+    - 1.1:
+        non_striker: I Elec
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: Abdullah Khan Lodhi
+    - 1.2:
+        non_striker: Abdullah Khan Lodhi
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: I Elec
+    - 1.3:
+        non_striker: Abdullah Khan Lodhi
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: I Elec
+    - 1.4:
+        non_striker: Abdullah Khan Lodhi
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: I Elec
+    - 1.5:
+        non_striker: Abdullah Khan Lodhi
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: I Elec
+    - 1.6:
+        non_striker: Abdullah Khan Lodhi
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: I Elec
+        wicket:
+          player_out: I Elec
+          fielders:
+          - A Paul
+          kind: caught
+    - 2.1:
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Ilyas Ataullah
+        actual_delivery: '2.1'
+        batsman: Abdullah Khan Lodhi
+    - 2.2:
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ilyas Ataullah
+        actual_delivery: '2.2'
+        batsman: Abdullah Khan Lodhi
+    - 2.3:
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ilyas Ataullah
+        actual_delivery: '2.3'
+        batsman: Abdullah Khan Lodhi
+    - 2.4:
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ilyas Ataullah
+        actual_delivery: '2.4'
+        batsman: Abdullah Khan Lodhi
+    - 2.5:
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Ilyas Ataullah
+        actual_delivery: '2.5'
+        batsman: Abdullah Khan Lodhi
+    - 2.6:
+        non_striker: Ilyas Ataullah
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Abdullah Khan Lodhi
+    - 3.1:
+        non_striker: Abdullah Khan Lodhi
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Ilyas Ataullah
+    - 3.2:
+        non_striker: Abdullah Khan Lodhi
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: Ilyas Ataullah
+    - 3.3:
+        non_striker: Abdullah Khan Lodhi
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: Ilyas Ataullah
+    - 3.4:
+        non_striker: Ilyas Ataullah
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Abdullah Khan Lodhi
+        wicket:
+          player_out: Abdullah Khan Lodhi
+          fielders:
+          - H Aggarwal
+          kind: caught
+    - 3.5:
+        non_striker: Ilyas Ataullah
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Murat Yilmaz
+    - 3.6:
+        non_striker: Ilyas Ataullah
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Murat Yilmaz
+    - 4.1:
+        non_striker: Murat Yilmaz
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: Ilyas Ataullah
+    - 4.2:
+        non_striker: Murat Yilmaz
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: Ilyas Ataullah
+    - 4.3:
+        non_striker: Ilyas Ataullah
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: Murat Yilmaz
+    - 4.4:
+        non_striker: Ilyas Ataullah
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: Murat Yilmaz
+    - 4.5:
+        non_striker: Ilyas Ataullah
+        bowler: H Aggarwal
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        actual_delivery: '4.5'
+        batsman: Murat Yilmaz
+    - 4.6:
+        non_striker: Ilyas Ataullah
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Murat Yilmaz
+    - 4.7:
+        non_striker: Ilyas Ataullah
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Murat Yilmaz
+    - 5.1:
+        non_striker: Murat Yilmaz
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Ilyas Ataullah
+    - 5.2:
+        non_striker: Murat Yilmaz
+        bowler: Zeeshan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.2'
+        batsman: Ilyas Ataullah
+    - 5.3:
+        non_striker: Murat Yilmaz
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: Ilyas Ataullah
+    - 5.4:
+        non_striker: Ilyas Ataullah
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: Murat Yilmaz
+    - 5.5:
+        non_striker: Ilyas Ataullah
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: Murat Yilmaz
+    - 5.6:
+        non_striker: Murat Yilmaz
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Ilyas Ataullah
+    - 5.7:
+        non_striker: Murat Yilmaz
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: Ilyas Ataullah
+    - 6.1:
+        non_striker: Ilyas Ataullah
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: Murat Yilmaz
+    - 6.2:
+        non_striker: Ilyas Ataullah
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: Murat Yilmaz
+    - 6.3:
+        non_striker: Ilyas Ataullah
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: Murat Yilmaz
+    - 6.4:
+        non_striker: Murat Yilmaz
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Ilyas Ataullah
+    - 6.5:
+        non_striker: Murat Yilmaz
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.5'
+        batsman: Ilyas Ataullah
+    - 6.6:
+        non_striker: Murat Yilmaz
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: Ilyas Ataullah
+    - 7.1:
+        non_striker: Ilyas Ataullah
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: Murat Yilmaz
+    - 7.2:
+        non_striker: Ilyas Ataullah
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: Murat Yilmaz
+    - 7.3:
+        non_striker: Murat Yilmaz
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: Ilyas Ataullah
+    - 7.4:
+        non_striker: Ilyas Ataullah
+        bowler: Zeeshan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '7.4'
+        batsman: Murat Yilmaz
+    - 7.5:
+        non_striker: Murat Yilmaz
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: Ilyas Ataullah
+    - 7.6:
+        non_striker: Ilyas Ataullah
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: Murat Yilmaz
+    - 8.1:
+        non_striker: Ilyas Ataullah
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Murat Yilmaz
+        wicket:
+          player_out: Murat Yilmaz
+          kind: bowled
+    - 8.2:
+        non_striker: Ilyas Ataullah
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: Mustafa Balkis
+    - 8.3:
+        non_striker: Ilyas Ataullah
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: Mustafa Balkis
+    - 8.4:
+        non_striker: Ilyas Ataullah
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: Mustafa Balkis
+    - 8.5:
+        non_striker: Ilyas Ataullah
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: Mustafa Balkis
+    - 8.6:
+        non_striker: Ilyas Ataullah
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Mustafa Balkis
+    - 9.1:
+        non_striker: Mustafa Balkis
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: Ilyas Ataullah
+    - 9.2:
+        non_striker: Mustafa Balkis
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: Ilyas Ataullah
+    - 9.3:
+        non_striker: Ilyas Ataullah
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: Mustafa Balkis
+    - 9.4:
+        non_striker: Ilyas Ataullah
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: Mustafa Balkis
+    - 9.5:
+        non_striker: Ilyas Ataullah
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '9.5'
+        batsman: Mustafa Balkis
+    - 9.6:
+        non_striker: Mustafa Balkis
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: Ilyas Ataullah
+    - 10.1:
+        non_striker: Ilyas Ataullah
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.1'
+        batsman: Mustafa Balkis
+    - 10.2:
+        non_striker: Ilyas Ataullah
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.1'
+        batsman: Mustafa Balkis
+    - 10.3:
+        non_striker: Ilyas Ataullah
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '10.2'
+        batsman: Mustafa Balkis
+    - 10.4:
+        non_striker: Mustafa Balkis
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.2'
+        batsman: Ilyas Ataullah
+    - 10.5:
+        non_striker: Mustafa Balkis
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: Ilyas Ataullah
+    - 10.6:
+        non_striker: Mustafa Balkis
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: Ilyas Ataullah
+        wicket:
+          player_out: Ilyas Ataullah
+          fielders:
+          - H Aggarwal
+          kind: caught
+    - 10.7:
+        non_striker: Mustafa Balkis
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.5'
+        batsman: Muhammad Fahad
+    - 10.8:
+        non_striker: Mustafa Balkis
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: Muhammad Fahad
+    - 10.9:
+        non_striker: Mustafa Balkis
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: Muhammad Fahad
+    - 11.1:
+        non_striker: Mustafa Balkis
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: Muhammad Fahad
+    - 11.2:
+        non_striker: Muhammad Fahad
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: Mustafa Balkis
+    - 11.3:
+        non_striker: Muhammad Fahad
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: Mustafa Balkis
+    - 11.4:
+        non_striker: Mustafa Balkis
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: Muhammad Fahad
+    - 11.5:
+        non_striker: Muhammad Fahad
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Mustafa Balkis
+    - 11.6:
+        non_striker: Muhammad Fahad
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Mustafa Balkis
+    - 12.1:
+        non_striker: Muhammad Fahad
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: Mustafa Balkis
+    - 12.2:
+        non_striker: Mustafa Balkis
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.2'
+        batsman: Muhammad Fahad
+    - 12.3:
+        non_striker: Mustafa Balkis
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: Muhammad Fahad
+    - 12.4:
+        non_striker: Muhammad Fahad
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: Mustafa Balkis
+    - 12.5:
+        non_striker: Mustafa Balkis
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: Muhammad Fahad
+    - 12.6:
+        non_striker: Muhammad Fahad
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Mustafa Balkis
+    - 13.1:
+        non_striker: Mustafa Balkis
+        bowler: A Paul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.1'
+        batsman: Muhammad Fahad
+    - 13.2:
+        non_striker: Mustafa Balkis
+        bowler: A Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: Muhammad Fahad
+    - 13.3:
+        non_striker: Mustafa Balkis
+        bowler: A Paul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.3'
+        batsman: Muhammad Fahad
+    - 13.4:
+        non_striker: Mustafa Balkis
+        bowler: A Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Muhammad Fahad
+    - 13.5:
+        non_striker: Mustafa Balkis
+        bowler: A Paul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Muhammad Fahad
+    - 13.6:
+        non_striker: Mustafa Balkis
+        bowler: A Paul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.6'
+        batsman: Muhammad Fahad
+    - 14.1:
+        non_striker: Muhammad Fahad
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.1'
+        batsman: Mustafa Balkis
+    - 14.2:
+        non_striker: Muhammad Fahad
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: Mustafa Balkis
+    - 14.3:
+        non_striker: Muhammad Fahad
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.3'
+        batsman: Mustafa Balkis
+    - 14.4:
+        non_striker: Muhammad Fahad
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.4'
+        batsman: Mustafa Balkis
+    - 14.5:
+        non_striker: Muhammad Fahad
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: Mustafa Balkis
+    - 14.6:
+        non_striker: Muhammad Fahad
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: Mustafa Balkis
+        wicket:
+          player_out: Mustafa Balkis
+          fielders:
+          - R Sekaran
+          kind: stumped
+    - 15.1:
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Ozturk
+        actual_delivery: '15.1'
+        batsman: Muhammad Fahad
+    - 15.2:
+        non_striker: Muhammad Fahad
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: M Ozturk
+        wicket:
+          player_out: M Ozturk
+          kind: lbw
+    - 15.3:
+        non_striker: Muhammad Fahad
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: Serdar Burak Emir
+    - 15.4:
+        non_striker: Muhammad Fahad
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: Serdar Burak Emir
+    - 15.5:
+        non_striker: Serdar Burak Emir
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: Muhammad Fahad
+    - 15.6:
+        non_striker: Muhammad Fahad
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: Serdar Burak Emir
+    - 16.1:
+        non_striker: Serdar Burak Emir
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.1'
+        batsman: Muhammad Fahad
+    - 16.2:
+        non_striker: Serdar Burak Emir
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.2'
+        batsman: Muhammad Fahad
+    - 16.3:
+        non_striker: Serdar Burak Emir
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.3'
+        batsman: Muhammad Fahad
+    - 16.4:
+        non_striker: Serdar Burak Emir
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: Muhammad Fahad
+    - 16.5:
+        non_striker: Muhammad Fahad
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: Serdar Burak Emir
+        wicket:
+          player_out: Serdar Burak Emir
+          kind: bowled
+    - 16.6:
+        non_striker: Muhammad Fahad
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: Ibrahim Kursad Dalyan
+    - 17.1:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: Muhammad Fahad
+    - 17.2:
+        non_striker: Muhammad Fahad
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: Ibrahim Kursad Dalyan
+    - 17.3:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.3'
+        batsman: Muhammad Fahad
+    - 17.4:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: H Aggarwal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '17.4'
+        batsman: Muhammad Fahad
+    - 17.5:
+        non_striker: Muhammad Fahad
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: Ibrahim Kursad Dalyan
+    - 17.6:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: H Aggarwal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: Muhammad Fahad
+    - 18.1:
+        non_striker: Muhammad Fahad
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: Ibrahim Kursad Dalyan
+    - 18.2:
+        non_striker: Muhammad Fahad
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: Ibrahim Kursad Dalyan
+    - 18.3:
+        non_striker: Muhammad Fahad
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: Ibrahim Kursad Dalyan
+    - 18.4:
+        non_striker: Muhammad Fahad
+        bowler: K Vislapuu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.4'
+        batsman: Ibrahim Kursad Dalyan
+    - 18.5:
+        non_striker: Muhammad Fahad
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.4'
+        batsman: Ibrahim Kursad Dalyan
+    - 18.6:
+        non_striker: Muhammad Fahad
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.5'
+        batsman: Ibrahim Kursad Dalyan
+    - 18.7:
+        non_striker: Muhammad Fahad
+        bowler: K Vislapuu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: Ibrahim Kursad Dalyan
+    - 19.1:
+        non_striker: Muhammad Fahad
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.1'
+        batsman: Ibrahim Kursad Dalyan
+    - 19.2:
+        non_striker: Muhammad Fahad
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: Ibrahim Kursad Dalyan
+        wicket:
+          player_out: Ibrahim Kursad Dalyan
+          kind: caught and bowled
+    - 19.3:
+        non_striker: Muhammad Fahad
+        bowler: Habib Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '19.3'
+        batsman: Mertcan Filiz
+    - 19.4:
+        non_striker: Mertcan Filiz
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: Muhammad Fahad
+    - 19.5:
+        non_striker: Mertcan Filiz
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: Muhammad Fahad
+    - 19.6:
+        non_striker: Mertcan Filiz
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: Muhammad Fahad
+        wicket:
+          player_out: Muhammad Fahad
+          kind: bowled
+- 2nd innings:
+    team: Estonia
+    deliveries:
+    - 0.1:
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sahil Chauhan
+        actual_delivery: '0.1'
+        batsman: Habib Khan
+    - 0.2:
+        non_striker: Habib Khan
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: Sahil Chauhan
+    - 0.3:
+        non_striker: Habib Khan
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.3'
+        batsman: Sahil Chauhan
+    - 0.4:
+        non_striker: Habib Khan
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Sahil Chauhan
+    - 0.5:
+        non_striker: Habib Khan
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Sahil Chauhan
+    - 0.6:
+        non_striker: Habib Khan
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Sahil Chauhan
+        wicket:
+          player_out: Sahil Chauhan
+          fielders:
+          - Furkan Tuskan (sub)
+          kind: caught
+    - 1.1:
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Arslan Amjad
+        actual_delivery: '1.1'
+        batsman: Habib Khan
+    - 1.2:
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Arslan Amjad
+        actual_delivery: '1.2'
+        batsman: Habib Khan
+    - 1.3:
+        non_striker: Habib Khan
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: Arslan Amjad
+    - 1.4:
+        non_striker: Arslan Amjad
+        bowler: A Turkmen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.4'
+        batsman: Habib Khan
+    - 1.5:
+        non_striker: Arslan Amjad
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: Habib Khan
+    - 1.6:
+        non_striker: Habib Khan
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: Arslan Amjad
+    - 1.7:
+        non_striker: Arslan Amjad
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: Habib Khan
+    - 2.1:
+        non_striker: Arslan Amjad
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: Habib Khan
+    - 2.2:
+        non_striker: Arslan Amjad
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: Habib Khan
+    - 2.3:
+        non_striker: Arslan Amjad
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.3'
+        batsman: Habib Khan
+    - 2.4:
+        non_striker: Arslan Amjad
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: Habib Khan
+    - 2.5:
+        non_striker: Arslan Amjad
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Habib Khan
+    - 2.6:
+        non_striker: Arslan Amjad
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: Habib Khan
+    - 2.7:
+        non_striker: Habib Khan
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Arslan Amjad
+    - 3.1:
+        non_striker: Arslan Amjad
+        bowler: A Turkmen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.1'
+        batsman: Habib Khan
+    - 3.2:
+        non_striker: Arslan Amjad
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Habib Khan
+    - 3.3:
+        non_striker: Arslan Amjad
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Habib Khan
+    - 3.4:
+        non_striker: Arslan Amjad
+        bowler: A Turkmen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '3.3'
+        batsman: Habib Khan
+    - 3.5:
+        non_striker: Habib Khan
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Arslan Amjad
+        wicket:
+          player_out: Arslan Amjad
+          fielders:
+          - Mertcan Filiz
+          kind: caught
+    - 3.6:
+        non_striker: Habib Khan
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Bilal Masud
+    - 3.7:
+        non_striker: Habib Khan
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.6'
+        batsman: Bilal Masud
+    - 4.1:
+        non_striker: Bilal Masud
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: Habib Khan
+    - 4.2:
+        non_striker: Habib Khan
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: Bilal Masud
+    - 4.3:
+        non_striker: Bilal Masud
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.3'
+        batsman: Habib Khan
+    - 4.4:
+        non_striker: Bilal Masud
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: Habib Khan
+    - 4.5:
+        non_striker: Bilal Masud
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: Habib Khan
+    - 4.6:
+        non_striker: Bilal Masud
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: Habib Khan
+    - 5.1:
+        non_striker: Bilal Masud
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.1'
+        batsman: Habib Khan
+    - 5.2:
+        non_striker: Bilal Masud
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: Habib Khan
+    - 5.3:
+        non_striker: Bilal Masud
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.3'
+        batsman: Habib Khan
+    - 5.4:
+        non_striker: Bilal Masud
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.4'
+        batsman: Habib Khan
+    - 5.5:
+        non_striker: Bilal Masud
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.5'
+        batsman: Habib Khan
+    - 5.6:
+        non_striker: Bilal Masud
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.6'
+        batsman: Habib Khan
+    - 6.1:
+        non_striker: Habib Khan
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: Bilal Masud
+    - 6.2:
+        non_striker: Bilal Masud
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: Habib Khan
+    - 6.3:
+        non_striker: Habib Khan
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.3'
+        batsman: Bilal Masud
+    - 6.4:
+        non_striker: Habib Khan
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: Bilal Masud
+    - 6.5:
+        non_striker: Bilal Masud
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.5'
+        batsman: Habib Khan
+    - 6.6:
+        non_striker: Bilal Masud
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '6.6'
+        batsman: Habib Khan
+    - 7.1:
+        non_striker: Habib Khan
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.1'
+        batsman: Bilal Masud
+    - 7.2:
+        non_striker: Habib Khan
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: Bilal Masud
+    - 7.3:
+        non_striker: Habib Khan
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: Bilal Masud
+    - 7.4:
+        non_striker: Habib Khan
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: Bilal Masud
+    - 7.5:
+        non_striker: Bilal Masud
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.5'
+        batsman: Habib Khan
+    - 7.6:
+        non_striker: Bilal Masud
+        bowler: Muhammad Fahad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.6'
+        batsman: Habib Khan
+    - 7.7:
+        non_striker: Bilal Masud
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: Habib Khan
+    - 8.1:
+        non_striker: Habib Khan
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.1'
+        batsman: Bilal Masud
+    - 8.2:
+        non_striker: Habib Khan
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: Bilal Masud
+    - 8.3:
+        non_striker: Habib Khan
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: Bilal Masud
+    - 8.4:
+        non_striker: Bilal Masud
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: Habib Khan
+    - 8.5:
+        non_striker: Bilal Masud
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Habib Khan
+    - 8.6:
+        non_striker: Habib Khan
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.6'
+        batsman: Bilal Masud
+    - 9.1:
+        non_striker: Bilal Masud
+        bowler: Serdar Burak Emir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.1'
+        batsman: Habib Khan
+    - 9.2:
+        non_striker: Bilal Masud
+        bowler: Serdar Burak Emir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.1'
+        batsman: Habib Khan
+    - 9.3:
+        non_striker: Bilal Masud
+        bowler: Serdar Burak Emir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.2'
+        batsman: Habib Khan
+    - 9.4:
+        non_striker: Bilal Masud
+        bowler: Serdar Burak Emir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: Habib Khan
+    - 9.5:
+        non_striker: Habib Khan
+        bowler: Serdar Burak Emir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.4'
+        batsman: Bilal Masud
+    - 9.6:
+        non_striker: Habib Khan
+        bowler: Serdar Burak Emir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: Bilal Masud
+    - 9.7:
+        non_striker: Bilal Masud
+        bowler: Serdar Burak Emir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.6'
+        batsman: Habib Khan
+    - 10.1:
+        non_striker: Habib Khan
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: Bilal Masud
+    - 10.2:
+        non_striker: Bilal Masud
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.2'
+        batsman: Habib Khan
+    - 10.3:
+        non_striker: Bilal Masud
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: Habib Khan
+    - 10.4:
+        non_striker: Bilal Masud
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: Habib Khan
+        wicket:
+          player_out: Habib Khan
+          fielders:
+          - M Ozturk
+          kind: caught
+    - 10.5:
+        non_striker: Bilal Masud
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: Zeeshan Ali
+    - 10.6:
+        non_striker: Zeeshan Ali
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Bilal Masud
+    - 11.1:
+        non_striker: Bilal Masud
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: Zeeshan Ali
+        wicket:
+          player_out: Bilal Masud
+          fielders:
+          - A Turkmen
+          - Ilyas Ataullah
+          kind: run out
+    - 11.2:
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: H Aggarwal
+        actual_delivery: '11.2'
+        batsman: Zeeshan Ali
+    - 11.3:
+        non_striker: Zeeshan Ali
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.3'
+        batsman: H Aggarwal
+    - 11.4:
+        non_striker: Zeeshan Ali
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.4'
+        batsman: H Aggarwal
+    - 11.5:
+        non_striker: Zeeshan Ali
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: H Aggarwal
+    - 11.6:
+        non_striker: H Aggarwal
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Zeeshan Ali
+    - 12.1:
+        non_striker: H Aggarwal
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Zeeshan Ali
+    - 12.2:
+        non_striker: H Aggarwal
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: Zeeshan Ali
+    - 12.3:
+        non_striker: Zeeshan Ali
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.3'
+        batsman: H Aggarwal
+    - 12.4:
+        non_striker: Zeeshan Ali
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: H Aggarwal
+    - 12.5:
+        non_striker: Zeeshan Ali
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: H Aggarwal
+    - 12.6:
+        non_striker: Zeeshan Ali
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: H Aggarwal
+    - 13.1:
+        non_striker: Zeeshan Ali
+        bowler: Mustafa Balkis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.1'
+        batsman: H Aggarwal
+    - 13.2:
+        non_striker: Zeeshan Ali
+        bowler: Mustafa Balkis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: H Aggarwal
+    target:
+      overs: 20
+      runs: 118

@@ -1,0 +1,2560 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ilfov County
+  dates:
+  - '2026-06-19'
+  gender: male
+  match_type: T20
+  match_type_number: 3962
+  outcome:
+    winner: Switzerland
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - H Deshan
+  players:
+    Romania:
+    - AN Lascu
+    - R Satheesan
+    - Irfan Ringku
+    - V Saini
+    - Md Ariyan
+    - Avishka Iroshan
+    - J Fernando
+    - T Sandaruwan
+    - Eranga De Silva
+    - M Koli
+    - J Khadka
+    Switzerland:
+    - Sahil Tarakhil
+    - Numan Ahmadzai
+    - Raihan Stanikzai
+    - H Deshan
+    - D Johnson
+    - M Stanikzai
+    - Naim Stanikzai
+    - I Stewart
+    - Ashwin Vinod
+    - Khalid Niazi
+    - Musa Khan Ahmadzai
+  registry:
+    people:
+      AN Lascu: e2c882d1
+      Ashwin Vinod: 8a99caa9
+      Avishka Iroshan: 2964821b
+      D Johnson: 945981e5
+      Eranga De Silva: 9a8e35ea
+      H Deshan: cdc9bbec
+      I Stewart: 568fe66e
+      Irfan Ringku: fa0d1410
+      J Fernando: 898a21a4
+      J Khadka: 191ee2f2
+      Khalid Niazi: c57a486f
+      M Koli: eb0f2802
+      M Stanikzai: ad8d5827
+      Md Ariyan: ff4805ee
+      Musa Khan Ahmadzai: e901d179
+      Naim Stanikzai: e8e701f4
+      Numan Ahmadzai: 7da02d10
+      R Satheesan: 1125ebe4
+      Raihan Stanikzai: 4ee38eae
+      Sahil Tarakhil: 8a3dd116
+      T Sandaruwan: 2c31f58a
+      V Saini: 0fa81719
+  team_type: international
+  teams:
+  - Romania
+  - Switzerland
+  toss:
+    winner: Romania
+    decision: bat
+  venue: Moara Vlasiei Cricket Ground, Ilfov County
+innings:
+- 1st innings:
+    team: Romania
+    deliveries:
+    - 0.1:
+        bowler: Ashwin Vinod
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: R Satheesan
+        actual_delivery: '0.1'
+        batsman: AN Lascu
+    - 0.2:
+        bowler: Ashwin Vinod
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: R Satheesan
+        actual_delivery: '0.1'
+        batsman: AN Lascu
+    - 0.3:
+        non_striker: AN Lascu
+        bowler: Ashwin Vinod
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '0.2'
+        batsman: R Satheesan
+    - 0.4:
+        non_striker: R Satheesan
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: AN Lascu
+    - 0.5:
+        non_striker: AN Lascu
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: R Satheesan
+    - 0.6:
+        non_striker: AN Lascu
+        bowler: Ashwin Vinod
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.5'
+        batsman: R Satheesan
+    - 0.7:
+        non_striker: AN Lascu
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: R Satheesan
+    - 0.8:
+        non_striker: R Satheesan
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: AN Lascu
+    - 1.1:
+        non_striker: R Satheesan
+        bowler: Raihan Stanikzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: AN Lascu
+    - 1.2:
+        non_striker: AN Lascu
+        bowler: Raihan Stanikzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: R Satheesan
+    - 1.3:
+        non_striker: AN Lascu
+        bowler: Raihan Stanikzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: R Satheesan
+    - 1.4:
+        non_striker: AN Lascu
+        bowler: Raihan Stanikzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: R Satheesan
+    - 1.5:
+        non_striker: R Satheesan
+        bowler: Raihan Stanikzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.5'
+        batsman: AN Lascu
+    - 1.6:
+        non_striker: R Satheesan
+        bowler: Raihan Stanikzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: AN Lascu
+    - 2.1:
+        non_striker: AN Lascu
+        bowler: Ashwin Vinod
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.1'
+        batsman: R Satheesan
+    - 2.2:
+        non_striker: AN Lascu
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.1'
+        batsman: R Satheesan
+    - 2.3:
+        non_striker: AN Lascu
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: R Satheesan
+        wicket:
+          player_out: R Satheesan
+          fielders:
+          - Naim Stanikzai
+          kind: caught
+    - 2.4:
+        non_striker: AN Lascu
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Irfan Ringku
+    - 2.5:
+        non_striker: AN Lascu
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Irfan Ringku
+    - 2.6:
+        non_striker: AN Lascu
+        bowler: Ashwin Vinod
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '2.5'
+        batsman: Irfan Ringku
+    - 2.7:
+        non_striker: Irfan Ringku
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: AN Lascu
+    - 3.1:
+        non_striker: Irfan Ringku
+        bowler: Raihan Stanikzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: AN Lascu
+    - 3.2:
+        non_striker: AN Lascu
+        bowler: Raihan Stanikzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Irfan Ringku
+    - 3.3:
+        non_striker: AN Lascu
+        bowler: Raihan Stanikzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Irfan Ringku
+    - 3.4:
+        non_striker: AN Lascu
+        bowler: Raihan Stanikzai
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        actual_delivery: '3.4'
+        batsman: Irfan Ringku
+    - 3.5:
+        non_striker: AN Lascu
+        bowler: Raihan Stanikzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.4'
+        batsman: Irfan Ringku
+    - 3.6:
+        non_striker: AN Lascu
+        bowler: Raihan Stanikzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Irfan Ringku
+    - 3.7:
+        non_striker: AN Lascu
+        bowler: Raihan Stanikzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.6'
+        batsman: Irfan Ringku
+    - 4.1:
+        non_striker: Irfan Ringku
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.1'
+        batsman: AN Lascu
+    - 4.2:
+        non_striker: Irfan Ringku
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.2'
+        batsman: AN Lascu
+    - 4.3:
+        non_striker: Irfan Ringku
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.3'
+        batsman: AN Lascu
+    - 4.4:
+        non_striker: Irfan Ringku
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: AN Lascu
+    - 4.5:
+        non_striker: Irfan Ringku
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: AN Lascu
+    - 4.6:
+        non_striker: AN Lascu
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Irfan Ringku
+    - 5.1:
+        non_striker: Irfan Ringku
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: AN Lascu
+    - 5.2:
+        non_striker: AN Lascu
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.2'
+        batsman: Irfan Ringku
+    - 5.3:
+        non_striker: AN Lascu
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: Irfan Ringku
+    - 5.4:
+        non_striker: AN Lascu
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Irfan Ringku
+        wicket:
+          player_out: Irfan Ringku
+          kind: bowled
+    - 5.5:
+        non_striker: AN Lascu
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: V Saini
+    - 5.6:
+        non_striker: AN Lascu
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: V Saini
+    - 6.1:
+        non_striker: AN Lascu
+        bowler: D Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.1'
+        batsman: V Saini
+    - 6.2:
+        non_striker: AN Lascu
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: V Saini
+    - 6.3:
+        non_striker: V Saini
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: AN Lascu
+    - 6.4:
+        non_striker: V Saini
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.3'
+        batsman: AN Lascu
+    - 6.5:
+        non_striker: V Saini
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.4'
+        batsman: AN Lascu
+    - 6.6:
+        non_striker: V Saini
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: AN Lascu
+    - 6.7:
+        non_striker: AN Lascu
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: V Saini
+    - 7.1:
+        non_striker: AN Lascu
+        bowler: H Deshan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.1'
+        batsman: V Saini
+    - 7.2:
+        non_striker: AN Lascu
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: V Saini
+    - 7.3:
+        non_striker: V Saini
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: AN Lascu
+        wicket:
+          player_out: AN Lascu
+          fielders:
+          - I Stewart
+          kind: caught
+    - 7.4:
+        non_striker: V Saini
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: Md Ariyan
+    - 7.5:
+        non_striker: V Saini
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: Md Ariyan
+    - 7.6:
+        non_striker: V Saini
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.5'
+        batsman: Md Ariyan
+    - 7.7:
+        non_striker: V Saini
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: Md Ariyan
+    - 8.1:
+        non_striker: Md Ariyan
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: V Saini
+    - 8.2:
+        non_striker: Md Ariyan
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: V Saini
+    - 8.3:
+        non_striker: V Saini
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.3'
+        batsman: Md Ariyan
+    - 8.4:
+        non_striker: V Saini
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.4'
+        batsman: Md Ariyan
+    - 8.5:
+        non_striker: V Saini
+        bowler: D Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.5'
+        batsman: Md Ariyan
+    - 8.6:
+        non_striker: V Saini
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.5'
+        batsman: Md Ariyan
+    - 8.7:
+        non_striker: V Saini
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Md Ariyan
+        wicket:
+          player_out: Md Ariyan
+          fielders:
+          - M Stanikzai
+          kind: caught
+    - 9.1:
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Avishka Iroshan
+        actual_delivery: '9.1'
+        batsman: V Saini
+    - 9.2:
+        non_striker: V Saini
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: Avishka Iroshan
+    - 9.3:
+        non_striker: Avishka Iroshan
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: V Saini
+    - 9.4:
+        non_striker: V Saini
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: Avishka Iroshan
+    - 9.5:
+        non_striker: Avishka Iroshan
+        bowler: H Deshan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '9.5'
+        batsman: V Saini
+    - 9.6:
+        non_striker: V Saini
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: Avishka Iroshan
+    - 9.7:
+        non_striker: V Saini
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.6'
+        batsman: Avishka Iroshan
+    - 10.1:
+        non_striker: Avishka Iroshan
+        bowler: I Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: V Saini
+    - 10.2:
+        non_striker: Avishka Iroshan
+        bowler: I Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: V Saini
+    - 10.3:
+        non_striker: V Saini
+        bowler: I Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Avishka Iroshan
+    - 10.4:
+        non_striker: Avishka Iroshan
+        bowler: I Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: V Saini
+    - 10.5:
+        non_striker: V Saini
+        bowler: I Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: Avishka Iroshan
+    - 10.6:
+        non_striker: V Saini
+        bowler: I Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: Avishka Iroshan
+    - 11.1:
+        non_striker: V Saini
+        bowler: Khalid Niazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: Avishka Iroshan
+    - 11.2:
+        non_striker: V Saini
+        bowler: Khalid Niazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: Avishka Iroshan
+    - 11.3:
+        non_striker: V Saini
+        bowler: Khalid Niazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: Avishka Iroshan
+    - 11.4:
+        non_striker: V Saini
+        bowler: Khalid Niazi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '11.4'
+        batsman: Avishka Iroshan
+    - 11.5:
+        non_striker: Avishka Iroshan
+        bowler: Khalid Niazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: V Saini
+    - 11.6:
+        non_striker: V Saini
+        bowler: Khalid Niazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Avishka Iroshan
+    - 12.1:
+        non_striker: V Saini
+        bowler: I Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Avishka Iroshan
+    - 12.2:
+        non_striker: V Saini
+        bowler: I Stewart
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '12.2'
+        batsman: Avishka Iroshan
+    - 12.3:
+        non_striker: V Saini
+        bowler: I Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: Avishka Iroshan
+    - 12.4:
+        non_striker: V Saini
+        bowler: I Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: Avishka Iroshan
+    - 12.5:
+        non_striker: Avishka Iroshan
+        bowler: I Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: V Saini
+    - 12.6:
+        non_striker: Avishka Iroshan
+        bowler: I Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: V Saini
+    - 13.1:
+        non_striker: Avishka Iroshan
+        bowler: Khalid Niazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.1'
+        batsman: V Saini
+    - 13.2:
+        non_striker: Avishka Iroshan
+        bowler: Khalid Niazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: V Saini
+    - 13.3:
+        non_striker: Avishka Iroshan
+        bowler: Khalid Niazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.3'
+        batsman: V Saini
+    - 13.4:
+        non_striker: Avishka Iroshan
+        bowler: Khalid Niazi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        actual_delivery: '13.4'
+        batsman: V Saini
+    - 13.5:
+        non_striker: Avishka Iroshan
+        bowler: Khalid Niazi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.5'
+        batsman: V Saini
+    - 13.6:
+        non_striker: Avishka Iroshan
+        bowler: Khalid Niazi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.6'
+        batsman: V Saini
+    - 14.1:
+        non_striker: V Saini
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '14.1'
+        batsman: Avishka Iroshan
+    - 14.2:
+        non_striker: V Saini
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: Avishka Iroshan
+    - 14.3:
+        non_striker: V Saini
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: Avishka Iroshan
+    - 14.4:
+        non_striker: Avishka Iroshan
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: V Saini
+    - 14.5:
+        non_striker: V Saini
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.4'
+        batsman: Avishka Iroshan
+    - 14.6:
+        non_striker: V Saini
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: Avishka Iroshan
+    - 14.7:
+        non_striker: V Saini
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: Avishka Iroshan
+        wicket:
+          player_out: Avishka Iroshan
+          fielders:
+          - Khalid Niazi
+          kind: caught
+    - 15.1:
+        bowler: I Stewart
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: J Fernando
+        actual_delivery: '15.1'
+        batsman: V Saini
+    - 15.2:
+        bowler: I Stewart
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: J Fernando
+        actual_delivery: '15.2'
+        batsman: V Saini
+    - 15.3:
+        non_striker: V Saini
+        bowler: I Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: J Fernando
+    - 15.4:
+        non_striker: V Saini
+        bowler: I Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: J Fernando
+    - 15.5:
+        non_striker: J Fernando
+        bowler: I Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.4'
+        batsman: V Saini
+    - 15.6:
+        non_striker: J Fernando
+        bowler: I Stewart
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.5'
+        batsman: V Saini
+    - 15.7:
+        non_striker: J Fernando
+        bowler: I Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.6'
+        batsman: V Saini
+    - 16.1:
+        non_striker: V Saini
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: J Fernando
+    - 16.2:
+        non_striker: J Fernando
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: V Saini
+    - 16.3:
+        non_striker: V Saini
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: J Fernando
+    - 16.4:
+        non_striker: J Fernando
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: V Saini
+    - 16.5:
+        non_striker: J Fernando
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: V Saini
+    - 16.6:
+        non_striker: V Saini
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: J Fernando
+    - 17.1:
+        non_striker: J Fernando
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: V Saini
+    - 17.2:
+        non_striker: J Fernando
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: V Saini
+    - 17.3:
+        non_striker: V Saini
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.3'
+        batsman: J Fernando
+    - 17.4:
+        non_striker: V Saini
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: J Fernando
+    - 17.5:
+        non_striker: J Fernando
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: V Saini
+    - 17.6:
+        non_striker: J Fernando
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: V Saini
+    - 18.1:
+        non_striker: J Fernando
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: V Saini
+    - 18.2:
+        non_striker: V Saini
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.2'
+        batsman: J Fernando
+    - 18.3:
+        non_striker: V Saini
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: J Fernando
+    - 18.4:
+        non_striker: J Fernando
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.4'
+        batsman: V Saini
+    - 18.5:
+        non_striker: J Fernando
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: V Saini
+        wicket:
+          player_out: V Saini
+          kind: bowled
+    - 18.6:
+        non_striker: J Fernando
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.5'
+        batsman: T Sandaruwan
+    - 18.7:
+        non_striker: J Fernando
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: T Sandaruwan
+        wicket:
+          player_out: T Sandaruwan
+          kind: bowled
+    - 18.8:
+        non_striker: J Fernando
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: Eranga De Silva
+    - 19.1:
+        non_striker: J Fernando
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.1'
+        batsman: Eranga De Silva
+    - 19.2:
+        non_striker: J Fernando
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: Eranga De Silva
+    - 19.3:
+        non_striker: Eranga De Silva
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.3'
+        batsman: J Fernando
+    - 19.4:
+        non_striker: Eranga De Silva
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: J Fernando
+    - 19.5:
+        non_striker: J Fernando
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.5'
+        batsman: Eranga De Silva
+    - 19.6:
+        non_striker: Eranga De Silva
+        bowler: M Stanikzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: J Fernando
+- 2nd innings:
+    team: Switzerland
+    deliveries:
+    - 0.1:
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Numan Ahmadzai
+        actual_delivery: '0.1'
+        batsman: Sahil Tarakhil
+    - 0.2:
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Numan Ahmadzai
+        actual_delivery: '0.2'
+        batsman: Sahil Tarakhil
+    - 0.3:
+        non_striker: Sahil Tarakhil
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: Numan Ahmadzai
+    - 0.4:
+        non_striker: Sahil Tarakhil
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.4'
+        batsman: Numan Ahmadzai
+    - 0.5:
+        non_striker: Sahil Tarakhil
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Numan Ahmadzai
+    - 0.6:
+        non_striker: Sahil Tarakhil
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.5'
+        batsman: Numan Ahmadzai
+    - 0.7:
+        non_striker: Sahil Tarakhil
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Numan Ahmadzai
+    - 0.8:
+        non_striker: Sahil Tarakhil
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.6'
+        batsman: Numan Ahmadzai
+    - 0.9:
+        non_striker: Sahil Tarakhil
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Numan Ahmadzai
+    - 1.1:
+        non_striker: Numan Ahmadzai
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: Sahil Tarakhil
+    - 1.2:
+        non_striker: Sahil Tarakhil
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: Numan Ahmadzai
+    - 1.3:
+        non_striker: Numan Ahmadzai
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.3'
+        batsman: Sahil Tarakhil
+    - 1.4:
+        non_striker: Numan Ahmadzai
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.4'
+        batsman: Sahil Tarakhil
+    - 1.5:
+        non_striker: Numan Ahmadzai
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: Sahil Tarakhil
+    - 1.6:
+        non_striker: Sahil Tarakhil
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: Numan Ahmadzai
+    - 2.1:
+        non_striker: Sahil Tarakhil
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.1'
+        batsman: Numan Ahmadzai
+    - 2.2:
+        non_striker: Sahil Tarakhil
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.2'
+        batsman: Numan Ahmadzai
+    - 2.3:
+        non_striker: Sahil Tarakhil
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.2'
+        batsman: Numan Ahmadzai
+    - 2.4:
+        non_striker: Sahil Tarakhil
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.2'
+        batsman: Numan Ahmadzai
+    - 2.5:
+        non_striker: Sahil Tarakhil
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: Numan Ahmadzai
+    - 2.6:
+        non_striker: Numan Ahmadzai
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Sahil Tarakhil
+        wicket:
+          player_out: Sahil Tarakhil
+          fielders:
+          - T Sandaruwan
+          kind: caught
+    - 2.7:
+        non_striker: Numan Ahmadzai
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: Raihan Stanikzai
+    - 2.8:
+        non_striker: Raihan Stanikzai
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: Numan Ahmadzai
+    - 2.9:
+        non_striker: Numan Ahmadzai
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '2.6'
+        batsman: Raihan Stanikzai
+    - 3.1:
+        non_striker: Numan Ahmadzai
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: Raihan Stanikzai
+    - 3.2:
+        non_striker: Raihan Stanikzai
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: Numan Ahmadzai
+    - 3.3:
+        non_striker: Raihan Stanikzai
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Numan Ahmadzai
+    - 3.4:
+        non_striker: Raihan Stanikzai
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Numan Ahmadzai
+    - 3.5:
+        non_striker: Raihan Stanikzai
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Numan Ahmadzai
+        wicket:
+          player_out: Numan Ahmadzai
+          fielders:
+          - M Koli
+          kind: caught
+    - 3.6:
+        non_striker: Raihan Stanikzai
+        bowler: T Sandaruwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.6'
+        batsman: H Deshan
+    - 3.7:
+        non_striker: Raihan Stanikzai
+        bowler: T Sandaruwan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '3.6'
+        batsman: H Deshan
+    - 3.8:
+        non_striker: H Deshan
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.6'
+        batsman: Raihan Stanikzai
+    - 4.1:
+        non_striker: Raihan Stanikzai
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.1'
+        batsman: H Deshan
+    - 4.2:
+        non_striker: Raihan Stanikzai
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: H Deshan
+    - 4.3:
+        non_striker: Raihan Stanikzai
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: H Deshan
+    - 4.4:
+        non_striker: Raihan Stanikzai
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.3'
+        batsman: H Deshan
+    - 4.5:
+        non_striker: Raihan Stanikzai
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: H Deshan
+    - 4.6:
+        non_striker: Raihan Stanikzai
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: H Deshan
+    - 4.7:
+        non_striker: Raihan Stanikzai
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.6'
+        batsman: H Deshan
+    - 5.1:
+        non_striker: H Deshan
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Raihan Stanikzai
+        wicket:
+          player_out: Raihan Stanikzai
+          fielders:
+          - Irfan Ringku
+          kind: caught
+    - 5.2:
+        non_striker: H Deshan
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: D Johnson
+    - 5.3:
+        non_striker: H Deshan
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: D Johnson
+    - 5.4:
+        non_striker: H Deshan
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: D Johnson
+    - 5.5:
+        non_striker: H Deshan
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: D Johnson
+    - 5.6:
+        non_striker: D Johnson
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: H Deshan
+    - 6.1:
+        non_striker: H Deshan
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: D Johnson
+    - 6.2:
+        non_striker: H Deshan
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: D Johnson
+    - 6.3:
+        non_striker: D Johnson
+        bowler: Irfan Ringku
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.3'
+        batsman: H Deshan
+    - 6.4:
+        non_striker: D Johnson
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.3'
+        batsman: H Deshan
+    - 6.5:
+        non_striker: D Johnson
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: H Deshan
+    - 6.6:
+        non_striker: H Deshan
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: D Johnson
+    - 6.7:
+        non_striker: D Johnson
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: H Deshan
+    - 7.1:
+        non_striker: D Johnson
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: H Deshan
+    - 7.2:
+        non_striker: D Johnson
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: H Deshan
+    - 7.3:
+        non_striker: H Deshan
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: D Johnson
+    - 7.4:
+        non_striker: D Johnson
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: H Deshan
+    - 7.5:
+        non_striker: D Johnson
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.5'
+        batsman: H Deshan
+    - 7.6:
+        non_striker: D Johnson
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: H Deshan
+    - 8.1:
+        non_striker: H Deshan
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.1'
+        batsman: D Johnson
+    - 8.2:
+        non_striker: H Deshan
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.2'
+        batsman: D Johnson
+    - 8.3:
+        non_striker: H Deshan
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: D Johnson
+    - 8.4:
+        non_striker: D Johnson
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.4'
+        batsman: H Deshan
+    - 8.5:
+        non_striker: D Johnson
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: H Deshan
+    - 8.6:
+        non_striker: D Johnson
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.6'
+        batsman: H Deshan
+    - 9.1:
+        non_striker: H Deshan
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: D Johnson
+    - 9.2:
+        non_striker: D Johnson
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: H Deshan
+    - 9.3:
+        non_striker: H Deshan
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.3'
+        batsman: D Johnson
+    - 9.4:
+        non_striker: H Deshan
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: D Johnson
+    - 9.5:
+        non_striker: H Deshan
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.5'
+        batsman: D Johnson
+    - 9.6:
+        non_striker: H Deshan
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: D Johnson
+    - 10.1:
+        non_striker: D Johnson
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: H Deshan
+    - 10.2:
+        non_striker: D Johnson
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: H Deshan
+    - 10.3:
+        non_striker: H Deshan
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: D Johnson
+    - 10.4:
+        non_striker: H Deshan
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: D Johnson
+    - 10.5:
+        non_striker: D Johnson
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: H Deshan
+    - 10.6:
+        non_striker: H Deshan
+        bowler: J Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.6'
+        batsman: D Johnson
+    - 10.7:
+        non_striker: H Deshan
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: D Johnson
+    - 11.1:
+        non_striker: H Deshan
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: D Johnson
+        wicket:
+          player_out: D Johnson
+          fielders:
+          - M Koli
+          kind: caught
+    - 11.2:
+        non_striker: H Deshan
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.2'
+        batsman: M Stanikzai
+    - 11.3:
+        non_striker: H Deshan
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: M Stanikzai
+    - 11.4:
+        non_striker: M Stanikzai
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: H Deshan
+    - 11.5:
+        non_striker: M Stanikzai
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: H Deshan
+    - 11.6:
+        non_striker: M Stanikzai
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.6'
+        batsman: H Deshan
+    - 12.1:
+        non_striker: H Deshan
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: M Stanikzai
+    - 12.2:
+        non_striker: H Deshan
+        bowler: J Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '12.2'
+        batsman: M Stanikzai
+    - 12.3:
+        non_striker: M Stanikzai
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: H Deshan
+    - 12.4:
+        non_striker: M Stanikzai
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.4'
+        batsman: H Deshan
+    - 12.5:
+        non_striker: M Stanikzai
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: H Deshan
+    - 12.6:
+        non_striker: H Deshan
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: M Stanikzai
+    - 13.1:
+        non_striker: H Deshan
+        bowler: V Saini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.1'
+        batsman: M Stanikzai
+    - 13.2:
+        non_striker: H Deshan
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.1'
+        batsman: M Stanikzai
+    - 13.3:
+        non_striker: H Deshan
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: M Stanikzai
+    - 13.4:
+        non_striker: H Deshan
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: M Stanikzai
+    - 13.5:
+        non_striker: M Stanikzai
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: H Deshan
+    - 13.6:
+        non_striker: H Deshan
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: M Stanikzai
+    - 13.7:
+        non_striker: H Deshan
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.6'
+        batsman: M Stanikzai
+    - 14.1:
+        non_striker: M Stanikzai
+        bowler: J Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.1'
+        batsman: H Deshan
+    - 14.2:
+        non_striker: M Stanikzai
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: H Deshan
+    - 14.3:
+        non_striker: M Stanikzai
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '14.2'
+        batsman: H Deshan
+    - 14.4:
+        non_striker: M Stanikzai
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: H Deshan
+    - 14.5:
+        non_striker: H Deshan
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: M Stanikzai
+    - 14.6:
+        non_striker: M Stanikzai
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: H Deshan
+    - 14.7:
+        non_striker: M Stanikzai
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.6'
+        batsman: H Deshan
+    - 15.1:
+        non_striker: H Deshan
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.1'
+        batsman: M Stanikzai
+    - 15.2:
+        non_striker: H Deshan
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.2'
+        batsman: M Stanikzai
+    - 15.3:
+        non_striker: H Deshan
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: M Stanikzai
+    - 15.4:
+        non_striker: M Stanikzai
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: H Deshan
+    - 15.5:
+        non_striker: H Deshan
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.5'
+        batsman: M Stanikzai
+    - 15.6:
+        non_striker: H Deshan
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: M Stanikzai
+    - 16.1:
+        non_striker: H Deshan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: M Stanikzai
+        wicket:
+          player_out: M Stanikzai
+          fielders:
+          - Avishka Iroshan
+          kind: caught
+    - 16.2:
+        non_striker: H Deshan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: Naim Stanikzai
+    - 16.3:
+        non_striker: H Deshan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: Naim Stanikzai
+    - 16.4:
+        non_striker: H Deshan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: Naim Stanikzai
+    - 16.5:
+        non_striker: H Deshan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: Naim Stanikzai
+    - 16.6:
+        non_striker: H Deshan
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.6'
+        batsman: Naim Stanikzai
+    - 17.1:
+        non_striker: Naim Stanikzai
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: H Deshan
+    - 17.2:
+        non_striker: H Deshan
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: Naim Stanikzai
+    - 17.3:
+        non_striker: H Deshan
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.3'
+        batsman: Naim Stanikzai
+    - 17.4:
+        non_striker: H Deshan
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.4'
+        batsman: Naim Stanikzai
+    - 17.5:
+        non_striker: H Deshan
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.5'
+        batsman: Naim Stanikzai
+    - 17.6:
+        non_striker: H Deshan
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.6'
+        batsman: Naim Stanikzai
+    - 18.1:
+        non_striker: Naim Stanikzai
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: H Deshan
+    - 18.2:
+        non_striker: Naim Stanikzai
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: H Deshan
+        wicket:
+          player_out: H Deshan
+          fielders:
+          - T Sandaruwan
+          - Eranga De Silva
+          kind: run out
+    - 18.3:
+        non_striker: Naim Stanikzai
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: I Stewart
+    - 18.4:
+        non_striker: I Stewart
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: Naim Stanikzai
+    - 18.5:
+        non_striker: I Stewart
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: Naim Stanikzai
+    - 18.6:
+        non_striker: Naim Stanikzai
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.6'
+        batsman: I Stewart
+    - 19.1:
+        non_striker: I Stewart
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.1'
+        batsman: Naim Stanikzai
+    - 19.2:
+        non_striker: I Stewart
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.2'
+        batsman: Naim Stanikzai
+    target:
+      overs: 20
+      runs: 193

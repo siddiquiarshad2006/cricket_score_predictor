@@ -1,0 +1,3591 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-08-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Walferdange
+  dates:
+  - '2026-08-22'
+  gender: female
+  match_type: T20
+  match_type_number: 2958
+  outcome:
+    winner: Belgium
+    by:
+      runs: 26
+  overs: 20
+  player_of_match:
+  - S Sinha
+  players:
+    Belgium:
+    - B Pierre
+    - S Sinha
+    - AC Brodin
+    - A Ilahi
+    - I Vrignaud
+    - RA Lister
+    - Ankita Mehta
+    - S Yenamandra
+    - SS Ilahi
+    - SD Diwan Ali
+    - Attia Diwan Ali
+    Luxembourg:
+    - E Gebhard
+    - PN Agarwal
+    - GEM Brealey
+    - P Neighbour
+    - Aarti Priya
+    - Sanah Abbas
+    - Jagrat Dubey
+    - Kerry Fraser
+    - Shivani Sati
+    - Maria Serfioti
+    - S Wykes-Templeman
+  registry:
+    people:
+      A Ilahi: feb75c84
+      AC Brodin: 95569cde
+      Aarti Priya: ec11ad0b
+      Ankita Mehta: 5bfdbfcc
+      Attia Diwan Ali: 3cf0ab34
+      B Pierre: 7f50b306
+      E Gebhard: 31d1f06d
+      GEM Brealey: f2b769ad
+      I Vrignaud: bb472ec7
+      Jagrat Dubey: a4051019
+      Kerry Fraser: 8bebbcd4
+      Maria Serfioti: 3a502b94
+      P Neighbour: f30b0e54
+      PN Agarwal: f34a3a74
+      RA Lister: cbf39bc7
+      S Sinha: f0681e8b
+      S Wykes-Templeman: cfa76520
+      S Yenamandra: adef2d7b
+      SD Diwan Ali: '74699499'
+      SS Ilahi: 7e6a9e15
+      Sanah Abbas: 5eb15c19
+      Shivani Sati: b49ab82b
+  team_type: international
+  teams:
+  - Belgium
+  - Luxembourg
+  toss:
+    winner: Luxembourg
+    decision: field
+  venue: Pierre Werner Cricket Ground
+innings:
+- 1st innings:
+    team: Belgium
+    deliveries:
+    - 0.1:
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Sinha
+        actual_delivery: '0.1'
+        batsman: B Pierre
+    - 0.2:
+        non_striker: B Pierre
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.2'
+        batsman: S Sinha
+    - 0.3:
+        non_striker: S Sinha
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: B Pierre
+    - 0.4:
+        non_striker: S Sinha
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: B Pierre
+    - 0.5:
+        non_striker: B Pierre
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: S Sinha
+    - 0.6:
+        non_striker: B Pierre
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: S Sinha
+    - 1.1:
+        non_striker: B Pierre
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '1.1'
+        batsman: S Sinha
+    - 1.2:
+        non_striker: S Sinha
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: B Pierre
+    - 1.3:
+        non_striker: S Sinha
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: B Pierre
+    - 1.4:
+        non_striker: S Sinha
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: B Pierre
+    - 1.5:
+        non_striker: S Sinha
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.4'
+        batsman: B Pierre
+    - 1.6:
+        non_striker: S Sinha
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: B Pierre
+    - 1.7:
+        non_striker: S Sinha
+        bowler: Aarti Priya
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '1.5'
+        batsman: B Pierre
+    - 1.8:
+        non_striker: B Pierre
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: S Sinha
+    - 1.9:
+        non_striker: S Sinha
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.6'
+        batsman: B Pierre
+    - 2.1:
+        non_striker: B Pierre
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: S Sinha
+    - 2.2:
+        non_striker: B Pierre
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: S Sinha
+    - 2.3:
+        non_striker: B Pierre
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: S Sinha
+    - 2.4:
+        non_striker: S Sinha
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: B Pierre
+    - 2.5:
+        non_striker: S Sinha
+        bowler: Jagrat Dubey
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '2.5'
+        batsman: B Pierre
+    - 2.6:
+        non_striker: B Pierre
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '2.5'
+        batsman: S Sinha
+    - 2.7:
+        non_striker: S Sinha
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: B Pierre
+    - 3.1:
+        non_striker: B Pierre
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        actual_delivery: '3.1'
+        batsman: S Sinha
+    - 3.2:
+        non_striker: B Pierre
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.1'
+        batsman: S Sinha
+    - 3.3:
+        non_striker: B Pierre
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.1'
+        batsman: S Sinha
+    - 3.4:
+        non_striker: B Pierre
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.2'
+        batsman: S Sinha
+    - 3.5:
+        non_striker: B Pierre
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: S Sinha
+    - 3.6:
+        non_striker: B Pierre
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: S Sinha
+    - 3.7:
+        non_striker: S Sinha
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: B Pierre
+    - 3.8:
+        non_striker: S Sinha
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: B Pierre
+    - 3.9:
+        non_striker: S Sinha
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: B Pierre
+    - 4.1:
+        non_striker: S Sinha
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: B Pierre
+    - 4.2:
+        non_striker: B Pierre
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.2'
+        batsman: S Sinha
+    - 4.3:
+        non_striker: B Pierre
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: S Sinha
+    - 4.4:
+        non_striker: B Pierre
+        bowler: Jagrat Dubey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '4.4'
+        batsman: S Sinha
+    - 4.5:
+        non_striker: B Pierre
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: Kerry Fraser
+            out: Jagrat Dubey
+            reason: unknown
+            role: bowler
+        actual_delivery: '4.4'
+        batsman: S Sinha
+    - 4.6:
+        non_striker: S Sinha
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: B Pierre
+    - 4.7:
+        non_striker: S Sinha
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: B Pierre
+    - 5.1:
+        non_striker: S Sinha
+        bowler: GEM Brealey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.1'
+        batsman: B Pierre
+    - 5.2:
+        non_striker: S Sinha
+        bowler: GEM Brealey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.1'
+        batsman: B Pierre
+    - 5.3:
+        non_striker: S Sinha
+        bowler: GEM Brealey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '5.1'
+        batsman: B Pierre
+    - 5.4:
+        non_striker: S Sinha
+        bowler: GEM Brealey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.1'
+        batsman: B Pierre
+    - 5.5:
+        non_striker: S Sinha
+        bowler: GEM Brealey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.1'
+        batsman: B Pierre
+    - 5.6:
+        non_striker: S Sinha
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: B Pierre
+    - 5.7:
+        non_striker: S Sinha
+        bowler: GEM Brealey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.2'
+        batsman: B Pierre
+    - 5.8:
+        non_striker: S Sinha
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: B Pierre
+    - 5.9:
+        non_striker: S Sinha
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: B Pierre
+    - 5.10:
+        non_striker: B Pierre
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: S Sinha
+    - 5.11:
+        non_striker: S Sinha
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.5'
+        batsman: B Pierre
+    - 5.12:
+        non_striker: S Sinha
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: B Pierre
+    - 6.1:
+        non_striker: B Pierre
+        bowler: Shivani Sati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.1'
+        batsman: S Sinha
+    - 6.2:
+        non_striker: B Pierre
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.1'
+        batsman: S Sinha
+    - 6.3:
+        non_striker: B Pierre
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: S Sinha
+    - 6.4:
+        non_striker: S Sinha
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: B Pierre
+    - 6.5:
+        non_striker: B Pierre
+        bowler: Shivani Sati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.4'
+        batsman: S Sinha
+    - 6.6:
+        non_striker: B Pierre
+        bowler: Shivani Sati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.4'
+        batsman: S Sinha
+    - 6.7:
+        non_striker: B Pierre
+        bowler: Shivani Sati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.4'
+        batsman: S Sinha
+    - 6.8:
+        non_striker: B Pierre
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: S Sinha
+    - 6.9:
+        non_striker: S Sinha
+        bowler: Shivani Sati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.5'
+        batsman: B Pierre
+    - 6.10:
+        non_striker: S Sinha
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: B Pierre
+    - 6.11:
+        non_striker: S Sinha
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: B Pierre
+    - 7.1:
+        non_striker: B Pierre
+        bowler: GEM Brealey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '7.1'
+        batsman: S Sinha
+    - 7.2:
+        non_striker: B Pierre
+        bowler: GEM Brealey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.1'
+        batsman: S Sinha
+    - 7.3:
+        non_striker: B Pierre
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.1'
+        batsman: S Sinha
+    - 7.4:
+        non_striker: B Pierre
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: S Sinha
+    - 7.5:
+        non_striker: B Pierre
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: S Sinha
+    - 7.6:
+        non_striker: B Pierre
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: S Sinha
+    - 7.7:
+        non_striker: S Sinha
+        bowler: GEM Brealey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.5'
+        batsman: B Pierre
+    - 7.8:
+        non_striker: S Sinha
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.5'
+        batsman: B Pierre
+    - 7.9:
+        non_striker: S Sinha
+        bowler: GEM Brealey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: B Pierre
+    - 8.1:
+        non_striker: B Pierre
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.1'
+        batsman: S Sinha
+    - 8.2:
+        non_striker: B Pierre
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: S Sinha
+    - 8.3:
+        non_striker: S Sinha
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: B Pierre
+    - 8.4:
+        non_striker: S Sinha
+        bowler: Kerry Fraser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.4'
+        batsman: B Pierre
+    - 8.5:
+        non_striker: S Sinha
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: B Pierre
+    - 8.6:
+        non_striker: B Pierre
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: S Sinha
+    - 8.7:
+        non_striker: B Pierre
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: S Sinha
+    - 9.1:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '9.1'
+        batsman: B Pierre
+    - 9.2:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        actual_delivery: '9.1'
+        batsman: B Pierre
+    - 9.3:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: B Pierre
+    - 9.4:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        actual_delivery: '9.2'
+        batsman: B Pierre
+    - 9.5:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.2'
+        batsman: B Pierre
+    - 9.6:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: B Pierre
+    - 9.7:
+        non_striker: B Pierre
+        bowler: P Neighbour
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.4'
+        batsman: S Sinha
+    - 9.8:
+        non_striker: B Pierre
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: S Sinha
+    - 9.9:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        actual_delivery: '9.5'
+        batsman: B Pierre
+    - 9.10:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: B Pierre
+    - 9.11:
+        non_striker: B Pierre
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: S Sinha
+    - 10.1:
+        non_striker: B Pierre
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.1'
+        batsman: S Sinha
+    - 10.2:
+        non_striker: B Pierre
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: S Sinha
+    - 10.3:
+        non_striker: S Sinha
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.2'
+        batsman: B Pierre
+    - 10.4:
+        non_striker: S Sinha
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: B Pierre
+    - 10.5:
+        non_striker: B Pierre
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.3'
+        batsman: S Sinha
+    - 10.6:
+        non_striker: B Pierre
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: S Sinha
+    - 10.7:
+        non_striker: S Sinha
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: B Pierre
+    - 10.8:
+        non_striker: S Sinha
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: B Pierre
+    - 10.9:
+        non_striker: S Sinha
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: B Pierre
+    - 11.1:
+        non_striker: S Sinha
+        bowler: S Wykes-Templeman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '11.1'
+        batsman: B Pierre
+    - 11.2:
+        non_striker: S Sinha
+        bowler: S Wykes-Templeman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.1'
+        batsman: B Pierre
+    - 11.3:
+        non_striker: S Sinha
+        bowler: S Wykes-Templeman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '11.1'
+        batsman: B Pierre
+    - 11.4:
+        non_striker: S Sinha
+        bowler: S Wykes-Templeman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '11.1'
+        batsman: B Pierre
+    - 11.5:
+        non_striker: S Sinha
+        bowler: S Wykes-Templeman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.1'
+        batsman: B Pierre
+    - 11.6:
+        non_striker: S Sinha
+        bowler: S Wykes-Templeman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.2'
+        batsman: B Pierre
+    - 11.7:
+        non_striker: S Sinha
+        bowler: S Wykes-Templeman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: B Pierre
+    - 11.8:
+        non_striker: B Pierre
+        bowler: S Wykes-Templeman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.4'
+        batsman: S Sinha
+    - 11.9:
+        non_striker: B Pierre
+        bowler: S Wykes-Templeman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: S Sinha
+    - 11.10:
+        non_striker: S Sinha
+        bowler: S Wykes-Templeman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: B Pierre
+    - 11.11:
+        non_striker: B Pierre
+        bowler: S Wykes-Templeman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '11.6'
+        batsman: S Sinha
+    - 11.12:
+        non_striker: B Pierre
+        bowler: S Wykes-Templeman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '11.6'
+        batsman: S Sinha
+    - 11.13:
+        non_striker: B Pierre
+        bowler: S Wykes-Templeman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '11.6'
+        batsman: S Sinha
+    - 11.14:
+        non_striker: B Pierre
+        bowler: S Wykes-Templeman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '11.6'
+        batsman: S Sinha
+    - 11.15:
+        non_striker: B Pierre
+        bowler: S Wykes-Templeman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '11.6'
+        batsman: S Sinha
+    - 11.16:
+        non_striker: B Pierre
+        bowler: S Wykes-Templeman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '11.6'
+        batsman: S Sinha
+    - 11.17:
+        non_striker: B Pierre
+        bowler: S Wykes-Templeman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '11.6'
+        batsman: S Sinha
+    - 11.18:
+        non_striker: B Pierre
+        bowler: S Wykes-Templeman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '11.6'
+        batsman: S Sinha
+    - 11.19:
+        non_striker: B Pierre
+        bowler: E Gebhard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        replacements:
+          role:
+          - in: E Gebhard
+            out: S Wykes-Templeman
+            reason: unknown
+            role: bowler
+        actual_delivery: '11.6'
+        batsman: S Sinha
+    - 12.1:
+        non_striker: S Sinha
+        bowler: Kerry Fraser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.1'
+        batsman: B Pierre
+    - 12.2:
+        non_striker: S Sinha
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: B Pierre
+        wicket:
+          player_out: B Pierre
+          fielders:
+          - Shivani Sati
+          kind: caught
+    - 12.3:
+        non_striker: S Sinha
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: AC Brodin
+    - 12.4:
+        non_striker: AC Brodin
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: S Sinha
+    - 12.5:
+        non_striker: AC Brodin
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: S Sinha
+    - 12.6:
+        non_striker: AC Brodin
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: S Sinha
+    - 12.7:
+        non_striker: AC Brodin
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: S Sinha
+    - 13.1:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: AC Brodin
+    - 13.2:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.2'
+        batsman: AC Brodin
+    - 13.3:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: AC Brodin
+    - 13.4:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.3'
+        batsman: AC Brodin
+    - 13.5:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: AC Brodin
+    - 13.6:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.4'
+        batsman: AC Brodin
+    - 13.7:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.4'
+        batsman: AC Brodin
+    - 13.8:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: AC Brodin
+    - 13.9:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: AC Brodin
+    - 13.10:
+        non_striker: AC Brodin
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: S Sinha
+    - 14.1:
+        non_striker: AC Brodin
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: S Sinha
+    - 14.2:
+        non_striker: AC Brodin
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: S Sinha
+    - 14.3:
+        non_striker: AC Brodin
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.3'
+        batsman: S Sinha
+    - 14.4:
+        non_striker: AC Brodin
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: S Sinha
+    - 14.5:
+        non_striker: S Sinha
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.5'
+        batsman: AC Brodin
+    - 14.6:
+        non_striker: S Sinha
+        bowler: Shivani Sati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.6'
+        batsman: AC Brodin
+    - 14.7:
+        non_striker: S Sinha
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.6'
+        batsman: AC Brodin
+    - 15.1:
+        non_striker: AC Brodin
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.1'
+        batsman: S Sinha
+    - 15.2:
+        non_striker: AC Brodin
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.2'
+        batsman: S Sinha
+    - 15.3:
+        non_striker: AC Brodin
+        bowler: P Neighbour
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        actual_delivery: '15.3'
+        batsman: S Sinha
+    - 15.4:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: AC Brodin
+    - 15.5:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.4'
+        batsman: AC Brodin
+    - 15.6:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: AC Brodin
+        wicket:
+          player_out: AC Brodin
+          kind: lbw
+    - 15.7:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: A Ilahi
+    - 16.1:
+        non_striker: A Ilahi
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.1'
+        batsman: S Sinha
+    - 16.2:
+        non_striker: A Ilahi
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: S Sinha
+    - 16.3:
+        non_striker: A Ilahi
+        bowler: Kerry Fraser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.3'
+        batsman: S Sinha
+    - 16.4:
+        non_striker: A Ilahi
+        bowler: Kerry Fraser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.3'
+        batsman: S Sinha
+    - 16.5:
+        non_striker: A Ilahi
+        bowler: Kerry Fraser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.3'
+        batsman: S Sinha
+    - 16.6:
+        non_striker: A Ilahi
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: S Sinha
+    - 16.7:
+        non_striker: S Sinha
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: A Ilahi
+    - 16.8:
+        non_striker: A Ilahi
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: S Sinha
+    - 16.9:
+        non_striker: S Sinha
+        bowler: Kerry Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: A Ilahi
+    - 17.1:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: A Ilahi
+    - 17.2:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.2'
+        batsman: A Ilahi
+    - 17.3:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: A Ilahi
+        wicket:
+          player_out: A Ilahi
+          kind: lbw
+    - 17.4:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.3'
+        batsman: I Vrignaud
+    - 17.5:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: I Vrignaud
+    - 17.6:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.4'
+        batsman: I Vrignaud
+    - 17.7:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '17.4'
+        batsman: I Vrignaud
+    - 17.8:
+        non_striker: I Vrignaud
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: S Sinha
+    - 17.9:
+        non_striker: I Vrignaud
+        bowler: P Neighbour
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.6'
+        batsman: S Sinha
+    - 17.10:
+        non_striker: I Vrignaud
+        bowler: P Neighbour
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.6'
+        batsman: S Sinha
+    - 17.11:
+        non_striker: I Vrignaud
+        bowler: P Neighbour
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '17.6'
+        batsman: S Sinha
+    - 17.12:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.6'
+        batsman: I Vrignaud
+    - 17.13:
+        non_striker: S Sinha
+        bowler: P Neighbour
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: I Vrignaud
+    - 18.1:
+        non_striker: S Sinha
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: I Vrignaud
+    - 18.2:
+        non_striker: S Sinha
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.2'
+        batsman: I Vrignaud
+    - 18.3:
+        non_striker: S Sinha
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: I Vrignaud
+        wicket:
+          player_out: S Sinha
+          fielders:
+          - PN Agarwal
+          - GEM Brealey
+          kind: run out
+    - 18.4:
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RA Lister
+        actual_delivery: '18.4'
+        batsman: I Vrignaud
+    - 18.5:
+        non_striker: RA Lister
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: I Vrignaud
+        wicket:
+          player_out: RA Lister
+          fielders:
+          - PN Agarwal
+          - Shivani Sati
+          kind: run out
+    - 18.6:
+        bowler: Aarti Priya
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: Ankita Mehta
+        actual_delivery: '18.6'
+        batsman: I Vrignaud
+    - 18.7:
+        non_striker: Ankita Mehta
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: I Vrignaud
+    - 19.1:
+        non_striker: I Vrignaud
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.1'
+        batsman: Ankita Mehta
+    - 19.2:
+        non_striker: I Vrignaud
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.2'
+        batsman: Ankita Mehta
+    - 19.3:
+        non_striker: I Vrignaud
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.3'
+        batsman: Ankita Mehta
+    - 19.4:
+        non_striker: I Vrignaud
+        bowler: Shivani Sati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.4'
+        batsman: Ankita Mehta
+    - 19.5:
+        non_striker: I Vrignaud
+        bowler: Shivani Sati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.4'
+        batsman: Ankita Mehta
+    - 19.6:
+        non_striker: I Vrignaud
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: Ankita Mehta
+    - 19.7:
+        non_striker: Ankita Mehta
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.5'
+        batsman: I Vrignaud
+    - 19.8:
+        non_striker: Ankita Mehta
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: I Vrignaud
+        wicket:
+          player_out: I Vrignaud
+          fielders:
+          - Maria Serfioti
+          kind: caught
+- 2nd innings:
+    team: Luxembourg
+    deliveries:
+    - 0.1:
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PN Agarwal
+        actual_delivery: '0.1'
+        batsman: E Gebhard
+    - 0.2:
+        bowler: A Ilahi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: PN Agarwal
+        actual_delivery: '0.2'
+        batsman: E Gebhard
+    - 0.3:
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PN Agarwal
+        actual_delivery: '0.2'
+        batsman: E Gebhard
+    - 0.4:
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PN Agarwal
+        actual_delivery: '0.3'
+        batsman: E Gebhard
+    - 0.5:
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PN Agarwal
+        actual_delivery: '0.4'
+        batsman: E Gebhard
+    - 0.6:
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PN Agarwal
+        actual_delivery: '0.5'
+        batsman: E Gebhard
+    - 0.7:
+        non_striker: PN Agarwal
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: E Gebhard
+    - 1.1:
+        non_striker: E Gebhard
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.1'
+        batsman: PN Agarwal
+    - 1.2:
+        non_striker: E Gebhard
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.2'
+        batsman: PN Agarwal
+    - 1.3:
+        non_striker: E Gebhard
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: PN Agarwal
+    - 1.4:
+        non_striker: PN Agarwal
+        bowler: S Sinha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.4'
+        batsman: E Gebhard
+    - 1.5:
+        non_striker: PN Agarwal
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: E Gebhard
+    - 1.6:
+        non_striker: PN Agarwal
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.5'
+        batsman: E Gebhard
+    - 1.7:
+        non_striker: PN Agarwal
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.6'
+        batsman: E Gebhard
+    - 2.1:
+        non_striker: E Gebhard
+        bowler: A Ilahi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.1'
+        batsman: PN Agarwal
+    - 2.2:
+        non_striker: E Gebhard
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.1'
+        batsman: PN Agarwal
+    - 2.3:
+        non_striker: E Gebhard
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: PN Agarwal
+    - 2.4:
+        non_striker: PN Agarwal
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: E Gebhard
+    - 2.5:
+        non_striker: E Gebhard
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: PN Agarwal
+    - 2.6:
+        non_striker: E Gebhard
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.5'
+        batsman: PN Agarwal
+    - 2.7:
+        non_striker: E Gebhard
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: PN Agarwal
+    - 3.1:
+        non_striker: PN Agarwal
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: E Gebhard
+    - 3.2:
+        non_striker: PN Agarwal
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: E Gebhard
+    - 3.3:
+        non_striker: E Gebhard
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: PN Agarwal
+        wicket:
+          player_out: PN Agarwal
+          fielders:
+          - Attia Diwan Ali
+          kind: caught
+    - 3.4:
+        non_striker: E Gebhard
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.4'
+        batsman: GEM Brealey
+    - 3.5:
+        non_striker: E Gebhard
+        bowler: S Sinha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.5'
+        batsman: GEM Brealey
+    - 3.6:
+        non_striker: E Gebhard
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: GEM Brealey
+    - 3.7:
+        non_striker: E Gebhard
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: GEM Brealey
+    - 4.1:
+        non_striker: GEM Brealey
+        bowler: AC Brodin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.1'
+        batsman: E Gebhard
+    - 4.2:
+        non_striker: GEM Brealey
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: E Gebhard
+    - 4.3:
+        non_striker: GEM Brealey
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.2'
+        batsman: E Gebhard
+    - 4.4:
+        non_striker: GEM Brealey
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: E Gebhard
+    - 4.5:
+        non_striker: GEM Brealey
+        bowler: AC Brodin
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        actual_delivery: '4.4'
+        batsman: E Gebhard
+    - 4.6:
+        non_striker: GEM Brealey
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: E Gebhard
+    - 4.7:
+        non_striker: E Gebhard
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: GEM Brealey
+    - 4.8:
+        non_striker: GEM Brealey
+        bowler: AC Brodin
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        actual_delivery: '4.6'
+        batsman: E Gebhard
+    - 4.9:
+        non_striker: GEM Brealey
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: E Gebhard
+    - 5.1:
+        non_striker: E Gebhard
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: GEM Brealey
+    - 5.2:
+        non_striker: GEM Brealey
+        bowler: S Sinha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '5.2'
+        batsman: E Gebhard
+    - 5.3:
+        non_striker: GEM Brealey
+        bowler: S Sinha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '5.2'
+        batsman: E Gebhard
+    - 5.4:
+        non_striker: E Gebhard
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: GEM Brealey
+    - 5.5:
+        non_striker: E Gebhard
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.4'
+        batsman: GEM Brealey
+    - 5.6:
+        non_striker: E Gebhard
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: GEM Brealey
+    - 5.7:
+        non_striker: E Gebhard
+        bowler: S Sinha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.6'
+        batsman: GEM Brealey
+    - 5.8:
+        non_striker: E Gebhard
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: GEM Brealey
+    - 6.1:
+        non_striker: GEM Brealey
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.1'
+        batsman: E Gebhard
+    - 6.2:
+        non_striker: GEM Brealey
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: E Gebhard
+    - 6.3:
+        non_striker: GEM Brealey
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: E Gebhard
+    - 6.4:
+        non_striker: E Gebhard
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: GEM Brealey
+    - 6.5:
+        non_striker: E Gebhard
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.5'
+        batsman: GEM Brealey
+    - 6.6:
+        non_striker: E Gebhard
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.6'
+        batsman: GEM Brealey
+    - 7.1:
+        non_striker: GEM Brealey
+        bowler: B Pierre
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.1'
+        batsman: E Gebhard
+    - 7.2:
+        non_striker: GEM Brealey
+        bowler: B Pierre
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        actual_delivery: '7.1'
+        batsman: E Gebhard
+    - 7.3:
+        non_striker: GEM Brealey
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.1'
+        batsman: E Gebhard
+    - 7.4:
+        non_striker: GEM Brealey
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: E Gebhard
+    - 7.5:
+        non_striker: E Gebhard
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: GEM Brealey
+    - 7.6:
+        non_striker: GEM Brealey
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: E Gebhard
+    - 7.7:
+        non_striker: GEM Brealey
+        bowler: B Pierre
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.5'
+        batsman: E Gebhard
+    - 7.8:
+        non_striker: GEM Brealey
+        bowler: B Pierre
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.5'
+        batsman: E Gebhard
+    - 7.9:
+        non_striker: GEM Brealey
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.5'
+        batsman: E Gebhard
+    - 7.10:
+        non_striker: GEM Brealey
+        bowler: B Pierre
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.6'
+        batsman: E Gebhard
+    - 7.11:
+        non_striker: GEM Brealey
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: E Gebhard
+    - 8.1:
+        non_striker: GEM Brealey
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.1'
+        batsman: E Gebhard
+    - 8.2:
+        non_striker: GEM Brealey
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: E Gebhard
+    - 8.3:
+        non_striker: GEM Brealey
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: E Gebhard
+    - 8.4:
+        non_striker: GEM Brealey
+        bowler: AC Brodin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '8.4'
+        batsman: E Gebhard
+    - 8.5:
+        non_striker: GEM Brealey
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.4'
+        batsman: E Gebhard
+    - 8.6:
+        non_striker: GEM Brealey
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.5'
+        batsman: E Gebhard
+    - 8.7:
+        non_striker: GEM Brealey
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: E Gebhard
+    - 9.1:
+        non_striker: E Gebhard
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: GEM Brealey
+    - 9.2:
+        non_striker: GEM Brealey
+        bowler: B Pierre
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '9.2'
+        batsman: E Gebhard
+    - 9.3:
+        non_striker: E Gebhard
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.2'
+        batsman: GEM Brealey
+    - 9.4:
+        non_striker: E Gebhard
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: GEM Brealey
+    - 9.5:
+        non_striker: GEM Brealey
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: E Gebhard
+    - 9.6:
+        non_striker: GEM Brealey
+        bowler: B Pierre
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.5'
+        batsman: E Gebhard
+    - 9.7:
+        non_striker: GEM Brealey
+        bowler: B Pierre
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        actual_delivery: '9.5'
+        batsman: E Gebhard
+    - 9.8:
+        non_striker: E Gebhard
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: GEM Brealey
+    - 9.9:
+        non_striker: GEM Brealey
+        bowler: B Pierre
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.6'
+        batsman: E Gebhard
+    - 9.10:
+        non_striker: GEM Brealey
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: E Gebhard
+    - 10.1:
+        non_striker: GEM Brealey
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: E Gebhard
+    - 10.2:
+        non_striker: GEM Brealey
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: E Gebhard
+    - 10.3:
+        non_striker: E Gebhard
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '10.3'
+        batsman: GEM Brealey
+    - 10.4:
+        non_striker: E Gebhard
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: GEM Brealey
+    - 10.5:
+        non_striker: GEM Brealey
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.4'
+        batsman: E Gebhard
+    - 10.6:
+        non_striker: GEM Brealey
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.4'
+        batsman: E Gebhard
+    - 10.7:
+        non_striker: GEM Brealey
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: E Gebhard
+    - 10.8:
+        non_striker: GEM Brealey
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.6'
+        batsman: E Gebhard
+    - 10.9:
+        non_striker: GEM Brealey
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: E Gebhard
+        wicket:
+          player_out: E Gebhard
+          fielders:
+          - I Vrignaud
+          kind: caught
+    - 11.1:
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Neighbour
+        actual_delivery: '11.1'
+        batsman: GEM Brealey
+    - 11.2:
+        non_striker: GEM Brealey
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: P Neighbour
+    - 11.3:
+        non_striker: P Neighbour
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: GEM Brealey
+    - 11.4:
+        non_striker: GEM Brealey
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: P Neighbour
+    - 11.5:
+        non_striker: GEM Brealey
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: P Neighbour
+    - 11.6:
+        non_striker: P Neighbour
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: GEM Brealey
+    - 12.1:
+        non_striker: GEM Brealey
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.1'
+        batsman: P Neighbour
+    - 12.2:
+        non_striker: GEM Brealey
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: P Neighbour
+    - 12.3:
+        non_striker: GEM Brealey
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.2'
+        batsman: P Neighbour
+    - 12.4:
+        non_striker: GEM Brealey
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.3'
+        batsman: P Neighbour
+    - 12.5:
+        non_striker: GEM Brealey
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: P Neighbour
+    - 12.6:
+        non_striker: P Neighbour
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: GEM Brealey
+    - 12.7:
+        non_striker: P Neighbour
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.5'
+        batsman: GEM Brealey
+    - 12.8:
+        non_striker: P Neighbour
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: GEM Brealey
+    - 12.9:
+        non_striker: P Neighbour
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '12.6'
+        batsman: GEM Brealey
+    - 12.10:
+        non_striker: P Neighbour
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.6'
+        batsman: GEM Brealey
+    - 12.11:
+        non_striker: P Neighbour
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.6'
+        batsman: GEM Brealey
+    - 12.12:
+        non_striker: P Neighbour
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: GEM Brealey
+        wicket:
+          player_out: GEM Brealey
+          fielders:
+          - S Sinha
+          - I Vrignaud
+          kind: run out
+    - 13.1:
+        bowler: Ankita Mehta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Aarti Priya
+        actual_delivery: '13.1'
+        batsman: P Neighbour
+    - 13.2:
+        bowler: Ankita Mehta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: Aarti Priya
+        actual_delivery: '13.2'
+        batsman: P Neighbour
+    - 13.3:
+        bowler: Ankita Mehta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Aarti Priya
+        actual_delivery: '13.2'
+        batsman: P Neighbour
+    - 13.4:
+        bowler: Ankita Mehta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: Aarti Priya
+        actual_delivery: '13.2'
+        batsman: P Neighbour
+    - 13.5:
+        bowler: Ankita Mehta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: Aarti Priya
+        actual_delivery: '13.2'
+        batsman: P Neighbour
+    - 13.6:
+        bowler: Ankita Mehta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Aarti Priya
+        actual_delivery: '13.2'
+        batsman: P Neighbour
+    - 13.7:
+        bowler: Ankita Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Aarti Priya
+        actual_delivery: '13.2'
+        batsman: P Neighbour
+    - 13.8:
+        non_striker: P Neighbour
+        bowler: Ankita Mehta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.3'
+        batsman: Aarti Priya
+    - 13.9:
+        non_striker: P Neighbour
+        bowler: Ankita Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Aarti Priya
+    - 13.10:
+        non_striker: Aarti Priya
+        bowler: Ankita Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: P Neighbour
+    - 13.11:
+        non_striker: P Neighbour
+        bowler: Ankita Mehta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.5'
+        batsman: Aarti Priya
+    - 13.12:
+        non_striker: P Neighbour
+        bowler: Ankita Mehta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.5'
+        batsman: Aarti Priya
+    - 13.13:
+        non_striker: P Neighbour
+        bowler: Ankita Mehta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.5'
+        batsman: Aarti Priya
+    - 13.14:
+        non_striker: P Neighbour
+        bowler: Ankita Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: Aarti Priya
+    - 13.15:
+        non_striker: Aarti Priya
+        bowler: Ankita Mehta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.6'
+        batsman: P Neighbour
+    - 13.16:
+        non_striker: Aarti Priya
+        bowler: Ankita Mehta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '13.6'
+        batsman: P Neighbour
+    - 13.17:
+        non_striker: Aarti Priya
+        bowler: Ankita Mehta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: P Neighbour
+    - 14.1:
+        non_striker: Aarti Priya
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.1'
+        batsman: P Neighbour
+    - 14.2:
+        non_striker: Aarti Priya
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.1'
+        batsman: P Neighbour
+    - 14.3:
+        non_striker: Aarti Priya
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.1'
+        batsman: P Neighbour
+    - 14.4:
+        non_striker: Aarti Priya
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.1'
+        batsman: P Neighbour
+    - 14.5:
+        non_striker: Aarti Priya
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: P Neighbour
+    - 14.6:
+        non_striker: Aarti Priya
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: P Neighbour
+    - 14.7:
+        non_striker: P Neighbour
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: Aarti Priya
+    - 14.8:
+        non_striker: P Neighbour
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.4'
+        batsman: Aarti Priya
+    - 14.9:
+        non_striker: P Neighbour
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: Aarti Priya
+    - 14.10:
+        non_striker: P Neighbour
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: Aarti Priya
+    - 14.11:
+        non_striker: P Neighbour
+        bowler: Attia Diwan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.6'
+        batsman: Aarti Priya
+    - 15.1:
+        non_striker: Aarti Priya
+        bowler: B Pierre
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '15.1'
+        batsman: P Neighbour
+    - 15.2:
+        non_striker: Aarti Priya
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: P Neighbour
+    - 15.3:
+        non_striker: P Neighbour
+        bowler: B Pierre
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.2'
+        batsman: Aarti Priya
+    - 15.4:
+        non_striker: P Neighbour
+        bowler: B Pierre
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.2'
+        batsman: Aarti Priya
+    - 15.5:
+        non_striker: P Neighbour
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: Aarti Priya
+    - 15.6:
+        non_striker: P Neighbour
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: Aarti Priya
+    - 15.7:
+        non_striker: P Neighbour
+        bowler: B Pierre
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.4'
+        batsman: Aarti Priya
+    - 15.8:
+        non_striker: P Neighbour
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: Aarti Priya
+    - 15.9:
+        non_striker: Aarti Priya
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.5'
+        batsman: P Neighbour
+    - 15.10:
+        non_striker: Aarti Priya
+        bowler: B Pierre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: P Neighbour
+    - 16.1:
+        non_striker: P Neighbour
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: Aarti Priya
+    - 16.2:
+        non_striker: Aarti Priya
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: P Neighbour
+    - 16.3:
+        non_striker: P Neighbour
+        bowler: AC Brodin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.3'
+        batsman: Aarti Priya
+    - 16.4:
+        non_striker: P Neighbour
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: Aarti Priya
+    - 16.5:
+        non_striker: P Neighbour
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: Aarti Priya
+    - 16.6:
+        non_striker: P Neighbour
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: Aarti Priya
+    - 16.7:
+        non_striker: P Neighbour
+        bowler: AC Brodin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: Aarti Priya
+    - 17.1:
+        non_striker: Aarti Priya
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: P Neighbour
+    - 17.2:
+        non_striker: P Neighbour
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: Aarti Priya
+    - 17.3:
+        non_striker: Aarti Priya
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: P Neighbour
+    - 17.4:
+        non_striker: Aarti Priya
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: P Neighbour
+    - 17.5:
+        non_striker: P Neighbour
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: Aarti Priya
+    - 17.6:
+        non_striker: P Neighbour
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: Aarti Priya
+    - 18.1:
+        non_striker: Aarti Priya
+        bowler: S Sinha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.1'
+        batsman: P Neighbour
+    - 18.2:
+        non_striker: Aarti Priya
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: P Neighbour
+    - 18.3:
+        non_striker: Aarti Priya
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: P Neighbour
+    - 18.4:
+        non_striker: P Neighbour
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.3'
+        batsman: Aarti Priya
+    - 18.5:
+        non_striker: P Neighbour
+        bowler: S Sinha
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        actual_delivery: '18.4'
+        batsman: Aarti Priya
+    - 18.6:
+        non_striker: P Neighbour
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: Aarti Priya
+    - 18.7:
+        non_striker: P Neighbour
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.5'
+        batsman: Aarti Priya
+    - 18.8:
+        non_striker: P Neighbour
+        bowler: S Sinha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: Aarti Priya
+    - 19.1:
+        non_striker: Aarti Priya
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: P Neighbour
+    - 19.2:
+        non_striker: P Neighbour
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.2'
+        batsman: Aarti Priya
+    - 19.3:
+        non_striker: P Neighbour
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.3'
+        batsman: Aarti Priya
+    - 19.4:
+        non_striker: Aarti Priya
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: P Neighbour
+    - 19.5:
+        non_striker: P Neighbour
+        bowler: A Ilahi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.5'
+        batsman: Aarti Priya
+    - 19.6:
+        non_striker: P Neighbour
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.5'
+        batsman: Aarti Priya
+    - 19.7:
+        non_striker: P Neighbour
+        bowler: A Ilahi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: Aarti Priya
+        wicket:
+          player_out: Aarti Priya
+          fielders:
+          - A Ilahi
+          - I Vrignaud
+          kind: run out
+    target:
+      overs: 20
+      runs: 199

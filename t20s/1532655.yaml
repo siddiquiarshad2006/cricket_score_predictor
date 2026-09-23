@@ -1,0 +1,2417 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-05-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sano
+  dates:
+  - '2026-05-16'
+  gender: male
+  match_type: T20
+  match_type_number: 3868
+  outcome:
+    winner: Vanuatu
+    by:
+      runs: 1
+  overs: 20
+  player_of_match:
+  - J Rasu
+  players:
+    Vanuatu:
+    - J Rasu
+    - C Tommy
+    - A Mansale
+    - JP Kaltapau
+    - N Nipiko
+    - N Venables
+    - W Wotu
+    - PK Matautaava
+    - TL Cutler
+    - W Nalisa
+    - D Wotu
+    Indonesia:
+    - S Jegannathan
+    - S Kharvi
+    - KN Chaddha
+    - GA Priandana
+    - KD Kesuma
+    - Anjar Tadarus
+    - DJ Hawoe
+    - IKEG Artawan
+    - GD Arta
+    - AA Rahayu
+    - F Banunaek
+  registry:
+    people:
+      A Mansale: a22b4f3f
+      AA Rahayu: 2327fdc7
+      Anjar Tadarus: '72275237'
+      C Tommy: c6d4cff0
+      D Wotu: 9585854d
+      DJ Hawoe: a62f55ba
+      F Banunaek: 3c8faed4
+      GA Priandana: 2af0e3b1
+      GD Arta: e969e580
+      IKEG Artawan: 190957d2
+      J Rasu: 1021b6e5
+      JP Kaltapau: d8dccff5
+      KD Kesuma: 4b349dc0
+      KN Chaddha: a88e4013
+      Kent Hannam: 8cc171e7
+      N Nipiko: c498c510
+      N Venables: 6f852c49
+      PK Matautaava: af19aa66
+      S Jegannathan: 866e9f3d
+      S Kharvi: 41a61623
+      Suresh Subramanian: 4e869e23
+      TL Cutler: 384fa385
+      Tabarak Dar: 2259c12d
+      W Nalisa: 673be48f
+      W Wotu: 6b25ef46
+      WR Knights: 63cbf8d8
+  teams:
+  - Vanuatu
+  - Indonesia
+  toss:
+    winner: Indonesia
+    decision: field
+  umpires:
+  - Suresh Subramanian
+  - WR Knights
+  venue: Sano International Cricket Ground
+  team_type: international
+innings:
+- 1st innings:
+    team: Vanuatu
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Tommy
+        batsman: J Rasu
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: J Rasu
+        bowler: F Banunaek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Tommy
+    - 0.3:
+        actual_delivery: '0.2'
+        non_striker: J Rasu
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tommy
+    - 0.4:
+        actual_delivery: '0.3'
+        non_striker: J Rasu
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tommy
+    - 0.5:
+        actual_delivery: '0.4'
+        non_striker: J Rasu
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tommy
+    - 0.6:
+        actual_delivery: '0.5'
+        non_striker: C Tommy
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 0.7:
+        actual_delivery: '0.6'
+        non_striker: J Rasu
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tommy
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: J Rasu
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tommy
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: C Tommy
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: C Tommy
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: C Tommy
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: C Tommy
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: J Rasu
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Tommy
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: J Rasu
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tommy
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: C Tommy
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: J Rasu
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tommy
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: J Rasu
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Tommy
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: J Rasu
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Tommy
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: J Rasu
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tommy
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: C Tommy
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Rasu
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: C Tommy
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Rasu
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: C Tommy
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: C Tommy
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: C Tommy
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: C Tommy
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: C Tommy
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: C Tommy
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: J Rasu
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tommy
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: J Rasu
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Tommy
+    - 4.5:
+        actual_delivery: '4.4'
+        non_striker: J Rasu
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Tommy
+    - 4.6:
+        actual_delivery: '4.5'
+        non_striker: J Rasu
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tommy
+    - 4.7:
+        actual_delivery: '4.6'
+        non_striker: C Tommy
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: J Rasu
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tommy
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: C Tommy
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: J Rasu
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Tommy
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: J Rasu
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tommy
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: C Tommy
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: C Tommy
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Rasu
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: J Rasu
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tommy
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: C Tommy
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: J Rasu
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tommy
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: J Rasu
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tommy
+        wicket:
+          player_out: C Tommy
+          kind: lbw
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: J Rasu
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: A Mansale
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: A Mansale
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: J Rasu
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: J Rasu
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: A Mansale
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: A Mansale
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: J Rasu
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: A Mansale
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: J Rasu
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: J Rasu
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: A Mansale
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Rasu
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: A Mansale
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: J Rasu
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: J Rasu
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: J Rasu
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: A Mansale
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: A Mansale
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: J Rasu
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: J Rasu
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: A Mansale
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: A Mansale
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: A Mansale
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: J Rasu
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: J Rasu
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: J Rasu
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: A Mansale
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: A Mansale
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: A Mansale
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+        wicket:
+          player_out: J Rasu
+          fielders:
+          - GD Arta
+          kind: caught
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: A Mansale
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: JP Kaltapau
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mansale
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: JP Kaltapau
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: JP Kaltapau
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: A Mansale
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: A Mansale
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: A Mansale
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: JP Kaltapau
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: JP Kaltapau
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: JP Kaltapau
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: JP Kaltapau
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: JP Kaltapau
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: A Mansale
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kaltapau
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: JP Kaltapau
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: JP Kaltapau
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+        wicket:
+          player_out: A Mansale
+          fielders:
+          - Anjar Tadarus
+          kind: caught
+    - 14.1:
+        actual_delivery: '14.1'
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Nipiko
+        batsman: JP Kaltapau
+    - 14.2:
+        actual_delivery: '14.2'
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Nipiko
+        batsman: JP Kaltapau
+    - 14.3:
+        actual_delivery: '14.3'
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Nipiko
+        batsman: JP Kaltapau
+    - 14.4:
+        actual_delivery: '14.4'
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: N Nipiko
+        batsman: JP Kaltapau
+    - 14.5:
+        actual_delivery: '14.5'
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Nipiko
+        batsman: JP Kaltapau
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: JP Kaltapau
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: JP Kaltapau
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: JP Kaltapau
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+        wicket:
+          player_out: JP Kaltapau
+          fielders:
+          - KD Kesuma
+          - F Banunaek
+          kind: run out
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: N Nipiko
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Venables
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: N Nipiko
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Venables
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: N Nipiko
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Venables
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: N Nipiko
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Venables
+        wicket:
+          player_out: N Venables
+          fielders:
+          - IKEG Artawan
+          kind: caught
+    - 16.1:
+        actual_delivery: '16.1'
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: W Wotu
+        batsman: N Nipiko
+    - 16.2:
+        actual_delivery: '16.2'
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: W Wotu
+        batsman: N Nipiko
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: N Nipiko
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Wotu
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: N Nipiko
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Wotu
+        wicket:
+          player_out: W Wotu
+          kind: bowled
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: N Nipiko
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PK Matautaava
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: PK Matautaava
+        bowler: IKEG Artawan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: N Nipiko
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: N Nipiko
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PK Matautaava
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: N Nipiko
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PK Matautaava
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: N Nipiko
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PK Matautaava
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: PK Matautaava
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: PK Matautaava
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nipiko
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: N Nipiko
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PK Matautaava
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: N Nipiko
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Matautaava
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: N Nipiko
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Matautaava
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: N Nipiko
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PK Matautaava
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: PK Matautaava
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+        wicket:
+          player_out: N Nipiko
+          fielders:
+          - KD Kesuma
+          kind: caught
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: PK Matautaava
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Cutler
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: PK Matautaava
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Cutler
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: TL Cutler
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PK Matautaava
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: TL Cutler
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PK Matautaava
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: PK Matautaava
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Cutler
+        wicket:
+          player_out: TL Cutler
+          kind: bowled
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: PK Matautaava
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Nalisa
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: W Nalisa
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PK Matautaava
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: PK Matautaava
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Nalisa
+        wicket:
+          player_out: PK Matautaava
+          fielders:
+          - S Jegannathan
+          - Anjar Tadarus
+          kind: run out
+- 2nd innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Kharvi
+        batsman: S Jegannathan
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Kharvi
+        batsman: S Jegannathan
+    - 0.3:
+        actual_delivery: '0.3'
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Kharvi
+        batsman: S Jegannathan
+    - 0.4:
+        actual_delivery: '0.4'
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Kharvi
+        batsman: S Jegannathan
+    - 0.5:
+        actual_delivery: '0.5'
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Kharvi
+        batsman: S Jegannathan
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: S Kharvi
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: S Kharvi
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: S Kharvi
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: S Kharvi
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: S Kharvi
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jegannathan
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: S Kharvi
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Jegannathan
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: S Kharvi
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: S Kharvi
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Kharvi
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kharvi
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kharvi
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kharvi
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kharvi
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: S Jegannathan
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kharvi
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: S Jegannathan
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kharvi
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: S Kharvi
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jegannathan
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: S Kharvi
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: S Kharvi
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: S Jegannathan
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kharvi
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kharvi
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kharvi
+        wicket:
+          player_out: S Kharvi
+          fielders:
+          - W Wotu
+          kind: caught
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KN Chaddha
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KN Chaddha
+    - 4.6:
+        actual_delivery: '4.5'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 4.7:
+        actual_delivery: '4.6'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: KN Chaddha
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: KN Chaddha
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: KN Chaddha
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: KN Chaddha
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: KN Chaddha
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: S Jegannathan
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: S Jegannathan
+        bowler: W Nalisa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KN Chaddha
+    - 6.2:
+        actual_delivery: '6.1'
+        non_striker: S Jegannathan
+        bowler: W Nalisa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KN Chaddha
+    - 6.3:
+        actual_delivery: '6.1'
+        non_striker: S Jegannathan
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 6.4:
+        actual_delivery: '6.2'
+        non_striker: KN Chaddha
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 6.5:
+        actual_delivery: '6.3'
+        non_striker: S Jegannathan
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KN Chaddha
+    - 6.6:
+        actual_delivery: '6.4'
+        non_striker: S Jegannathan
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 6.7:
+        actual_delivery: '6.5'
+        non_striker: S Jegannathan
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 6.8:
+        actual_delivery: '6.6'
+        non_striker: KN Chaddha
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: S Jegannathan
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: S Jegannathan
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: KN Chaddha
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: S Jegannathan
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+        wicket:
+          player_out: KN Chaddha
+          fielders:
+          - D Wotu
+          kind: caught
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: S Jegannathan
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: S Jegannathan
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: GA Priandana
+        bowler: W Nalisa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Jegannathan
+    - 8.2:
+        actual_delivery: '8.1'
+        non_striker: GA Priandana
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 8.3:
+        actual_delivery: '8.2'
+        non_striker: GA Priandana
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 8.4:
+        actual_delivery: '8.3'
+        non_striker: GA Priandana
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 8.5:
+        actual_delivery: '8.4'
+        non_striker: GA Priandana
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 8.6:
+        actual_delivery: '8.5'
+        non_striker: S Jegannathan
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 8.7:
+        actual_delivery: '8.6'
+        non_striker: GA Priandana
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: S Jegannathan
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+        wicket:
+          player_out: GA Priandana
+          kind: lbw
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: S Jegannathan
+        bowler: PK Matautaava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KD Kesuma
+    - 9.3:
+        actual_delivery: '9.2'
+        non_striker: S Jegannathan
+        bowler: PK Matautaava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KD Kesuma
+    - 9.4:
+        actual_delivery: '9.3'
+        non_striker: KD Kesuma
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 9.5:
+        actual_delivery: '9.4'
+        non_striker: KD Kesuma
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 9.6:
+        actual_delivery: '9.5'
+        non_striker: KD Kesuma
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 9.7:
+        actual_delivery: '9.6'
+        non_striker: KD Kesuma
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: KD Kesuma
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: S Jegannathan
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: S Jegannathan
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: S Jegannathan
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Kesuma
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: KD Kesuma
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: S Jegannathan
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Kesuma
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: S Jegannathan
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+        wicket:
+          player_out: KD Kesuma
+          kind: bowled
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: S Jegannathan
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: S Jegannathan
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: S Jegannathan
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: Anjar Tadarus
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: S Jegannathan
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: S Jegannathan
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Anjar Tadarus
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Anjar Tadarus
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: S Jegannathan
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Anjar Tadarus
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: Anjar Tadarus
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jegannathan
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: S Jegannathan
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: S Jegannathan
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Anjar Tadarus
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: S Jegannathan
+        bowler: N Venables
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Anjar Tadarus
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: S Jegannathan
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: S Jegannathan
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Anjar Tadarus
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: S Jegannathan
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: S Jegannathan
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: Anjar Tadarus
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: S Jegannathan
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anjar Tadarus
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: S Jegannathan
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+        wicket:
+          player_out: Anjar Tadarus
+          kind: bowled
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+        wicket:
+          player_out: DJ Hawoe
+          kind: lbw
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IKEG Artawan
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: IKEG Artawan
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: S Jegannathan
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: S Jegannathan
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: S Jegannathan
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+        wicket:
+          player_out: IKEG Artawan
+          kind: lbw
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: S Jegannathan
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: S Jegannathan
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Arta
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: GD Arta
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: GD Arta
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: S Jegannathan
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: S Jegannathan
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: S Jegannathan
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: S Jegannathan
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: GD Arta
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jegannathan
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: GD Arta
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Arta
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: S Jegannathan
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+        wicket:
+          player_out: GD Arta
+          fielders:
+          - W Nalisa
+          kind: caught
+    - 19.1:
+        actual_delivery: '19.1'
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AA Rahayu
+        batsman: S Jegannathan
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: S Jegannathan
+        bowler: PK Matautaava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: AA Rahayu
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: AA Rahayu
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+        wicket:
+          player_out: S Jegannathan
+          fielders:
+          - C Tommy
+          kind: caught
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: AA Rahayu
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Banunaek
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: AA Rahayu
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Banunaek
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: AA Rahayu
+        bowler: PK Matautaava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: F Banunaek
+    target:
+      overs: 20
+      runs: 103

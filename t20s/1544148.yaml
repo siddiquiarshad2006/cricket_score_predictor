@@ -1,0 +1,2354 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-08-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Buenos Aires
+  dates:
+  - '2026-08-02'
+  gender: female
+  match_type: T20
+  match_type_number: 2950
+  outcome:
+    winner: Argentina
+    by:
+      wickets: 2
+  overs: 20
+  player_of_match:
+  - M Lollo
+  players:
+    Canada:
+    - A Perera
+    - K Kapadia
+    - Khadeeja Fatima
+    - Harper Chalmers
+    - Vritti Dahiya
+    - Rabbjyot Rajput
+    - H Santhoshkumar
+    - M Hundal
+    - Snigdha Malhotra
+    - Sanjana Rao
+    - Shreya Voya
+    Argentina:
+    - M Castineiras
+    - MV Lehmann
+    - A Galan
+    - M Bestani
+    - JC Cullen
+    - T Basile
+    - M Lollo
+    - J Andujar
+    - A Emch
+    - AC Dei Castelli
+    - M Mastrangelo
+  registry:
+    people:
+      A Emch: 24403a9f
+      A Galan: ad5165c2
+      A Perera: 788afc32
+      AC Dei Castelli: d2db7b61
+      H Santhoshkumar: a3586afb
+      Harper Chalmers: 26c257be
+      J Andujar: 4c257434
+      JC Cullen: 22595a2d
+      K Kapadia: 52fc5577
+      Khadeeja Fatima: 8292d2e4
+      M Bestani: e8045847
+      M Castineiras: b9094958
+      M Hundal: 213dc641
+      M Lollo: e6d1f4bb
+      M Mastrangelo: d204a45a
+      MV Lehmann: d2c61d83
+      Rabbjyot Rajput: 8b1f5f91
+      Sanjana Rao: e65b1ea6
+      Shreya Voya: 5c8f43ab
+      Snigdha Malhotra: aaec928b
+      T Basile: 7a640d66
+      Vritti Dahiya: 36b5d84b
+  team_type: international
+  teams:
+  - Canada
+  - Argentina
+  toss:
+    winner: Canada
+    decision: bat
+  venue: St George's College Ground, Buenos Aires
+innings:
+- 1st innings:
+    team: Canada
+    deliveries:
+    - 0.1:
+        non_striker: K Kapadia
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: A Perera
+        wicket:
+          player_out: A Perera
+          kind: bowled
+    - 0.2:
+        non_striker: K Kapadia
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: Khadeeja Fatima
+    - 0.3:
+        non_striker: K Kapadia
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: Khadeeja Fatima
+        wicket:
+          player_out: Khadeeja Fatima
+          fielders:
+          - A Galan
+          kind: caught
+    - 0.4:
+        non_striker: K Kapadia
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Harper Chalmers
+    - 0.5:
+        non_striker: K Kapadia
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Harper Chalmers
+        wicket:
+          player_out: Harper Chalmers
+          fielders:
+          - T Basile
+          kind: caught
+    - 0.6:
+        non_striker: K Kapadia
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Vritti Dahiya
+    - 1.1:
+        non_striker: Vritti Dahiya
+        bowler: J Andujar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.1'
+        batsman: K Kapadia
+    - 1.2:
+        non_striker: Vritti Dahiya
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: K Kapadia
+    - 1.3:
+        non_striker: Vritti Dahiya
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: K Kapadia
+    - 1.4:
+        non_striker: Vritti Dahiya
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: K Kapadia
+    - 1.5:
+        non_striker: K Kapadia
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: Vritti Dahiya
+    - 1.6:
+        non_striker: Vritti Dahiya
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: K Kapadia
+    - 1.7:
+        non_striker: K Kapadia
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Vritti Dahiya
+    - 2.1:
+        non_striker: Vritti Dahiya
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: K Kapadia
+    - 2.2:
+        non_striker: Vritti Dahiya
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: K Kapadia
+    - 2.3:
+        non_striker: Vritti Dahiya
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: K Kapadia
+    - 2.4:
+        non_striker: Vritti Dahiya
+        bowler: M Lollo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.4'
+        batsman: K Kapadia
+    - 2.5:
+        non_striker: Vritti Dahiya
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: K Kapadia
+    - 2.6:
+        non_striker: Vritti Dahiya
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: K Kapadia
+    - 2.7:
+        non_striker: Vritti Dahiya
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: K Kapadia
+    - 3.1:
+        non_striker: K Kapadia
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Vritti Dahiya
+    - 3.2:
+        non_striker: K Kapadia
+        bowler: J Andujar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.2'
+        batsman: Vritti Dahiya
+    - 3.3:
+        non_striker: K Kapadia
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Vritti Dahiya
+    - 3.4:
+        non_striker: K Kapadia
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Vritti Dahiya
+    - 3.5:
+        non_striker: K Kapadia
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: Vritti Dahiya
+    - 3.6:
+        non_striker: Vritti Dahiya
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.5'
+        batsman: K Kapadia
+    - 3.7:
+        non_striker: Vritti Dahiya
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: K Kapadia
+    - 4.1:
+        non_striker: Vritti Dahiya
+        bowler: AC Dei Castelli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '4.1'
+        batsman: K Kapadia
+    - 4.2:
+        non_striker: Vritti Dahiya
+        bowler: AC Dei Castelli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: K Kapadia
+    - 4.3:
+        non_striker: K Kapadia
+        bowler: AC Dei Castelli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.2'
+        batsman: Vritti Dahiya
+    - 4.4:
+        non_striker: K Kapadia
+        bowler: AC Dei Castelli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.3'
+        batsman: Vritti Dahiya
+    - 4.5:
+        non_striker: K Kapadia
+        bowler: AC Dei Castelli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: Vritti Dahiya
+    - 4.6:
+        non_striker: Vritti Dahiya
+        bowler: AC Dei Castelli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: K Kapadia
+    - 4.7:
+        non_striker: K Kapadia
+        bowler: AC Dei Castelli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Vritti Dahiya
+    - 4.8:
+        non_striker: K Kapadia
+        bowler: AC Dei Castelli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Vritti Dahiya
+    - 5.1:
+        non_striker: Vritti Dahiya
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: K Kapadia
+    - 5.2:
+        non_striker: K Kapadia
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: Vritti Dahiya
+    - 5.3:
+        non_striker: Vritti Dahiya
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: K Kapadia
+        wicket:
+          player_out: K Kapadia
+          fielders:
+          - A Emch
+          kind: caught
+    - 5.4:
+        non_striker: Vritti Dahiya
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Rabbjyot Rajput
+    - 5.5:
+        non_striker: Vritti Dahiya
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Rabbjyot Rajput
+    - 5.6:
+        non_striker: Vritti Dahiya
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Rabbjyot Rajput
+    - 6.1:
+        non_striker: Rabbjyot Rajput
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: Vritti Dahiya
+    - 6.2:
+        non_striker: Rabbjyot Rajput
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: Vritti Dahiya
+    - 6.3:
+        non_striker: Vritti Dahiya
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: Rabbjyot Rajput
+    - 6.4:
+        non_striker: Rabbjyot Rajput
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Vritti Dahiya
+    - 6.5:
+        non_striker: Rabbjyot Rajput
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: Vritti Dahiya
+    - 6.6:
+        non_striker: Vritti Dahiya
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: Rabbjyot Rajput
+    - 7.1:
+        non_striker: Rabbjyot Rajput
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: Vritti Dahiya
+    - 7.2:
+        non_striker: Rabbjyot Rajput
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: Vritti Dahiya
+    - 7.3:
+        non_striker: Vritti Dahiya
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: Rabbjyot Rajput
+    - 7.4:
+        non_striker: Vritti Dahiya
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: Rabbjyot Rajput
+    - 7.5:
+        non_striker: Rabbjyot Rajput
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: Vritti Dahiya
+    - 7.6:
+        non_striker: Vritti Dahiya
+        bowler: M Lollo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: Rabbjyot Rajput
+    - 8.1:
+        non_striker: Rabbjyot Rajput
+        bowler: A Emch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Vritti Dahiya
+    - 8.2:
+        non_striker: Rabbjyot Rajput
+        bowler: A Emch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: Vritti Dahiya
+    - 8.3:
+        non_striker: Rabbjyot Rajput
+        bowler: A Emch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: Vritti Dahiya
+    - 8.4:
+        non_striker: Rabbjyot Rajput
+        bowler: A Emch
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        actual_delivery: '8.4'
+        batsman: Vritti Dahiya
+    - 8.5:
+        non_striker: Vritti Dahiya
+        bowler: A Emch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: Rabbjyot Rajput
+    - 8.6:
+        non_striker: Rabbjyot Rajput
+        bowler: A Emch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Vritti Dahiya
+    - 8.7:
+        non_striker: Vritti Dahiya
+        bowler: A Emch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Rabbjyot Rajput
+    - 9.1:
+        non_striker: Rabbjyot Rajput
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: Vritti Dahiya
+        wicket:
+          player_out: Vritti Dahiya
+          fielders:
+          - M Mastrangelo
+          kind: caught
+    - 9.2:
+        non_striker: Rabbjyot Rajput
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: H Santhoshkumar
+    - 9.3:
+        non_striker: Rabbjyot Rajput
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: H Santhoshkumar
+    - 9.4:
+        non_striker: Rabbjyot Rajput
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: H Santhoshkumar
+        wicket:
+          player_out: H Santhoshkumar
+          fielders:
+          - M Castineiras
+          kind: caught
+    - 9.5:
+        non_striker: Rabbjyot Rajput
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: M Hundal
+    - 9.6:
+        non_striker: Rabbjyot Rajput
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: M Hundal
+    - 10.1:
+        non_striker: Rabbjyot Rajput
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: M Hundal
+    - 10.2:
+        non_striker: Rabbjyot Rajput
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: M Hundal
+    - 10.3:
+        non_striker: Rabbjyot Rajput
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: M Hundal
+    - 10.4:
+        non_striker: Rabbjyot Rajput
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: M Hundal
+    - 10.5:
+        non_striker: Rabbjyot Rajput
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: M Hundal
+    - 10.6:
+        non_striker: Rabbjyot Rajput
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: M Hundal
+    - 11.1:
+        non_striker: M Hundal
+        bowler: A Emch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: Rabbjyot Rajput
+    - 11.2:
+        non_striker: Rabbjyot Rajput
+        bowler: A Emch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: M Hundal
+    - 11.3:
+        non_striker: M Hundal
+        bowler: A Emch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: Rabbjyot Rajput
+    - 11.4:
+        non_striker: M Hundal
+        bowler: A Emch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: Rabbjyot Rajput
+    - 11.5:
+        non_striker: Rabbjyot Rajput
+        bowler: A Emch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: M Hundal
+    - 11.6:
+        non_striker: M Hundal
+        bowler: A Emch
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '11.6'
+        batsman: Rabbjyot Rajput
+    - 11.7:
+        non_striker: Rabbjyot Rajput
+        bowler: A Emch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: M Hundal
+    - 12.1:
+        non_striker: Rabbjyot Rajput
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: M Hundal
+    - 12.2:
+        non_striker: Rabbjyot Rajput
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: M Hundal
+    - 12.3:
+        non_striker: Rabbjyot Rajput
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: M Hundal
+    - 12.4:
+        non_striker: Rabbjyot Rajput
+        bowler: M Mastrangelo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.4'
+        batsman: M Hundal
+    - 12.5:
+        non_striker: Rabbjyot Rajput
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: M Hundal
+        wicket:
+          player_out: M Hundal
+          fielders:
+          - A Galan
+          kind: caught
+    - 12.6:
+        non_striker: Rabbjyot Rajput
+        bowler: M Mastrangelo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.5'
+        batsman: Snigdha Malhotra
+    - 12.7:
+        non_striker: Rabbjyot Rajput
+        bowler: M Mastrangelo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.5'
+        batsman: Snigdha Malhotra
+    - 12.8:
+        non_striker: Rabbjyot Rajput
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Snigdha Malhotra
+    - 12.9:
+        non_striker: Rabbjyot Rajput
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Snigdha Malhotra
+    - 13.1:
+        non_striker: Snigdha Malhotra
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: Rabbjyot Rajput
+    - 13.2:
+        non_striker: Rabbjyot Rajput
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: Snigdha Malhotra
+    - 13.3:
+        non_striker: Rabbjyot Rajput
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: Snigdha Malhotra
+    - 13.4:
+        non_striker: Rabbjyot Rajput
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Snigdha Malhotra
+    - 13.5:
+        non_striker: Rabbjyot Rajput
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Snigdha Malhotra
+    - 13.6:
+        non_striker: Rabbjyot Rajput
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: Snigdha Malhotra
+    - 14.1:
+        non_striker: Snigdha Malhotra
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: Rabbjyot Rajput
+    - 14.2:
+        non_striker: Snigdha Malhotra
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: Rabbjyot Rajput
+    - 14.3:
+        non_striker: Snigdha Malhotra
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: Rabbjyot Rajput
+    - 14.4:
+        non_striker: Rabbjyot Rajput
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: Snigdha Malhotra
+    - 14.5:
+        non_striker: Rabbjyot Rajput
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: Snigdha Malhotra
+    - 14.6:
+        non_striker: Snigdha Malhotra
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: Rabbjyot Rajput
+    - 15.1:
+        non_striker: Rabbjyot Rajput
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: Snigdha Malhotra
+    - 15.2:
+        non_striker: Rabbjyot Rajput
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: Snigdha Malhotra
+    - 15.3:
+        non_striker: Rabbjyot Rajput
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: Snigdha Malhotra
+    - 15.4:
+        non_striker: Rabbjyot Rajput
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: Snigdha Malhotra
+    - 15.5:
+        non_striker: Rabbjyot Rajput
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: Snigdha Malhotra
+    - 15.6:
+        non_striker: Snigdha Malhotra
+        bowler: A Galan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: Rabbjyot Rajput
+    - 16.1:
+        non_striker: Rabbjyot Rajput
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: Snigdha Malhotra
+    - 16.2:
+        non_striker: Snigdha Malhotra
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: Rabbjyot Rajput
+    - 16.3:
+        non_striker: Rabbjyot Rajput
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: Snigdha Malhotra
+    - 16.4:
+        non_striker: Snigdha Malhotra
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: Rabbjyot Rajput
+    - 16.5:
+        non_striker: Rabbjyot Rajput
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: Snigdha Malhotra
+    - 16.6:
+        non_striker: Snigdha Malhotra
+        bowler: M Mastrangelo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: Rabbjyot Rajput
+    - 17.1:
+        non_striker: Rabbjyot Rajput
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: Snigdha Malhotra
+    - 17.2:
+        non_striker: Snigdha Malhotra
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: Rabbjyot Rajput
+    - 17.3:
+        non_striker: Rabbjyot Rajput
+        bowler: J Andujar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.3'
+        batsman: Snigdha Malhotra
+    - 17.4:
+        non_striker: Rabbjyot Rajput
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: Snigdha Malhotra
+    - 17.5:
+        non_striker: Rabbjyot Rajput
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: Snigdha Malhotra
+    - 17.6:
+        non_striker: Snigdha Malhotra
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: Rabbjyot Rajput
+    - 17.7:
+        non_striker: Rabbjyot Rajput
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: Snigdha Malhotra
+    - 18.1:
+        non_striker: Rabbjyot Rajput
+        bowler: A Emch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: Snigdha Malhotra
+    - 18.2:
+        non_striker: Snigdha Malhotra
+        bowler: A Emch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: Rabbjyot Rajput
+    - 18.3:
+        non_striker: Rabbjyot Rajput
+        bowler: A Emch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: Snigdha Malhotra
+    - 18.4:
+        non_striker: Snigdha Malhotra
+        bowler: A Emch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: Rabbjyot Rajput
+    - 18.5:
+        non_striker: Snigdha Malhotra
+        bowler: A Emch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: Rabbjyot Rajput
+    - 18.6:
+        non_striker: Snigdha Malhotra
+        bowler: A Emch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: Rabbjyot Rajput
+    - 19.1:
+        non_striker: Snigdha Malhotra
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: Rabbjyot Rajput
+    - 19.2:
+        non_striker: Rabbjyot Rajput
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: Snigdha Malhotra
+    - 19.3:
+        non_striker: Snigdha Malhotra
+        bowler: J Andujar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.3'
+        batsman: Rabbjyot Rajput
+    - 19.4:
+        non_striker: Snigdha Malhotra
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.3'
+        batsman: Rabbjyot Rajput
+    - 19.5:
+        non_striker: Rabbjyot Rajput
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: Snigdha Malhotra
+    - 19.6:
+        non_striker: Snigdha Malhotra
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.5'
+        batsman: Rabbjyot Rajput
+    - 19.7:
+        non_striker: Rabbjyot Rajput
+        bowler: J Andujar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: Snigdha Malhotra
+        wicket:
+          player_out: Snigdha Malhotra
+          fielders:
+          - AC Dei Castelli
+          kind: caught
+- 2nd innings:
+    team: Argentina
+    deliveries:
+    - 0.1:
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MV Lehmann
+        actual_delivery: '0.1'
+        batsman: M Castineiras
+    - 0.2:
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MV Lehmann
+        actual_delivery: '0.2'
+        batsman: M Castineiras
+    - 0.3:
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MV Lehmann
+        actual_delivery: '0.3'
+        batsman: M Castineiras
+    - 0.4:
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: MV Lehmann
+        actual_delivery: '0.4'
+        batsman: M Castineiras
+    - 0.5:
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MV Lehmann
+        actual_delivery: '0.4'
+        batsman: M Castineiras
+    - 0.6:
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MV Lehmann
+        actual_delivery: '0.5'
+        batsman: M Castineiras
+    - 0.7:
+        non_striker: MV Lehmann
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: M Castineiras
+    - 1.1:
+        non_striker: MV Lehmann
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: M Castineiras
+    - 1.2:
+        non_striker: M Castineiras
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: MV Lehmann
+    - 1.3:
+        non_striker: M Castineiras
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: MV Lehmann
+    - 1.4:
+        non_striker: M Castineiras
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: MV Lehmann
+        wicket:
+          player_out: MV Lehmann
+          fielders:
+          - Rabbjyot Rajput
+          kind: caught
+    - 1.5:
+        non_striker: M Castineiras
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: A Galan
+    - 1.6:
+        non_striker: A Galan
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: M Castineiras
+    - 2.1:
+        non_striker: M Castineiras
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.1'
+        batsman: A Galan
+    - 2.2:
+        non_striker: M Castineiras
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: A Galan
+    - 2.3:
+        non_striker: M Castineiras
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: A Galan
+    - 2.4:
+        non_striker: A Galan
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: M Castineiras
+    - 2.5:
+        non_striker: M Castineiras
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: A Galan
+    - 2.6:
+        non_striker: M Castineiras
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: A Galan
+    - 2.7:
+        non_striker: A Galan
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: M Castineiras
+    - 3.1:
+        non_striker: A Galan
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: M Castineiras
+        wicket:
+          player_out: M Castineiras
+          kind: hit wicket
+    - 3.2:
+        non_striker: A Galan
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: M Bestani
+    - 3.3:
+        non_striker: A Galan
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: M Bestani
+    - 3.4:
+        non_striker: A Galan
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: M Bestani
+    - 3.5:
+        non_striker: A Galan
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: M Bestani
+    - 3.6:
+        non_striker: M Bestani
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: A Galan
+    - 4.1:
+        non_striker: A Galan
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: M Bestani
+    - 4.2:
+        non_striker: M Bestani
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: A Galan
+    - 4.3:
+        non_striker: A Galan
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: M Bestani
+        wicket:
+          player_out: M Bestani
+          fielders:
+          - Khadeeja Fatima
+          kind: caught
+    - 4.4:
+        non_striker: A Galan
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.4'
+        batsman: JC Cullen
+    - 4.5:
+        non_striker: A Galan
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: JC Cullen
+    - 4.6:
+        non_striker: A Galan
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: JC Cullen
+    - 5.1:
+        non_striker: A Galan
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: JC Cullen
+    - 5.2:
+        non_striker: A Galan
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: JC Cullen
+    - 5.3:
+        non_striker: JC Cullen
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: A Galan
+    - 5.4:
+        non_striker: A Galan
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: JC Cullen
+    - 5.5:
+        non_striker: JC Cullen
+        bowler: Shreya Voya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.5'
+        batsman: A Galan
+    - 5.6:
+        non_striker: JC Cullen
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: A Galan
+    - 5.7:
+        non_striker: JC Cullen
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: A Galan
+    - 6.1:
+        non_striker: A Galan
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: JC Cullen
+    - 6.2:
+        non_striker: A Galan
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: JC Cullen
+    - 6.3:
+        non_striker: JC Cullen
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: A Galan
+    - 6.4:
+        non_striker: JC Cullen
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: A Galan
+    - 6.5:
+        non_striker: A Galan
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: JC Cullen
+    - 6.6:
+        non_striker: A Galan
+        bowler: Snigdha Malhotra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: JC Cullen
+    - 7.1:
+        non_striker: A Galan
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: JC Cullen
+    - 7.2:
+        non_striker: A Galan
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: JC Cullen
+    - 7.3:
+        non_striker: A Galan
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: JC Cullen
+    - 7.4:
+        non_striker: JC Cullen
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: A Galan
+    - 7.5:
+        non_striker: JC Cullen
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: A Galan
+    - 7.6:
+        non_striker: A Galan
+        bowler: Shreya Voya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: JC Cullen
+    - 8.1:
+        non_striker: A Galan
+        bowler: Vritti Dahiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: JC Cullen
+    - 8.2:
+        non_striker: JC Cullen
+        bowler: Vritti Dahiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: A Galan
+    - 8.3:
+        non_striker: JC Cullen
+        bowler: Vritti Dahiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: A Galan
+    - 8.4:
+        non_striker: A Galan
+        bowler: Vritti Dahiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: JC Cullen
+    - 8.5:
+        non_striker: JC Cullen
+        bowler: Vritti Dahiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: A Galan
+    - 8.6:
+        non_striker: A Galan
+        bowler: Vritti Dahiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: JC Cullen
+    - 9.1:
+        non_striker: A Galan
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '9.1'
+        batsman: JC Cullen
+    - 9.2:
+        non_striker: A Galan
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: JC Cullen
+    - 9.3:
+        non_striker: A Galan
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: JC Cullen
+    - 9.4:
+        non_striker: A Galan
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: JC Cullen
+    - 9.5:
+        non_striker: JC Cullen
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: A Galan
+        wicket:
+          player_out: A Galan
+          fielders:
+          - M Hundal
+          kind: caught
+    - 9.6:
+        non_striker: JC Cullen
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: T Basile
+    - 10.1:
+        non_striker: T Basile
+        bowler: Vritti Dahiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.1'
+        batsman: JC Cullen
+    - 10.2:
+        non_striker: T Basile
+        bowler: Vritti Dahiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: JC Cullen
+    - 10.3:
+        non_striker: JC Cullen
+        bowler: Vritti Dahiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: T Basile
+    - 10.4:
+        non_striker: JC Cullen
+        bowler: Vritti Dahiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: T Basile
+    - 10.5:
+        non_striker: JC Cullen
+        bowler: Vritti Dahiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: T Basile
+    - 10.6:
+        non_striker: JC Cullen
+        bowler: Vritti Dahiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: T Basile
+        wicket:
+          player_out: T Basile
+          fielders:
+          - Sanjana Rao
+          kind: caught
+    - 11.1:
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: M Lollo
+        actual_delivery: '11.1'
+        batsman: JC Cullen
+    - 11.2:
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Lollo
+        actual_delivery: '11.2'
+        batsman: JC Cullen
+    - 11.3:
+        non_striker: M Lollo
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: JC Cullen
+        wicket:
+          player_out: JC Cullen
+          fielders:
+          - Vritti Dahiya
+          kind: caught
+    - 11.4:
+        non_striker: M Lollo
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: J Andujar
+    - 11.5:
+        non_striker: M Lollo
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: J Andujar
+        wicket:
+          player_out: J Andujar
+          fielders:
+          - H Santhoshkumar
+          kind: caught
+    - 11.6:
+        non_striker: M Lollo
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: A Emch
+    - 12.1:
+        non_striker: A Emch
+        bowler: Vritti Dahiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: M Lollo
+    - 12.2:
+        non_striker: M Lollo
+        bowler: Vritti Dahiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: A Emch
+    - 12.3:
+        non_striker: M Lollo
+        bowler: Vritti Dahiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: A Emch
+    - 12.4:
+        non_striker: A Emch
+        bowler: Vritti Dahiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: M Lollo
+    - 12.5:
+        non_striker: A Emch
+        bowler: Vritti Dahiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: M Lollo
+    - 12.6:
+        non_striker: M Lollo
+        bowler: Vritti Dahiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: A Emch
+    - 13.1:
+        non_striker: M Lollo
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: A Emch
+    - 13.2:
+        non_striker: M Lollo
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.2'
+        batsman: A Emch
+    - 13.3:
+        non_striker: M Lollo
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: A Emch
+    - 13.4:
+        non_striker: M Lollo
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: A Emch
+    - 13.5:
+        non_striker: M Lollo
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: A Emch
+    - 13.6:
+        non_striker: M Lollo
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: A Emch
+    - 14.1:
+        non_striker: A Emch
+        bowler: Harper Chalmers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: M Lollo
+    - 14.2:
+        non_striker: A Emch
+        bowler: Harper Chalmers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: M Lollo
+    - 14.3:
+        non_striker: M Lollo
+        bowler: Harper Chalmers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: A Emch
+    - 14.4:
+        non_striker: M Lollo
+        bowler: Harper Chalmers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.4'
+        batsman: A Emch
+    - 14.5:
+        non_striker: M Lollo
+        bowler: Harper Chalmers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: A Emch
+    - 14.6:
+        non_striker: M Lollo
+        bowler: Harper Chalmers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: A Emch
+    - 15.1:
+        non_striker: M Lollo
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: A Emch
+    - 15.2:
+        non_striker: M Lollo
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.2'
+        batsman: A Emch
+    - 15.3:
+        non_striker: M Lollo
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: A Emch
+    - 15.4:
+        non_striker: M Lollo
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.4'
+        batsman: A Emch
+    - 15.5:
+        non_striker: M Lollo
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: A Emch
+    - 15.6:
+        non_striker: A Emch
+        bowler: K Kapadia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.6'
+        batsman: M Lollo
+    - 16.1:
+        non_striker: M Lollo
+        bowler: Harper Chalmers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: A Emch
+    - 16.2:
+        non_striker: A Emch
+        bowler: Harper Chalmers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.2'
+        batsman: M Lollo
+    - 16.3:
+        non_striker: A Emch
+        bowler: Harper Chalmers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: M Lollo
+    - 16.4:
+        non_striker: A Emch
+        bowler: Harper Chalmers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.4'
+        batsman: M Lollo
+    - 16.5:
+        non_striker: A Emch
+        bowler: Harper Chalmers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: M Lollo
+    - 16.6:
+        non_striker: A Emch
+        bowler: Harper Chalmers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: M Lollo
+        wicket:
+          player_out: M Lollo
+          fielders:
+          - Khadeeja Fatima
+          kind: caught
+    - 17.1:
+        bowler: H Santhoshkumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AC Dei Castelli
+        actual_delivery: '17.1'
+        batsman: A Emch
+    - 17.2:
+        bowler: H Santhoshkumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AC Dei Castelli
+        actual_delivery: '17.2'
+        batsman: A Emch
+    - 17.3:
+        bowler: H Santhoshkumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AC Dei Castelli
+        actual_delivery: '17.3'
+        batsman: A Emch
+    target:
+      overs: 20
+      runs: 68

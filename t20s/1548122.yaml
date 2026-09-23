@@ -1,0 +1,2405 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-08-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Nairobi
+  dates:
+  - '2026-07-31'
+  gender: male
+  match_type: T20
+  match_type_number: 4055
+  outcome:
+    winner: Bahrain
+    by:
+      runs: 15
+  overs: 20
+  player_of_match:
+  - Fiaz Ahmed
+  players:
+    Bahrain:
+    - Asif Ali
+    - P Kurup
+    - Fiaz Ahmed
+    - Sohail Ahmed
+    - Ahmer Bin Nisar
+    - Imran Anwar
+    - Shujaat Rasool
+    - Rizwan Butt
+    - Asif Shaikh
+    - Ali Dawood
+    - Abdul Majid Abbasi
+    Kenya:
+    - Subham Patel
+    - DM Gondaria
+    - RN Patel
+    - SR Bhudia
+    - RR Patel
+    - S Gill
+    - S Singh
+    - SO Ngoche
+    - LN Oluoch
+    - Vishil Patel
+    - P Koech
+  registry:
+    people:
+      Abdul Majid Abbasi: 0cfb42b5
+      Ahmer Bin Nisar: afbc53ba
+      Ali Dawood: 596982e6
+      Asif Ali: 0a4736eb
+      Asif Shaikh: 231daa19
+      Charles Kariuki: 8de34db0
+      D Angara: bfa866cc
+      DM Gondaria: 9048c17e
+      Fiaz Ahmed: df1f2f29
+      Imran Anwar: a9a18e3e
+      LN Oluoch: eb4f9c61
+      M Ngoche: f91abcd6
+      P Koech: f4a0a615
+      P Kurup: 50ceaef6
+      RN Patel: db1bf9c2
+      RR Patel: 7fa6bd8e
+      Rizwan Butt: e741ed8f
+      S Gill: 3e6e9a5f
+      S Singh: 612a395c
+      SJ Sanghani: 671e518d
+      SO Ngoche: 49118dc7
+      SR Bhudia: e9173fb0
+      Shujaat Rasool: 2dd90a40
+      Sohail Ahmed: 4db71b2e
+      Subham Patel: 2a20a333
+      Vishil Patel: 3df8f9d5
+  team_type: international
+  teams:
+  - Bahrain
+  - Kenya
+  toss:
+    winner: Bahrain
+    decision: bat
+  umpires:
+  - Charles Kariuki
+  - SJ Sanghani
+  venue: Gymkhana Club Ground, Nairobi
+innings:
+- 1st innings:
+    team: Bahrain
+    deliveries:
+    - 0.1:
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Kurup
+        actual_delivery: '0.1'
+        batsman: Asif Ali
+    - 0.2:
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Kurup
+        actual_delivery: '0.2'
+        batsman: Asif Ali
+    - 0.3:
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Kurup
+        actual_delivery: '0.3'
+        batsman: Asif Ali
+    - 0.4:
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Kurup
+        actual_delivery: '0.4'
+        batsman: Asif Ali
+    - 0.5:
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Kurup
+        actual_delivery: '0.5'
+        batsman: Asif Ali
+    - 0.6:
+        non_striker: P Kurup
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Asif Ali
+    - 1.1:
+        non_striker: Asif Ali
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: P Kurup
+    - 1.2:
+        non_striker: Asif Ali
+        bowler: P Koech
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.2'
+        batsman: P Kurup
+    - 1.3:
+        non_striker: Asif Ali
+        bowler: P Koech
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.2'
+        batsman: P Kurup
+    - 1.4:
+        non_striker: Asif Ali
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.2'
+        batsman: P Kurup
+    - 1.5:
+        non_striker: Asif Ali
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: P Kurup
+    - 1.6:
+        non_striker: Asif Ali
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: P Kurup
+    - 1.7:
+        non_striker: P Kurup
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Asif Ali
+    - 1.8:
+        non_striker: P Kurup
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Asif Ali
+    - 2.1:
+        non_striker: Asif Ali
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.1'
+        batsman: P Kurup
+    - 2.2:
+        non_striker: Asif Ali
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: P Kurup
+    - 2.3:
+        non_striker: Asif Ali
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: P Kurup
+    - 2.4:
+        non_striker: Asif Ali
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: P Kurup
+    - 2.5:
+        non_striker: Asif Ali
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: P Kurup
+    - 2.6:
+        non_striker: P Kurup
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Asif Ali
+        wicket:
+          player_out: Asif Ali
+          fielders:
+          - LN Oluoch
+          kind: caught
+    - 3.1:
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Fiaz Ahmed
+        actual_delivery: '3.1'
+        batsman: P Kurup
+    - 3.2:
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Fiaz Ahmed
+        actual_delivery: '3.2'
+        batsman: P Kurup
+    - 3.3:
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Fiaz Ahmed
+        actual_delivery: '3.3'
+        batsman: P Kurup
+    - 3.4:
+        non_striker: P Kurup
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Fiaz Ahmed
+    - 3.5:
+        non_striker: P Kurup
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Fiaz Ahmed
+    - 3.6:
+        non_striker: P Kurup
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: Fiaz Ahmed
+    - 4.1:
+        non_striker: P Kurup
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: Fiaz Ahmed
+    - 4.2:
+        non_striker: Fiaz Ahmed
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: P Kurup
+    - 4.3:
+        non_striker: Fiaz Ahmed
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.3'
+        batsman: P Kurup
+    - 4.4:
+        non_striker: Fiaz Ahmed
+        bowler: LN Oluoch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.4'
+        batsman: P Kurup
+    - 4.5:
+        non_striker: Fiaz Ahmed
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: P Kurup
+    - 4.6:
+        non_striker: Fiaz Ahmed
+        bowler: LN Oluoch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '4.5'
+        batsman: P Kurup
+    - 4.7:
+        non_striker: P Kurup
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Fiaz Ahmed
+    - 5.1:
+        non_striker: Fiaz Ahmed
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: P Kurup
+    - 5.2:
+        non_striker: P Kurup
+        bowler: SO Ngoche
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '5.2'
+        batsman: Fiaz Ahmed
+    - 5.3:
+        non_striker: Fiaz Ahmed
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: P Kurup
+    - 5.4:
+        non_striker: Fiaz Ahmed
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: P Kurup
+    - 5.5:
+        non_striker: P Kurup
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.4'
+        batsman: Fiaz Ahmed
+    - 5.6:
+        non_striker: P Kurup
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: Fiaz Ahmed
+    - 5.7:
+        non_striker: Fiaz Ahmed
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: P Kurup
+    - 6.1:
+        non_striker: P Kurup
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: Fiaz Ahmed
+    - 6.2:
+        non_striker: Fiaz Ahmed
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: P Kurup
+    - 6.3:
+        non_striker: Fiaz Ahmed
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: P Kurup
+    - 6.4:
+        non_striker: Fiaz Ahmed
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: P Kurup
+    - 6.5:
+        non_striker: P Kurup
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Fiaz Ahmed
+    - 6.6:
+        non_striker: P Kurup
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: Fiaz Ahmed
+    - 7.1:
+        non_striker: P Kurup
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: Fiaz Ahmed
+    - 7.2:
+        non_striker: P Kurup
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.2'
+        batsman: Fiaz Ahmed
+    - 7.3:
+        non_striker: P Kurup
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: Fiaz Ahmed
+    - 7.4:
+        non_striker: P Kurup
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: Fiaz Ahmed
+    - 7.5:
+        non_striker: P Kurup
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.5'
+        batsman: Fiaz Ahmed
+    - 7.6:
+        non_striker: P Kurup
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: Fiaz Ahmed
+    - 8.1:
+        non_striker: P Kurup
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: Fiaz Ahmed
+    - 8.2:
+        non_striker: Fiaz Ahmed
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: P Kurup
+    - 8.3:
+        non_striker: P Kurup
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: Fiaz Ahmed
+    - 8.4:
+        non_striker: Fiaz Ahmed
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: P Kurup
+    - 8.5:
+        non_striker: P Kurup
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Fiaz Ahmed
+    - 8.6:
+        non_striker: Fiaz Ahmed
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.6'
+        batsman: P Kurup
+    - 9.1:
+        non_striker: P Kurup
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '9.1'
+        batsman: Fiaz Ahmed
+    - 9.2:
+        non_striker: P Kurup
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Fiaz Ahmed
+    - 9.3:
+        non_striker: P Kurup
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '9.3'
+        batsman: Fiaz Ahmed
+    - 9.4:
+        non_striker: P Kurup
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: Fiaz Ahmed
+    - 9.5:
+        non_striker: Fiaz Ahmed
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: P Kurup
+    - 9.6:
+        non_striker: P Kurup
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: Fiaz Ahmed
+    - 10.1:
+        non_striker: Fiaz Ahmed
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: P Kurup
+    - 10.2:
+        non_striker: P Kurup
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: Fiaz Ahmed
+    - 10.3:
+        non_striker: Fiaz Ahmed
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: P Kurup
+    - 10.4:
+        non_striker: P Kurup
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: Fiaz Ahmed
+    - 10.5:
+        non_striker: Fiaz Ahmed
+        bowler: SO Ngoche
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.5'
+        batsman: P Kurup
+    - 10.6:
+        non_striker: Fiaz Ahmed
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: P Kurup
+    - 10.7:
+        non_striker: P Kurup
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.6'
+        batsman: Fiaz Ahmed
+    - 11.1:
+        non_striker: Fiaz Ahmed
+        bowler: LN Oluoch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '11.1'
+        batsman: P Kurup
+    - 11.2:
+        non_striker: P Kurup
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.2'
+        batsman: Fiaz Ahmed
+    - 11.3:
+        non_striker: P Kurup
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.3'
+        batsman: Fiaz Ahmed
+    - 11.4:
+        non_striker: P Kurup
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: Fiaz Ahmed
+    - 11.5:
+        non_striker: Fiaz Ahmed
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: P Kurup
+    - 11.6:
+        non_striker: P Kurup
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Fiaz Ahmed
+    - 12.1:
+        non_striker: P Kurup
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: Fiaz Ahmed
+    - 12.2:
+        non_striker: Fiaz Ahmed
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: P Kurup
+    - 12.3:
+        non_striker: Fiaz Ahmed
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: P Kurup
+    - 12.4:
+        non_striker: P Kurup
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: Fiaz Ahmed
+    - 12.5:
+        non_striker: Fiaz Ahmed
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: P Kurup
+    - 12.6:
+        non_striker: P Kurup
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Fiaz Ahmed
+    - 13.1:
+        non_striker: Fiaz Ahmed
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: P Kurup
+        wicket:
+          player_out: P Kurup
+          kind: bowled
+    - 13.2:
+        non_striker: Fiaz Ahmed
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: Sohail Ahmed
+    - 13.3:
+        non_striker: Fiaz Ahmed
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Sohail Ahmed
+    - 13.4:
+        non_striker: Sohail Ahmed
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.4'
+        batsman: Fiaz Ahmed
+    - 13.5:
+        non_striker: Sohail Ahmed
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: Fiaz Ahmed
+    - 13.6:
+        non_striker: Fiaz Ahmed
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: Sohail Ahmed
+    - 14.1:
+        non_striker: Sohail Ahmed
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.1'
+        batsman: Fiaz Ahmed
+    - 14.2:
+        non_striker: Sohail Ahmed
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: Fiaz Ahmed
+    - 14.3:
+        non_striker: Fiaz Ahmed
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: Sohail Ahmed
+    - 14.4:
+        non_striker: Sohail Ahmed
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.4'
+        batsman: Fiaz Ahmed
+    - 14.5:
+        non_striker: Sohail Ahmed
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: Fiaz Ahmed
+    - 14.6:
+        non_striker: Fiaz Ahmed
+        bowler: LN Oluoch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.6'
+        batsman: Sohail Ahmed
+    - 14.7:
+        non_striker: Fiaz Ahmed
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: Sohail Ahmed
+    - 15.1:
+        non_striker: Fiaz Ahmed
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: Sohail Ahmed
+    - 15.2:
+        non_striker: Sohail Ahmed
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.2'
+        batsman: Fiaz Ahmed
+    - 15.3:
+        non_striker: Sohail Ahmed
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.3'
+        batsman: Fiaz Ahmed
+    - 15.4:
+        non_striker: Sohail Ahmed
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: Fiaz Ahmed
+    - 15.5:
+        non_striker: Sohail Ahmed
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.5'
+        batsman: Fiaz Ahmed
+    - 15.6:
+        non_striker: Sohail Ahmed
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.6'
+        batsman: Fiaz Ahmed
+    - 16.1:
+        non_striker: Fiaz Ahmed
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.1'
+        batsman: Sohail Ahmed
+    - 16.2:
+        non_striker: Fiaz Ahmed
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: Sohail Ahmed
+    - 16.3:
+        non_striker: Sohail Ahmed
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: Fiaz Ahmed
+    - 16.4:
+        non_striker: Fiaz Ahmed
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: Sohail Ahmed
+    - 16.5:
+        non_striker: Fiaz Ahmed
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: Sohail Ahmed
+    - 16.6:
+        non_striker: Fiaz Ahmed
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: Sohail Ahmed
+    - 17.1:
+        non_striker: Fiaz Ahmed
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: Sohail Ahmed
+    - 17.2:
+        non_striker: Sohail Ahmed
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: Fiaz Ahmed
+    - 17.3:
+        non_striker: Fiaz Ahmed
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.3'
+        batsman: Sohail Ahmed
+    - 17.4:
+        non_striker: Fiaz Ahmed
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: Sohail Ahmed
+    - 17.5:
+        non_striker: Sohail Ahmed
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: Fiaz Ahmed
+    - 17.6:
+        non_striker: Fiaz Ahmed
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: Sohail Ahmed
+    - 18.1:
+        non_striker: Sohail Ahmed
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: Fiaz Ahmed
+        wicket:
+          player_out: Fiaz Ahmed
+          kind: caught and bowled
+    - 18.2:
+        non_striker: Sohail Ahmed
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: Ahmer Bin Nisar
+    - 18.3:
+        non_striker: Sohail Ahmed
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: Ahmer Bin Nisar
+    - 18.4:
+        non_striker: Ahmer Bin Nisar
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: Sohail Ahmed
+    - 18.5:
+        non_striker: Ahmer Bin Nisar
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.5'
+        batsman: Sohail Ahmed
+    - 18.6:
+        non_striker: Ahmer Bin Nisar
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: Sohail Ahmed
+    - 19.1:
+        non_striker: Ahmer Bin Nisar
+        bowler: DM Gondaria
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.1'
+        batsman: Sohail Ahmed
+    - 19.2:
+        non_striker: Ahmer Bin Nisar
+        bowler: DM Gondaria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: Sohail Ahmed
+    - 19.3:
+        non_striker: Sohail Ahmed
+        bowler: DM Gondaria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.3'
+        batsman: Ahmer Bin Nisar
+    - 19.4:
+        non_striker: Ahmer Bin Nisar
+        bowler: DM Gondaria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: Sohail Ahmed
+    - 19.5:
+        non_striker: Sohail Ahmed
+        bowler: DM Gondaria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: Ahmer Bin Nisar
+        wicket:
+          player_out: Ahmer Bin Nisar
+          fielders:
+          - RR Patel
+          kind: caught
+    - 19.6:
+        non_striker: Sohail Ahmed
+        bowler: DM Gondaria
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.6'
+        batsman: Imran Anwar
+- 2nd innings:
+    team: Kenya
+    deliveries:
+    - 0.1:
+        bowler: Ali Dawood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: DM Gondaria
+        actual_delivery: '0.1'
+        batsman: Subham Patel
+    - 0.2:
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: DM Gondaria
+        actual_delivery: '0.1'
+        batsman: Subham Patel
+    - 0.3:
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DM Gondaria
+        actual_delivery: '0.2'
+        batsman: Subham Patel
+    - 0.4:
+        non_striker: Subham Patel
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: DM Gondaria
+    - 0.5:
+        non_striker: Subham Patel
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.4'
+        batsman: DM Gondaria
+    - 0.6:
+        non_striker: Subham Patel
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: DM Gondaria
+    - 0.7:
+        non_striker: Subham Patel
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: DM Gondaria
+    - 1.1:
+        non_striker: DM Gondaria
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: Subham Patel
+    - 1.2:
+        non_striker: Subham Patel
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.2'
+        batsman: DM Gondaria
+    - 1.3:
+        non_striker: Subham Patel
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.3'
+        batsman: DM Gondaria
+    - 1.4:
+        non_striker: Subham Patel
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.4'
+        batsman: DM Gondaria
+    - 1.5:
+        non_striker: Subham Patel
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: DM Gondaria
+    - 1.6:
+        non_striker: Subham Patel
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: DM Gondaria
+    - 2.1:
+        non_striker: Subham Patel
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.1'
+        batsman: DM Gondaria
+    - 2.2:
+        non_striker: Subham Patel
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: DM Gondaria
+    - 2.3:
+        non_striker: Subham Patel
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.3'
+        batsman: DM Gondaria
+    - 2.4:
+        non_striker: Subham Patel
+        bowler: Ali Dawood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '2.4'
+        batsman: DM Gondaria
+    - 2.5:
+        non_striker: DM Gondaria
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: Subham Patel
+    - 2.6:
+        non_striker: DM Gondaria
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: Subham Patel
+    - 3.1:
+        non_striker: DM Gondaria
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Subham Patel
+    - 3.2:
+        non_striker: DM Gondaria
+        bowler: Imran Anwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.2'
+        batsman: Subham Patel
+    - 3.3:
+        non_striker: DM Gondaria
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Subham Patel
+    - 3.4:
+        non_striker: DM Gondaria
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.3'
+        batsman: Subham Patel
+    - 3.5:
+        non_striker: DM Gondaria
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.4'
+        batsman: Subham Patel
+    - 3.6:
+        non_striker: DM Gondaria
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: Subham Patel
+    - 3.7:
+        non_striker: Subham Patel
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.6'
+        batsman: DM Gondaria
+    - 4.1:
+        non_striker: DM Gondaria
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: Subham Patel
+    - 4.2:
+        non_striker: DM Gondaria
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: Subham Patel
+        wicket:
+          player_out: Subham Patel
+          kind: bowled
+    - 4.3:
+        non_striker: DM Gondaria
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: RN Patel
+        wicket:
+          player_out: RN Patel
+          kind: bowled
+    - 4.4:
+        non_striker: DM Gondaria
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: SR Bhudia
+    - 4.5:
+        non_striker: DM Gondaria
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: SR Bhudia
+        wicket:
+          player_out: SR Bhudia
+          kind: lbw
+    - 4.6:
+        non_striker: DM Gondaria
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: RR Patel
+    - 5.1:
+        non_striker: RR Patel
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.1'
+        batsman: DM Gondaria
+    - 5.2:
+        non_striker: RR Patel
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.2'
+        batsman: DM Gondaria
+    - 5.3:
+        non_striker: RR Patel
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: DM Gondaria
+    - 5.4:
+        non_striker: RR Patel
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: DM Gondaria
+    - 5.5:
+        non_striker: RR Patel
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.5'
+        batsman: DM Gondaria
+    - 5.6:
+        non_striker: RR Patel
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: DM Gondaria
+    - 6.1:
+        non_striker: DM Gondaria
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: RR Patel
+    - 6.2:
+        non_striker: DM Gondaria
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: RR Patel
+    - 6.3:
+        non_striker: DM Gondaria
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: RR Patel
+    - 6.4:
+        non_striker: RR Patel
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: DM Gondaria
+    - 6.5:
+        non_striker: DM Gondaria
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: RR Patel
+        wicket:
+          player_out: RR Patel
+          kind: bowled
+    - 6.6:
+        non_striker: DM Gondaria
+        bowler: Rizwan Butt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '6.6'
+        batsman: S Gill
+    - 7.1:
+        non_striker: DM Gondaria
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: S Gill
+    - 7.2:
+        non_striker: DM Gondaria
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.2'
+        batsman: S Gill
+    - 7.3:
+        non_striker: DM Gondaria
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.3'
+        batsman: S Gill
+    - 7.4:
+        non_striker: DM Gondaria
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: S Gill
+    - 7.5:
+        non_striker: S Gill
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: DM Gondaria
+    - 7.6:
+        non_striker: DM Gondaria
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.6'
+        batsman: S Gill
+    - 8.1:
+        non_striker: S Gill
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: DM Gondaria
+    - 8.2:
+        non_striker: S Gill
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: DM Gondaria
+    - 8.3:
+        non_striker: DM Gondaria
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: S Gill
+    - 8.4:
+        non_striker: DM Gondaria
+        bowler: Rizwan Butt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.4'
+        batsman: S Gill
+    - 8.5:
+        non_striker: DM Gondaria
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: S Gill
+    - 8.6:
+        non_striker: S Gill
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: DM Gondaria
+    - 8.7:
+        non_striker: S Gill
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: DM Gondaria
+    - 9.1:
+        non_striker: S Gill
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: DM Gondaria
+    - 9.2:
+        non_striker: DM Gondaria
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.2'
+        batsman: S Gill
+    - 9.3:
+        non_striker: DM Gondaria
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: S Gill
+    - 9.4:
+        non_striker: DM Gondaria
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: S Gill
+        wicket:
+          player_out: S Gill
+          fielders:
+          - Sohail Ahmed
+          kind: caught
+    - 9.5:
+        non_striker: DM Gondaria
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.5'
+        batsman: S Singh
+    - 9.6:
+        non_striker: DM Gondaria
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.6'
+        batsman: S Singh
+    - 10.1:
+        non_striker: S Singh
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: DM Gondaria
+    - 10.2:
+        non_striker: S Singh
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.2'
+        batsman: DM Gondaria
+    - 10.3:
+        non_striker: S Singh
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: DM Gondaria
+    - 10.4:
+        non_striker: S Singh
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: DM Gondaria
+    - 10.5:
+        non_striker: S Singh
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: DM Gondaria
+    - 10.6:
+        non_striker: DM Gondaria
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: S Singh
+    - 11.1:
+        non_striker: DM Gondaria
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: S Singh
+    - 11.2:
+        non_striker: DM Gondaria
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: S Singh
+        wicket:
+          player_out: S Singh
+          kind: bowled
+    - 11.3:
+        non_striker: DM Gondaria
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.3'
+        batsman: SO Ngoche
+    - 11.4:
+        non_striker: DM Gondaria
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: SO Ngoche
+    - 11.5:
+        non_striker: SO Ngoche
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: DM Gondaria
+    - 11.6:
+        non_striker: DM Gondaria
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: SO Ngoche
+    - 12.1:
+        non_striker: SO Ngoche
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: DM Gondaria
+    - 12.2:
+        non_striker: SO Ngoche
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: DM Gondaria
+    - 12.3:
+        non_striker: DM Gondaria
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: SO Ngoche
+    - 12.4:
+        non_striker: DM Gondaria
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: SO Ngoche
+    - 12.5:
+        non_striker: DM Gondaria
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: SO Ngoche
+    - 12.6:
+        non_striker: DM Gondaria
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: SO Ngoche
+    - 13.1:
+        non_striker: SO Ngoche
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: DM Gondaria
+    - 13.2:
+        non_striker: DM Gondaria
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: SO Ngoche
+    - 13.3:
+        non_striker: DM Gondaria
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: SO Ngoche
+    - 13.4:
+        non_striker: DM Gondaria
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: SO Ngoche
+    - 13.5:
+        non_striker: DM Gondaria
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: SO Ngoche
+    - 13.6:
+        non_striker: DM Gondaria
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: SO Ngoche
+    - 14.1:
+        non_striker: SO Ngoche
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: DM Gondaria
+    - 14.2:
+        non_striker: SO Ngoche
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.2'
+        batsman: DM Gondaria
+    - 14.3:
+        non_striker: SO Ngoche
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: DM Gondaria
+    - 14.4:
+        non_striker: DM Gondaria
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.4'
+        batsman: SO Ngoche
+    - 14.5:
+        non_striker: DM Gondaria
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: SO Ngoche
+    - 14.6:
+        non_striker: DM Gondaria
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: SO Ngoche
+    - 15.1:
+        non_striker: SO Ngoche
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: DM Gondaria
+    - 15.2:
+        non_striker: DM Gondaria
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: SO Ngoche
+    - 15.3:
+        non_striker: DM Gondaria
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: SO Ngoche
+    - 15.4:
+        non_striker: SO Ngoche
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: DM Gondaria
+    - 15.5:
+        non_striker: DM Gondaria
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.5'
+        batsman: SO Ngoche
+    - 15.6:
+        non_striker: DM Gondaria
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: SO Ngoche
+    - 16.1:
+        non_striker: SO Ngoche
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: DM Gondaria
+    - 16.2:
+        non_striker: DM Gondaria
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: SO Ngoche
+    - 16.3:
+        non_striker: SO Ngoche
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: DM Gondaria
+    - 16.4:
+        non_striker: DM Gondaria
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: SO Ngoche
+        wicket:
+          player_out: SO Ngoche
+          kind: bowled
+    - 16.5:
+        non_striker: DM Gondaria
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.5'
+        batsman: LN Oluoch
+    - 16.6:
+        non_striker: DM Gondaria
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: LN Oluoch
+    - 17.1:
+        non_striker: DM Gondaria
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: LN Oluoch
+    - 17.2:
+        non_striker: DM Gondaria
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.2'
+        batsman: LN Oluoch
+    - 17.3:
+        non_striker: DM Gondaria
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: LN Oluoch
+    - 17.4:
+        non_striker: LN Oluoch
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: DM Gondaria
+    - 17.5:
+        non_striker: DM Gondaria
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: LN Oluoch
+    - 17.6:
+        non_striker: LN Oluoch
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.6'
+        batsman: DM Gondaria
+    - 18.1:
+        non_striker: DM Gondaria
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: LN Oluoch
+    - 18.2:
+        non_striker: LN Oluoch
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.2'
+        batsman: DM Gondaria
+    - 18.3:
+        non_striker: LN Oluoch
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: DM Gondaria
+    - 18.4:
+        non_striker: DM Gondaria
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: LN Oluoch
+    - 18.5:
+        non_striker: LN Oluoch
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.5'
+        batsman: DM Gondaria
+    - 18.6:
+        non_striker: LN Oluoch
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: DM Gondaria
+        wicket:
+          player_out: DM Gondaria
+          fielders:
+          - P Kurup
+          kind: run out
+    - 19.1:
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Vishil Patel
+        actual_delivery: '19.1'
+        batsman: LN Oluoch
+    - 19.2:
+        non_striker: LN Oluoch
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: Vishil Patel
+    - 19.3:
+        non_striker: Vishil Patel
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: LN Oluoch
+    - 19.4:
+        non_striker: Vishil Patel
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.4'
+        batsman: LN Oluoch
+    - 19.5:
+        non_striker: Vishil Patel
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.5'
+        batsman: LN Oluoch
+    - 19.6:
+        non_striker: Vishil Patel
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: LN Oluoch
+    target:
+      overs: 20
+      runs: 160

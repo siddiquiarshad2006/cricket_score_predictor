@@ -1,0 +1,2033 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-08-31'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Windhoek
+  dates:
+  - '2026-08-29'
+  gender: male
+  match_type: T20
+  match_type_number: 4098
+  outcome:
+    winner: South Africa
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - D Brevis
+  players:
+    Zimbabwe:
+    - BJ Bennett
+    - BJ Curran
+    - D Myers
+    - Sikandar Raza
+    - RP Burl
+    - W Madhevere
+    - T Marumani
+    - B Evans
+    - NT Nyamhuri
+    - B Muzarabani
+    - AG Cremer
+    South Africa:
+    - LG Pretorius
+    - J Hermann
+    - D Brevis
+    - T de Zorzi
+    - RA Herman
+    - C Esterhuizen
+    - E Bosch
+    - D Jansen
+    - BC Fortuin
+    - P Subrayen
+    - KT Maphaka
+  registry:
+    people:
+      AG Cremer: 9f0270e0
+      B Evans: e7e86505
+      B Muzarabani: 449f4e3c
+      BC Fortuin: 9a2fc964
+      BJ Bennett: eaa36b2a
+      BJ Curran: 1786a21b
+      C Esterhuizen: ef9acbcc
+      Claus Schumacher: 85645e62
+      D Brevis: 844e79d1
+      D Jansen: 8dc152d1
+      D Myers: d96165b5
+      E Bosch: 28d6c44d
+      E Lassen: a476d6d0
+      GF Labrooy: 8e088dbc
+      J Hermann: e87aeca2
+      KT Maphaka: 107c26fb
+      L Rusere: 6a4734ae
+      LG Pretorius: 60aa2db3
+      NT Nyamhuri: 943ca0cd
+      P Subrayen: 7ec9711d
+      RA Herman: 9c821d2e
+      RP Burl: b08252b8
+      Sikandar Raza: 26d041c4
+      T Marumani: 3d5d51a5
+      T de Zorzi: d3a1c63d
+      W Madhevere: a879b92c
+  team_type: international
+  teams:
+  - Zimbabwe
+  - South Africa
+  toss:
+    winner: Zimbabwe
+    decision: bat
+  umpires:
+  - Claus Schumacher
+  - E Lassen
+  venue: Namibia Cricket Ground, Windhoek
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: BJ Curran
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: BJ Bennett
+    - 0.2:
+        non_striker: BJ Curran
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.2'
+        batsman: BJ Bennett
+    - 0.3:
+        non_striker: BJ Bennett
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: BJ Curran
+    - 0.4:
+        non_striker: BJ Curran
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.4'
+        batsman: BJ Bennett
+    - 0.5:
+        non_striker: BJ Curran
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: BJ Bennett
+    - 0.6:
+        non_striker: BJ Bennett
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: BJ Curran
+    - 1.1:
+        non_striker: BJ Curran
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: BJ Bennett
+    - 1.2:
+        non_striker: BJ Bennett
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: BJ Curran
+    - 1.3:
+        non_striker: BJ Bennett
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: BJ Curran
+    - 1.4:
+        non_striker: BJ Bennett
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.4'
+        batsman: BJ Curran
+    - 1.5:
+        non_striker: BJ Bennett
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: BJ Curran
+    - 1.6:
+        non_striker: BJ Bennett
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: BJ Curran
+    - 2.1:
+        non_striker: BJ Curran
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.1'
+        batsman: BJ Bennett
+    - 2.2:
+        non_striker: BJ Curran
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: BJ Bennett
+    - 2.3:
+        non_striker: BJ Curran
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: BJ Bennett
+    - 2.4:
+        non_striker: BJ Curran
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.4'
+        batsman: BJ Bennett
+    - 2.5:
+        non_striker: BJ Curran
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: BJ Bennett
+    - 2.6:
+        non_striker: BJ Curran
+        bowler: E Bosch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.6'
+        batsman: BJ Bennett
+    - 2.7:
+        non_striker: BJ Curran
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: BJ Bennett
+    - 3.1:
+        non_striker: BJ Bennett
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: BJ Curran
+    - 3.2:
+        non_striker: BJ Curran
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: BJ Bennett
+    - 3.3:
+        non_striker: BJ Curran
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: BJ Bennett
+    - 3.4:
+        non_striker: BJ Bennett
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.4'
+        batsman: BJ Curran
+    - 3.5:
+        non_striker: BJ Bennett
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.5'
+        batsman: BJ Curran
+    - 3.6:
+        non_striker: BJ Bennett
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: BJ Curran
+    - 4.1:
+        non_striker: BJ Curran
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: BJ Bennett
+    - 4.2:
+        non_striker: BJ Curran
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: BJ Bennett
+    - 4.3:
+        non_striker: BJ Curran
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: BJ Bennett
+    - 4.4:
+        non_striker: BJ Curran
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: BJ Bennett
+    - 4.5:
+        non_striker: BJ Curran
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: BJ Bennett
+    - 4.6:
+        non_striker: BJ Curran
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: BJ Bennett
+    - 5.1:
+        non_striker: BJ Bennett
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: BJ Curran
+        wicket:
+          player_out: BJ Curran
+          fielders:
+          - T de Zorzi
+          kind: caught
+    - 5.2:
+        non_striker: BJ Bennett
+        bowler: D Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.2'
+        batsman: D Myers
+    - 5.3:
+        non_striker: BJ Bennett
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.2'
+        batsman: D Myers
+    - 5.4:
+        non_striker: BJ Bennett
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: D Myers
+    - 5.5:
+        non_striker: D Myers
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: BJ Bennett
+    - 5.6:
+        non_striker: D Myers
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: BJ Bennett
+    - 5.7:
+        non_striker: D Myers
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: BJ Bennett
+    - 6.1:
+        non_striker: BJ Bennett
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: D Myers
+    - 6.2:
+        non_striker: D Myers
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: BJ Bennett
+    - 6.3:
+        non_striker: D Myers
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.3'
+        batsman: BJ Bennett
+    - 6.4:
+        non_striker: D Myers
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: BJ Bennett
+    - 6.5:
+        non_striker: BJ Bennett
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: D Myers
+    - 6.6:
+        non_striker: BJ Bennett
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: D Myers
+    - 7.1:
+        non_striker: BJ Bennett
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.1'
+        batsman: D Myers
+    - 7.2:
+        non_striker: BJ Bennett
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: D Myers
+    - 7.3:
+        non_striker: BJ Bennett
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.3'
+        batsman: D Myers
+    - 7.4:
+        non_striker: BJ Bennett
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: D Myers
+    - 7.5:
+        non_striker: BJ Bennett
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: D Myers
+    - 7.6:
+        non_striker: BJ Bennett
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: D Myers
+    - 8.1:
+        non_striker: BJ Bennett
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.1'
+        batsman: D Myers
+    - 8.2:
+        non_striker: BJ Bennett
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: D Myers
+    - 8.3:
+        non_striker: BJ Bennett
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: D Myers
+    - 8.4:
+        non_striker: D Myers
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: BJ Bennett
+    - 8.5:
+        non_striker: BJ Bennett
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: D Myers
+    - 8.6:
+        non_striker: D Myers
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: BJ Bennett
+    - 9.1:
+        non_striker: D Myers
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: BJ Bennett
+    - 9.2:
+        non_striker: D Myers
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: BJ Bennett
+    - 9.3:
+        non_striker: D Myers
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: BJ Bennett
+    - 9.4:
+        non_striker: D Myers
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: BJ Bennett
+    - 9.5:
+        non_striker: D Myers
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: BJ Bennett
+    - 9.6:
+        non_striker: BJ Bennett
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: D Myers
+    - 10.1:
+        non_striker: BJ Bennett
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: D Myers
+        wicket:
+          player_out: D Myers
+          fielders:
+          - E Bosch
+          kind: caught
+    - 10.2:
+        non_striker: BJ Bennett
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: Sikandar Raza
+    - 10.3:
+        non_striker: Sikandar Raza
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: BJ Bennett
+    - 10.4:
+        non_striker: Sikandar Raza
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: BJ Bennett
+    - 10.5:
+        non_striker: BJ Bennett
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: Sikandar Raza
+    - 10.6:
+        non_striker: BJ Bennett
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: Sikandar Raza
+    - 11.1:
+        non_striker: BJ Bennett
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: Sikandar Raza
+    - 11.2:
+        non_striker: Sikandar Raza
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: BJ Bennett
+        wicket:
+          player_out: BJ Bennett
+          kind: bowled
+    - 11.3:
+        non_striker: Sikandar Raza
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: RP Burl
+    - 11.4:
+        non_striker: Sikandar Raza
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: RP Burl
+    - 11.5:
+        non_striker: RP Burl
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Sikandar Raza
+    - 11.6:
+        non_striker: RP Burl
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Sikandar Raza
+    - 12.1:
+        non_striker: RP Burl
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Sikandar Raza
+    - 12.2:
+        non_striker: RP Burl
+        bowler: E Bosch
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        actual_delivery: '12.2'
+        batsman: Sikandar Raza
+    - 12.3:
+        non_striker: RP Burl
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: Sikandar Raza
+    - 12.4:
+        non_striker: RP Burl
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: Sikandar Raza
+    - 12.5:
+        non_striker: RP Burl
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: Sikandar Raza
+    - 12.6:
+        non_striker: Sikandar Raza
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: RP Burl
+    - 13.1:
+        non_striker: RP Burl
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: Sikandar Raza
+    - 13.2:
+        non_striker: RP Burl
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.2'
+        batsman: Sikandar Raza
+    - 13.3:
+        non_striker: RP Burl
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Sikandar Raza
+    - 13.4:
+        non_striker: Sikandar Raza
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: RP Burl
+    - 13.5:
+        non_striker: RP Burl
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Sikandar Raza
+    - 13.6:
+        non_striker: RP Burl
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.6'
+        batsman: Sikandar Raza
+    - 14.1:
+        non_striker: Sikandar Raza
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: RP Burl
+    - 14.2:
+        non_striker: RP Burl
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          fielders:
+          - J Hermann
+          kind: caught
+    - 14.3:
+        non_striker: RP Burl
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: W Madhevere
+    - 14.4:
+        non_striker: RP Burl
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: W Madhevere
+    - 14.5:
+        non_striker: RP Burl
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: W Madhevere
+    - 14.6:
+        non_striker: W Madhevere
+        bowler: E Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: RP Burl
+    - 15.1:
+        non_striker: W Madhevere
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: RP Burl
+        wicket:
+          player_out: RP Burl
+          kind: bowled
+    - 15.2:
+        non_striker: W Madhevere
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: T Marumani
+    - 15.3:
+        non_striker: T Marumani
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.3'
+        batsman: W Madhevere
+    - 15.4:
+        non_striker: T Marumani
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: W Madhevere
+    - 15.5:
+        non_striker: W Madhevere
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.5'
+        batsman: T Marumani
+    - 15.6:
+        non_striker: W Madhevere
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: T Marumani
+    - 16.1:
+        non_striker: T Marumani
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: W Madhevere
+    - 16.2:
+        non_striker: T Marumani
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: W Madhevere
+    - 16.3:
+        non_striker: W Madhevere
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: T Marumani
+    - 16.4:
+        non_striker: W Madhevere
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.4'
+        batsman: T Marumani
+    - 16.5:
+        non_striker: W Madhevere
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: T Marumani
+    - 16.6:
+        non_striker: T Marumani
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: W Madhevere
+    - 17.1:
+        non_striker: T Marumani
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: W Madhevere
+    - 17.2:
+        non_striker: W Madhevere
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.2'
+        batsman: T Marumani
+    - 17.3:
+        non_striker: W Madhevere
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.3'
+        batsman: T Marumani
+    - 17.4:
+        non_striker: W Madhevere
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.4'
+        batsman: T Marumani
+    - 17.5:
+        non_striker: W Madhevere
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.5'
+        batsman: T Marumani
+    - 17.6:
+        non_striker: W Madhevere
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: T Marumani
+    - 18.1:
+        non_striker: T Marumani
+        bowler: KT Maphaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.1'
+        batsman: W Madhevere
+    - 18.2:
+        non_striker: T Marumani
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: W Madhevere
+    - 18.3:
+        non_striker: T Marumani
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.2'
+        batsman: W Madhevere
+    - 18.4:
+        non_striker: T Marumani
+        bowler: KT Maphaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.3'
+        batsman: W Madhevere
+    - 18.5:
+        non_striker: T Marumani
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: W Madhevere
+    - 18.6:
+        non_striker: T Marumani
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: W Madhevere
+    - 18.7:
+        non_striker: W Madhevere
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.5'
+        batsman: T Marumani
+    - 18.8:
+        non_striker: W Madhevere
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: T Marumani
+        wicket:
+          player_out: T Marumani
+          fielders:
+          - J Hermann
+          kind: caught
+    - 19.1:
+        non_striker: B Evans
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.1'
+        batsman: W Madhevere
+        wicket:
+          player_out: W Madhevere
+          fielders:
+          - D Brevis
+          kind: caught
+    - 19.2:
+        non_striker: B Evans
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: NT Nyamhuri
+    - 19.3:
+        non_striker: NT Nyamhuri
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.3'
+        batsman: B Evans
+    - 19.4:
+        non_striker: NT Nyamhuri
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: B Evans
+        wicket:
+          player_out: B Evans
+          fielders:
+          - LG Pretorius
+          kind: caught
+    - 19.5:
+        non_striker: NT Nyamhuri
+        bowler: D Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '19.5'
+        batsman: B Muzarabani
+    - 19.6:
+        non_striker: B Muzarabani
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: NT Nyamhuri
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: J Hermann
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.1'
+        batsman: LG Pretorius
+    - 0.2:
+        non_striker: LG Pretorius
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: J Hermann
+    - 0.3:
+        non_striker: LG Pretorius
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: J Hermann
+    - 0.4:
+        non_striker: J Hermann
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: LG Pretorius
+    - 0.5:
+        non_striker: J Hermann
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: LG Pretorius
+    - 0.6:
+        non_striker: LG Pretorius
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.6'
+        batsman: J Hermann
+    - 1.1:
+        non_striker: J Hermann
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: LG Pretorius
+    - 1.2:
+        non_striker: LG Pretorius
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: J Hermann
+    - 1.3:
+        non_striker: LG Pretorius
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: J Hermann
+    - 1.4:
+        non_striker: LG Pretorius
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: J Hermann
+    - 1.5:
+        non_striker: J Hermann
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.5'
+        batsman: LG Pretorius
+    - 1.6:
+        non_striker: J Hermann
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.6'
+        batsman: LG Pretorius
+    - 2.1:
+        non_striker: LG Pretorius
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: J Hermann
+    - 2.2:
+        non_striker: J Hermann
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: LG Pretorius
+    - 2.3:
+        non_striker: LG Pretorius
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: J Hermann
+    - 2.4:
+        non_striker: LG Pretorius
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.4'
+        batsman: J Hermann
+    - 2.5:
+        non_striker: LG Pretorius
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: J Hermann
+    - 2.6:
+        non_striker: LG Pretorius
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: J Hermann
+    - 3.1:
+        non_striker: LG Pretorius
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.1'
+        batsman: J Hermann
+    - 3.2:
+        non_striker: LG Pretorius
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: J Hermann
+        wicket:
+          player_out: J Hermann
+          fielders:
+          - W Madhevere
+          kind: caught
+    - 3.3:
+        non_striker: LG Pretorius
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.3'
+        batsman: D Brevis
+    - 3.4:
+        non_striker: LG Pretorius
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: D Brevis
+    - 3.5:
+        non_striker: LG Pretorius
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: D Brevis
+    - 3.6:
+        non_striker: D Brevis
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.6'
+        batsman: LG Pretorius
+    - 4.1:
+        non_striker: LG Pretorius
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.1'
+        batsman: D Brevis
+    - 4.2:
+        non_striker: LG Pretorius
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: D Brevis
+    - 4.3:
+        non_striker: LG Pretorius
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: D Brevis
+    - 4.4:
+        non_striker: LG Pretorius
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: D Brevis
+    - 4.5:
+        non_striker: LG Pretorius
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: D Brevis
+    - 4.6:
+        non_striker: LG Pretorius
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.6'
+        batsman: D Brevis
+    - 5.1:
+        non_striker: D Brevis
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: LG Pretorius
+    - 5.2:
+        non_striker: D Brevis
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.2'
+        batsman: LG Pretorius
+    - 5.3:
+        non_striker: D Brevis
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.3'
+        batsman: LG Pretorius
+    - 5.4:
+        non_striker: D Brevis
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: LG Pretorius
+    - 5.5:
+        non_striker: D Brevis
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: LG Pretorius
+        wicket:
+          player_out: LG Pretorius
+          fielders:
+          - RP Burl
+          kind: caught
+    - 5.6:
+        non_striker: D Brevis
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: T de Zorzi
+    - 6.1:
+        non_striker: T de Zorzi
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '6.1'
+        batsman: D Brevis
+    - 6.2:
+        non_striker: T de Zorzi
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '6.2'
+        batsman: D Brevis
+    - 6.3:
+        non_striker: T de Zorzi
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: D Brevis
+    - 6.4:
+        non_striker: D Brevis
+        bowler: AG Cremer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.4'
+        batsman: T de Zorzi
+    - 6.5:
+        non_striker: D Brevis
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: T de Zorzi
+    - 6.6:
+        non_striker: D Brevis
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: T de Zorzi
+    - 6.7:
+        non_striker: D Brevis
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: T de Zorzi
+    - 7.1:
+        non_striker: D Brevis
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: T de Zorzi
+    - 7.2:
+        non_striker: T de Zorzi
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: D Brevis
+    - 7.3:
+        non_striker: D Brevis
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.3'
+        batsman: T de Zorzi
+    - 7.4:
+        non_striker: D Brevis
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: T de Zorzi
+    - 7.5:
+        non_striker: T de Zorzi
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.5'
+        batsman: D Brevis
+    - 7.6:
+        non_striker: T de Zorzi
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: D Brevis
+    - 8.1:
+        non_striker: T de Zorzi
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: D Brevis
+    - 8.2:
+        non_striker: T de Zorzi
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.2'
+        batsman: D Brevis
+    - 8.3:
+        non_striker: T de Zorzi
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: D Brevis
+    - 8.4:
+        non_striker: D Brevis
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: T de Zorzi
+    - 8.5:
+        non_striker: D Brevis
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: T de Zorzi
+    - 8.6:
+        non_striker: T de Zorzi
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: D Brevis
+    - 9.1:
+        non_striker: T de Zorzi
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: D Brevis
+    - 9.2:
+        non_striker: T de Zorzi
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: D Brevis
+    - 9.3:
+        non_striker: D Brevis
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: T de Zorzi
+    - 9.4:
+        non_striker: D Brevis
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '9.4'
+        batsman: T de Zorzi
+    - 9.5:
+        non_striker: D Brevis
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: T de Zorzi
+    - 9.6:
+        non_striker: D Brevis
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: T de Zorzi
+    - 10.1:
+        non_striker: D Brevis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: T de Zorzi
+    - 10.2:
+        non_striker: T de Zorzi
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: D Brevis
+    - 10.3:
+        non_striker: D Brevis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: T de Zorzi
+    - 10.4:
+        non_striker: T de Zorzi
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: D Brevis
+    - 10.5:
+        non_striker: D Brevis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: T de Zorzi
+    - 10.6:
+        non_striker: D Brevis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: T de Zorzi
+        wicket:
+          player_out: T de Zorzi
+          fielders:
+          - W Madhevere
+          kind: caught
+    - 11.1:
+        non_striker: RA Herman
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '11.1'
+        batsman: D Brevis
+    - 11.2:
+        non_striker: RA Herman
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.2'
+        batsman: D Brevis
+    - 11.3:
+        non_striker: RA Herman
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: D Brevis
+    - 11.4:
+        non_striker: RA Herman
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '11.4'
+        batsman: D Brevis
+    - 11.5:
+        non_striker: RA Herman
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: D Brevis
+    - 11.6:
+        non_striker: D Brevis
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: RA Herman
+    - 12.1:
+        non_striker: RA Herman
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.1'
+        batsman: D Brevis
+    - 12.2:
+        non_striker: RA Herman
+        bowler: NT Nyamhuri
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '12.2'
+        batsman: D Brevis
+    - 12.3:
+        non_striker: D Brevis
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.2'
+        batsman: RA Herman
+    - 12.4:
+        non_striker: D Brevis
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: RA Herman
+    - 12.5:
+        non_striker: D Brevis
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: RA Herman
+    - 12.6:
+        non_striker: D Brevis
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.5'
+        batsman: RA Herman
+    - 12.7:
+        non_striker: D Brevis
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.6'
+        batsman: RA Herman
+    - 13.1:
+        non_striker: RA Herman
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: D Brevis
+    - 13.2:
+        non_striker: RA Herman
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: D Brevis
+    - 13.3:
+        non_striker: D Brevis
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: RA Herman
+    - 13.4:
+        non_striker: RA Herman
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.4'
+        batsman: D Brevis
+    target:
+      overs: 20
+      runs: 145

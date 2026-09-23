@@ -1,0 +1,2382 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-08-31'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ilfov County
+  dates:
+  - '2026-08-30'
+  gender: female
+  match_type: T20
+  match_type_number: 2984
+  outcome:
+    winner: Turkey
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - H Celik
+  players:
+    Isle of Man:
+    - L Barnett
+    - L Moore
+    - R Overman
+    - C Crowe
+    - Chloe Dillon
+    - Maisie Skillan
+    - J Hicks
+    - Anna Wilson
+    - Amelia Griffiths
+    - Grace Cottier
+    - Isabella Clarke
+    Turkey:
+    - D Tekyildirim
+    - H Celik
+    - M Bayram
+    - G Keles
+    - K Canavarci
+    - ZB Ender
+    - S Ozkunduz
+    - Ezgi Nur Kilic
+    - Suzan Turan
+    - Reyyan Aliusta
+    - MS Ercin
+  registry:
+    people:
+      Amelia Griffiths: 02c4fa15
+      Anna Wilson: 46edfd68
+      C Crowe: 9b671b41
+      Chloe Dillon: 6303c6b7
+      D Tekyildirim: ae5f7b63
+      Ezgi Nur Kilic: ec8132b2
+      G Keles: 3e84a803
+      Grace Cottier: 1ae34c14
+      H Celik: 266f372c
+      Isabella Clarke: bfb66913
+      J Hicks: 802febe2
+      K Canavarci: 556ad437
+      K Sukesh Prudhvi: e3415097
+      L Barnett: d9a2345a
+      L Moore: da50a075
+      M Bayram: 4867ffbf
+      MS Ercin: 7ff9306f
+      Maisie Skillan: 79b903ca
+      Nilkesh Patel: 194158ae
+      O Koilraj: 97d8c8bf
+      R Overman: 2ec52460
+      R Satheesan: 1125ebe4
+      Reyyan Aliusta: 7a8292a4
+      S Ozkunduz: 25850e31
+      Suzan Turan: fec8377a
+      ZB Ender: 54b592a5
+  team_type: international
+  teams:
+  - Isle of Man
+  - Turkey
+  toss:
+    winner: Turkey
+    decision: field
+  umpires:
+  - Nilkesh Patel
+  - O Koilraj
+  venue: Moara Vlasiei Cricket Ground, Ilfov County
+innings:
+- 1st innings:
+    team: Isle of Man
+    deliveries:
+    - 0.1:
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: L Moore
+        actual_delivery: '0.1'
+        batsman: L Barnett
+    - 0.2:
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Moore
+        actual_delivery: '0.1'
+        batsman: L Barnett
+    - 0.3:
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Moore
+        actual_delivery: '0.2'
+        batsman: L Barnett
+    - 0.4:
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: L Moore
+        actual_delivery: '0.3'
+        batsman: L Barnett
+    - 0.5:
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: L Moore
+        actual_delivery: '0.3'
+        batsman: L Barnett
+    - 0.6:
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Moore
+        actual_delivery: '0.4'
+        batsman: L Barnett
+    - 0.7:
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: L Moore
+        actual_delivery: '0.5'
+        batsman: L Barnett
+    - 0.8:
+        non_striker: L Moore
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: L Barnett
+    - 1.1:
+        non_striker: L Barnett
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: L Moore
+    - 1.2:
+        non_striker: L Barnett
+        bowler: K Canavarci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.2'
+        batsman: L Moore
+    - 1.3:
+        non_striker: L Barnett
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: L Moore
+    - 1.4:
+        non_striker: L Barnett
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: L Moore
+    - 1.5:
+        non_striker: L Moore
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: L Barnett
+    - 1.6:
+        non_striker: L Moore
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.5'
+        batsman: L Barnett
+    - 1.7:
+        non_striker: L Moore
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.6'
+        batsman: L Barnett
+    - 2.1:
+        non_striker: L Barnett
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.1'
+        batsman: L Moore
+    - 2.2:
+        non_striker: L Barnett
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: L Moore
+    - 2.3:
+        non_striker: L Barnett
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: L Moore
+        wicket:
+          player_out: L Moore
+          kind: lbw
+    - 2.4:
+        non_striker: L Barnett
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: R Overman
+    - 2.5:
+        non_striker: L Barnett
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: R Overman
+    - 2.6:
+        non_striker: L Barnett
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: R Overman
+    - 2.7:
+        non_striker: L Barnett
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: R Overman
+    - 3.1:
+        non_striker: R Overman
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: L Barnett
+    - 3.2:
+        non_striker: R Overman
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: L Barnett
+    - 3.3:
+        non_striker: R Overman
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: L Barnett
+    - 3.4:
+        non_striker: R Overman
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: L Barnett
+    - 3.5:
+        non_striker: L Barnett
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: R Overman
+    - 3.6:
+        non_striker: L Barnett
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: R Overman
+    - 4.1:
+        non_striker: R Overman
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: L Barnett
+    - 4.2:
+        non_striker: R Overman
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: L Barnett
+    - 4.3:
+        non_striker: R Overman
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.3'
+        batsman: L Barnett
+    - 4.4:
+        non_striker: R Overman
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: L Barnett
+    - 4.5:
+        non_striker: L Barnett
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: R Overman
+    - 4.6:
+        non_striker: R Overman
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        actual_delivery: '4.6'
+        batsman: L Barnett
+    - 4.7:
+        non_striker: R Overman
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.6'
+        batsman: L Barnett
+    - 4.8:
+        non_striker: R Overman
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.6'
+        batsman: L Barnett
+    - 4.9:
+        non_striker: R Overman
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.6'
+        batsman: L Barnett
+    - 5.1:
+        non_striker: L Barnett
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '5.1'
+        batsman: R Overman
+    - 5.2:
+        non_striker: L Barnett
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: R Overman
+    - 5.3:
+        non_striker: L Barnett
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: R Overman
+    - 5.4:
+        non_striker: L Barnett
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: R Overman
+    - 5.5:
+        non_striker: L Barnett
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: R Overman
+    - 5.6:
+        non_striker: R Overman
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '5.5'
+        batsman: L Barnett
+    - 5.7:
+        non_striker: L Barnett
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.5'
+        batsman: R Overman
+    - 5.8:
+        non_striker: L Barnett
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: R Overman
+    - 5.9:
+        non_striker: L Barnett
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: R Overman
+    - 6.1:
+        non_striker: R Overman
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '6.1'
+        batsman: L Barnett
+    - 6.2:
+        non_striker: L Barnett
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: R Overman
+    - 6.3:
+        non_striker: L Barnett
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: R Overman
+    - 6.4:
+        non_striker: R Overman
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: L Barnett
+    - 6.5:
+        non_striker: R Overman
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: L Barnett
+    - 6.6:
+        non_striker: L Barnett
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: R Overman
+    - 6.7:
+        non_striker: L Barnett
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: R Overman
+        wicket:
+          player_out: R Overman
+          kind: retired hurt
+    - 7.1:
+        non_striker: C Crowe
+        bowler: S Ozkunduz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.1'
+        batsman: L Barnett
+    - 7.2:
+        non_striker: C Crowe
+        bowler: S Ozkunduz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.1'
+        batsman: L Barnett
+    - 7.3:
+        non_striker: C Crowe
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: L Barnett
+    - 7.4:
+        non_striker: C Crowe
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: L Barnett
+    - 7.5:
+        non_striker: C Crowe
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.3'
+        batsman: L Barnett
+    - 7.6:
+        non_striker: C Crowe
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: L Barnett
+    - 7.7:
+        non_striker: L Barnett
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: C Crowe
+    - 7.8:
+        non_striker: C Crowe
+        bowler: S Ozkunduz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.6'
+        batsman: L Barnett
+    - 8.1:
+        non_striker: L Barnett
+        bowler: K Canavarci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '8.1'
+        batsman: C Crowe
+    - 8.2:
+        non_striker: L Barnett
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: C Crowe
+    - 8.3:
+        non_striker: C Crowe
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.2'
+        batsman: L Barnett
+    - 8.4:
+        non_striker: C Crowe
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.3'
+        batsman: L Barnett
+    - 8.5:
+        non_striker: C Crowe
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: L Barnett
+    - 8.6:
+        non_striker: L Barnett
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: C Crowe
+    - 8.7:
+        non_striker: C Crowe
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: L Barnett
+    - 9.1:
+        non_striker: C Crowe
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.1'
+        batsman: L Barnett
+    - 9.2:
+        non_striker: C Crowe
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.1'
+        batsman: L Barnett
+    - 9.3:
+        non_striker: C Crowe
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.2'
+        batsman: L Barnett
+    - 9.4:
+        non_striker: C Crowe
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.3'
+        batsman: L Barnett
+    - 9.5:
+        non_striker: C Crowe
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: L Barnett
+        wicket:
+          player_out: L Barnett
+          kind: caught and bowled
+    - 9.6:
+        non_striker: C Crowe
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: Chloe Dillon
+        wicket:
+          player_out: C Crowe
+          fielders:
+          - Suzan Turan
+          - MS Ercin
+          kind: run out
+    - 9.7:
+        non_striker: Chloe Dillon
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: Maisie Skillan
+    - 10.1:
+        non_striker: Maisie Skillan
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.1'
+        batsman: Chloe Dillon
+    - 10.2:
+        non_striker: Maisie Skillan
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '10.1'
+        batsman: Chloe Dillon
+    - 10.3:
+        non_striker: Chloe Dillon
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: Maisie Skillan
+    - 10.4:
+        non_striker: Chloe Dillon
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: Maisie Skillan
+        wicket:
+          player_out: Maisie Skillan
+          kind: lbw
+    - 10.5:
+        non_striker: Chloe Dillon
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.4'
+        batsman: J Hicks
+    - 10.6:
+        non_striker: Chloe Dillon
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: J Hicks
+    - 10.7:
+        non_striker: Chloe Dillon
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: J Hicks
+    - 10.8:
+        non_striker: J Hicks
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Chloe Dillon
+    - 11.1:
+        non_striker: Chloe Dillon
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: J Hicks
+    - 11.2:
+        non_striker: Chloe Dillon
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: J Hicks
+    - 11.3:
+        non_striker: Chloe Dillon
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: J Hicks
+    - 11.4:
+        non_striker: J Hicks
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: Chloe Dillon
+    - 11.5:
+        non_striker: J Hicks
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '11.5'
+        batsman: Chloe Dillon
+    - 11.6:
+        non_striker: J Hicks
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.5'
+        batsman: Chloe Dillon
+    - 11.7:
+        non_striker: J Hicks
+        bowler: H Celik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.6'
+        batsman: Chloe Dillon
+    - 11.8:
+        non_striker: J Hicks
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Chloe Dillon
+    - 12.1:
+        non_striker: J Hicks
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Chloe Dillon
+    - 12.2:
+        non_striker: J Hicks
+        bowler: Suzan Turan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.2'
+        batsman: Chloe Dillon
+    - 12.3:
+        non_striker: J Hicks
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: Chloe Dillon
+    - 12.4:
+        non_striker: J Hicks
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: Chloe Dillon
+    - 12.5:
+        non_striker: J Hicks
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: Chloe Dillon
+    - 12.6:
+        non_striker: J Hicks
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: Chloe Dillon
+    - 12.7:
+        non_striker: Chloe Dillon
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: J Hicks
+    - 13.1:
+        non_striker: J Hicks
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.1'
+        batsman: Chloe Dillon
+    - 13.2:
+        non_striker: J Hicks
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: Chloe Dillon
+        wicket:
+          player_out: Chloe Dillon
+          fielders:
+          - G Keles
+          kind: caught
+    - 13.3:
+        non_striker: J Hicks
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: Anna Wilson
+        wicket:
+          player_out: Anna Wilson
+          kind: bowled
+    - 13.4:
+        non_striker: J Hicks
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: Amelia Griffiths
+    - 13.5:
+        non_striker: J Hicks
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Amelia Griffiths
+    - 13.6:
+        non_striker: J Hicks
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: Amelia Griffiths
+    - 13.7:
+        non_striker: Amelia Griffiths
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '13.6'
+        batsman: J Hicks
+    - 13.8:
+        non_striker: J Hicks
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.6'
+        batsman: Amelia Griffiths
+    - 13.9:
+        non_striker: J Hicks
+        bowler: Reyyan Aliusta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: Amelia Griffiths
+    - 14.1:
+        non_striker: Amelia Griffiths
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: J Hicks
+    - 14.2:
+        non_striker: Amelia Griffiths
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: J Hicks
+    - 14.3:
+        non_striker: Amelia Griffiths
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: J Hicks
+    - 14.4:
+        non_striker: Amelia Griffiths
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: J Hicks
+    - 14.5:
+        non_striker: J Hicks
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: Amelia Griffiths
+    - 14.6:
+        non_striker: J Hicks
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: Amelia Griffiths
+    - 15.1:
+        non_striker: J Hicks
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: Amelia Griffiths
+    - 15.2:
+        non_striker: Amelia Griffiths
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: J Hicks
+    - 15.3:
+        non_striker: Amelia Griffiths
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: J Hicks
+    - 15.4:
+        non_striker: Amelia Griffiths
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: J Hicks
+        wicket:
+          player_out: J Hicks
+          kind: bowled
+    - 15.5:
+        non_striker: Amelia Griffiths
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: Grace Cottier
+    - 15.6:
+        non_striker: Amelia Griffiths
+        bowler: K Canavarci
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.6'
+        batsman: Grace Cottier
+    - 15.7:
+        non_striker: Amelia Griffiths
+        bowler: K Canavarci
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '15.6'
+        batsman: Grace Cottier
+    - 15.8:
+        non_striker: Grace Cottier
+        bowler: K Canavarci
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: Amelia Griffiths
+    - 16.1:
+        non_striker: Amelia Griffiths
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: Grace Cottier
+    - 16.2:
+        non_striker: Amelia Griffiths
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: Grace Cottier
+    - 16.3:
+        non_striker: Grace Cottier
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: Amelia Griffiths
+    - 16.4:
+        non_striker: Grace Cottier
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: Amelia Griffiths
+    - 16.5:
+        non_striker: Grace Cottier
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: Amelia Griffiths
+    - 16.6:
+        non_striker: Amelia Griffiths
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: Grace Cottier
+    - 17.1:
+        non_striker: Amelia Griffiths
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: Grace Cottier
+    - 17.2:
+        non_striker: Amelia Griffiths
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: Grace Cottier
+    - 17.3:
+        non_striker: Grace Cottier
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: Amelia Griffiths
+    - 17.4:
+        non_striker: Grace Cottier
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: Amelia Griffiths
+    - 17.5:
+        non_striker: Grace Cottier
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: Amelia Griffiths
+    - 17.6:
+        non_striker: Grace Cottier
+        bowler: Ezgi Nur Kilic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: Amelia Griffiths
+    - 18.1:
+        non_striker: Amelia Griffiths
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: Grace Cottier
+    - 18.2:
+        non_striker: Amelia Griffiths
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: Grace Cottier
+    - 18.3:
+        non_striker: Amelia Griffiths
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: Grace Cottier
+    - 18.4:
+        non_striker: Amelia Griffiths
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: Grace Cottier
+    - 18.5:
+        non_striker: Grace Cottier
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: Amelia Griffiths
+    - 18.6:
+        non_striker: Grace Cottier
+        bowler: Suzan Turan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: Amelia Griffiths
+    - 19.1:
+        non_striker: Amelia Griffiths
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: Grace Cottier
+    - 19.2:
+        non_striker: Grace Cottier
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: Amelia Griffiths
+    - 19.3:
+        non_striker: Grace Cottier
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: Amelia Griffiths
+    - 19.4:
+        non_striker: Grace Cottier
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: Amelia Griffiths
+    - 19.5:
+        non_striker: Grace Cottier
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: Amelia Griffiths
+        wicket:
+          player_out: Amelia Griffiths
+          kind: caught and bowled
+    - 19.6:
+        non_striker: Grace Cottier
+        bowler: H Celik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: Isabella Clarke
+- 2nd innings:
+    team: Turkey
+    deliveries:
+    - 0.1:
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Celik
+        actual_delivery: '0.1'
+        batsman: D Tekyildirim
+    - 0.2:
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Celik
+        actual_delivery: '0.2'
+        batsman: D Tekyildirim
+    - 0.3:
+        non_striker: H Celik
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: D Tekyildirim
+        wicket:
+          player_out: D Tekyildirim
+          kind: bowled
+    - 0.4:
+        non_striker: H Celik
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: M Bayram
+    - 0.5:
+        non_striker: M Bayram
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: H Celik
+    - 0.6:
+        non_striker: M Bayram
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: H Celik
+    - 1.1:
+        non_striker: H Celik
+        bowler: Isabella Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: M Bayram
+    - 1.2:
+        non_striker: M Bayram
+        bowler: Isabella Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: H Celik
+    - 1.3:
+        non_striker: H Celik
+        bowler: Isabella Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: M Bayram
+    - 1.4:
+        non_striker: H Celik
+        bowler: Isabella Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: M Bayram
+    - 1.5:
+        non_striker: M Bayram
+        bowler: Isabella Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: H Celik
+    - 1.6:
+        non_striker: H Celik
+        bowler: Isabella Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: M Bayram
+    - 2.1:
+        non_striker: H Celik
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: M Bayram
+    - 2.2:
+        non_striker: M Bayram
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: H Celik
+    - 2.3:
+        non_striker: H Celik
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: M Bayram
+    - 2.4:
+        non_striker: H Celik
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: M Bayram
+    - 2.5:
+        non_striker: H Celik
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: M Bayram
+        wicket:
+          player_out: M Bayram
+          kind: bowled
+    - 2.6:
+        non_striker: H Celik
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: G Keles
+    - 3.1:
+        non_striker: H Celik
+        bowler: Isabella Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: G Keles
+    - 3.2:
+        non_striker: H Celik
+        bowler: Isabella Clarke
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.2'
+        batsman: G Keles
+    - 3.3:
+        non_striker: H Celik
+        bowler: Isabella Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: G Keles
+    - 3.4:
+        non_striker: G Keles
+        bowler: Isabella Clarke
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '3.4'
+        batsman: H Celik
+    - 3.5:
+        non_striker: H Celik
+        bowler: Isabella Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: G Keles
+    - 3.6:
+        non_striker: H Celik
+        bowler: Isabella Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: G Keles
+    - 4.1:
+        non_striker: H Celik
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: G Keles
+    - 4.2:
+        non_striker: H Celik
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.2'
+        batsman: G Keles
+    - 4.3:
+        non_striker: H Celik
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: G Keles
+    - 4.4:
+        non_striker: H Celik
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.4'
+        batsman: G Keles
+    - 4.5:
+        non_striker: H Celik
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: G Keles
+    - 4.6:
+        non_striker: G Keles
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: H Celik
+    - 5.1:
+        non_striker: H Celik
+        bowler: Isabella Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: G Keles
+    - 5.2:
+        non_striker: H Celik
+        bowler: Isabella Clarke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.2'
+        batsman: G Keles
+    - 5.3:
+        non_striker: H Celik
+        bowler: Isabella Clarke
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.3'
+        batsman: G Keles
+    - 5.4:
+        non_striker: H Celik
+        bowler: Isabella Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: G Keles
+    - 5.5:
+        non_striker: G Keles
+        bowler: Isabella Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: H Celik
+    - 5.6:
+        non_striker: H Celik
+        bowler: Isabella Clarke
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.5'
+        batsman: G Keles
+    - 5.7:
+        non_striker: H Celik
+        bowler: Isabella Clarke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: G Keles
+    - 6.1:
+        non_striker: G Keles
+        bowler: Amelia Griffiths
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.1'
+        batsman: H Celik
+    - 6.2:
+        non_striker: G Keles
+        bowler: Amelia Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: H Celik
+    - 6.3:
+        non_striker: G Keles
+        bowler: Amelia Griffiths
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.2'
+        batsman: H Celik
+    - 6.4:
+        non_striker: G Keles
+        bowler: Amelia Griffiths
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.3'
+        batsman: H Celik
+    - 6.5:
+        non_striker: G Keles
+        bowler: Amelia Griffiths
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.4'
+        batsman: H Celik
+    - 6.6:
+        non_striker: G Keles
+        bowler: Amelia Griffiths
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.5'
+        batsman: H Celik
+    - 6.7:
+        non_striker: G Keles
+        bowler: Amelia Griffiths
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.6'
+        batsman: H Celik
+    - 7.1:
+        non_striker: H Celik
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: G Keles
+    - 7.2:
+        non_striker: G Keles
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: H Celik
+    - 7.3:
+        non_striker: H Celik
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: G Keles
+    - 7.4:
+        non_striker: H Celik
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: G Keles
+    - 7.5:
+        non_striker: H Celik
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: G Keles
+    - 7.6:
+        non_striker: H Celik
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.6'
+        batsman: G Keles
+    - 8.1:
+        non_striker: G Keles
+        bowler: Amelia Griffiths
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        actual_delivery: '8.1'
+        batsman: H Celik
+    - 8.2:
+        non_striker: G Keles
+        bowler: Amelia Griffiths
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.1'
+        batsman: H Celik
+    - 8.3:
+        non_striker: G Keles
+        bowler: Amelia Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: H Celik
+    - 8.4:
+        non_striker: H Celik
+        bowler: Amelia Griffiths
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.3'
+        batsman: G Keles
+    - 8.5:
+        non_striker: H Celik
+        bowler: Amelia Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: G Keles
+    - 8.6:
+        non_striker: G Keles
+        bowler: Amelia Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: H Celik
+    - 8.7:
+        non_striker: G Keles
+        bowler: Amelia Griffiths
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '8.6'
+        batsman: H Celik
+    - 9.1:
+        non_striker: G Keles
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: H Celik
+    - 9.2:
+        non_striker: G Keles
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.2'
+        batsman: H Celik
+    - 9.3:
+        non_striker: G Keles
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: H Celik
+    - 9.4:
+        non_striker: H Celik
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: G Keles
+    - 9.5:
+        non_striker: H Celik
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: G Keles
+        wicket:
+          player_out: G Keles
+          fielders:
+          - R Overman
+          kind: caught
+    - 9.6:
+        non_striker: H Celik
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: K Canavarci
+    - 10.1:
+        non_striker: K Canavarci
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.1'
+        batsman: H Celik
+    - 10.2:
+        non_striker: K Canavarci
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.2'
+        batsman: H Celik
+    - 10.3:
+        non_striker: K Canavarci
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.3'
+        batsman: H Celik
+    - 10.4:
+        non_striker: K Canavarci
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: H Celik
+    - 10.5:
+        non_striker: H Celik
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: K Canavarci
+    - 10.6:
+        non_striker: K Canavarci
+        bowler: L Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: H Celik
+    - 11.1:
+        non_striker: K Canavarci
+        bowler: Grace Cottier
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.1'
+        batsman: H Celik
+    - 11.2:
+        non_striker: K Canavarci
+        bowler: Grace Cottier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: H Celik
+    - 11.3:
+        non_striker: H Celik
+        bowler: Grace Cottier
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.3'
+        batsman: K Canavarci
+    - 11.4:
+        non_striker: H Celik
+        bowler: Grace Cottier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: K Canavarci
+    - 11.5:
+        non_striker: K Canavarci
+        bowler: Grace Cottier
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        actual_delivery: '11.5'
+        batsman: H Celik
+    - 11.6:
+        non_striker: K Canavarci
+        bowler: Grace Cottier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: H Celik
+    - 11.7:
+        non_striker: H Celik
+        bowler: Grace Cottier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: K Canavarci
+    - 12.1:
+        non_striker: K Canavarci
+        bowler: Amelia Griffiths
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.1'
+        batsman: H Celik
+    - 12.2:
+        non_striker: K Canavarci
+        bowler: Amelia Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: H Celik
+    - 12.3:
+        non_striker: H Celik
+        bowler: Amelia Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: K Canavarci
+    - 12.4:
+        non_striker: K Canavarci
+        bowler: Amelia Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: H Celik
+    - 12.5:
+        non_striker: H Celik
+        bowler: Amelia Griffiths
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.4'
+        batsman: K Canavarci
+    - 12.6:
+        non_striker: H Celik
+        bowler: Amelia Griffiths
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: K Canavarci
+    - 12.7:
+        non_striker: H Celik
+        bowler: Amelia Griffiths
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: K Canavarci
+    - 13.1:
+        non_striker: H Celik
+        bowler: Grace Cottier
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.1'
+        batsman: K Canavarci
+    - 13.2:
+        non_striker: H Celik
+        bowler: Grace Cottier
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.2'
+        batsman: K Canavarci
+    - 13.3:
+        non_striker: H Celik
+        bowler: Grace Cottier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: K Canavarci
+        wicket:
+          player_out: K Canavarci
+          kind: bowled
+    - 13.4:
+        non_striker: H Celik
+        bowler: Grace Cottier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: ZB Ender
+    - 13.5:
+        non_striker: H Celik
+        bowler: Grace Cottier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: ZB Ender
+    - 13.6:
+        non_striker: H Celik
+        bowler: Grace Cottier
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.6'
+        batsman: ZB Ender
+    - 14.1:
+        non_striker: ZB Ender
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.1'
+        batsman: H Celik
+    - 14.2:
+        non_striker: ZB Ender
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: H Celik
+    - 14.3:
+        non_striker: H Celik
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: ZB Ender
+    - 14.4:
+        non_striker: ZB Ender
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.4'
+        batsman: H Celik
+    - 14.5:
+        non_striker: ZB Ender
+        bowler: J Hicks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.5'
+        batsman: H Celik
+        wicket:
+          player_out: H Celik
+          fielders:
+          - L Moore
+          kind: stumped
+    - 14.6:
+        non_striker: ZB Ender
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: S Ozkunduz
+    - 14.7:
+        non_striker: ZB Ender
+        bowler: J Hicks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: S Ozkunduz
+    target:
+      overs: 20
+      runs: 118

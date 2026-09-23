@@ -1,0 +1,2420 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-07-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Koge
+  dates:
+  - '2026-07-09'
+  gender: male
+  match_type: T20
+  match_type_number: 4018
+  outcome:
+    winner: Denmark
+    by:
+      runs: 86
+  overs: 20
+  player_of_match:
+  - HAM Shah
+  players:
+    Denmark:
+    - Musa Shaheen
+    - HAM Shah
+    - S Heath
+    - SA Ahmad
+    - S Thanikaithasan
+    - Surya Anand
+    - Abdullah Mahmood
+    - Lucky Ali
+    - N Sonne-Rudd
+    - Saud Munir
+    - Simon Sorensen
+    Turkey:
+    - Ilyas Ataullah
+    - Muhammad Fahad
+    - Abdullah Khan Lodhi
+    - I Elec
+    - A Turkmen
+    - Murat Yilmaz
+    - Furkan Tuskan
+    - M Ozturk
+    - Ibrahim Kursad Dalyan
+    - Serdar Burak Emir
+    - Mertcan Filiz
+  registry:
+    people:
+      A Turkmen: e56f4180
+      Abdullah Khan Lodhi: 6d8b7ac4
+      Abdullah Mahmood: 926c6d3c
+      DH Mclean: 281d4749
+      Furkan Tuskan: 32009b6a
+      G McCrea: 46f4a901
+      HAM Shah: 007113d7
+      I Elec: 4d0d5b7d
+      Ibrahim Kursad Dalyan: f0f20cf8
+      Ilyas Ataullah: 357484e9
+      Jonathan Kennedy: f7ad4494
+      Lucky Ali: 28b032ac
+      M Jameson: bdf1ffe3
+      M Ozturk: d62f04f5
+      Mertcan Filiz: b2e15fa9
+      Muhammad Fahad: 3f778477
+      Murat Yilmaz: f2990906
+      Musa Shaheen: 6709b2de
+      N Sonne-Rudd: 6b7a90f5
+      S Heath: 884905a1
+      S Thanikaithasan: 498aacac
+      SA Ahmad: 8de618ab
+      Saud Munir: 5902f2eb
+      Serdar Burak Emir: 6d9238ac
+      Simon Sorensen: 51f56fdb
+      Surya Anand: ef141f36
+  team_type: international
+  teams:
+  - Denmark
+  - Turkey
+  toss:
+    winner: Turkey
+    decision: field
+  umpires:
+  - DH Mclean
+  - M Jameson
+  venue: Koge Cricket Club
+innings:
+- 1st innings:
+    team: Denmark
+    deliveries:
+    - 0.1:
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HAM Shah
+        actual_delivery: '0.1'
+        batsman: Musa Shaheen
+    - 0.2:
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HAM Shah
+        actual_delivery: '0.2'
+        batsman: Musa Shaheen
+    - 0.3:
+        non_striker: Musa Shaheen
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '0.3'
+        batsman: HAM Shah
+    - 0.4:
+        non_striker: Musa Shaheen
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: HAM Shah
+    - 0.5:
+        non_striker: HAM Shah
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.5'
+        batsman: Musa Shaheen
+    - 0.6:
+        non_striker: HAM Shah
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Musa Shaheen
+    - 1.1:
+        non_striker: Musa Shaheen
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.1'
+        batsman: HAM Shah
+    - 1.2:
+        non_striker: Musa Shaheen
+        bowler: Furkan Tuskan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.2'
+        batsman: HAM Shah
+    - 1.3:
+        non_striker: Musa Shaheen
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: HAM Shah
+    - 1.4:
+        non_striker: Musa Shaheen
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: HAM Shah
+    - 1.5:
+        non_striker: Musa Shaheen
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: HAM Shah
+    - 1.6:
+        non_striker: HAM Shah
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Musa Shaheen
+    - 1.7:
+        non_striker: HAM Shah
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.6'
+        batsman: Musa Shaheen
+    - 2.1:
+        non_striker: Musa Shaheen
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: HAM Shah
+    - 2.2:
+        non_striker: HAM Shah
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: Musa Shaheen
+    - 2.3:
+        non_striker: Musa Shaheen
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: HAM Shah
+    - 2.4:
+        non_striker: HAM Shah
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: Musa Shaheen
+    - 2.5:
+        non_striker: Musa Shaheen
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '2.5'
+        batsman: HAM Shah
+    - 2.6:
+        non_striker: HAM Shah
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.6'
+        batsman: Musa Shaheen
+    - 3.1:
+        non_striker: Musa Shaheen
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: HAM Shah
+    - 3.2:
+        non_striker: HAM Shah
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Musa Shaheen
+    - 3.3:
+        non_striker: HAM Shah
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: Musa Shaheen
+    - 3.4:
+        non_striker: Musa Shaheen
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: HAM Shah
+    - 3.5:
+        non_striker: HAM Shah
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Musa Shaheen
+    - 3.6:
+        non_striker: HAM Shah
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.6'
+        batsman: Musa Shaheen
+    - 4.1:
+        non_striker: Musa Shaheen
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: HAM Shah
+    - 4.2:
+        non_striker: HAM Shah
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: Musa Shaheen
+    - 4.3:
+        non_striker: Musa Shaheen
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: HAM Shah
+    - 4.4:
+        non_striker: HAM Shah
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: Musa Shaheen
+    - 4.5:
+        non_striker: HAM Shah
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Musa Shaheen
+    - 4.6:
+        non_striker: HAM Shah
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Musa Shaheen
+    - 5.1:
+        non_striker: Musa Shaheen
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: HAM Shah
+    - 5.2:
+        non_striker: Musa Shaheen
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: HAM Shah
+    - 5.3:
+        non_striker: Musa Shaheen
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.3'
+        batsman: HAM Shah
+    - 5.4:
+        non_striker: Musa Shaheen
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: HAM Shah
+    - 5.5:
+        non_striker: Musa Shaheen
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: HAM Shah
+    - 5.6:
+        non_striker: HAM Shah
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: Musa Shaheen
+    - 6.1:
+        non_striker: HAM Shah
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: Musa Shaheen
+    - 6.2:
+        non_striker: Musa Shaheen
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: HAM Shah
+    - 6.3:
+        non_striker: HAM Shah
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Musa Shaheen
+    - 6.4:
+        non_striker: HAM Shah
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Musa Shaheen
+    - 6.5:
+        non_striker: HAM Shah
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: Musa Shaheen
+    - 6.6:
+        non_striker: Musa Shaheen
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: HAM Shah
+    - 7.1:
+        non_striker: Musa Shaheen
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: HAM Shah
+    - 7.2:
+        non_striker: Musa Shaheen
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: HAM Shah
+    - 7.3:
+        non_striker: HAM Shah
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: Musa Shaheen
+    - 7.4:
+        non_striker: Musa Shaheen
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.4'
+        batsman: HAM Shah
+    - 7.5:
+        non_striker: Musa Shaheen
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.5'
+        batsman: HAM Shah
+    - 7.6:
+        non_striker: Musa Shaheen
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: HAM Shah
+    - 8.1:
+        non_striker: Musa Shaheen
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: HAM Shah
+    - 8.2:
+        non_striker: HAM Shah
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Musa Shaheen
+    - 8.3:
+        non_striker: Musa Shaheen
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.3'
+        batsman: HAM Shah
+    - 8.4:
+        non_striker: Musa Shaheen
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: HAM Shah
+    - 8.5:
+        non_striker: HAM Shah
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Musa Shaheen
+    - 8.6:
+        non_striker: Musa Shaheen
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        actual_delivery: '8.6'
+        batsman: HAM Shah
+    - 8.7:
+        non_striker: Musa Shaheen
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.6'
+        batsman: HAM Shah
+    - 9.1:
+        non_striker: HAM Shah
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: Musa Shaheen
+    - 9.2:
+        non_striker: HAM Shah
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: Musa Shaheen
+    - 9.3:
+        non_striker: Musa Shaheen
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '9.3'
+        batsman: HAM Shah
+    - 9.4:
+        non_striker: Musa Shaheen
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '9.4'
+        batsman: HAM Shah
+    - 9.5:
+        non_striker: Musa Shaheen
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: HAM Shah
+    - 9.6:
+        non_striker: Musa Shaheen
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: HAM Shah
+    - 10.1:
+        non_striker: HAM Shah
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: Musa Shaheen
+    - 10.2:
+        non_striker: Musa Shaheen
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.2'
+        batsman: HAM Shah
+    - 10.3:
+        non_striker: Musa Shaheen
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: HAM Shah
+    - 10.4:
+        non_striker: Musa Shaheen
+        bowler: I Elec
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.4'
+        batsman: HAM Shah
+    - 10.5:
+        non_striker: Musa Shaheen
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: HAM Shah
+    - 10.6:
+        non_striker: HAM Shah
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: Musa Shaheen
+    - 10.7:
+        non_striker: HAM Shah
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Musa Shaheen
+        wicket:
+          player_out: Musa Shaheen
+          fielders:
+          - Mertcan Filiz
+          kind: caught
+    - 11.1:
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Heath
+        actual_delivery: '11.1'
+        batsman: HAM Shah
+    - 11.2:
+        non_striker: HAM Shah
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: S Heath
+    - 11.3:
+        non_striker: HAM Shah
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: S Heath
+    - 11.4:
+        non_striker: S Heath
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: HAM Shah
+    - 11.5:
+        non_striker: S Heath
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: HAM Shah
+    - 11.6:
+        non_striker: S Heath
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: HAM Shah
+    - 12.1:
+        non_striker: HAM Shah
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.1'
+        batsman: S Heath
+    - 12.2:
+        non_striker: HAM Shah
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: S Heath
+    - 12.3:
+        non_striker: S Heath
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '12.3'
+        batsman: HAM Shah
+    - 12.4:
+        non_striker: S Heath
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: HAM Shah
+    - 12.5:
+        non_striker: HAM Shah
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '12.5'
+        batsman: S Heath
+    - 12.6:
+        non_striker: HAM Shah
+        bowler: I Elec
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '12.6'
+        batsman: S Heath
+    - 13.1:
+        non_striker: S Heath
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: HAM Shah
+    - 13.2:
+        non_striker: HAM Shah
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: S Heath
+    - 13.3:
+        non_striker: S Heath
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: HAM Shah
+    - 13.4:
+        non_striker: HAM Shah
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: S Heath
+    - 13.5:
+        non_striker: HAM Shah
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: S Heath
+    - 13.6:
+        non_striker: HAM Shah
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: S Heath
+        wicket:
+          player_out: S Heath
+          fielders:
+          - A Turkmen
+          kind: caught
+    - 14.1:
+        non_striker: SA Ahmad
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: HAM Shah
+        wicket:
+          player_out: HAM Shah
+          fielders:
+          - A Turkmen
+          kind: caught
+    - 14.2:
+        non_striker: SA Ahmad
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: S Thanikaithasan
+    - 14.3:
+        non_striker: S Thanikaithasan
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.3'
+        batsman: SA Ahmad
+    - 14.4:
+        non_striker: S Thanikaithasan
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.4'
+        batsman: SA Ahmad
+    - 14.5:
+        non_striker: S Thanikaithasan
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: SA Ahmad
+    - 14.6:
+        non_striker: SA Ahmad
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: S Thanikaithasan
+    - 15.1:
+        non_striker: SA Ahmad
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: S Thanikaithasan
+    - 15.2:
+        non_striker: SA Ahmad
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: S Thanikaithasan
+    - 15.3:
+        non_striker: S Thanikaithasan
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.3'
+        batsman: SA Ahmad
+    - 15.4:
+        non_striker: S Thanikaithasan
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: SA Ahmad
+    - 15.5:
+        non_striker: SA Ahmad
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: S Thanikaithasan
+    - 15.6:
+        non_striker: SA Ahmad
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.6'
+        batsman: S Thanikaithasan
+    - 16.1:
+        non_striker: S Thanikaithasan
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.1'
+        batsman: SA Ahmad
+    - 16.2:
+        non_striker: S Thanikaithasan
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.1'
+        batsman: SA Ahmad
+    - 16.3:
+        non_striker: S Thanikaithasan
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.1'
+        batsman: SA Ahmad
+    - 16.4:
+        non_striker: S Thanikaithasan
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: SA Ahmad
+    - 16.5:
+        non_striker: SA Ahmad
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: S Thanikaithasan
+    - 16.6:
+        non_striker: S Thanikaithasan
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.4'
+        batsman: SA Ahmad
+    - 16.7:
+        non_striker: S Thanikaithasan
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: SA Ahmad
+    - 16.8:
+        non_striker: S Thanikaithasan
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: SA Ahmad
+    - 17.1:
+        non_striker: S Thanikaithasan
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.1'
+        batsman: SA Ahmad
+    - 17.2:
+        non_striker: S Thanikaithasan
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.2'
+        batsman: SA Ahmad
+    - 17.3:
+        non_striker: S Thanikaithasan
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: SA Ahmad
+    - 17.4:
+        non_striker: S Thanikaithasan
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: SA Ahmad
+    - 17.5:
+        non_striker: SA Ahmad
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: S Thanikaithasan
+    - 17.6:
+        non_striker: SA Ahmad
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.6'
+        batsman: S Thanikaithasan
+    - 18.1:
+        non_striker: S Thanikaithasan
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.1'
+        batsman: SA Ahmad
+    - 18.2:
+        non_striker: S Thanikaithasan
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.2'
+        batsman: SA Ahmad
+    - 18.3:
+        non_striker: S Thanikaithasan
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: SA Ahmad
+    - 18.4:
+        non_striker: SA Ahmad
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: S Thanikaithasan
+    - 18.5:
+        non_striker: SA Ahmad
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.5'
+        batsman: S Thanikaithasan
+    - 18.6:
+        non_striker: SA Ahmad
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: S Thanikaithasan
+        wicket:
+          player_out: S Thanikaithasan
+          fielders:
+          - Ibrahim Kursad Dalyan
+          kind: caught
+    - 19.1:
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Surya Anand
+        actual_delivery: '19.1'
+        batsman: SA Ahmad
+    - 19.2:
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Surya Anand
+        actual_delivery: '19.2'
+        batsman: SA Ahmad
+    - 19.3:
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Surya Anand
+        actual_delivery: '19.3'
+        batsman: SA Ahmad
+    - 19.4:
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Surya Anand
+        actual_delivery: '19.4'
+        batsman: SA Ahmad
+    - 19.5:
+        bowler: A Turkmen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Surya Anand
+        actual_delivery: '19.5'
+        batsman: SA Ahmad
+    - 19.6:
+        non_striker: SA Ahmad
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.6'
+        batsman: Surya Anand
+- 2nd innings:
+    team: Turkey
+    deliveries:
+    - 0.1:
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Fahad
+        actual_delivery: '0.1'
+        batsman: Ilyas Ataullah
+    - 0.2:
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Muhammad Fahad
+        actual_delivery: '0.2'
+        batsman: Ilyas Ataullah
+    - 0.3:
+        non_striker: Ilyas Ataullah
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: Muhammad Fahad
+    - 0.4:
+        non_striker: Ilyas Ataullah
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: Muhammad Fahad
+    - 0.5:
+        non_striker: Muhammad Fahad
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: Ilyas Ataullah
+    - 0.6:
+        non_striker: Ilyas Ataullah
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Muhammad Fahad
+        wicket:
+          player_out: Muhammad Fahad
+          fielders:
+          - N Sonne-Rudd
+          kind: caught
+    - 1.1:
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abdullah Khan Lodhi
+        actual_delivery: '1.1'
+        batsman: Ilyas Ataullah
+    - 1.2:
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abdullah Khan Lodhi
+        actual_delivery: '1.2'
+        batsman: Ilyas Ataullah
+    - 1.3:
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abdullah Khan Lodhi
+        actual_delivery: '1.3'
+        batsman: Ilyas Ataullah
+    - 1.4:
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Abdullah Khan Lodhi
+        actual_delivery: '1.4'
+        batsman: Ilyas Ataullah
+    - 1.5:
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Abdullah Khan Lodhi
+        actual_delivery: '1.5'
+        batsman: Ilyas Ataullah
+    - 1.6:
+        non_striker: Ilyas Ataullah
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Abdullah Khan Lodhi
+        wicket:
+          player_out: Abdullah Khan Lodhi
+          fielders:
+          - S Thanikaithasan
+          kind: caught
+    - 2.1:
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Elec
+        actual_delivery: '2.1'
+        batsman: Ilyas Ataullah
+    - 2.2:
+        bowler: Surya Anand
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: I Elec
+        actual_delivery: '2.2'
+        batsman: Ilyas Ataullah
+    - 2.3:
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Elec
+        actual_delivery: '2.2'
+        batsman: Ilyas Ataullah
+    - 2.4:
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Elec
+        actual_delivery: '2.3'
+        batsman: Ilyas Ataullah
+    - 2.5:
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Elec
+        actual_delivery: '2.4'
+        batsman: Ilyas Ataullah
+    - 2.6:
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Elec
+        actual_delivery: '2.5'
+        batsman: Ilyas Ataullah
+    - 2.7:
+        non_striker: I Elec
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: Ilyas Ataullah
+    - 3.1:
+        non_striker: I Elec
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.1'
+        batsman: Ilyas Ataullah
+    - 3.2:
+        non_striker: I Elec
+        bowler: Simon Sorensen
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '3.2'
+        batsman: Ilyas Ataullah
+    - 3.3:
+        non_striker: Ilyas Ataullah
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: I Elec
+    - 3.4:
+        non_striker: Ilyas Ataullah
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: I Elec
+    - 3.5:
+        non_striker: Ilyas Ataullah
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: I Elec
+    - 3.6:
+        non_striker: Ilyas Ataullah
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: I Elec
+    - 3.7:
+        non_striker: I Elec
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: Ilyas Ataullah
+    - 4.1:
+        non_striker: I Elec
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: Ilyas Ataullah
+    - 4.2:
+        non_striker: I Elec
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: Ilyas Ataullah
+    - 4.3:
+        non_striker: I Elec
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: Ilyas Ataullah
+    - 4.4:
+        non_striker: Ilyas Ataullah
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: I Elec
+    - 4.5:
+        non_striker: Ilyas Ataullah
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: I Elec
+    - 4.6:
+        non_striker: Ilyas Ataullah
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.6'
+        batsman: I Elec
+    - 5.1:
+        non_striker: I Elec
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Ilyas Ataullah
+        wicket:
+          player_out: Ilyas Ataullah
+          fielders:
+          - S Thanikaithasan
+          kind: caught
+    - 5.2:
+        non_striker: I Elec
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: A Turkmen
+    - 5.3:
+        non_striker: I Elec
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: A Turkmen
+    - 5.4:
+        non_striker: I Elec
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: A Turkmen
+    - 5.5:
+        non_striker: I Elec
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: A Turkmen
+    - 5.6:
+        non_striker: I Elec
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.6'
+        batsman: A Turkmen
+    - 6.1:
+        non_striker: A Turkmen
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: I Elec
+    - 6.2:
+        non_striker: A Turkmen
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: I Elec
+    - 6.3:
+        non_striker: A Turkmen
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: I Elec
+    - 6.4:
+        non_striker: A Turkmen
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: I Elec
+    - 6.5:
+        non_striker: I Elec
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: A Turkmen
+    - 6.6:
+        non_striker: I Elec
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: A Turkmen
+    - 7.1:
+        non_striker: I Elec
+        bowler: N Sonne-Rudd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: A Turkmen
+    - 7.2:
+        non_striker: I Elec
+        bowler: N Sonne-Rudd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: A Turkmen
+        wicket:
+          player_out: A Turkmen
+          fielders:
+          - S Heath
+          kind: caught
+    - 7.3:
+        non_striker: I Elec
+        bowler: N Sonne-Rudd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: Murat Yilmaz
+    - 7.4:
+        non_striker: Murat Yilmaz
+        bowler: N Sonne-Rudd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: I Elec
+    - 7.5:
+        non_striker: Murat Yilmaz
+        bowler: N Sonne-Rudd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: I Elec
+    - 7.6:
+        non_striker: Murat Yilmaz
+        bowler: N Sonne-Rudd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.6'
+        batsman: I Elec
+    - 8.1:
+        non_striker: I Elec
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Murat Yilmaz
+    - 8.2:
+        non_striker: I Elec
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: Murat Yilmaz
+    - 8.3:
+        non_striker: I Elec
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: Murat Yilmaz
+        wicket:
+          player_out: Murat Yilmaz
+          fielders:
+          - S Thanikaithasan
+          kind: caught
+    - 8.4:
+        non_striker: I Elec
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: Furkan Tuskan
+    - 8.5:
+        non_striker: I Elec
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Furkan Tuskan
+    - 8.6:
+        non_striker: Furkan Tuskan
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: I Elec
+    - 9.1:
+        non_striker: I Elec
+        bowler: N Sonne-Rudd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: Furkan Tuskan
+    - 9.2:
+        non_striker: I Elec
+        bowler: N Sonne-Rudd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Furkan Tuskan
+    - 9.3:
+        non_striker: I Elec
+        bowler: N Sonne-Rudd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: Furkan Tuskan
+    - 9.4:
+        non_striker: I Elec
+        bowler: N Sonne-Rudd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.4'
+        batsman: Furkan Tuskan
+    - 9.5:
+        non_striker: I Elec
+        bowler: N Sonne-Rudd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: Furkan Tuskan
+    - 9.6:
+        non_striker: I Elec
+        bowler: N Sonne-Rudd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: Furkan Tuskan
+    - 10.1:
+        non_striker: Furkan Tuskan
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: I Elec
+    - 10.2:
+        non_striker: Furkan Tuskan
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: I Elec
+    - 10.3:
+        non_striker: Furkan Tuskan
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: I Elec
+    - 10.4:
+        non_striker: Furkan Tuskan
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: I Elec
+    - 10.5:
+        non_striker: Furkan Tuskan
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: I Elec
+    - 10.6:
+        non_striker: I Elec
+        bowler: Saud Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Furkan Tuskan
+    - 11.1:
+        non_striker: Furkan Tuskan
+        bowler: N Sonne-Rudd
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.1'
+        batsman: I Elec
+    - 11.2:
+        non_striker: Furkan Tuskan
+        bowler: N Sonne-Rudd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.2'
+        batsman: I Elec
+    - 11.3:
+        non_striker: Furkan Tuskan
+        bowler: N Sonne-Rudd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: I Elec
+    - 11.4:
+        non_striker: Furkan Tuskan
+        bowler: N Sonne-Rudd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: I Elec
+    - 11.5:
+        non_striker: I Elec
+        bowler: N Sonne-Rudd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Furkan Tuskan
+    - 11.6:
+        non_striker: I Elec
+        bowler: N Sonne-Rudd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: Furkan Tuskan
+    - 12.1:
+        non_striker: Furkan Tuskan
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: I Elec
+    - 12.2:
+        non_striker: I Elec
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: Furkan Tuskan
+    - 12.3:
+        non_striker: Furkan Tuskan
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: I Elec
+    - 12.4:
+        non_striker: Furkan Tuskan
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: I Elec
+    - 12.5:
+        non_striker: I Elec
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: Furkan Tuskan
+    - 12.6:
+        non_striker: Furkan Tuskan
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: I Elec
+    - 13.1:
+        non_striker: I Elec
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: Furkan Tuskan
+    - 13.2:
+        non_striker: Furkan Tuskan
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: I Elec
+    - 13.3:
+        non_striker: I Elec
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.3'
+        batsman: Furkan Tuskan
+    - 13.4:
+        non_striker: I Elec
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.4'
+        batsman: Furkan Tuskan
+    - 13.5:
+        non_striker: I Elec
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Furkan Tuskan
+    - 13.6:
+        non_striker: I Elec
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: Furkan Tuskan
+    - 14.1:
+        non_striker: Furkan Tuskan
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: I Elec
+    - 14.2:
+        non_striker: I Elec
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: Furkan Tuskan
+    - 14.3:
+        non_striker: I Elec
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: Furkan Tuskan
+    - 14.4:
+        non_striker: I Elec
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: Furkan Tuskan
+    - 14.5:
+        non_striker: Furkan Tuskan
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: I Elec
+    - 14.6:
+        non_striker: Furkan Tuskan
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: I Elec
+    - 15.1:
+        non_striker: Furkan Tuskan
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: I Elec
+    - 15.2:
+        non_striker: Furkan Tuskan
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: I Elec
+    - 15.3:
+        non_striker: I Elec
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: Furkan Tuskan
+        wicket:
+          player_out: Furkan Tuskan
+          fielders:
+          - Simon Sorensen
+          kind: caught
+    - 15.4:
+        non_striker: I Elec
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.4'
+        batsman: M Ozturk
+    - 15.5:
+        non_striker: I Elec
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: M Ozturk
+    - 15.6:
+        non_striker: I Elec
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: M Ozturk
+    - 16.1:
+        non_striker: I Elec
+        bowler: Lucky Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.1'
+        batsman: M Ozturk
+    - 16.2:
+        non_striker: I Elec
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: M Ozturk
+    - 16.3:
+        non_striker: I Elec
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: M Ozturk
+    - 16.4:
+        non_striker: M Ozturk
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: I Elec
+    - 16.5:
+        non_striker: I Elec
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.4'
+        batsman: M Ozturk
+    - 16.6:
+        non_striker: I Elec
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: M Ozturk
+    - 16.7:
+        non_striker: I Elec
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: M Ozturk
+    - 17.1:
+        non_striker: M Ozturk
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: I Elec
+    - 17.2:
+        non_striker: I Elec
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: M Ozturk
+    - 17.3:
+        non_striker: I Elec
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.3'
+        batsman: M Ozturk
+    - 17.4:
+        non_striker: I Elec
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: M Ozturk
+        wicket:
+          player_out: M Ozturk
+          fielders:
+          - S Thanikaithasan
+          kind: caught
+    - 17.5:
+        non_striker: I Elec
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: Ibrahim Kursad Dalyan
+    - 17.6:
+        non_striker: I Elec
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: Ibrahim Kursad Dalyan
+    - 17.7:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: I Elec
+    - 18.1:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: I Elec
+    - 18.2:
+        non_striker: I Elec
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: Ibrahim Kursad Dalyan
+        wicket:
+          player_out: Ibrahim Kursad Dalyan
+          fielders:
+          - Saud Munir
+          kind: caught
+    - 18.3:
+        non_striker: I Elec
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: Serdar Burak Emir
+    - 18.4:
+        non_striker: I Elec
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: Serdar Burak Emir
+    - 18.5:
+        non_striker: Serdar Burak Emir
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.5'
+        batsman: I Elec
+    - 18.6:
+        non_striker: Serdar Burak Emir
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: I Elec
+    - 19.1:
+        non_striker: Serdar Burak Emir
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.1'
+        batsman: I Elec
+    - 19.2:
+        non_striker: Serdar Burak Emir
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.2'
+        batsman: I Elec
+    - 19.3:
+        non_striker: Serdar Burak Emir
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.3'
+        batsman: I Elec
+    - 19.4:
+        non_striker: I Elec
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: Serdar Burak Emir
+    - 19.5:
+        non_striker: I Elec
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: Serdar Burak Emir
+        wicket:
+          player_out: Serdar Burak Emir
+          fielders:
+          - S Thanikaithasan
+          kind: caught
+    - 19.6:
+        non_striker: I Elec
+        bowler: Simon Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: Mertcan Filiz
+    target:
+      overs: 20
+      runs: 202

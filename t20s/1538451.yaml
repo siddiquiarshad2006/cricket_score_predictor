@@ -1,0 +1,2380 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Singapore
+  dates:
+  - '2026-06-05'
+  gender: male
+  match_type: T20
+  match_type_number: 3936
+  outcome:
+    winner: Hong Kong
+    by:
+      runs: 154
+  overs: 20
+  player_of_match:
+  - Anshuman Rath
+  players:
+    Hong Kong:
+    - Nizakat Khan
+    - Anshuman Rath
+    - Babar Hayat
+    - Yasim Murtaza
+    - Ehsan Khan
+    - A Shukla
+    - Shahid Wasif
+    - Mohammad Ghazanfar
+    - Nasrulla Rana
+    - S Mathur
+    - Hassan Khan Mohammad
+    Oman:
+    - Mohammed Al Balushi
+    - Shuaib Al Balushi
+    - Muzaffar Shiralkar
+    - Zubair Al Balushi
+    - Issa Al Balushi
+    - Munthir Al Balushi
+    - Sufyan Mehmood
+    - Nawed Al Balushi
+    - Wasim Al Balushi
+    - Faris Al Balushi
+    - Sameer Othman
+  registry:
+    people:
+      A Natarajan: a2b73ae0
+      A Shukla: a1e80d06
+      Anshuman Rath: 552b228c
+      Babar Hayat: fbb657bb
+      Ehsan Khan: d3851cd8
+      Faris Al Balushi: cd336877
+      Hafeez Khan: aa45ea62
+      Hassan Khan Mohammad: a46de6e0
+      Issa Al Balushi: 91cdf3ae
+      Mohammad Ghazanfar: 00321fff
+      Mohammed Al Balushi: 967ee086
+      Munthir Al Balushi: a00a53dd
+      Muzaffar Shiralkar: d9d08ea3
+      N Sivan: 8f4a0102
+      Nasrulla Rana: 9ffb7550
+      Nawed Al Balushi: 1b6aafc8
+      Nizakat Khan: e3eb9e46
+      S Mathur: 11378dda
+      Sameer Othman: 874c2cb3
+      Shahid Wasif: 2cc08c3c
+      Shuaib Al Balushi: 87968c84
+      Sufyan Mehmood: bf172ae6
+      T Senthil Kumar: 961ddfac
+      U Dorji: 12bba2d4
+      Wasim Al Balushi: 385bb7ff
+      Yasim Murtaza: c9d05f1a
+      Zubair Al Balushi: 9d5440c0
+  teams:
+  - Hong Kong
+  - Oman
+  toss:
+    winner: Oman
+    decision: field
+  umpires:
+  - N Sivan
+  - U Dorji
+  venue: Singapore National Cricket Ground
+  team_type: international
+innings:
+- 1st innings:
+    team: Hong Kong
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Shuaib Al Balushi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anshuman Rath
+        batsman: Nizakat Khan
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: Shuaib Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Anshuman Rath
+        batsman: Nizakat Khan
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: Nizakat Khan
+        bowler: Shuaib Al Balushi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: Nizakat Khan
+        bowler: Shuaib Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: Anshuman Rath
+        bowler: Shuaib Al Balushi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: Anshuman Rath
+        bowler: Shuaib Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Anshuman Rath
+        bowler: Zubair Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Nizakat Khan
+        bowler: Zubair Al Balushi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anshuman Rath
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: Nizakat Khan
+        bowler: Zubair Al Balushi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Anshuman Rath
+    - 1.4:
+        actual_delivery: '1.3'
+        non_striker: Anshuman Rath
+        bowler: Zubair Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: Nizakat Khan
+        bowler: Zubair Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 1.6:
+        actual_delivery: '1.5'
+        non_striker: Anshuman Rath
+        bowler: Zubair Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 1.7:
+        actual_delivery: '1.6'
+        non_striker: Nizakat Khan
+        bowler: Zubair Al Balushi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Anshuman Rath
+        bowler: Shuaib Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Nizakat Khan
+        bowler: Shuaib Al Balushi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: Nizakat Khan
+        bowler: Shuaib Al Balushi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anshuman Rath
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: Nizakat Khan
+        bowler: Shuaib Al Balushi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: Nizakat Khan
+        bowler: Shuaib Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: Anshuman Rath
+        bowler: Shuaib Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Anshuman Rath
+        bowler: Zubair Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Nizakat Khan
+        bowler: Zubair Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: Anshuman Rath
+        bowler: Zubair Al Balushi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nizakat Khan
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: Anshuman Rath
+        bowler: Zubair Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: Nizakat Khan
+        bowler: Zubair Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: Anshuman Rath
+        bowler: Zubair Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Anshuman Rath
+        bowler: Shuaib Al Balushi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nizakat Khan
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: Anshuman Rath
+        bowler: Shuaib Al Balushi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nizakat Khan
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: Anshuman Rath
+        bowler: Shuaib Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Nizakat Khan
+        bowler: Shuaib Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: Anshuman Rath
+        bowler: Shuaib Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: Nizakat Khan
+        bowler: Shuaib Al Balushi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Anshuman Rath
+        bowler: Zubair Al Balushi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Anshuman Rath
+        bowler: Zubair Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Nizakat Khan
+        bowler: Zubair Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Anshuman Rath
+        bowler: Zubair Al Balushi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nizakat Khan
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: Anshuman Rath
+        bowler: Zubair Al Balushi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nizakat Khan
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: Anshuman Rath
+        bowler: Zubair Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: Anshuman Rath
+        bowler: Nawed Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: Nizakat Khan
+        bowler: Nawed Al Balushi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: Nizakat Khan
+        bowler: Nawed Al Balushi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Nizakat Khan
+        bowler: Nawed Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Anshuman Rath
+        bowler: Nawed Al Balushi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: Anshuman Rath
+        bowler: Nawed Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Anshuman Rath
+        bowler: Sameer Othman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: Nizakat Khan
+        bowler: Sameer Othman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anshuman Rath
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: Nizakat Khan
+        bowler: Sameer Othman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anshuman Rath
+    - 7.4:
+        actual_delivery: '7.3'
+        non_striker: Nizakat Khan
+        bowler: Sameer Othman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 7.5:
+        actual_delivery: '7.4'
+        non_striker: Nizakat Khan
+        bowler: Sameer Othman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 7.6:
+        actual_delivery: '7.5'
+        non_striker: Anshuman Rath
+        bowler: Sameer Othman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 7.7:
+        actual_delivery: '7.6'
+        non_striker: Nizakat Khan
+        bowler: Sameer Othman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: Anshuman Rath
+        bowler: Nawed Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: Nizakat Khan
+        bowler: Nawed Al Balushi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: Nizakat Khan
+        bowler: Nawed Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: Anshuman Rath
+        bowler: Nawed Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: Nizakat Khan
+        bowler: Nawed Al Balushi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anshuman Rath
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: Nizakat Khan
+        bowler: Nawed Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: Nizakat Khan
+        bowler: Sameer Othman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: Nizakat Khan
+        bowler: Sameer Othman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: Anshuman Rath
+        bowler: Sameer Othman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: Nizakat Khan
+        bowler: Sameer Othman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anshuman Rath
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: Nizakat Khan
+        bowler: Sameer Othman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: Anshuman Rath
+        bowler: Sameer Othman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Anshuman Rath
+        bowler: Wasim Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Nizakat Khan
+        bowler: Wasim Al Balushi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anshuman Rath
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: Nizakat Khan
+        bowler: Wasim Al Balushi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anshuman Rath
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: Nizakat Khan
+        bowler: Wasim Al Balushi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: Nizakat Khan
+        bowler: Wasim Al Balushi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: Nizakat Khan
+        bowler: Wasim Al Balushi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Anshuman Rath
+        bowler: Faris Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Nizakat Khan
+        bowler: Faris Al Balushi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anshuman Rath
+    - 11.3:
+        actual_delivery: '11.2'
+        non_striker: Nizakat Khan
+        bowler: Faris Al Balushi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anshuman Rath
+    - 11.4:
+        actual_delivery: '11.3'
+        non_striker: Nizakat Khan
+        bowler: Faris Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 11.5:
+        actual_delivery: '11.4'
+        non_striker: Anshuman Rath
+        bowler: Faris Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 11.6:
+        actual_delivery: '11.5'
+        non_striker: Nizakat Khan
+        bowler: Faris Al Balushi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anshuman Rath
+    - 11.7:
+        actual_delivery: '11.6'
+        non_striker: Nizakat Khan
+        bowler: Faris Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: Nizakat Khan
+        bowler: Sameer Othman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anshuman Rath
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Nizakat Khan
+        bowler: Sameer Othman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Nizakat Khan
+        bowler: Sameer Othman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Anshuman Rath
+        bowler: Sameer Othman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Nizakat Khan
+        bowler: Sameer Othman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: Nizakat Khan
+        bowler: Sameer Othman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anshuman Rath
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Anshuman Rath
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Anshuman Rath
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Nizakat Khan
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Anshuman Rath
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nizakat Khan
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: Anshuman Rath
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: Anshuman Rath
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Anshuman Rath
+        bowler: Nawed Al Balushi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nizakat Khan
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Anshuman Rath
+        bowler: Nawed Al Balushi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nizakat Khan
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Anshuman Rath
+        bowler: Nawed Al Balushi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nizakat Khan
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: Anshuman Rath
+        bowler: Nawed Al Balushi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nizakat Khan
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: Anshuman Rath
+        bowler: Nawed Al Balushi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nizakat Khan
+    - 14.6:
+        actual_delivery: '14.5'
+        non_striker: Anshuman Rath
+        bowler: Nawed Al Balushi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+        wicket:
+          player_out: Nizakat Khan
+          fielders:
+          - Wasim Al Balushi
+          kind: caught
+    - 14.7:
+        actual_delivery: '14.6'
+        non_striker: Anshuman Rath
+        bowler: Nawed Al Balushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Anshuman Rath
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Hayat
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: Anshuman Rath
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: Anshuman Rath
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Hayat
+    - 15.4:
+        actual_delivery: '15.3'
+        non_striker: Anshuman Rath
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 15.5:
+        actual_delivery: '15.4'
+        non_striker: Babar Hayat
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 15.6:
+        actual_delivery: '15.5'
+        non_striker: Anshuman Rath
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 15.7:
+        actual_delivery: '15.6'
+        non_striker: Babar Hayat
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: Babar Hayat
+        bowler: Wasim Al Balushi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Babar Hayat
+        bowler: Wasim Al Balushi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: Babar Hayat
+        bowler: Wasim Al Balushi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: Babar Hayat
+        bowler: Wasim Al Balushi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anshuman Rath
+    - 16.5:
+        actual_delivery: '16.4'
+        non_striker: Babar Hayat
+        bowler: Wasim Al Balushi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anshuman Rath
+    - 16.6:
+        actual_delivery: '16.5'
+        non_striker: Babar Hayat
+        bowler: Wasim Al Balushi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anshuman Rath
+    - 16.7:
+        actual_delivery: '16.6'
+        non_striker: Babar Hayat
+        bowler: Wasim Al Balushi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: Anshuman Rath
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: Babar Hayat
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Anshuman Rath
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: Anshuman Rath
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Hayat
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: Anshuman Rath
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Hayat
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: Anshuman Rath
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: Babar Hayat
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anshuman Rath
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: Anshuman Rath
+        bowler: Wasim Al Balushi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Hayat
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: Anshuman Rath
+        bowler: Wasim Al Balushi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Hayat
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: Anshuman Rath
+        bowler: Wasim Al Balushi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Hayat
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: Anshuman Rath
+        bowler: Wasim Al Balushi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Hayat
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: Anshuman Rath
+        bowler: Wasim Al Balushi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Hayat
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: Anshuman Rath
+        bowler: Wasim Al Balushi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Hayat
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: Babar Hayat
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: Babar Hayat
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: Anshuman Rath
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Hayat
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: Anshuman Rath
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: Anshuman Rath
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Hayat
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: Anshuman Rath
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Hayat
+- 2nd innings:
+    team: Oman
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shuaib Al Balushi
+        batsman: Mohammed Al Balushi
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shuaib Al Balushi
+        batsman: Mohammed Al Balushi
+    - 0.3:
+        actual_delivery: '0.3'
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Shuaib Al Balushi
+        batsman: Mohammed Al Balushi
+    - 0.4:
+        actual_delivery: '0.4'
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shuaib Al Balushi
+        batsman: Mohammed Al Balushi
+    - 0.5:
+        actual_delivery: '0.5'
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shuaib Al Balushi
+        batsman: Mohammed Al Balushi
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: Shuaib Al Balushi
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammed Al Balushi
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Mohammed Al Balushi
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shuaib Al Balushi
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Mohammed Al Balushi
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuaib Al Balushi
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: Mohammed Al Balushi
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuaib Al Balushi
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: Mohammed Al Balushi
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuaib Al Balushi
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: Mohammed Al Balushi
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuaib Al Balushi
+        wicket:
+          player_out: Shuaib Al Balushi
+          kind: bowled
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: Mohammed Al Balushi
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muzaffar Shiralkar
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Muzaffar Shiralkar
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Al Balushi
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Muzaffar Shiralkar
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Al Balushi
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: Muzaffar Shiralkar
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Al Balushi
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: Mohammed Al Balushi
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muzaffar Shiralkar
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: Mohammed Al Balushi
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muzaffar Shiralkar
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: Mohammed Al Balushi
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muzaffar Shiralkar
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Mohammed Al Balushi
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muzaffar Shiralkar
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Mohammed Al Balushi
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muzaffar Shiralkar
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: Mohammed Al Balushi
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muzaffar Shiralkar
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: Mohammed Al Balushi
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muzaffar Shiralkar
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: Mohammed Al Balushi
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muzaffar Shiralkar
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: Mohammed Al Balushi
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muzaffar Shiralkar
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Muzaffar Shiralkar
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Al Balushi
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: Mohammed Al Balushi
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muzaffar Shiralkar
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: Mohammed Al Balushi
+        bowler: A Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Muzaffar Shiralkar
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Muzaffar Shiralkar
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Al Balushi
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: Muzaffar Shiralkar
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Al Balushi
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: Muzaffar Shiralkar
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Al Balushi
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Mohammed Al Balushi
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muzaffar Shiralkar
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Mohammed Al Balushi
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muzaffar Shiralkar
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Mohammed Al Balushi
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muzaffar Shiralkar
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Mohammed Al Balushi
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muzaffar Shiralkar
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: Mohammed Al Balushi
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muzaffar Shiralkar
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: Mohammed Al Balushi
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muzaffar Shiralkar
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: Mohammed Al Balushi
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muzaffar Shiralkar
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: Mohammed Al Balushi
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muzaffar Shiralkar
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: Muzaffar Shiralkar
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Al Balushi
+        wicket:
+          player_out: Mohammed Al Balushi
+          kind: bowled
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Muzaffar Shiralkar
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubair Al Balushi
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Muzaffar Shiralkar
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubair Al Balushi
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: Muzaffar Shiralkar
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubair Al Balushi
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Zubair Al Balushi
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muzaffar Shiralkar
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: Zubair Al Balushi
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muzaffar Shiralkar
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: Muzaffar Shiralkar
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubair Al Balushi
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: Muzaffar Shiralkar
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubair Al Balushi
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: Muzaffar Shiralkar
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubair Al Balushi
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: Muzaffar Shiralkar
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubair Al Balushi
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: Zubair Al Balushi
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muzaffar Shiralkar
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: Zubair Al Balushi
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muzaffar Shiralkar
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: Zubair Al Balushi
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muzaffar Shiralkar
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: Zubair Al Balushi
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muzaffar Shiralkar
+        wicket:
+          player_out: Muzaffar Shiralkar
+          fielders:
+          - Hafeez Khan (sub)
+          kind: caught
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: Zubair Al Balushi
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Issa Al Balushi
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: Zubair Al Balushi
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Issa Al Balushi
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: Zubair Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Issa Al Balushi
+    - 9.2:
+        actual_delivery: '9.1'
+        non_striker: Zubair Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Issa Al Balushi
+    - 9.3:
+        actual_delivery: '9.2'
+        non_striker: Zubair Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Issa Al Balushi
+    - 9.4:
+        actual_delivery: '9.3'
+        non_striker: Issa Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubair Al Balushi
+    - 9.5:
+        actual_delivery: '9.4'
+        non_striker: Zubair Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Issa Al Balushi
+    - 9.6:
+        actual_delivery: '9.5'
+        non_striker: Issa Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubair Al Balushi
+    - 9.7:
+        actual_delivery: '9.6'
+        non_striker: Zubair Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Issa Al Balushi
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Issa Al Balushi
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubair Al Balushi
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Issa Al Balushi
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubair Al Balushi
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: Issa Al Balushi
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubair Al Balushi
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: Issa Al Balushi
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubair Al Balushi
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: Zubair Al Balushi
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Issa Al Balushi
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: Issa Al Balushi
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubair Al Balushi
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Zubair Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Issa Al Balushi
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Zubair Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Issa Al Balushi
+        wicket:
+          player_out: Issa Al Balushi
+          fielders:
+          - Hafeez Khan (sub)
+          kind: caught
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: Zubair Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Munthir Al Balushi
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: Zubair Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Munthir Al Balushi
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: Zubair Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Munthir Al Balushi
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: Zubair Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Munthir Al Balushi
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: Munthir Al Balushi
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubair Al Balushi
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Munthir Al Balushi
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubair Al Balushi
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Zubair Al Balushi
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Munthir Al Balushi
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Munthir Al Balushi
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubair Al Balushi
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Zubair Al Balushi
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Munthir Al Balushi
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: Munthir Al Balushi
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zubair Al Balushi
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Zubair Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Munthir Al Balushi
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Munthir Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubair Al Balushi
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Zubair Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Munthir Al Balushi
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Munthir Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zubair Al Balushi
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: Munthir Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zubair Al Balushi
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: Munthir Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zubair Al Balushi
+    - 13.7:
+        actual_delivery: '13.6'
+        non_striker: Munthir Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubair Al Balushi
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Zubair Al Balushi
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Munthir Al Balushi
+        wicket:
+          player_out: Munthir Al Balushi
+          kind: lbw
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Zubair Al Balushi
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Sufyan Mehmood
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubair Al Balushi
+        wicket:
+          player_out: Zubair Al Balushi
+          kind: bowled
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: Sufyan Mehmood
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nawed Al Balushi
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: Sufyan Mehmood
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nawed Al Balushi
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Sufyan Mehmood
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nawed Al Balushi
+        wicket:
+          player_out: Nawed Al Balushi
+          kind: bowled
+    - 15.1:
+        actual_delivery: '15.1'
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Wasim Al Balushi
+        batsman: Sufyan Mehmood
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: Sufyan Mehmood
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Al Balushi
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: Sufyan Mehmood
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Al Balushi
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: Wasim Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: Wasim Al Balushi
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: Sufyan Mehmood
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Al Balushi
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: Wasim Al Balushi
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Sufyan Mehmood
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Al Balushi
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: Sufyan Mehmood
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Al Balushi
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: Sufyan Mehmood
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Al Balushi
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: Sufyan Mehmood
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Al Balushi
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: Sufyan Mehmood
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Al Balushi
+        wicket:
+          player_out: Wasim Al Balushi
+          kind: caught and bowled
+    - 17.1:
+        actual_delivery: '17.1'
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Faris Al Balushi
+        batsman: Sufyan Mehmood
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: Sufyan Mehmood
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faris Al Balushi
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: Faris Al Balushi
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: Sufyan Mehmood
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faris Al Balushi
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: Sufyan Mehmood
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faris Al Balushi
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: Faris Al Balushi
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sufyan Mehmood
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: Sufyan Mehmood
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faris Al Balushi
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: Sufyan Mehmood
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faris Al Balushi
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: Sufyan Mehmood
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faris Al Balushi
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: Sufyan Mehmood
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faris Al Balushi
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: Sufyan Mehmood
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faris Al Balushi
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: Sufyan Mehmood
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faris Al Balushi
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: Faris Al Balushi
+        bowler: Babar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: Faris Al Balushi
+        bowler: Babar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: Faris Al Balushi
+        bowler: Babar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: Faris Al Balushi
+        bowler: Babar Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: Sufyan Mehmood
+        bowler: Babar Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faris Al Balushi
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: Sufyan Mehmood
+        bowler: Babar Hayat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faris Al Balushi
+    target:
+      overs: 20
+      runs: 288

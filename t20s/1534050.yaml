@@ -1,0 +1,2101 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-05-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Episkopi
+  dates:
+  - '2026-05-20'
+  gender: male
+  match_type: T20
+  match_type_number: 3889
+  outcome:
+    winner: Guernsey
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - J Butler
+  players:
+    Slovenia:
+    - Tarun Sharma
+    - Taher Muhammad
+    - OJR Groves
+    - Izaz Ali
+    - Shahid Arshad
+    - Waqar Khan
+    - JL Kovacic
+    - DK Pallekonda
+    - D Matla
+    - AS Kumaran
+    - Saeed Waqar Ali
+    Guernsey:
+    - LJ Barker
+    - J Butler
+    - T Nightingale
+    - MWR Stokes
+    - OB Nightingale
+    - IDA Damarell
+    - M Dale-Bradley
+    - E Robinson
+    - A Martel
+    - LT Bichard
+    - LB Ferbrache
+  registry:
+    people:
+      A Martel: 65cd62a9
+      AS Kumaran: 26f40d94
+      D Matla: d1bec7a6
+      DK Pallekonda: e77c9807
+      E Robinson: 2719e9a6
+      G McCrea: 46f4a901
+      G Morrisey: f442110f
+      IDA Damarell: 580ae7f2
+      Izaz Ali: 8a4e101e
+      J Butler: efcb778e
+      JL Kovacic: d821ea56
+      LB Ferbrache: 0f72f582
+      LJ Barker: da1f80f8
+      LT Bichard: dfcdb11e
+      M Burns: b3bd0666
+      M Dale-Bradley: 62b2aa65
+      MWR Stokes: c573d173
+      Mark Duffy: 8a947037
+      OB Nightingale: 1deb4c0c
+      OJR Groves: 0b07cb5e
+      Saeed Waqar Ali: 1a353572
+      Shahid Arshad: 587e65cc
+      T Nightingale: 51a125b3
+      Taher Muhammad: '68832922'
+      Tarun Sharma: f915844b
+      Waqar Khan: da21531c
+  teams:
+  - Slovenia
+  - Guernsey
+  toss:
+    winner: Slovenia
+    decision: bat
+  umpires:
+  - G Morrisey
+  - M Burns
+  venue: Happy Valley Ground
+  team_type: international
+innings:
+- 1st innings:
+    team: Slovenia
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Taher Muhammad
+        batsman: Tarun Sharma
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: Taher Muhammad
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tarun Sharma
+        wicket:
+          player_out: Tarun Sharma
+          fielders:
+          - J Butler
+          kind: caught
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: Taher Muhammad
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJR Groves
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: Taher Muhammad
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJR Groves
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: Taher Muhammad
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJR Groves
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: Taher Muhammad
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJR Groves
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: OJR Groves
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Taher Muhammad
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJR Groves
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: Taher Muhammad
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OJR Groves
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: Taher Muhammad
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OJR Groves
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: Taher Muhammad
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJR Groves
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: Taher Muhammad
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJR Groves
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Taher Muhammad
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJR Groves
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Taher Muhammad
+        bowler: A Martel
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: OJR Groves
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: Taher Muhammad
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJR Groves
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: Taher Muhammad
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJR Groves
+        wicket:
+          player_out: OJR Groves
+          fielders:
+          - T Nightingale
+          kind: caught
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: Taher Muhammad
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: Taher Muhammad
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Izaz Ali
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Taher Muhammad
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: Taher Muhammad
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izaz Ali
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: Izaz Ali
+        bowler: LT Bichard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Taher Muhammad
+    - 3.5:
+        actual_delivery: '3.4'
+        non_striker: Izaz Ali
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 3.6:
+        actual_delivery: '3.5'
+        non_striker: Izaz Ali
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 3.7:
+        actual_delivery: '3.6'
+        non_striker: Izaz Ali
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Izaz Ali
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: Izaz Ali
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: Taher Muhammad
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Izaz Ali
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Taher Muhammad
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: Taher Muhammad
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izaz Ali
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: Izaz Ali
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Taher Muhammad
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Taher Muhammad
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Taher Muhammad
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Izaz Ali
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Taher Muhammad
+        bowler: MWR Stokes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Izaz Ali
+    - 5.5:
+        actual_delivery: '5.4'
+        non_striker: Taher Muhammad
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+    - 5.6:
+        actual_delivery: '5.5'
+        non_striker: Taher Muhammad
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izaz Ali
+    - 5.7:
+        actual_delivery: '5.6'
+        non_striker: Izaz Ali
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: Taher Muhammad
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: Taher Muhammad
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izaz Ali
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: Izaz Ali
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Izaz Ali
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Taher Muhammad
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: Taher Muhammad
+        bowler: M Dale-Bradley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Izaz Ali
+    - 6.7:
+        actual_delivery: '6.6'
+        non_striker: Taher Muhammad
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Izaz Ali
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Izaz Ali
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: Taher Muhammad
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izaz Ali
+        wicket:
+          player_out: Izaz Ali
+          fielders:
+          - LB Ferbrache
+          kind: caught
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: Taher Muhammad
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: Taher Muhammad
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: Taher Muhammad
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Arshad
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: Shahid Arshad
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: Taher Muhammad
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: Taher Muhammad
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Arshad
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: Shahid Arshad
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: Shahid Arshad
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: Shahid Arshad
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: Taher Muhammad
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: Shahid Arshad
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: Taher Muhammad
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Arshad
+        wicket:
+          player_out: Shahid Arshad
+          kind: bowled
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: Taher Muhammad
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: Taher Muhammad
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: Taher Muhammad
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: Taher Muhammad
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Waqar Khan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Taher Muhammad
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waqar Khan
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: Taher Muhammad
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: Taher Muhammad
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: Taher Muhammad
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: Taher Muhammad
+        bowler: A Martel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waqar Khan
+    - 10.7:
+        actual_delivery: '10.6'
+        non_striker: Taher Muhammad
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Waqar Khan
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Taher Muhammad
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Khan
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: Waqar Khan
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: Taher Muhammad
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: Taher Muhammad
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waqar Khan
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: Taher Muhammad
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Khan
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: Taher Muhammad
+        bowler: M Dale-Bradley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waqar Khan
+    - 12.2:
+        actual_delivery: '12.1'
+        non_striker: Taher Muhammad
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 12.3:
+        actual_delivery: '12.2'
+        non_striker: Taher Muhammad
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Khan
+    - 12.4:
+        actual_delivery: '12.3'
+        non_striker: Waqar Khan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 12.5:
+        actual_delivery: '12.4'
+        non_striker: Taher Muhammad
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+    - 12.6:
+        actual_delivery: '12.5'
+        non_striker: Taher Muhammad
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Khan
+        wicket:
+          player_out: Waqar Khan
+          fielders:
+          - IDA Damarell
+          kind: caught
+    - 12.7:
+        actual_delivery: '12.6'
+        non_striker: Taher Muhammad
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Kovacic
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: JL Kovacic
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taher Muhammad
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: JL Kovacic
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Taher Muhammad
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Kovacic
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: JL Kovacic
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: JL Kovacic
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: Taher Muhammad
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Kovacic
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Taher Muhammad
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Kovacic
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: JL Kovacic
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Taher Muhammad
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Kovacic
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: JL Kovacic
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taher Muhammad
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: Taher Muhammad
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Kovacic
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: JL Kovacic
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taher Muhammad
+        wicket:
+          player_out: Taher Muhammad
+          kind: bowled
+    - 15.1:
+        actual_delivery: '15.1'
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DK Pallekonda
+        batsman: JL Kovacic
+    - 15.2:
+        actual_delivery: '15.2'
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: DK Pallekonda
+        batsman: JL Kovacic
+    - 15.3:
+        actual_delivery: '15.3'
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DK Pallekonda
+        batsman: JL Kovacic
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: JL Kovacic
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Pallekonda
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: JL Kovacic
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Pallekonda
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: DK Pallekonda
+        bowler: T Nightingale
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL Kovacic
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: JL Kovacic
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Pallekonda
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: JL Kovacic
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Pallekonda
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: DK Pallekonda
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Kovacic
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: DK Pallekonda
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Kovacic
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: DK Pallekonda
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Kovacic
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: JL Kovacic
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Pallekonda
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: JL Kovacic
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Pallekonda
+        wicket:
+          player_out: DK Pallekonda
+          fielders:
+          - J Butler
+          kind: caught
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: JL Kovacic
+        bowler: E Robinson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Matla
+    - 17.3:
+        actual_delivery: '17.2'
+        non_striker: JL Kovacic
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Matla
+    - 17.4:
+        actual_delivery: '17.3'
+        non_striker: D Matla
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Kovacic
+    - 17.5:
+        actual_delivery: '17.4'
+        non_striker: D Matla
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL Kovacic
+    - 17.6:
+        actual_delivery: '17.5'
+        non_striker: D Matla
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Kovacic
+        wicket:
+          player_out: JL Kovacic
+          fielders:
+          - LT Bichard
+          kind: caught
+    - 17.7:
+        actual_delivery: '17.6'
+        non_striker: D Matla
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Kumaran
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: D Matla
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Kumaran
+        wicket:
+          player_out: AS Kumaran
+          kind: bowled
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: D Matla
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Waqar Ali
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: D Matla
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Waqar Ali
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: D Matla
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Waqar Ali
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: D Matla
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Waqar Ali
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: D Matla
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Waqar Ali
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: Saeed Waqar Ali
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Matla
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: Saeed Waqar Ali
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Matla
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: D Matla
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Waqar Ali
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: D Matla
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Waqar Ali
+        wicket:
+          player_out: Saeed Waqar Ali
+          kind: bowled
+- 2nd innings:
+    team: Guernsey
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Butler
+        batsman: LJ Barker
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: LJ Barker
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: LJ Barker
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: LJ Barker
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Butler
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: LJ Barker
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: J Butler
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Barker
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: LJ Barker
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Butler
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: LJ Barker
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: LJ Barker
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+        wicket:
+          player_out: J Butler
+          fielders:
+          - Waqar Khan
+          kind: caught
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: LJ Barker
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: LJ Barker
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: LJ Barker
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Nightingale
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: T Nightingale
+        bowler: JL Kovacic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LJ Barker
+    - 2.2:
+        actual_delivery: '2.1'
+        non_striker: T Nightingale
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Barker
+    - 2.3:
+        actual_delivery: '2.2'
+        non_striker: T Nightingale
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Barker
+    - 2.4:
+        actual_delivery: '2.3'
+        non_striker: LJ Barker
+        bowler: JL Kovacic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Nightingale
+    - 2.5:
+        actual_delivery: '2.3'
+        non_striker: LJ Barker
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 2.6:
+        actual_delivery: '2.4'
+        non_striker: T Nightingale
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Barker
+    - 2.7:
+        actual_delivery: '2.5'
+        non_striker: LJ Barker
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 2.8:
+        actual_delivery: '2.6'
+        non_striker: LJ Barker
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+        wicket:
+          player_out: T Nightingale
+          fielders:
+          - D Matla
+          kind: caught
+    - 3.1:
+        actual_delivery: '3.1'
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MWR Stokes
+        batsman: LJ Barker
+    - 3.2:
+        actual_delivery: '3.2'
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: MWR Stokes
+        batsman: LJ Barker
+    - 3.3:
+        actual_delivery: '3.2'
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MWR Stokes
+        batsman: LJ Barker
+    - 3.4:
+        actual_delivery: '3.3'
+        non_striker: LJ Barker
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 3.5:
+        actual_delivery: '3.4'
+        non_striker: MWR Stokes
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Barker
+    - 3.6:
+        actual_delivery: '3.5'
+        non_striker: MWR Stokes
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Barker
+    - 3.7:
+        actual_delivery: '3.6'
+        non_striker: MWR Stokes
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Barker
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: LJ Barker
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: LJ Barker
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: LJ Barker
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: LJ Barker
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: LJ Barker
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: LJ Barker
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MWR Stokes
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: MWR Stokes
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Barker
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: LJ Barker
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: LJ Barker
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MWR Stokes
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: LJ Barker
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: LJ Barker
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: MWR Stokes
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Barker
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: LJ Barker
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MWR Stokes
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: LJ Barker
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: MWR Stokes
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Barker
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: MWR Stokes
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Barker
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: LJ Barker
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: MWR Stokes
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Barker
+        wicket:
+          player_out: LJ Barker
+          kind: caught and bowled
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: OB Nightingale
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+        wicket:
+          player_out: MWR Stokes
+          fielders:
+          - DK Pallekonda
+          kind: caught
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: OB Nightingale
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: IDA Damarell
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: IDA Damarell
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OB Nightingale
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: IDA Damarell
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: OB Nightingale
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDA Damarell
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: IDA Damarell
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OB Nightingale
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: OB Nightingale
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDA Damarell
+        wicket:
+          player_out: IDA Damarell
+          kind: caught and bowled
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: OB Nightingale
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dale-Bradley
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: OB Nightingale
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dale-Bradley
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: OB Nightingale
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dale-Bradley
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: M Dale-Bradley
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OB Nightingale
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: M Dale-Bradley
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: M Dale-Bradley
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OB Nightingale
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: M Dale-Bradley
+        bowler: Izaz Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: OB Nightingale
+    - 9.3:
+        actual_delivery: '9.2'
+        non_striker: M Dale-Bradley
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OB Nightingale
+    - 9.4:
+        actual_delivery: '9.3'
+        non_striker: M Dale-Bradley
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OB Nightingale
+    - 9.5:
+        actual_delivery: '9.4'
+        non_striker: M Dale-Bradley
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OB Nightingale
+    - 9.6:
+        actual_delivery: '9.5'
+        non_striker: M Dale-Bradley
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 9.7:
+        actual_delivery: '9.6'
+        non_striker: OB Nightingale
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dale-Bradley
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: OB Nightingale
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dale-Bradley
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: M Dale-Bradley
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: OB Nightingale
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Dale-Bradley
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: OB Nightingale
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Dale-Bradley
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: OB Nightingale
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Dale-Bradley
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: OB Nightingale
+        bowler: DK Pallekonda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dale-Bradley
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: M Dale-Bradley
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: OB Nightingale
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dale-Bradley
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: OB Nightingale
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dale-Bradley
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: M Dale-Bradley
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OB Nightingale
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: M Dale-Bradley
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OB Nightingale
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: M Dale-Bradley
+        bowler: Izaz Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: M Dale-Bradley
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OB Nightingale
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: M Dale-Bradley
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OB Nightingale
+        wicket:
+          player_out: OB Nightingale
+          fielders:
+          - Tarun Sharma
+          kind: caught
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: M Dale-Bradley
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Robinson
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: M Dale-Bradley
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Robinson
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: M Dale-Bradley
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Robinson
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: M Dale-Bradley
+        bowler: JL Kovacic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Robinson
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: M Dale-Bradley
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Robinson
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: M Dale-Bradley
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Robinson
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: E Robinson
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Dale-Bradley
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: E Robinson
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dale-Bradley
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: M Dale-Bradley
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Robinson
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: M Dale-Bradley
+        bowler: Saeed Waqar Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Robinson
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: E Robinson
+        bowler: AS Kumaran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Dale-Bradley
+    target:
+      overs: 20
+      runs: 100

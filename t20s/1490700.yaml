@@ -1,0 +1,2352 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bristol
+  dates:
+  - '2026-06-25'
+  gender: female
+  match_type: T20
+  match_type_number: 2887
+  outcome:
+    winner: South Africa
+    by:
+      runs: 88
+  overs: 20
+  player_of_match:
+  - T Brits
+  players:
+    South Africa:
+    - L Wolvaardt
+    - T Brits
+    - A Dercksen
+    - D van Niekerk
+    - M Kapp
+    - N de Klerk
+    - CL Tryon
+    - S Jafta
+    - S Ismail
+    - A Khaka
+    - N Mlaba
+    Netherlands:
+    - P Molkenboer
+    - S Khurana
+    - SL Kalis
+    - B de Leede
+    - R Rijke
+    - F Overdijk
+    - IJR Zwilling
+    - MIW van den Raad
+    - HWA Landheer
+    - C de Lange
+    - S Siegers
+  registry:
+    people:
+      A Dercksen: d2b1f515
+      A Khaka: 0d518f89
+      B de Leede: b3020075
+      C de Lange: c6a019f5
+      CA Polosak: 26a360d2
+      CL Tryon: 4d4605e6
+      D van Niekerk: 8c5775f3
+      F Overdijk: 022745d5
+      GS Lakshmi: ba8d5615
+      Gayathri Venugopal: 20e3ae99
+      HWA Landheer: a6ec88f4
+      IJR Zwilling: 47b32a5a
+      L Wolvaardt: e60f81c9
+      M Kapp: 63e3b6b3
+      MIW van den Raad: dead3b10
+      N Mlaba: 686362af
+      N de Klerk: ea544967
+      P Molkenboer: fa9db243
+      R Rijke: 42e4b276
+      S Ismail: 108c4c09
+      S Jafta: '34304210'
+      S Khurana: 9a9a056d
+      S Siegers: 9a58f2c8
+      SL Kalis: 2b150c6b
+      Shathira Jakir: 6b992a6f
+      T Brits: '06659caa'
+      VG Rathi: 144e5b16
+  team_type: international
+  teams:
+  - South Africa
+  - Netherlands
+  toss:
+    winner: Netherlands
+    decision: field
+  umpires:
+  - CA Polosak
+  - Shathira Jakir
+  venue: County Ground, Bristol
+innings:
+- 1st innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: T Brits
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.1'
+        batsman: L Wolvaardt
+    - 0.2:
+        non_striker: T Brits
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: L Wolvaardt
+    - 0.3:
+        non_striker: T Brits
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: L Wolvaardt
+    - 0.4:
+        non_striker: L Wolvaardt
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.4'
+        batsman: T Brits
+    - 0.5:
+        non_striker: L Wolvaardt
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.5'
+        batsman: T Brits
+    - 0.6:
+        non_striker: L Wolvaardt
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: T Brits
+    - 1.1:
+        non_striker: L Wolvaardt
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: T Brits
+    - 1.2:
+        non_striker: T Brits
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: L Wolvaardt
+    - 1.3:
+        non_striker: T Brits
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: L Wolvaardt
+    - 1.4:
+        non_striker: T Brits
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: L Wolvaardt
+    - 1.5:
+        non_striker: L Wolvaardt
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: T Brits
+    - 1.6:
+        non_striker: L Wolvaardt
+        bowler: IJR Zwilling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.6'
+        batsman: T Brits
+    - 1.7:
+        non_striker: L Wolvaardt
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: T Brits
+    - 2.1:
+        non_striker: L Wolvaardt
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: T Brits
+    - 2.2:
+        non_striker: T Brits
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.2'
+        batsman: L Wolvaardt
+    - 2.3:
+        non_striker: T Brits
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: L Wolvaardt
+    - 2.4:
+        non_striker: L Wolvaardt
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: T Brits
+    - 2.5:
+        non_striker: T Brits
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: L Wolvaardt
+    - 2.6:
+        non_striker: T Brits
+        bowler: R Rijke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: L Wolvaardt
+    - 3.1:
+        non_striker: L Wolvaardt
+        bowler: IJR Zwilling
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        actual_delivery: '3.1'
+        batsman: T Brits
+    - 3.2:
+        non_striker: L Wolvaardt
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: T Brits
+    - 3.3:
+        non_striker: L Wolvaardt
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: T Brits
+    - 3.4:
+        non_striker: L Wolvaardt
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: T Brits
+    - 3.5:
+        non_striker: L Wolvaardt
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: T Brits
+    - 3.6:
+        non_striker: L Wolvaardt
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: T Brits
+    - 3.7:
+        non_striker: T Brits
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: L Wolvaardt
+    - 4.1:
+        non_striker: T Brits
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.1'
+        batsman: L Wolvaardt
+    - 4.2:
+        non_striker: T Brits
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: L Wolvaardt
+    - 4.3:
+        non_striker: L Wolvaardt
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.3'
+        batsman: T Brits
+    - 4.4:
+        non_striker: L Wolvaardt
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: T Brits
+    - 4.5:
+        non_striker: L Wolvaardt
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: T Brits
+    - 4.6:
+        non_striker: L Wolvaardt
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.6'
+        batsman: T Brits
+    - 5.1:
+        non_striker: T Brits
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '5.1'
+        batsman: L Wolvaardt
+    - 5.2:
+        non_striker: L Wolvaardt
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: T Brits
+    - 5.3:
+        non_striker: T Brits
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: L Wolvaardt
+    - 5.4:
+        non_striker: L Wolvaardt
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: T Brits
+    - 5.5:
+        non_striker: L Wolvaardt
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: T Brits
+    - 5.6:
+        non_striker: L Wolvaardt
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: T Brits
+    - 6.1:
+        non_striker: T Brits
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: L Wolvaardt
+    - 6.2:
+        non_striker: L Wolvaardt
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.2'
+        batsman: T Brits
+    - 6.3:
+        non_striker: L Wolvaardt
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: T Brits
+    - 6.4:
+        non_striker: L Wolvaardt
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: T Brits
+    - 6.5:
+        non_striker: T Brits
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: L Wolvaardt
+    - 6.6:
+        non_striker: L Wolvaardt
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: T Brits
+    - 7.1:
+        non_striker: T Brits
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: L Wolvaardt
+    - 7.2:
+        non_striker: T Brits
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: L Wolvaardt
+    - 7.3:
+        non_striker: T Brits
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.3'
+        batsman: L Wolvaardt
+    - 7.4:
+        non_striker: T Brits
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: L Wolvaardt
+    - 7.5:
+        non_striker: L Wolvaardt
+        bowler: HWA Landheer
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        actual_delivery: '7.5'
+        batsman: T Brits
+    - 7.6:
+        non_striker: L Wolvaardt
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: T Brits
+    - 7.7:
+        non_striker: T Brits
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: L Wolvaardt
+    - 8.1:
+        non_striker: L Wolvaardt
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: T Brits
+    - 8.2:
+        non_striker: T Brits
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: L Wolvaardt
+    - 8.3:
+        non_striker: L Wolvaardt
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: T Brits
+    - 8.4:
+        non_striker: L Wolvaardt
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: T Brits
+    - 8.5:
+        non_striker: L Wolvaardt
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: T Brits
+    - 8.6:
+        non_striker: L Wolvaardt
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: T Brits
+    - 9.1:
+        non_striker: T Brits
+        bowler: MIW van den Raad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: L Wolvaardt
+    - 9.2:
+        non_striker: T Brits
+        bowler: MIW van den Raad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.2'
+        batsman: L Wolvaardt
+    - 9.3:
+        non_striker: T Brits
+        bowler: MIW van den Raad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: L Wolvaardt
+    - 9.4:
+        non_striker: T Brits
+        bowler: MIW van den Raad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: L Wolvaardt
+    - 9.5:
+        non_striker: L Wolvaardt
+        bowler: MIW van den Raad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: T Brits
+    - 9.6:
+        non_striker: T Brits
+        bowler: MIW van den Raad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.6'
+        batsman: L Wolvaardt
+    - 10.1:
+        non_striker: L Wolvaardt
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.1'
+        batsman: T Brits
+    - 10.2:
+        non_striker: L Wolvaardt
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: T Brits
+    - 10.3:
+        non_striker: L Wolvaardt
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: T Brits
+    - 10.4:
+        non_striker: T Brits
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: L Wolvaardt
+    - 10.5:
+        non_striker: T Brits
+        bowler: HWA Landheer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.5'
+        batsman: L Wolvaardt
+    - 10.6:
+        non_striker: T Brits
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: L Wolvaardt
+    - 10.7:
+        non_striker: T Brits
+        bowler: HWA Landheer
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        actual_delivery: '10.6'
+        batsman: L Wolvaardt
+    - 11.1:
+        non_striker: L Wolvaardt
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.1'
+        batsman: T Brits
+    - 11.2:
+        non_striker: L Wolvaardt
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: T Brits
+    - 11.3:
+        non_striker: T Brits
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: L Wolvaardt
+    - 11.4:
+        non_striker: L Wolvaardt
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.4'
+        batsman: T Brits
+    - 11.5:
+        non_striker: L Wolvaardt
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: T Brits
+    - 11.6:
+        non_striker: T Brits
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.6'
+        batsman: L Wolvaardt
+    - 12.1:
+        non_striker: L Wolvaardt
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: T Brits
+    - 12.2:
+        non_striker: L Wolvaardt
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.2'
+        batsman: T Brits
+    - 12.3:
+        non_striker: L Wolvaardt
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: T Brits
+    - 12.4:
+        non_striker: T Brits
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: L Wolvaardt
+    - 12.5:
+        non_striker: L Wolvaardt
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: T Brits
+    - 12.6:
+        non_striker: L Wolvaardt
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: T Brits
+    - 13.1:
+        non_striker: T Brits
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: L Wolvaardt
+    - 13.2:
+        non_striker: L Wolvaardt
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: T Brits
+    - 13.3:
+        non_striker: T Brits
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: L Wolvaardt
+        wicket:
+          player_out: L Wolvaardt
+          fielders:
+          - B de Leede
+          kind: caught
+    - 13.4:
+        non_striker: T Brits
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: A Dercksen
+    - 13.5:
+        non_striker: A Dercksen
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.5'
+        batsman: T Brits
+    - 13.6:
+        non_striker: A Dercksen
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: T Brits
+    - 14.1:
+        non_striker: T Brits
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: A Dercksen
+    - 14.2:
+        non_striker: A Dercksen
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.2'
+        batsman: T Brits
+    - 14.3:
+        non_striker: A Dercksen
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.3'
+        batsman: T Brits
+    - 14.4:
+        non_striker: A Dercksen
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.4'
+        batsman: T Brits
+    - 14.5:
+        non_striker: A Dercksen
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.5'
+        batsman: T Brits
+    - 14.6:
+        non_striker: A Dercksen
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: T Brits
+    - 15.1:
+        non_striker: A Dercksen
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.1'
+        batsman: T Brits
+    - 15.2:
+        non_striker: A Dercksen
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: T Brits
+    - 15.3:
+        non_striker: A Dercksen
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: T Brits
+    - 15.4:
+        non_striker: T Brits
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: A Dercksen
+    - 15.5:
+        non_striker: A Dercksen
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.5'
+        batsman: T Brits
+    - 15.6:
+        non_striker: A Dercksen
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: T Brits
+    - 16.1:
+        non_striker: A Dercksen
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: T Brits
+    - 16.2:
+        non_striker: T Brits
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.2'
+        batsman: A Dercksen
+    - 16.3:
+        non_striker: T Brits
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: A Dercksen
+    - 16.4:
+        non_striker: A Dercksen
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: T Brits
+    - 16.5:
+        non_striker: T Brits
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: A Dercksen
+    - 16.6:
+        non_striker: A Dercksen
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: T Brits
+    - 17.1:
+        non_striker: A Dercksen
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: T Brits
+    - 17.2:
+        non_striker: A Dercksen
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.2'
+        batsman: T Brits
+    - 17.3:
+        non_striker: A Dercksen
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: T Brits
+    - 17.4:
+        non_striker: A Dercksen
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: T Brits
+    - 17.5:
+        non_striker: T Brits
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.5'
+        batsman: A Dercksen
+    - 17.6:
+        non_striker: T Brits
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: A Dercksen
+    - 18.1:
+        non_striker: T Brits
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.1'
+        batsman: A Dercksen
+    - 18.2:
+        non_striker: T Brits
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.2'
+        batsman: A Dercksen
+    - 18.3:
+        non_striker: T Brits
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: A Dercksen
+    - 18.4:
+        non_striker: A Dercksen
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: T Brits
+    - 18.5:
+        non_striker: A Dercksen
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.5'
+        batsman: T Brits
+    - 18.6:
+        non_striker: A Dercksen
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.6'
+        batsman: T Brits
+    - 19.1:
+        non_striker: T Brits
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.1'
+        batsman: A Dercksen
+    - 19.2:
+        non_striker: T Brits
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: A Dercksen
+    - 19.3:
+        non_striker: A Dercksen
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.3'
+        batsman: T Brits
+    - 19.4:
+        non_striker: T Brits
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.4'
+        batsman: A Dercksen
+    - 19.5:
+        non_striker: T Brits
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.5'
+        batsman: A Dercksen
+    - 19.6:
+        non_striker: T Brits
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: A Dercksen
+- 2nd innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        non_striker: S Khurana
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: P Molkenboer
+    - 0.2:
+        non_striker: S Khurana
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: P Molkenboer
+    - 0.3:
+        non_striker: S Khurana
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: P Molkenboer
+    - 0.4:
+        non_striker: P Molkenboer
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: S Khurana
+    - 0.5:
+        non_striker: S Khurana
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: P Molkenboer
+    - 0.6:
+        non_striker: S Khurana
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: P Molkenboer
+    - 1.1:
+        non_striker: P Molkenboer
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: S Khurana
+    - 1.2:
+        non_striker: P Molkenboer
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: S Khurana
+    - 1.3:
+        non_striker: S Khurana
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: P Molkenboer
+    - 1.4:
+        non_striker: S Khurana
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.4'
+        batsman: P Molkenboer
+    - 1.5:
+        non_striker: S Khurana
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.5'
+        batsman: P Molkenboer
+    - 1.6:
+        non_striker: S Khurana
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: P Molkenboer
+    - 2.1:
+        non_striker: P Molkenboer
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: S Khurana
+    - 2.2:
+        non_striker: P Molkenboer
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: S Khurana
+    - 2.3:
+        non_striker: S Khurana
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: P Molkenboer
+    - 2.4:
+        non_striker: S Khurana
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '2.4'
+        batsman: P Molkenboer
+    - 2.5:
+        non_striker: P Molkenboer
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: S Khurana
+    - 2.6:
+        non_striker: P Molkenboer
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: S Khurana
+    - 3.1:
+        non_striker: P Molkenboer
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.1'
+        batsman: S Khurana
+    - 3.2:
+        non_striker: P Molkenboer
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: S Khurana
+    - 3.3:
+        non_striker: P Molkenboer
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: S Khurana
+    - 3.4:
+        non_striker: P Molkenboer
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: S Khurana
+    - 3.5:
+        non_striker: P Molkenboer
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.5'
+        batsman: S Khurana
+    - 3.6:
+        non_striker: P Molkenboer
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: S Khurana
+    - 4.1:
+        non_striker: S Khurana
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: P Molkenboer
+    - 4.2:
+        non_striker: S Khurana
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.2'
+        batsman: P Molkenboer
+    - 4.3:
+        non_striker: S Khurana
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: P Molkenboer
+    - 4.4:
+        non_striker: P Molkenboer
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: S Khurana
+    - 4.5:
+        non_striker: P Molkenboer
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: S Khurana
+    - 4.6:
+        non_striker: P Molkenboer
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: S Khurana
+    - 5.1:
+        non_striker: P Molkenboer
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: S Khurana
+    - 5.2:
+        non_striker: S Khurana
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: P Molkenboer
+    - 5.3:
+        non_striker: P Molkenboer
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: S Khurana
+    - 5.4:
+        non_striker: P Molkenboer
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.4'
+        batsman: S Khurana
+    - 5.5:
+        non_striker: P Molkenboer
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: S Khurana
+    - 5.6:
+        non_striker: P Molkenboer
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: S Khurana
+    - 6.1:
+        non_striker: S Khurana
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: P Molkenboer
+    - 6.2:
+        non_striker: P Molkenboer
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: S Khurana
+    - 6.3:
+        non_striker: P Molkenboer
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: S Khurana
+    - 6.4:
+        non_striker: S Khurana
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: P Molkenboer
+    - 6.5:
+        non_striker: P Molkenboer
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: S Khurana
+    - 6.6:
+        non_striker: P Molkenboer
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: S Khurana
+    - 7.1:
+        non_striker: P Molkenboer
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.1'
+        batsman: S Khurana
+    - 7.2:
+        non_striker: P Molkenboer
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: S Khurana
+    - 7.3:
+        non_striker: P Molkenboer
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.3'
+        batsman: S Khurana
+    - 7.4:
+        non_striker: P Molkenboer
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: S Khurana
+    - 7.5:
+        non_striker: P Molkenboer
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: S Khurana
+        wicket:
+          player_out: S Khurana
+          fielders:
+          - S Ismail
+          kind: caught
+    - 7.6:
+        non_striker: P Molkenboer
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: SL Kalis
+    - 8.1:
+        non_striker: P Molkenboer
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: SL Kalis
+    - 8.2:
+        non_striker: P Molkenboer
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.2'
+        batsman: SL Kalis
+    - 8.3:
+        non_striker: P Molkenboer
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: SL Kalis
+    - 8.4:
+        non_striker: P Molkenboer
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: SL Kalis
+    - 8.5:
+        non_striker: P Molkenboer
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: SL Kalis
+    - 8.6:
+        non_striker: P Molkenboer
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: SL Kalis
+    - 9.1:
+        non_striker: SL Kalis
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: P Molkenboer
+    - 9.2:
+        non_striker: P Molkenboer
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: SL Kalis
+    - 9.3:
+        non_striker: P Molkenboer
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: SL Kalis
+    - 9.4:
+        non_striker: SL Kalis
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: P Molkenboer
+    - 9.5:
+        non_striker: P Molkenboer
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: SL Kalis
+    - 9.6:
+        non_striker: P Molkenboer
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.6'
+        batsman: SL Kalis
+    - 10.1:
+        non_striker: SL Kalis
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: P Molkenboer
+    - 10.2:
+        non_striker: SL Kalis
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: P Molkenboer
+    - 10.3:
+        non_striker: P Molkenboer
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: SL Kalis
+    - 10.4:
+        non_striker: P Molkenboer
+        bowler: CL Tryon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.4'
+        batsman: SL Kalis
+    - 10.5:
+        non_striker: P Molkenboer
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: SL Kalis
+    - 10.6:
+        non_striker: SL Kalis
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: P Molkenboer
+    - 10.7:
+        non_striker: P Molkenboer
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: SL Kalis
+    - 11.1:
+        non_striker: P Molkenboer
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: SL Kalis
+    - 11.2:
+        non_striker: SL Kalis
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: P Molkenboer
+    - 11.3:
+        non_striker: P Molkenboer
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: SL Kalis
+    - 11.4:
+        non_striker: P Molkenboer
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: SL Kalis
+    - 11.5:
+        non_striker: SL Kalis
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: P Molkenboer
+    - 11.6:
+        non_striker: P Molkenboer
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: SL Kalis
+    - 12.1:
+        non_striker: P Molkenboer
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: SL Kalis
+    - 12.2:
+        non_striker: SL Kalis
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.2'
+        batsman: P Molkenboer
+    - 12.3:
+        non_striker: SL Kalis
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: P Molkenboer
+    - 12.4:
+        non_striker: SL Kalis
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: P Molkenboer
+    - 12.5:
+        non_striker: P Molkenboer
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: SL Kalis
+    - 12.6:
+        non_striker: P Molkenboer
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: SL Kalis
+    - 13.1:
+        non_striker: P Molkenboer
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: SL Kalis
+    - 13.2:
+        non_striker: P Molkenboer
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: SL Kalis
+    - 13.3:
+        non_striker: P Molkenboer
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.3'
+        batsman: SL Kalis
+    - 13.4:
+        non_striker: P Molkenboer
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: SL Kalis
+    - 13.5:
+        non_striker: SL Kalis
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: P Molkenboer
+    - 13.6:
+        non_striker: P Molkenboer
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: SL Kalis
+    - 14.1:
+        non_striker: SL Kalis
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.1'
+        batsman: P Molkenboer
+    - 14.2:
+        non_striker: SL Kalis
+        bowler: S Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '14.2'
+        batsman: P Molkenboer
+    - 14.3:
+        non_striker: P Molkenboer
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: SL Kalis
+    - 14.4:
+        non_striker: P Molkenboer
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: SL Kalis
+        wicket:
+          player_out: SL Kalis
+          fielders:
+          - S Jafta
+          kind: caught
+    - 14.5:
+        non_striker: P Molkenboer
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: B de Leede
+    - 14.6:
+        non_striker: B de Leede
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: P Molkenboer
+    - 15.1:
+        non_striker: B de Leede
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: P Molkenboer
+    - 15.2:
+        non_striker: B de Leede
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: P Molkenboer
+    - 15.3:
+        non_striker: P Molkenboer
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: B de Leede
+    - 15.4:
+        non_striker: B de Leede
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: P Molkenboer
+    - 15.5:
+        non_striker: B de Leede
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.5'
+        batsman: P Molkenboer
+    - 15.6:
+        non_striker: B de Leede
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: P Molkenboer
+    - 16.1:
+        non_striker: P Molkenboer
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.1'
+        batsman: B de Leede
+    - 16.2:
+        non_striker: P Molkenboer
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: B de Leede
+    - 16.3:
+        non_striker: B de Leede
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: P Molkenboer
+    - 16.4:
+        non_striker: B de Leede
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: P Molkenboer
+    - 16.5:
+        non_striker: P Molkenboer
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: B de Leede
+    - 16.6:
+        non_striker: P Molkenboer
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: B de Leede
+    - 17.1:
+        non_striker: B de Leede
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: P Molkenboer
+    - 17.2:
+        non_striker: B de Leede
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: P Molkenboer
+    - 17.3:
+        non_striker: B de Leede
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: P Molkenboer
+        wicket:
+          player_out: P Molkenboer
+          fielders:
+          - D van Niekerk
+          - S Jafta
+          kind: run out
+    - 17.4:
+        non_striker: B de Leede
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: R Rijke
+    - 17.5:
+        non_striker: R Rijke
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: B de Leede
+    - 17.6:
+        non_striker: B de Leede
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: R Rijke
+        wicket:
+          player_out: R Rijke
+          kind: lbw
+    - 18.1:
+        non_striker: F Overdijk
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.1'
+        batsman: B de Leede
+    - 18.2:
+        non_striker: F Overdijk
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: B de Leede
+    - 18.3:
+        non_striker: F Overdijk
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: B de Leede
+    - 18.4:
+        non_striker: B de Leede
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: F Overdijk
+        wicket:
+          player_out: F Overdijk
+          kind: bowled
+    - 18.5:
+        non_striker: B de Leede
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: IJR Zwilling
+    - 18.6:
+        non_striker: IJR Zwilling
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: B de Leede
+    - 19.1:
+        non_striker: B de Leede
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: IJR Zwilling
+    - 19.2:
+        non_striker: IJR Zwilling
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: B de Leede
+        wicket:
+          player_out: B de Leede
+          fielders:
+          - A Dercksen
+          kind: caught
+    - 19.3:
+        non_striker: IJR Zwilling
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.3'
+        batsman: MIW van den Raad
+    - 19.4:
+        non_striker: MIW van den Raad
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: IJR Zwilling
+        wicket:
+          player_out: IJR Zwilling
+          kind: bowled
+    - 19.5:
+        non_striker: MIW van den Raad
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: HWA Landheer
+        wicket:
+          player_out: HWA Landheer
+          kind: bowled
+    - 19.6:
+        non_striker: MIW van den Raad
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: C de Lange
+    target:
+      overs: 20
+      runs: 209

@@ -1,0 +1,1644 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-08-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Blantyre
+  dates:
+  - '2026-08-14'
+  gender: male
+  match_type: T20
+  match_type_number: 4071
+  outcome:
+    winner: Malawi
+    by:
+      runs: 26
+  overs: 20
+  player_of_match:
+  - D Jakiel
+  players:
+    Malawi:
+    - A Limdawala
+    - Sami Sohail
+    - SY Nihute
+    - Salim Patel
+    - SZ Vayani
+    - Matthew Mount
+    - M Choamba
+    - D Kansonkho
+    - D Jakiel
+    - B Pondani
+    - K Thuchila
+    Rwanda:
+    - Hamza Khan
+    - D Ndikubwimana
+    - I Niyomugabo
+    - D Uwimana
+    - O Manishimwe
+    - E Rukiriza
+    - D Gumyusenge
+    - JM Iradukunda
+    - Muhammad Nadir
+    - I Ntirenganya
+    - C Nzabarinda
+  registry:
+    people:
+      A Limdawala: 2bcbcac3
+      B Pondani: e5117568
+      C Nzabarinda: b6e6746b
+      D Gumyusenge: eeb78e0a
+      D Jakiel: 8b7ce771
+      D Kansonkho: 45ca12a7
+      D Ndikubwimana: 3cbedf51
+      D Shawane: 021e0d95
+      D Uwimana: 1f8e97d7
+      E Rukiriza: 3ac13a94
+      Hamza Khan: 44a5f2b2
+      I Niyomugabo: 72bf5103
+      I Ntirenganya: e73f6c4b
+      JM Iradukunda: f58295c2
+      John Mayeku: 9d819a32
+      Justine Muzungu: b90044b7
+      K Thuchila: af42d9f2
+      M Choamba: 5570c4c1
+      Matthew Mount: 245ca608
+      Muhammad Nadir: '090f96e4'
+      O Manishimwe: fb31ca49
+      Osman Mhango: fa4ec243
+      SY Nihute: 56b41ed3
+      SZ Vayani: a4afc486
+      Salim Patel: 6f13ff1c
+      Sami Sohail: 602ebd4c
+  team_type: international
+  teams:
+  - Malawi
+  - Rwanda
+  toss:
+    winner: Rwanda
+    decision: field
+  umpires:
+  - Justine Muzungu
+  - Osman Mhango
+  venue: TCA Oval, Blantyre
+innings:
+- 1st innings:
+    team: Malawi
+    deliveries:
+    - 0.1:
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sami Sohail
+        actual_delivery: '0.1'
+        batsman: A Limdawala
+    - 0.2:
+        bowler: I Ntirenganya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Sami Sohail
+        actual_delivery: '0.2'
+        batsman: A Limdawala
+    - 0.3:
+        bowler: I Ntirenganya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Sami Sohail
+        actual_delivery: '0.2'
+        batsman: A Limdawala
+    - 0.4:
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sami Sohail
+        actual_delivery: '0.2'
+        batsman: A Limdawala
+    - 0.5:
+        non_striker: A Limdawala
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: Sami Sohail
+    - 0.6:
+        non_striker: A Limdawala
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.4'
+        batsman: Sami Sohail
+    - 0.7:
+        non_striker: A Limdawala
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.5'
+        batsman: Sami Sohail
+    - 0.8:
+        non_striker: A Limdawala
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Sami Sohail
+    - 1.1:
+        non_striker: Sami Sohail
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.1'
+        batsman: A Limdawala
+    - 1.2:
+        non_striker: Sami Sohail
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: A Limdawala
+    - 1.3:
+        non_striker: Sami Sohail
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: A Limdawala
+        wicket:
+          player_out: A Limdawala
+          fielders:
+          - D Uwimana
+          kind: caught
+    - 1.4:
+        non_striker: Sami Sohail
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: SY Nihute
+    - 1.5:
+        non_striker: SY Nihute
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Sami Sohail
+    - 1.6:
+        non_striker: SY Nihute
+        bowler: Muhammad Nadir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.6'
+        batsman: Sami Sohail
+    - 1.7:
+        non_striker: SY Nihute
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: Sami Sohail
+    - 2.1:
+        non_striker: SY Nihute
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.1'
+        batsman: Sami Sohail
+    - 2.2:
+        non_striker: SY Nihute
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: Sami Sohail
+    - 2.3:
+        non_striker: SY Nihute
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Sami Sohail
+    - 2.4:
+        non_striker: SY Nihute
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Sami Sohail
+    - 2.5:
+        non_striker: SY Nihute
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: Sami Sohail
+    - 2.6:
+        non_striker: SY Nihute
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Sami Sohail
+    - 3.1:
+        non_striker: Sami Sohail
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: SY Nihute
+    - 3.2:
+        non_striker: Sami Sohail
+        bowler: Muhammad Nadir
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        actual_delivery: '3.2'
+        batsman: SY Nihute
+    - 3.3:
+        non_striker: Sami Sohail
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: SY Nihute
+    - 3.4:
+        non_striker: SY Nihute
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Sami Sohail
+    - 3.5:
+        non_striker: SY Nihute
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.5'
+        batsman: Sami Sohail
+    - 3.6:
+        non_striker: SY Nihute
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: Sami Sohail
+    - 4.1:
+        non_striker: SY Nihute
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: Sami Sohail
+    - 4.2:
+        non_striker: SY Nihute
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.2'
+        batsman: Sami Sohail
+    - 4.3:
+        non_striker: SY Nihute
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: Sami Sohail
+    - 4.4:
+        non_striker: SY Nihute
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: Sami Sohail
+    - 4.5:
+        non_striker: SY Nihute
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: Sami Sohail
+    - 4.6:
+        non_striker: SY Nihute
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: Sami Sohail
+    - 5.1:
+        non_striker: SY Nihute
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Sami Sohail
+    - 5.2:
+        non_striker: SY Nihute
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.2'
+        batsman: Sami Sohail
+    - 5.3:
+        non_striker: SY Nihute
+        bowler: E Rukiriza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.3'
+        batsman: Sami Sohail
+    - 5.4:
+        non_striker: SY Nihute
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: Sami Sohail
+    - 5.5:
+        non_striker: Sami Sohail
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: SY Nihute
+    - 5.6:
+        non_striker: Sami Sohail
+        bowler: E Rukiriza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.5'
+        batsman: SY Nihute
+    - 5.7:
+        non_striker: Sami Sohail
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: SY Nihute
+    - 5.8:
+        non_striker: Sami Sohail
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: SY Nihute
+    - 6.1:
+        non_striker: SY Nihute
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: Sami Sohail
+    - 6.2:
+        non_striker: Sami Sohail
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: SY Nihute
+    - 6.3:
+        non_striker: Sami Sohail
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: SY Nihute
+    - 6.4:
+        non_striker: Sami Sohail
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: SY Nihute
+    - 6.5:
+        non_striker: SY Nihute
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: Sami Sohail
+    - 6.6:
+        non_striker: Sami Sohail
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: SY Nihute
+    - 7.1:
+        non_striker: Sami Sohail
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: SY Nihute
+    - 7.2:
+        non_striker: SY Nihute
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: Sami Sohail
+    - 7.3:
+        non_striker: Sami Sohail
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: SY Nihute
+    - 7.4:
+        non_striker: SY Nihute
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: Sami Sohail
+        wicket:
+          player_out: Sami Sohail
+          kind: bowled
+    - 7.5:
+        non_striker: SY Nihute
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: Salim Patel
+    - 7.6:
+        non_striker: SY Nihute
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: Salim Patel
+    - 8.1:
+        non_striker: Salim Patel
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: SY Nihute
+    - 8.2:
+        non_striker: SY Nihute
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: Salim Patel
+    - 8.3:
+        non_striker: SY Nihute
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: Salim Patel
+        wicket:
+          player_out: Salim Patel
+          fielders:
+          - D Gumyusenge
+          kind: caught
+    - 8.4:
+        non_striker: SY Nihute
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: SZ Vayani
+    - 8.5:
+        non_striker: SZ Vayani
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: SY Nihute
+    - 8.6:
+        non_striker: SZ Vayani
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: SY Nihute
+    - 9.1:
+        non_striker: SZ Vayani
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '9.1'
+        batsman: SY Nihute
+    - 9.2:
+        non_striker: SZ Vayani
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: SY Nihute
+    - 9.3:
+        non_striker: SY Nihute
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: SZ Vayani
+        wicket:
+          player_out: SZ Vayani
+          fielders:
+          - O Manishimwe
+          - D Gumyusenge
+          kind: run out
+    - 9.4:
+        non_striker: SY Nihute
+        bowler: E Rukiriza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.4'
+        batsman: Matthew Mount
+    - 9.5:
+        non_striker: SY Nihute
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: Matthew Mount
+    - 9.6:
+        non_striker: SY Nihute
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: Matthew Mount
+    - 9.7:
+        non_striker: SY Nihute
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: Matthew Mount
+    - 10.1:
+        non_striker: SY Nihute
+        bowler: C Nzabarinda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.1'
+        batsman: Matthew Mount
+    - 10.2:
+        non_striker: SY Nihute
+        bowler: C Nzabarinda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: Matthew Mount
+    - 10.3:
+        non_striker: Matthew Mount
+        bowler: C Nzabarinda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.2'
+        batsman: SY Nihute
+    - 10.4:
+        non_striker: Matthew Mount
+        bowler: C Nzabarinda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: SY Nihute
+        wicket:
+          player_out: Matthew Mount
+          fielders:
+          - I Niyomugabo
+          - O Manishimwe
+          kind: run out
+    - 10.5:
+        non_striker: SY Nihute
+        bowler: C Nzabarinda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.4'
+        batsman: M Choamba
+    - 10.6:
+        non_striker: SY Nihute
+        bowler: C Nzabarinda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: M Choamba
+    - 10.7:
+        non_striker: M Choamba
+        bowler: C Nzabarinda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.5'
+        batsman: SY Nihute
+    - 10.8:
+        non_striker: M Choamba
+        bowler: C Nzabarinda
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        actual_delivery: '10.6'
+        batsman: SY Nihute
+    - 11.1:
+        non_striker: SY Nihute
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: M Choamba
+    - 11.2:
+        non_striker: M Choamba
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: SY Nihute
+    - 11.3:
+        non_striker: M Choamba
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: SY Nihute
+    - 11.4:
+        non_striker: M Choamba
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: SY Nihute
+    - 11.5:
+        non_striker: SY Nihute
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: M Choamba
+    - 11.6:
+        non_striker: SY Nihute
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: M Choamba
+    - 12.1:
+        non_striker: M Choamba
+        bowler: C Nzabarinda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: SY Nihute
+    - 12.2:
+        non_striker: M Choamba
+        bowler: C Nzabarinda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: SY Nihute
+    - 12.3:
+        non_striker: SY Nihute
+        bowler: C Nzabarinda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: M Choamba
+    - 12.4:
+        non_striker: M Choamba
+        bowler: C Nzabarinda
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '12.4'
+        batsman: SY Nihute
+    - 12.5:
+        non_striker: M Choamba
+        bowler: C Nzabarinda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: SY Nihute
+    - 12.6:
+        non_striker: M Choamba
+        bowler: C Nzabarinda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: SY Nihute
+- 2nd innings:
+    team: Rwanda
+    deliveries:
+    - 0.1:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: D Ndikubwimana
+        actual_delivery: '0.1'
+        batsman: Hamza Khan
+    - 0.2:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: D Ndikubwimana
+        actual_delivery: '0.2'
+        batsman: Hamza Khan
+    - 0.3:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Ndikubwimana
+        actual_delivery: '0.3'
+        batsman: Hamza Khan
+    - 0.4:
+        non_striker: D Ndikubwimana
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Hamza Khan
+        wicket:
+          player_out: Hamza Khan
+          fielders:
+          - SZ Vayani
+          kind: caught
+    - 0.5:
+        non_striker: D Ndikubwimana
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: I Niyomugabo
+    - 0.6:
+        non_striker: D Ndikubwimana
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: I Niyomugabo
+        wicket:
+          player_out: I Niyomugabo
+          fielders:
+          - Matthew Mount
+          kind: caught
+    - 1.1:
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Uwimana
+        actual_delivery: '1.1'
+        batsman: D Ndikubwimana
+    - 1.2:
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Uwimana
+        actual_delivery: '1.2'
+        batsman: D Ndikubwimana
+    - 1.3:
+        non_striker: D Ndikubwimana
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: D Uwimana
+    - 1.4:
+        non_striker: D Uwimana
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: D Ndikubwimana
+        wicket:
+          player_out: D Ndikubwimana
+          kind: bowled
+    - 1.5:
+        non_striker: D Uwimana
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: O Manishimwe
+    - 1.6:
+        non_striker: D Uwimana
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: O Manishimwe
+    - 2.1:
+        non_striker: O Manishimwe
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: D Uwimana
+    - 2.2:
+        non_striker: D Uwimana
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.2'
+        batsman: O Manishimwe
+    - 2.3:
+        non_striker: D Uwimana
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: O Manishimwe
+    - 2.4:
+        non_striker: D Uwimana
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: O Manishimwe
+    - 2.5:
+        non_striker: O Manishimwe
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: D Uwimana
+    - 2.6:
+        non_striker: D Uwimana
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: O Manishimwe
+    - 3.1:
+        non_striker: O Manishimwe
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: D Uwimana
+    - 3.2:
+        non_striker: O Manishimwe
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.2'
+        batsman: D Uwimana
+    - 3.3:
+        non_striker: O Manishimwe
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: D Uwimana
+    - 3.4:
+        non_striker: O Manishimwe
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: D Uwimana
+    - 3.5:
+        non_striker: O Manishimwe
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: D Uwimana
+    - 3.6:
+        non_striker: D Uwimana
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: O Manishimwe
+    - 4.1:
+        non_striker: D Uwimana
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: O Manishimwe
+    - 4.2:
+        non_striker: O Manishimwe
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: D Uwimana
+    - 4.3:
+        non_striker: D Uwimana
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.3'
+        batsman: O Manishimwe
+    - 4.4:
+        non_striker: D Uwimana
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: O Manishimwe
+        wicket:
+          player_out: O Manishimwe
+          kind: caught and bowled
+    - 4.5:
+        non_striker: D Uwimana
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: E Rukiriza
+    - 4.6:
+        non_striker: D Uwimana
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: E Rukiriza
+    - 5.1:
+        non_striker: E Rukiriza
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.1'
+        batsman: D Uwimana
+    - 5.2:
+        non_striker: E Rukiriza
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: D Uwimana
+    - 5.3:
+        non_striker: D Uwimana
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: E Rukiriza
+    - 5.4:
+        non_striker: D Uwimana
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: E Rukiriza
+    - 5.5:
+        non_striker: E Rukiriza
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.5'
+        batsman: D Uwimana
+    - 5.6:
+        non_striker: E Rukiriza
+        bowler: SZ Vayani
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        actual_delivery: '5.6'
+        batsman: D Uwimana
+    - 6.1:
+        non_striker: D Uwimana
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: E Rukiriza
+    - 6.2:
+        non_striker: E Rukiriza
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '6.2'
+        batsman: D Uwimana
+    - 6.3:
+        non_striker: E Rukiriza
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: D Uwimana
+    - 6.4:
+        non_striker: E Rukiriza
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: D Uwimana
+    - 6.5:
+        non_striker: E Rukiriza
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: D Uwimana
+    - 6.6:
+        non_striker: E Rukiriza
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: D Uwimana
+    - 7.1:
+        non_striker: D Uwimana
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: E Rukiriza
+    - 7.2:
+        non_striker: E Rukiriza
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: D Uwimana
+        wicket:
+          player_out: D Uwimana
+          kind: bowled
+    - 7.3:
+        non_striker: E Rukiriza
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: D Gumyusenge
+        wicket:
+          player_out: D Gumyusenge
+          fielders:
+          - SZ Vayani
+          kind: caught
+    - 7.4:
+        non_striker: E Rukiriza
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: JM Iradukunda
+        wicket:
+          player_out: JM Iradukunda
+          kind: lbw
+    - 7.5:
+        non_striker: E Rukiriza
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: Muhammad Nadir
+    - 7.6:
+        non_striker: E Rukiriza
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: Muhammad Nadir
+    - 8.1:
+        non_striker: Muhammad Nadir
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: E Rukiriza
+    - 8.2:
+        non_striker: Muhammad Nadir
+        bowler: K Thuchila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.2'
+        batsman: E Rukiriza
+    - 8.3:
+        non_striker: Muhammad Nadir
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: E Rukiriza
+    - 8.4:
+        non_striker: Muhammad Nadir
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: E Rukiriza
+    - 8.5:
+        non_striker: E Rukiriza
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: Muhammad Nadir
+    - 8.6:
+        non_striker: E Rukiriza
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Muhammad Nadir
+    - 8.7:
+        non_striker: Muhammad Nadir
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.6'
+        batsman: E Rukiriza
+    - 9.1:
+        non_striker: E Rukiriza
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: Muhammad Nadir
+    - 9.2:
+        non_striker: Muhammad Nadir
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: E Rukiriza
+    - 9.3:
+        non_striker: Muhammad Nadir
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: E Rukiriza
+    - 9.4:
+        non_striker: Muhammad Nadir
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: E Rukiriza
+    - 9.5:
+        non_striker: Muhammad Nadir
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: E Rukiriza
+        wicket:
+          player_out: E Rukiriza
+          fielders:
+          - SZ Vayani
+          kind: caught
+    - 9.6:
+        non_striker: Muhammad Nadir
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: I Ntirenganya
+    - 10.1:
+        non_striker: I Ntirenganya
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: Muhammad Nadir
+    - 10.2:
+        non_striker: I Ntirenganya
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.2'
+        batsman: Muhammad Nadir
+    - 10.3:
+        non_striker: I Ntirenganya
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: Muhammad Nadir
+    - 10.4:
+        non_striker: I Ntirenganya
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: Muhammad Nadir
+    - 10.5:
+        non_striker: I Ntirenganya
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: Muhammad Nadir
+    - 10.6:
+        non_striker: Muhammad Nadir
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: I Ntirenganya
+    - 11.1:
+        non_striker: I Ntirenganya
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: Muhammad Nadir
+    - 11.2:
+        non_striker: Muhammad Nadir
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '11.2'
+        batsman: I Ntirenganya
+    - 11.3:
+        non_striker: Muhammad Nadir
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: I Ntirenganya
+        wicket:
+          player_out: I Ntirenganya
+          kind: bowled
+    - 11.4:
+        non_striker: Muhammad Nadir
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: C Nzabarinda
+    - 11.5:
+        non_striker: Muhammad Nadir
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: C Nzabarinda
+    - 11.6:
+        non_striker: C Nzabarinda
+        bowler: Sami Sohail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '11.6'
+        batsman: Muhammad Nadir
+    - 12.1:
+        non_striker: C Nzabarinda
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Muhammad Nadir
+    - 12.2:
+        non_striker: C Nzabarinda
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: Muhammad Nadir
+    - 12.3:
+        non_striker: C Nzabarinda
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: Muhammad Nadir
+        wicket:
+          player_out: C Nzabarinda
+          fielders:
+          - A Limdawala
+          - M Choamba
+          kind: run out
+    target:
+      overs: 13
+      runs: 102

@@ -1,0 +1,2238 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hamilton
+  dates:
+  - '2026-06-27'
+  gender: male
+  match_type: T20
+  match_type_number: 3999
+  outcome:
+    winner: Bermuda
+    by:
+      runs: 146
+  overs: 20
+  player_of_match:
+  - DMW Rawlins
+  players:
+    Bermuda:
+    - OGL Bascome
+    - DMW Rawlins
+    - D Sabir
+    - Isaiah O'Brien
+    - L Horan
+    - C Trott
+    - TS Fray
+    - Chare Smith
+    - DL Brangman
+    - NIAF Paynter
+    - Z Tomlinson
+    Brazil:
+    - LF Muller
+    - LH Rodrigues
+    - W Maximo
+    - MFI Assuncao
+    - Yasar Haroon
+    - CC Machado
+    - LG Moras
+    - L Maximo
+    - G Oliveira
+    - B Passoni
+    - LA Goncalves
+  registry:
+    people:
+      A Gajjar: 37db06ef
+      B Passoni: a3e8e678
+      C Trott: ae624b05
+      CC Machado: 5992ef03
+      Chare Smith: 4e1b7998
+      D Sabir: 04bc296f
+      DL Brangman: dab18aa5
+      DMW Rawlins: f1eb3c73
+      G Oliveira: b4c52f5f
+      Isaiah O'Brien: 967801f4
+      L Horan: 16d43e12
+      L Maximo: 58c0c30c
+      LA Goncalves: 40ff8e58
+      LF Muller: f6411545
+      LG Moras: d5dea4e7
+      LH Rodrigues: 57c95c3c
+      MFI Assuncao: d8e48e1b
+      NIAF Paynter: 7a805b4c
+      OGL Bascome: 94a1827c
+      P Manning: f06b5585
+      Precious Smith: e78f5a8a
+      Reon King: 20fbf68c
+      TS Fray: c7537f8a
+      W Maximo: e41dee27
+      Yasar Haroon: 5a8dc41e
+      Z Tomlinson: f50c35d2
+  team_type: international
+  teams:
+  - Bermuda
+  - Brazil
+  toss:
+    winner: Bermuda
+    decision: bat
+  umpires:
+  - A Gajjar
+  - P Manning
+  venue: White Hill Field, Sandys Parish
+innings:
+- 1st innings:
+    team: Bermuda
+    deliveries:
+    - 0.1:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: DMW Rawlins
+        actual_delivery: '0.1'
+        batsman: OGL Bascome
+    - 0.2:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DMW Rawlins
+        actual_delivery: '0.2'
+        batsman: OGL Bascome
+    - 0.3:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DMW Rawlins
+        actual_delivery: '0.3'
+        batsman: OGL Bascome
+    - 0.4:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DMW Rawlins
+        actual_delivery: '0.4'
+        batsman: OGL Bascome
+    - 0.5:
+        non_striker: OGL Bascome
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.5'
+        batsman: DMW Rawlins
+    - 0.6:
+        non_striker: OGL Bascome
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: DMW Rawlins
+    - 0.7:
+        non_striker: OGL Bascome
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: DMW Rawlins
+    - 1.1:
+        non_striker: OGL Bascome
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: DMW Rawlins
+    - 1.2:
+        non_striker: OGL Bascome
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.2'
+        batsman: DMW Rawlins
+    - 1.3:
+        non_striker: OGL Bascome
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.3'
+        batsman: DMW Rawlins
+    - 1.4:
+        non_striker: OGL Bascome
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: DMW Rawlins
+    - 1.5:
+        non_striker: DMW Rawlins
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: OGL Bascome
+    - 1.6:
+        non_striker: DMW Rawlins
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: OGL Bascome
+    - 2.1:
+        non_striker: DMW Rawlins
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: OGL Bascome
+    - 2.2:
+        non_striker: DMW Rawlins
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: OGL Bascome
+    - 2.3:
+        non_striker: OGL Bascome
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: DMW Rawlins
+    - 2.4:
+        non_striker: OGL Bascome
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: DMW Rawlins
+    - 2.5:
+        non_striker: DMW Rawlins
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.5'
+        batsman: OGL Bascome
+    - 2.6:
+        non_striker: DMW Rawlins
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.6'
+        batsman: OGL Bascome
+    - 3.1:
+        non_striker: OGL Bascome
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: DMW Rawlins
+    - 3.2:
+        non_striker: OGL Bascome
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.2'
+        batsman: DMW Rawlins
+    - 3.3:
+        non_striker: OGL Bascome
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.3'
+        batsman: DMW Rawlins
+    - 3.4:
+        non_striker: OGL Bascome
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: DMW Rawlins
+    - 3.5:
+        non_striker: OGL Bascome
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.5'
+        batsman: DMW Rawlins
+    - 3.6:
+        non_striker: OGL Bascome
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: DMW Rawlins
+    - 4.1:
+        non_striker: DMW Rawlins
+        bowler: LG Moras
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        actual_delivery: '4.1'
+        batsman: OGL Bascome
+    - 4.2:
+        non_striker: DMW Rawlins
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: OGL Bascome
+    - 4.3:
+        non_striker: DMW Rawlins
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: OGL Bascome
+    - 4.4:
+        non_striker: DMW Rawlins
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: OGL Bascome
+    - 4.5:
+        non_striker: DMW Rawlins
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: OGL Bascome
+        wicket:
+          player_out: OGL Bascome
+          kind: bowled
+    - 4.6:
+        non_striker: DMW Rawlins
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: D Sabir
+    - 5.1:
+        non_striker: D Sabir
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.1'
+        batsman: DMW Rawlins
+    - 5.2:
+        non_striker: D Sabir
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: DMW Rawlins
+    - 5.3:
+        non_striker: DMW Rawlins
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: D Sabir
+    - 5.4:
+        non_striker: D Sabir
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: DMW Rawlins
+    - 5.5:
+        non_striker: D Sabir
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: DMW Rawlins
+    - 5.6:
+        non_striker: D Sabir
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: DMW Rawlins
+    - 6.1:
+        non_striker: D Sabir
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.1'
+        batsman: DMW Rawlins
+    - 6.2:
+        non_striker: D Sabir
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: DMW Rawlins
+    - 6.3:
+        non_striker: DMW Rawlins
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: D Sabir
+    - 6.4:
+        non_striker: D Sabir
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: DMW Rawlins
+    - 6.5:
+        non_striker: D Sabir
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: DMW Rawlins
+    - 6.6:
+        non_striker: DMW Rawlins
+        bowler: LG Moras
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '6.6'
+        batsman: D Sabir
+    - 6.7:
+        non_striker: D Sabir
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.6'
+        batsman: DMW Rawlins
+    - 7.1:
+        non_striker: DMW Rawlins
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: D Sabir
+    - 7.2:
+        non_striker: D Sabir
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: DMW Rawlins
+    - 7.3:
+        non_striker: D Sabir
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: DMW Rawlins
+    - 7.4:
+        non_striker: DMW Rawlins
+        bowler: Yasar Haroon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '7.4'
+        batsman: D Sabir
+    - 7.5:
+        non_striker: D Sabir
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: DMW Rawlins
+    - 7.6:
+        non_striker: D Sabir
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: DMW Rawlins
+    - 8.1:
+        non_striker: D Sabir
+        bowler: LF Muller
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        actual_delivery: '8.1'
+        batsman: DMW Rawlins
+    - 8.2:
+        non_striker: D Sabir
+        bowler: LF Muller
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.1'
+        batsman: DMW Rawlins
+    - 8.3:
+        non_striker: D Sabir
+        bowler: LF Muller
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.2'
+        batsman: DMW Rawlins
+    - 8.4:
+        non_striker: D Sabir
+        bowler: LF Muller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: DMW Rawlins
+    - 8.5:
+        non_striker: D Sabir
+        bowler: LF Muller
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.4'
+        batsman: DMW Rawlins
+    - 8.6:
+        non_striker: D Sabir
+        bowler: LF Muller
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.5'
+        batsman: DMW Rawlins
+    - 8.7:
+        non_striker: D Sabir
+        bowler: LF Muller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: DMW Rawlins
+    - 9.1:
+        non_striker: DMW Rawlins
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: D Sabir
+    - 9.2:
+        non_striker: D Sabir
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: DMW Rawlins
+    - 9.3:
+        non_striker: DMW Rawlins
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: D Sabir
+    - 9.4:
+        non_striker: DMW Rawlins
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: D Sabir
+    - 9.5:
+        non_striker: DMW Rawlins
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: D Sabir
+    - 9.6:
+        non_striker: D Sabir
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: DMW Rawlins
+    - 10.1:
+        non_striker: D Sabir
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: DMW Rawlins
+    - 10.2:
+        non_striker: DMW Rawlins
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: D Sabir
+    - 10.3:
+        non_striker: D Sabir
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.3'
+        batsman: DMW Rawlins
+    - 10.4:
+        non_striker: D Sabir
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: DMW Rawlins
+    - 10.5:
+        non_striker: D Sabir
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: DMW Rawlins
+    - 10.6:
+        non_striker: DMW Rawlins
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: D Sabir
+    - 11.1:
+        non_striker: DMW Rawlins
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '11.1'
+        batsman: D Sabir
+    - 11.2:
+        non_striker: DMW Rawlins
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: D Sabir
+    - 11.3:
+        non_striker: DMW Rawlins
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: D Sabir
+    - 11.4:
+        non_striker: D Sabir
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: DMW Rawlins
+    - 11.5:
+        non_striker: DMW Rawlins
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: D Sabir
+    - 11.6:
+        non_striker: DMW Rawlins
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: D Sabir
+    - 12.1:
+        non_striker: D Sabir
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: DMW Rawlins
+    - 12.2:
+        non_striker: DMW Rawlins
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '12.2'
+        batsman: D Sabir
+    - 12.3:
+        non_striker: DMW Rawlins
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.3'
+        batsman: D Sabir
+    - 12.4:
+        non_striker: DMW Rawlins
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: D Sabir
+    - 12.5:
+        non_striker: D Sabir
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: DMW Rawlins
+    - 12.6:
+        non_striker: D Sabir
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: DMW Rawlins
+    - 13.1:
+        non_striker: D Sabir
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.1'
+        batsman: DMW Rawlins
+    - 13.2:
+        non_striker: D Sabir
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: DMW Rawlins
+    - 13.3:
+        non_striker: DMW Rawlins
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: D Sabir
+        wicket:
+          player_out: D Sabir
+          kind: bowled
+    - 13.4:
+        non_striker: DMW Rawlins
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: Isaiah O'Brien
+    - 13.5:
+        non_striker: Isaiah O'Brien
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.5'
+        batsman: DMW Rawlins
+    - 13.6:
+        non_striker: Isaiah O'Brien
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: DMW Rawlins
+    - 14.1:
+        non_striker: DMW Rawlins
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.1'
+        batsman: Isaiah O'Brien
+    - 14.2:
+        non_striker: DMW Rawlins
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: Isaiah O'Brien
+    - 14.3:
+        non_striker: Isaiah O'Brien
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: DMW Rawlins
+    - 14.4:
+        non_striker: Isaiah O'Brien
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: DMW Rawlins
+    - 14.5:
+        non_striker: DMW Rawlins
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.5'
+        batsman: Isaiah O'Brien
+    - 14.6:
+        non_striker: DMW Rawlins
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '14.6'
+        batsman: Isaiah O'Brien
+    - 15.1:
+        non_striker: Isaiah O'Brien
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: DMW Rawlins
+    - 15.2:
+        non_striker: Isaiah O'Brien
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: DMW Rawlins
+    - 15.3:
+        non_striker: DMW Rawlins
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: Isaiah O'Brien
+    - 15.4:
+        non_striker: Isaiah O'Brien
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: DMW Rawlins
+    - 15.5:
+        non_striker: Isaiah O'Brien
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: DMW Rawlins
+    - 15.6:
+        non_striker: Isaiah O'Brien
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.6'
+        batsman: DMW Rawlins
+    - 16.1:
+        non_striker: DMW Rawlins
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.1'
+        batsman: Isaiah O'Brien
+    - 16.2:
+        non_striker: DMW Rawlins
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: Isaiah O'Brien
+    - 16.3:
+        non_striker: Isaiah O'Brien
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.3'
+        batsman: DMW Rawlins
+    - 16.4:
+        non_striker: Isaiah O'Brien
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: DMW Rawlins
+    - 16.5:
+        non_striker: DMW Rawlins
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.5'
+        batsman: Isaiah O'Brien
+    - 16.6:
+        non_striker: DMW Rawlins
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: Isaiah O'Brien
+    - 17.1:
+        non_striker: Isaiah O'Brien
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: DMW Rawlins
+    - 17.2:
+        non_striker: DMW Rawlins
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: Isaiah O'Brien
+        wicket:
+          player_out: Isaiah O'Brien
+          kind: lbw
+    - 17.3:
+        non_striker: DMW Rawlins
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: L Horan
+    - 17.4:
+        non_striker: L Horan
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.4'
+        batsman: DMW Rawlins
+    - 17.5:
+        non_striker: L Horan
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: DMW Rawlins
+    - 17.6:
+        non_striker: L Horan
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.6'
+        batsman: DMW Rawlins
+    - 18.1:
+        non_striker: DMW Rawlins
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.1'
+        batsman: L Horan
+    - 18.2:
+        non_striker: DMW Rawlins
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '18.2'
+        batsman: L Horan
+    - 18.3:
+        non_striker: L Horan
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.3'
+        batsman: DMW Rawlins
+    - 18.4:
+        non_striker: L Horan
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: DMW Rawlins
+    - 18.5:
+        non_striker: DMW Rawlins
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: L Horan
+    - 18.6:
+        non_striker: L Horan
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: DMW Rawlins
+    - 19.1:
+        non_striker: L Horan
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.1'
+        batsman: DMW Rawlins
+        wicket:
+          player_out: DMW Rawlins
+          kind: bowled
+    - 19.2:
+        non_striker: L Horan
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: C Trott
+    - 19.3:
+        non_striker: L Horan
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.3'
+        batsman: C Trott
+    - 19.4:
+        non_striker: C Trott
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: L Horan
+    - 19.5:
+        non_striker: C Trott
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.5'
+        batsman: L Horan
+    - 19.6:
+        non_striker: C Trott
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.6'
+        batsman: L Horan
+- 2nd innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LH Rodrigues
+        actual_delivery: '0.1'
+        batsman: LF Muller
+    - 0.2:
+        non_striker: LF Muller
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: LH Rodrigues
+    - 0.3:
+        non_striker: LF Muller
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: LH Rodrigues
+    - 0.4:
+        non_striker: LH Rodrigues
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: LF Muller
+    - 0.5:
+        non_striker: LF Muller
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: LH Rodrigues
+        wicket:
+          player_out: LH Rodrigues
+          kind: bowled
+    - 0.6:
+        non_striker: LF Muller
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: W Maximo
+        wicket:
+          player_out: W Maximo
+          kind: lbw
+    - 1.1:
+        bowler: Chare Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: MFI Assuncao
+        actual_delivery: '1.1'
+        batsman: LF Muller
+    - 1.2:
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MFI Assuncao
+        actual_delivery: '1.1'
+        batsman: LF Muller
+    - 1.3:
+        non_striker: LF Muller
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: MFI Assuncao
+    - 1.4:
+        non_striker: MFI Assuncao
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: LF Muller
+    - 1.5:
+        non_striker: MFI Assuncao
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: LF Muller
+        wicket:
+          player_out: LF Muller
+          fielders:
+          - L Horan
+          kind: caught
+    - 1.6:
+        non_striker: MFI Assuncao
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Yasar Haroon
+    - 1.7:
+        non_striker: MFI Assuncao
+        bowler: Chare Smith
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        actual_delivery: '1.6'
+        batsman: Yasar Haroon
+    - 1.8:
+        non_striker: MFI Assuncao
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Yasar Haroon
+    - 2.1:
+        non_striker: Yasar Haroon
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: MFI Assuncao
+    - 2.2:
+        non_striker: MFI Assuncao
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.2'
+        batsman: Yasar Haroon
+    - 2.3:
+        non_striker: MFI Assuncao
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Yasar Haroon
+    - 2.4:
+        non_striker: MFI Assuncao
+        bowler: L Horan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.4'
+        batsman: Yasar Haroon
+    - 2.5:
+        non_striker: MFI Assuncao
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Yasar Haroon
+    - 2.6:
+        non_striker: MFI Assuncao
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: Yasar Haroon
+    - 2.7:
+        non_striker: Yasar Haroon
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: MFI Assuncao
+        wicket:
+          player_out: Yasar Haroon
+          fielders:
+          - DMW Rawlins
+          - TS Fray
+          kind: run out
+    - 3.1:
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CC Machado
+        actual_delivery: '3.1'
+        batsman: MFI Assuncao
+    - 3.2:
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CC Machado
+        actual_delivery: '3.2'
+        batsman: MFI Assuncao
+    - 3.3:
+        non_striker: MFI Assuncao
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: CC Machado
+    - 3.4:
+        non_striker: MFI Assuncao
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: CC Machado
+    - 3.5:
+        non_striker: MFI Assuncao
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: CC Machado
+    - 3.6:
+        non_striker: MFI Assuncao
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: CC Machado
+    - 4.1:
+        non_striker: CC Machado
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: MFI Assuncao
+        wicket:
+          player_out: MFI Assuncao
+          fielders:
+          - Z Tomlinson
+          kind: caught
+    - 4.2:
+        non_striker: CC Machado
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: LG Moras
+    - 4.3:
+        non_striker: LG Moras
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: CC Machado
+    - 4.4:
+        non_striker: LG Moras
+        bowler: L Horan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '4.4'
+        batsman: CC Machado
+    - 4.5:
+        non_striker: CC Machado
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: LG Moras
+    - 4.6:
+        non_striker: CC Machado
+        bowler: L Horan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.6'
+        batsman: LG Moras
+    - 4.7:
+        non_striker: CC Machado
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: LG Moras
+    - 5.1:
+        non_striker: LG Moras
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: CC Machado
+    - 5.2:
+        non_striker: CC Machado
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: LG Moras
+    - 5.3:
+        non_striker: CC Machado
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: LG Moras
+    - 5.4:
+        non_striker: CC Machado
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: LG Moras
+    - 5.5:
+        non_striker: LG Moras
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: CC Machado
+    - 5.6:
+        non_striker: LG Moras
+        bowler: Chare Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.6'
+        batsman: CC Machado
+    - 5.7:
+        non_striker: LG Moras
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: CC Machado
+    - 6.1:
+        non_striker: CC Machado
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: LG Moras
+    - 6.2:
+        non_striker: CC Machado
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: LG Moras
+    - 6.3:
+        non_striker: LG Moras
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: CC Machado
+    - 6.4:
+        non_striker: LG Moras
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: CC Machado
+        wicket:
+          player_out: CC Machado
+          kind: lbw
+    - 6.5:
+        non_striker: LG Moras
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: L Maximo
+    - 6.6:
+        non_striker: LG Moras
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: L Maximo
+    - 7.1:
+        non_striker: L Maximo
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: LG Moras
+    - 7.2:
+        non_striker: L Maximo
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.2'
+        batsman: LG Moras
+    - 7.3:
+        non_striker: L Maximo
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: LG Moras
+    - 7.4:
+        non_striker: L Maximo
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: LG Moras
+    - 7.5:
+        non_striker: LG Moras
+        bowler: Chare Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.5'
+        batsman: L Maximo
+    - 7.6:
+        non_striker: LG Moras
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.5'
+        batsman: L Maximo
+    - 7.7:
+        non_striker: LG Moras
+        bowler: Chare Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: L Maximo
+    - 8.1:
+        non_striker: L Maximo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: LG Moras
+    - 8.2:
+        non_striker: L Maximo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: LG Moras
+    - 8.3:
+        non_striker: L Maximo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.3'
+        batsman: LG Moras
+    - 8.4:
+        non_striker: L Maximo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: LG Moras
+    - 8.5:
+        non_striker: L Maximo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: LG Moras
+        wicket:
+          player_out: LG Moras
+          fielders:
+          - Z Tomlinson
+          kind: stumped
+    - 8.6:
+        non_striker: L Maximo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.6'
+        batsman: G Oliveira
+    - 9.1:
+        non_striker: G Oliveira
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: L Maximo
+    - 9.2:
+        non_striker: L Maximo
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: G Oliveira
+    - 9.3:
+        non_striker: L Maximo
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: G Oliveira
+    - 9.4:
+        non_striker: G Oliveira
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: L Maximo
+    - 9.5:
+        non_striker: G Oliveira
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: L Maximo
+    - 9.6:
+        non_striker: L Maximo
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: G Oliveira
+    - 10.1:
+        non_striker: G Oliveira
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: L Maximo
+    - 10.2:
+        non_striker: G Oliveira
+        bowler: DL Brangman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.2'
+        batsman: L Maximo
+    - 10.3:
+        non_striker: G Oliveira
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: L Maximo
+    - 10.4:
+        non_striker: L Maximo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: G Oliveira
+    - 10.5:
+        non_striker: L Maximo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.4'
+        batsman: G Oliveira
+    - 10.6:
+        non_striker: L Maximo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: G Oliveira
+    - 10.7:
+        non_striker: L Maximo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: G Oliveira
+    - 11.1:
+        non_striker: G Oliveira
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: L Maximo
+    - 11.2:
+        non_striker: G Oliveira
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: L Maximo
+    - 11.3:
+        non_striker: L Maximo
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: G Oliveira
+    - 11.4:
+        non_striker: L Maximo
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: G Oliveira
+    - 11.5:
+        non_striker: L Maximo
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: G Oliveira
+    - 11.6:
+        non_striker: L Maximo
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '11.6'
+        batsman: G Oliveira
+    - 12.1:
+        non_striker: G Oliveira
+        bowler: DL Brangman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.1'
+        batsman: L Maximo
+    - 12.2:
+        non_striker: G Oliveira
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: L Maximo
+    - 12.3:
+        non_striker: L Maximo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: G Oliveira
+    - 12.4:
+        non_striker: L Maximo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.3'
+        batsman: G Oliveira
+    - 12.5:
+        non_striker: L Maximo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: G Oliveira
+    - 12.6:
+        non_striker: L Maximo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: G Oliveira
+    - 12.7:
+        non_striker: L Maximo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: G Oliveira
+        wicket:
+          player_out: G Oliveira
+          kind: bowled
+    - 13.1:
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Passoni
+        actual_delivery: '13.1'
+        batsman: L Maximo
+    - 13.2:
+        non_striker: L Maximo
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: B Passoni
+    - 13.3:
+        non_striker: L Maximo
+        bowler: NIAF Paynter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '13.3'
+        batsman: B Passoni
+    - 13.4:
+        non_striker: L Maximo
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: B Passoni
+    - 13.5:
+        non_striker: L Maximo
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: B Passoni
+    - 13.6:
+        non_striker: L Maximo
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: B Passoni
+    - 13.7:
+        non_striker: B Passoni
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: L Maximo
+    - 14.1:
+        non_striker: L Maximo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: B Passoni
+    - 14.2:
+        non_striker: L Maximo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: B Passoni
+    - 14.3:
+        non_striker: L Maximo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: B Passoni
+    - 14.4:
+        non_striker: L Maximo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: B Passoni
+    - 14.5:
+        non_striker: L Maximo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: B Passoni
+    - 14.6:
+        non_striker: B Passoni
+        bowler: DL Brangman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.6'
+        batsman: L Maximo
+    - 14.7:
+        non_striker: B Passoni
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: L Maximo
+    - 15.1:
+        non_striker: B Passoni
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: L Maximo
+    - 15.2:
+        non_striker: B Passoni
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: L Maximo
+    - 15.3:
+        non_striker: L Maximo
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: B Passoni
+    - 15.4:
+        non_striker: B Passoni
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: L Maximo
+        wicket:
+          player_out: L Maximo
+          kind: bowled
+    - 15.5:
+        non_striker: B Passoni
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: LA Goncalves
+    - 15.6:
+        non_striker: B Passoni
+        bowler: NIAF Paynter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: LA Goncalves
+        wicket:
+          player_out: LA Goncalves
+          kind: bowled
+    target:
+      overs: 20
+      runs: 221

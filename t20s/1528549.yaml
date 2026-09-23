@@ -1,0 +1,2441 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Belfast
+  dates:
+  - '2026-06-28'
+  gender: male
+  match_type: T20
+  match_type_number: 4004
+  outcome:
+    winner: Ireland
+    by:
+      runs: 1
+  overs: 20
+  player_of_match:
+  - J Moondra
+  players:
+    Ireland:
+    - TH Tector
+    - GR Adair
+    - HT Tector
+    - L Tucker
+    - BF Calitz
+    - GJ Delany
+    - GH Dockrell
+    - L McCarthy
+    - J Moondra
+    - MK Hollard
+    - MJ Humphreys
+    India:
+    - SV Samson
+    - Abhishek Sharma
+    - Ishan Kishan
+    - SS Iyer
+    - Tilak Varma
+    - AR Patel
+    - S Dube
+    - Suryansh Shedge
+    - Harshit Rana
+    - Arshdeep Singh
+    - Prince Yadav
+  registry:
+    people:
+      AR Patel: 2e171977
+      Abhishek Sharma: f29185a1
+      Aidan Seaver: 862c0b16
+      Arshdeep Singh: 244048f6
+      BF Calitz: 24ad97e7
+      DA Cosker: aac9f784
+      G Morrisey: f442110f
+      GH Dockrell: 99cddc5e
+      GJ Delany: 33b3d2df
+      GR Adair: 4ec96094
+      HT Tector: 59ea70a4
+      Harshit Rana: 77b1aa15
+      Ishan Kishan: 752f7486
+      J Moondra: 3bea7ea9
+      Jonathan Kennedy: f7ad4494
+      L McCarthy: 8eb2e2e6
+      L Tucker: 3979b5e0
+      MJ Humphreys: 2c54c49b
+      MK Hollard: 95b5bda3
+      Prince Yadav: 80b2fb19
+      R Black: 156c8fb1
+      S Dube: a4e37e47
+      SS Iyer: 85ec8e33
+      SV Samson: a4cc73aa
+      Suryansh Shedge: 970ddd24
+      TH Tector: '0348f9a5'
+      Tilak Varma: b0482a1d
+  team_type: international
+  teams:
+  - Ireland
+  - India
+  toss:
+    winner: India
+    decision: field
+  umpires:
+  - Aidan Seaver
+  - Jonathan Kennedy
+  venue: Civil Service Cricket Club, Stormont, Belfast
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: GR Adair
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.1'
+        batsman: TH Tector
+    - 0.2:
+        non_striker: TH Tector
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: GR Adair
+    - 0.3:
+        non_striker: TH Tector
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: GR Adair
+    - 0.4:
+        non_striker: TH Tector
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: GR Adair
+    - 0.5:
+        non_striker: TH Tector
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '0.5'
+        batsman: GR Adair
+    - 0.6:
+        non_striker: TH Tector
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '0.6'
+        batsman: GR Adair
+    - 1.1:
+        non_striker: GR Adair
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: TH Tector
+    - 1.2:
+        non_striker: GR Adair
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: TH Tector
+    - 1.3:
+        non_striker: GR Adair
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: TH Tector
+    - 1.4:
+        non_striker: GR Adair
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.4'
+        batsman: TH Tector
+    - 1.5:
+        non_striker: GR Adair
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: TH Tector
+        wicket:
+          player_out: TH Tector
+          fielders:
+          - Abhishek Sharma
+          kind: caught
+    - 1.6:
+        non_striker: GR Adair
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: HT Tector
+    - 2.1:
+        non_striker: HT Tector
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.1'
+        batsman: GR Adair
+    - 2.2:
+        non_striker: HT Tector
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: GR Adair
+        wicket:
+          player_out: GR Adair
+          fielders:
+          - Tilak Varma
+          kind: caught
+    - 2.3:
+        non_striker: HT Tector
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: L Tucker
+    - 2.4:
+        non_striker: L Tucker
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.4'
+        batsman: HT Tector
+    - 2.5:
+        non_striker: L Tucker
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: HT Tector
+    - 2.6:
+        non_striker: L Tucker
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: HT Tector
+    - 3.1:
+        non_striker: HT Tector
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: L Tucker
+    - 3.2:
+        non_striker: HT Tector
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: L Tucker
+    - 3.3:
+        non_striker: HT Tector
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: L Tucker
+    - 3.4:
+        non_striker: HT Tector
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: L Tucker
+    - 3.5:
+        non_striker: L Tucker
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: HT Tector
+    - 3.6:
+        non_striker: L Tucker
+        bowler: Harshit Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '3.6'
+        batsman: HT Tector
+    - 4.1:
+        non_striker: L Tucker
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: HT Tector
+    - 4.2:
+        non_striker: L Tucker
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: HT Tector
+    - 4.3:
+        non_striker: L Tucker
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.3'
+        batsman: HT Tector
+    - 4.4:
+        non_striker: L Tucker
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: HT Tector
+    - 4.5:
+        non_striker: HT Tector
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: L Tucker
+    - 4.6:
+        non_striker: L Tucker
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: HT Tector
+    - 5.1:
+        non_striker: HT Tector
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: L Tucker
+    - 5.2:
+        non_striker: HT Tector
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.2'
+        batsman: L Tucker
+    - 5.3:
+        non_striker: HT Tector
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: L Tucker
+    - 5.4:
+        non_striker: HT Tector
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: L Tucker
+    - 5.5:
+        non_striker: HT Tector
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: L Tucker
+    - 5.6:
+        non_striker: L Tucker
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: HT Tector
+    - 6.1:
+        non_striker: L Tucker
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: HT Tector
+    - 6.2:
+        non_striker: HT Tector
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: L Tucker
+    - 6.3:
+        non_striker: HT Tector
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.3'
+        batsman: L Tucker
+    - 6.4:
+        non_striker: HT Tector
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: L Tucker
+    - 6.5:
+        non_striker: HT Tector
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: L Tucker
+    - 6.6:
+        non_striker: L Tucker
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: HT Tector
+    - 7.1:
+        non_striker: HT Tector
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: L Tucker
+    - 7.2:
+        non_striker: HT Tector
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: L Tucker
+    - 7.3:
+        non_striker: HT Tector
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: L Tucker
+        wicket:
+          player_out: L Tucker
+          fielders:
+          - Ishan Kishan
+          kind: caught
+    - 7.4:
+        non_striker: HT Tector
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: BF Calitz
+    - 7.5:
+        non_striker: BF Calitz
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: HT Tector
+    - 7.6:
+        non_striker: BF Calitz
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: HT Tector
+    - 8.1:
+        non_striker: BF Calitz
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: HT Tector
+    - 8.2:
+        non_striker: BF Calitz
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: HT Tector
+    - 8.3:
+        non_striker: HT Tector
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: BF Calitz
+    - 8.4:
+        non_striker: HT Tector
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: BF Calitz
+    - 8.5:
+        non_striker: BF Calitz
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: HT Tector
+    - 8.6:
+        non_striker: BF Calitz
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: HT Tector
+    - 9.1:
+        non_striker: BF Calitz
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: HT Tector
+    - 9.2:
+        non_striker: HT Tector
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: BF Calitz
+    - 9.3:
+        non_striker: HT Tector
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: BF Calitz
+    - 9.4:
+        non_striker: BF Calitz
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: HT Tector
+    - 9.5:
+        non_striker: HT Tector
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: BF Calitz
+    - 9.6:
+        non_striker: HT Tector
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.6'
+        batsman: BF Calitz
+    - 10.1:
+        non_striker: BF Calitz
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.1'
+        batsman: HT Tector
+    - 10.2:
+        non_striker: BF Calitz
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: HT Tector
+    - 10.3:
+        non_striker: HT Tector
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.3'
+        batsman: BF Calitz
+    - 10.4:
+        non_striker: HT Tector
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '10.4'
+        batsman: BF Calitz
+    - 10.5:
+        non_striker: HT Tector
+        bowler: Suryansh Shedge
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '10.5'
+        batsman: BF Calitz
+    - 10.6:
+        non_striker: BF Calitz
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '10.5'
+        batsman: HT Tector
+    - 10.7:
+        non_striker: BF Calitz
+        bowler: Suryansh Shedge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: HT Tector
+    - 11.1:
+        non_striker: BF Calitz
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: HT Tector
+    - 11.2:
+        non_striker: HT Tector
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: BF Calitz
+    - 11.3:
+        non_striker: HT Tector
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: BF Calitz
+    - 11.4:
+        non_striker: BF Calitz
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.4'
+        batsman: HT Tector
+    - 11.5:
+        non_striker: BF Calitz
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: HT Tector
+    - 11.6:
+        non_striker: HT Tector
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: BF Calitz
+    - 12.1:
+        non_striker: HT Tector
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.1'
+        batsman: BF Calitz
+    - 12.2:
+        non_striker: HT Tector
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: BF Calitz
+    - 12.3:
+        non_striker: BF Calitz
+        bowler: Prince Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.3'
+        batsman: HT Tector
+    - 12.4:
+        non_striker: BF Calitz
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: HT Tector
+    - 12.5:
+        non_striker: HT Tector
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: BF Calitz
+    - 12.6:
+        non_striker: BF Calitz
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: HT Tector
+    - 12.7:
+        non_striker: BF Calitz
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: HT Tector
+    - 13.1:
+        non_striker: BF Calitz
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: HT Tector
+    - 13.2:
+        non_striker: HT Tector
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: BF Calitz
+    - 13.3:
+        non_striker: HT Tector
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: BF Calitz
+    - 13.4:
+        non_striker: HT Tector
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: BF Calitz
+    - 13.5:
+        non_striker: BF Calitz
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: HT Tector
+    - 13.6:
+        non_striker: HT Tector
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: BF Calitz
+    - 14.1:
+        non_striker: HT Tector
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '14.1'
+        batsman: BF Calitz
+    - 14.2:
+        non_striker: HT Tector
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: BF Calitz
+    - 14.3:
+        non_striker: BF Calitz
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: HT Tector
+    - 14.4:
+        non_striker: HT Tector
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: BF Calitz
+        wicket:
+          player_out: BF Calitz
+          fielders:
+          - Tilak Varma
+          kind: caught
+    - 14.5:
+        non_striker: HT Tector
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: GJ Delany
+        wicket:
+          player_out: GJ Delany
+          kind: bowled
+    - 14.6:
+        non_striker: HT Tector
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: GH Dockrell
+    - 15.1:
+        non_striker: HT Tector
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: GH Dockrell
+    - 15.2:
+        non_striker: GH Dockrell
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: HT Tector
+    - 15.3:
+        non_striker: HT Tector
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: GH Dockrell
+    - 15.4:
+        non_striker: HT Tector
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: GH Dockrell
+    - 15.5:
+        non_striker: GH Dockrell
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: HT Tector
+    - 15.6:
+        non_striker: HT Tector
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: GH Dockrell
+    - 16.1:
+        non_striker: GH Dockrell
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.1'
+        batsman: HT Tector
+    - 16.2:
+        non_striker: GH Dockrell
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: HT Tector
+    - 16.3:
+        non_striker: GH Dockrell
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.3'
+        batsman: HT Tector
+    - 16.4:
+        non_striker: GH Dockrell
+        bowler: S Dube
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '16.4'
+        batsman: HT Tector
+    - 16.5:
+        non_striker: HT Tector
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.5'
+        batsman: GH Dockrell
+    - 16.6:
+        non_striker: HT Tector
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.6'
+        batsman: GH Dockrell
+    - 17.1:
+        non_striker: GH Dockrell
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: HT Tector
+    - 17.2:
+        non_striker: HT Tector
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.2'
+        batsman: GH Dockrell
+    - 17.3:
+        non_striker: HT Tector
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: GH Dockrell
+    - 17.4:
+        non_striker: GH Dockrell
+        bowler: AR Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.4'
+        batsman: HT Tector
+    - 17.5:
+        non_striker: GH Dockrell
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: HT Tector
+    - 17.6:
+        non_striker: HT Tector
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: GH Dockrell
+    - 17.7:
+        non_striker: HT Tector
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: GH Dockrell
+    - 18.1:
+        non_striker: HT Tector
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: GH Dockrell
+    - 18.2:
+        non_striker: HT Tector
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.2'
+        batsman: GH Dockrell
+    - 18.3:
+        non_striker: HT Tector
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: GH Dockrell
+        wicket:
+          player_out: GH Dockrell
+          fielders:
+          - AR Patel
+          kind: caught
+    - 18.4:
+        non_striker: HT Tector
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: L McCarthy
+    - 18.5:
+        non_striker: HT Tector
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: L McCarthy
+    - 18.6:
+        non_striker: L McCarthy
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.6'
+        batsman: HT Tector
+    - 19.1:
+        non_striker: HT Tector
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: L McCarthy
+    - 19.2:
+        non_striker: L McCarthy
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: HT Tector
+    - 19.3:
+        non_striker: L McCarthy
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.3'
+        batsman: HT Tector
+    - 19.4:
+        non_striker: L McCarthy
+        bowler: Prince Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.4'
+        batsman: HT Tector
+    - 19.5:
+        non_striker: L McCarthy
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: HT Tector
+        wicket:
+          player_out: HT Tector
+          fielders:
+          - Ishan Kishan
+          kind: caught
+    - 19.6:
+        non_striker: L McCarthy
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.5'
+        batsman: J Moondra
+    - 19.7:
+        non_striker: J Moondra
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: L McCarthy
+        wicket:
+          player_out: L McCarthy
+          fielders:
+          - Ishan Kishan
+          kind: caught
+- 2nd innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: Abhishek Sharma
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: SV Samson
+        wicket:
+          player_out: SV Samson
+          kind: lbw
+    - 0.2:
+        non_striker: Abhishek Sharma
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: Ishan Kishan
+    - 0.3:
+        non_striker: Abhishek Sharma
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: Ishan Kishan
+    - 0.4:
+        non_striker: Ishan Kishan
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Abhishek Sharma
+        wicket:
+          player_out: Abhishek Sharma
+          fielders:
+          - MK Hollard
+          kind: caught
+    - 0.5:
+        non_striker: Ishan Kishan
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: SS Iyer
+    - 0.6:
+        non_striker: Ishan Kishan
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: SS Iyer
+    - 1.1:
+        non_striker: SS Iyer
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: Ishan Kishan
+    - 1.2:
+        non_striker: Ishan Kishan
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: SS Iyer
+    - 1.3:
+        non_striker: Ishan Kishan
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: SS Iyer
+    - 1.4:
+        non_striker: SS Iyer
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.4'
+        batsman: Ishan Kishan
+    - 1.5:
+        non_striker: SS Iyer
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Ishan Kishan
+    - 1.6:
+        non_striker: SS Iyer
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.6'
+        batsman: Ishan Kishan
+    - 2.1:
+        non_striker: Ishan Kishan
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: SS Iyer
+    - 2.2:
+        non_striker: SS Iyer
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: Ishan Kishan
+    - 2.3:
+        non_striker: Ishan Kishan
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: SS Iyer
+    - 2.4:
+        non_striker: Ishan Kishan
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: SS Iyer
+        wicket:
+          player_out: SS Iyer
+          kind: bowled
+    - 2.5:
+        non_striker: Ishan Kishan
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.5'
+        batsman: Tilak Varma
+    - 2.6:
+        non_striker: Ishan Kishan
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Tilak Varma
+    - 3.1:
+        non_striker: Tilak Varma
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: Ishan Kishan
+    - 3.2:
+        non_striker: Ishan Kishan
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Tilak Varma
+    - 3.3:
+        non_striker: Ishan Kishan
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: Tilak Varma
+    - 3.4:
+        non_striker: Tilak Varma
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Ishan Kishan
+    - 3.5:
+        non_striker: Tilak Varma
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: Ishan Kishan
+    - 3.6:
+        non_striker: Ishan Kishan
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: Tilak Varma
+    - 4.1:
+        non_striker: Ishan Kishan
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.1'
+        batsman: Tilak Varma
+    - 4.2:
+        non_striker: Ishan Kishan
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.2'
+        batsman: Tilak Varma
+    - 4.3:
+        non_striker: Ishan Kishan
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: Tilak Varma
+    - 4.4:
+        non_striker: Tilak Varma
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: Ishan Kishan
+    - 4.5:
+        non_striker: Ishan Kishan
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Tilak Varma
+        wicket:
+          player_out: Ishan Kishan
+          fielders:
+          - GR Adair
+          kind: run out
+    - 4.6:
+        non_striker: AR Patel
+        bowler: J Moondra
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        actual_delivery: '4.6'
+        batsman: Tilak Varma
+    - 5.1:
+        non_striker: Tilak Varma
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: AR Patel
+    - 5.2:
+        non_striker: Tilak Varma
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: AR Patel
+    - 5.3:
+        non_striker: AR Patel
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: Tilak Varma
+    - 5.4:
+        non_striker: AR Patel
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: Tilak Varma
+    - 5.5:
+        non_striker: Tilak Varma
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: AR Patel
+    - 5.6:
+        non_striker: Tilak Varma
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: AR Patel
+    - 6.1:
+        non_striker: AR Patel
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.1'
+        batsman: Tilak Varma
+    - 6.2:
+        non_striker: AR Patel
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: Tilak Varma
+    - 6.3:
+        non_striker: Tilak Varma
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: AR Patel
+    - 6.4:
+        non_striker: AR Patel
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: Tilak Varma
+    - 6.5:
+        non_striker: Tilak Varma
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: AR Patel
+    - 6.6:
+        non_striker: AR Patel
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: Tilak Varma
+    - 7.1:
+        non_striker: AR Patel
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: Tilak Varma
+    - 7.2:
+        non_striker: Tilak Varma
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: AR Patel
+    - 7.3:
+        non_striker: AR Patel
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: Tilak Varma
+    - 7.4:
+        non_striker: Tilak Varma
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.4'
+        batsman: AR Patel
+    - 7.5:
+        non_striker: Tilak Varma
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: AR Patel
+    - 7.6:
+        non_striker: AR Patel
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: Tilak Varma
+    - 8.1:
+        non_striker: Tilak Varma
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: AR Patel
+    - 8.2:
+        non_striker: Tilak Varma
+        bowler: HT Tector
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.2'
+        batsman: AR Patel
+    - 8.3:
+        non_striker: Tilak Varma
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.2'
+        batsman: AR Patel
+    - 8.4:
+        non_striker: Tilak Varma
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: AR Patel
+    - 8.5:
+        non_striker: AR Patel
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: Tilak Varma
+    - 8.6:
+        non_striker: Tilak Varma
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: AR Patel
+    - 8.7:
+        non_striker: AR Patel
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: Tilak Varma
+    - 9.1:
+        non_striker: AR Patel
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: Tilak Varma
+    - 9.2:
+        non_striker: AR Patel
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.2'
+        batsman: Tilak Varma
+    - 9.3:
+        non_striker: AR Patel
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: Tilak Varma
+    - 9.4:
+        non_striker: Tilak Varma
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: AR Patel
+    - 9.5:
+        non_striker: AR Patel
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: Tilak Varma
+    - 9.6:
+        non_striker: AR Patel
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: Tilak Varma
+    - 10.1:
+        non_striker: AR Patel
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: Tilak Varma
+    - 10.2:
+        non_striker: Tilak Varma
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: AR Patel
+    - 10.3:
+        non_striker: Tilak Varma
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: AR Patel
+    - 10.4:
+        non_striker: AR Patel
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: Tilak Varma
+    - 10.5:
+        non_striker: Tilak Varma
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: AR Patel
+    - 10.6:
+        non_striker: AR Patel
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: Tilak Varma
+    - 11.1:
+        non_striker: AR Patel
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.1'
+        batsman: Tilak Varma
+    - 11.2:
+        non_striker: AR Patel
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: Tilak Varma
+    - 11.3:
+        non_striker: Tilak Varma
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: AR Patel
+        wicket:
+          player_out: AR Patel
+          fielders:
+          - L Tucker
+          kind: caught
+    - 11.4:
+        non_striker: Tilak Varma
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: S Dube
+    - 11.5:
+        non_striker: S Dube
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: Tilak Varma
+    - 11.6:
+        non_striker: Tilak Varma
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: S Dube
+    - 12.1:
+        non_striker: Tilak Varma
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: S Dube
+    - 12.2:
+        non_striker: S Dube
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: Tilak Varma
+    - 12.3:
+        non_striker: Tilak Varma
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.3'
+        batsman: S Dube
+    - 12.4:
+        non_striker: Tilak Varma
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: S Dube
+    - 12.5:
+        non_striker: S Dube
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Tilak Varma
+    - 12.6:
+        non_striker: S Dube
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: Tilak Varma
+    - 13.1:
+        non_striker: S Dube
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.1'
+        batsman: Tilak Varma
+    - 13.2:
+        non_striker: S Dube
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.2'
+        batsman: Tilak Varma
+    - 13.3:
+        non_striker: S Dube
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Tilak Varma
+    - 13.4:
+        non_striker: Tilak Varma
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: S Dube
+    - 13.5:
+        non_striker: S Dube
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: Tilak Varma
+    - 13.6:
+        non_striker: Tilak Varma
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: S Dube
+    - 14.1:
+        non_striker: Tilak Varma
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.1'
+        batsman: S Dube
+    - 14.2:
+        non_striker: Tilak Varma
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: S Dube
+    - 14.3:
+        non_striker: S Dube
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: Tilak Varma
+    - 14.4:
+        non_striker: Tilak Varma
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: S Dube
+    - 14.5:
+        non_striker: S Dube
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: Tilak Varma
+    - 14.6:
+        non_striker: Tilak Varma
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: S Dube
+    - 15.1:
+        non_striker: Tilak Varma
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: S Dube
+    - 15.2:
+        non_striker: S Dube
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: Tilak Varma
+    - 15.3:
+        non_striker: Tilak Varma
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: S Dube
+    - 15.4:
+        non_striker: S Dube
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: Tilak Varma
+    - 15.5:
+        non_striker: Tilak Varma
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: S Dube
+    - 15.6:
+        non_striker: Tilak Varma
+        bowler: L McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: S Dube
+    - 16.1:
+        non_striker: Tilak Varma
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: S Dube
+        wicket:
+          player_out: S Dube
+          fielders:
+          - GH Dockrell
+          kind: caught
+    - 16.2:
+        non_striker: Tilak Varma
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: Suryansh Shedge
+    - 16.3:
+        non_striker: Tilak Varma
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: Suryansh Shedge
+    - 16.4:
+        non_striker: Suryansh Shedge
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: Tilak Varma
+    - 16.5:
+        non_striker: Tilak Varma
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: Suryansh Shedge
+    - 16.6:
+        non_striker: Tilak Varma
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: Suryansh Shedge
+    - 17.1:
+        non_striker: Suryansh Shedge
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.1'
+        batsman: Tilak Varma
+    - 17.2:
+        non_striker: Suryansh Shedge
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: Tilak Varma
+        wicket:
+          player_out: Tilak Varma
+          fielders:
+          - L McCarthy
+          kind: caught
+    - 17.3:
+        non_striker: Suryansh Shedge
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.3'
+        batsman: Harshit Rana
+    - 17.4:
+        non_striker: Suryansh Shedge
+        bowler: MK Hollard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.4'
+        batsman: Harshit Rana
+    - 17.5:
+        non_striker: Suryansh Shedge
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: Harshit Rana
+    - 17.6:
+        non_striker: Harshit Rana
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: Suryansh Shedge
+        wicket:
+          player_out: Suryansh Shedge
+          fielders:
+          - TH Tector
+          kind: caught
+    - 17.7:
+        non_striker: Harshit Rana
+        bowler: MK Hollard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: Arshdeep Singh
+    - 18.1:
+        non_striker: Arshdeep Singh
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: Harshit Rana
+    - 18.2:
+        non_striker: Harshit Rana
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: Arshdeep Singh
+    - 18.3:
+        non_striker: Arshdeep Singh
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.3'
+        batsman: Harshit Rana
+    - 18.4:
+        non_striker: Arshdeep Singh
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.4'
+        batsman: Harshit Rana
+    - 18.5:
+        non_striker: Arshdeep Singh
+        bowler: J Moondra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '18.5'
+        batsman: Harshit Rana
+    - 18.6:
+        non_striker: Harshit Rana
+        bowler: J Moondra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: Arshdeep Singh
+    - 19.1:
+        non_striker: Harshit Rana
+        bowler: HT Tector
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.1'
+        batsman: Arshdeep Singh
+    - 19.2:
+        non_striker: Harshit Rana
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: Arshdeep Singh
+    - 19.3:
+        non_striker: Arshdeep Singh
+        bowler: HT Tector
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        actual_delivery: '19.2'
+        batsman: Harshit Rana
+    - 19.4:
+        non_striker: Arshdeep Singh
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.2'
+        batsman: Harshit Rana
+    - 19.5:
+        non_striker: Arshdeep Singh
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.3'
+        batsman: Harshit Rana
+    - 19.6:
+        non_striker: Harshit Rana
+        bowler: HT Tector
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.4'
+        batsman: Arshdeep Singh
+    - 19.7:
+        non_striker: Harshit Rana
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: Arshdeep Singh
+    - 19.8:
+        non_striker: Arshdeep Singh
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: Harshit Rana
+        wicket:
+          player_out: Harshit Rana
+          fielders:
+          - TH Tector
+          kind: caught
+    - 19.9:
+        non_striker: Arshdeep Singh
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.6'
+        batsman: Prince Yadav
+    target:
+      overs: 20
+      runs: 155

@@ -1,0 +1,2296 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-08-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Vantaa
+  dates:
+  - '2026-08-18'
+  gender: male
+  match_type: T20
+  match_type_number: 4087
+  outcome:
+    winner: Finland
+    by:
+      runs: 73
+  overs: 20
+  player_of_match:
+  - AK Mohan
+  players:
+    Finland:
+    - AK Mohan
+    - Faheem Nellancheri
+    - VS Padhaal
+    - Faraaz Mehti Abbas
+    - Amjad Sher
+    - Zahidullah Kamal
+    - NM Salonen
+    - Junaid Khan
+    - Madhawa Basnayaka
+    - Hammadullah Shinwari
+    - Akhil Arjunan
+    Luxembourg:
+    - TC Barker
+    - G Venkateswaran
+    - Asghar Ali Khan
+    - SKS Gill
+    - WJ Cope
+    - V Vijh
+    - Benjamin Embleton
+    - Vivek Dixit
+    - Mayank Nagayach
+    - J Madan
+    - Kamal Soukhiya
+  registry:
+    people:
+      AK Mohan: d55474ac
+      Akhil Arjunan: 2b203501
+      Amjad Sher: 3b4a8cfb
+      Asghar Ali Khan: 71b7b75a
+      Benjamin Embleton: f2d5966a
+      Faheem Nellancheri: 6513502f
+      Faraaz Mehti Abbas: 4233080d
+      G Venkateswaran: a4bcaba7
+      Hammadullah Shinwari: 21db290f
+      J Madan: 79c2f9bf
+      Junaid Khan: 670e6804
+      Kamal Soukhiya: 64457c72
+      Madhawa Basnayaka: 6f337915
+      Mayank Nagayach: e401f8a5
+      NM Salonen: f5bd70f2
+      Prakash Bhatt: f848ab0b
+      Rizwan Akram: b5346f1e
+      SG Chandiramani: 4fa795d2
+      SKS Gill: faef026c
+      TC Barker: c31adb5c
+      V Vijh: b857468a
+      VS Padhaal: c4fb0b39
+      Vinay Malhotra: 452837d1
+      Vivek Dixit: d42de283
+      WJ Cope: fb34b0ec
+      Zahidullah Kamal: e8550df5
+  team_type: international
+  teams:
+  - Finland
+  - Luxembourg
+  toss:
+    winner: Finland
+    decision: bat
+  umpires:
+  - Rizwan Akram
+  - SG Chandiramani
+  venue: Tikkurila Cricket Ground
+innings:
+- 1st innings:
+    team: Finland
+    deliveries:
+    - 0.1:
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Faheem Nellancheri
+        actual_delivery: '0.1'
+        batsman: AK Mohan
+    - 0.2:
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Faheem Nellancheri
+        actual_delivery: '0.2'
+        batsman: AK Mohan
+    - 0.3:
+        non_striker: AK Mohan
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: Faheem Nellancheri
+    - 0.4:
+        non_striker: Faheem Nellancheri
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: AK Mohan
+    - 0.5:
+        non_striker: AK Mohan
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: Faheem Nellancheri
+    - 0.6:
+        non_striker: Faheem Nellancheri
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: AK Mohan
+    - 1.1:
+        non_striker: AK Mohan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.1'
+        batsman: Faheem Nellancheri
+    - 1.2:
+        non_striker: AK Mohan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.2'
+        batsman: Faheem Nellancheri
+    - 1.3:
+        non_striker: AK Mohan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.2'
+        batsman: Faheem Nellancheri
+    - 1.4:
+        non_striker: AK Mohan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.2'
+        batsman: Faheem Nellancheri
+    - 1.5:
+        non_striker: AK Mohan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: Faheem Nellancheri
+        wicket:
+          player_out: Faheem Nellancheri
+          fielders:
+          - Mayank Nagayach
+          kind: caught
+    - 1.6:
+        non_striker: AK Mohan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: VS Padhaal
+    - 1.7:
+        non_striker: VS Padhaal
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: AK Mohan
+    - 1.8:
+        non_striker: VS Padhaal
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: AK Mohan
+    - 2.1:
+        non_striker: VS Padhaal
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: AK Mohan
+    - 2.2:
+        non_striker: VS Padhaal
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.2'
+        batsman: AK Mohan
+    - 2.3:
+        non_striker: VS Padhaal
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: AK Mohan
+    - 2.4:
+        non_striker: VS Padhaal
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: AK Mohan
+    - 2.5:
+        non_striker: VS Padhaal
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: AK Mohan
+    - 2.6:
+        non_striker: VS Padhaal
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '2.6'
+        batsman: AK Mohan
+    - 3.1:
+        non_striker: VS Padhaal
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.1'
+        batsman: AK Mohan
+    - 3.2:
+        non_striker: VS Padhaal
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: AK Mohan
+    - 3.3:
+        non_striker: VS Padhaal
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: AK Mohan
+    - 3.4:
+        non_striker: VS Padhaal
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.4'
+        batsman: AK Mohan
+    - 3.5:
+        non_striker: VS Padhaal
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: AK Mohan
+    - 3.6:
+        non_striker: VS Padhaal
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: AK Mohan
+    - 3.7:
+        non_striker: VS Padhaal
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: AK Mohan
+    - 4.1:
+        non_striker: AK Mohan
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: VS Padhaal
+    - 4.2:
+        non_striker: AK Mohan
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: VS Padhaal
+    - 4.3:
+        non_striker: AK Mohan
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: VS Padhaal
+    - 4.4:
+        non_striker: VS Padhaal
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: AK Mohan
+    - 4.5:
+        non_striker: VS Padhaal
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.5'
+        batsman: AK Mohan
+    - 4.6:
+        non_striker: VS Padhaal
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: AK Mohan
+    - 5.1:
+        non_striker: AK Mohan
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: VS Padhaal
+    - 5.2:
+        non_striker: VS Padhaal
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: AK Mohan
+    - 5.3:
+        non_striker: VS Padhaal
+        bowler: V Vijh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '5.3'
+        batsman: AK Mohan
+    - 5.4:
+        non_striker: AK Mohan
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: VS Padhaal
+    - 5.5:
+        non_striker: VS Padhaal
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: AK Mohan
+    - 5.6:
+        non_striker: AK Mohan
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: VS Padhaal
+    - 6.1:
+        non_striker: VS Padhaal
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: AK Mohan
+    - 6.2:
+        non_striker: AK Mohan
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.2'
+        batsman: VS Padhaal
+    - 6.3:
+        non_striker: AK Mohan
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.3'
+        batsman: VS Padhaal
+    - 6.4:
+        non_striker: AK Mohan
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: VS Padhaal
+        wicket:
+          player_out: VS Padhaal
+          kind: lbw
+    - 6.5:
+        non_striker: AK Mohan
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: Faraaz Mehti Abbas
+    - 6.6:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.6'
+        batsman: AK Mohan
+    - 7.1:
+        non_striker: AK Mohan
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: Faraaz Mehti Abbas
+    - 7.2:
+        non_striker: Faraaz Mehti Abbas
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: AK Mohan
+    - 7.3:
+        non_striker: AK Mohan
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: Faraaz Mehti Abbas
+    - 7.4:
+        non_striker: Faraaz Mehti Abbas
+        bowler: V Vijh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.4'
+        batsman: AK Mohan
+    - 7.5:
+        non_striker: Faraaz Mehti Abbas
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.4'
+        batsman: AK Mohan
+    - 7.6:
+        non_striker: Faraaz Mehti Abbas
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: AK Mohan
+    - 7.7:
+        non_striker: Faraaz Mehti Abbas
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.6'
+        batsman: AK Mohan
+    - 8.1:
+        non_striker: AK Mohan
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Faraaz Mehti Abbas
+    - 8.2:
+        non_striker: AK Mohan
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Faraaz Mehti Abbas
+    - 8.3:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: AK Mohan
+    - 8.4:
+        non_striker: AK Mohan
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: Faraaz Mehti Abbas
+    - 8.5:
+        non_striker: AK Mohan
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.5'
+        batsman: Faraaz Mehti Abbas
+    - 8.6:
+        non_striker: AK Mohan
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: Faraaz Mehti Abbas
+    - 9.1:
+        non_striker: AK Mohan
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: Faraaz Mehti Abbas
+    - 9.2:
+        non_striker: Faraaz Mehti Abbas
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '9.2'
+        batsman: AK Mohan
+    - 9.3:
+        non_striker: Faraaz Mehti Abbas
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: AK Mohan
+    - 9.4:
+        non_striker: AK Mohan
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.4'
+        batsman: Faraaz Mehti Abbas
+    - 9.5:
+        non_striker: AK Mohan
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.5'
+        batsman: Faraaz Mehti Abbas
+    - 9.6:
+        non_striker: AK Mohan
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: Faraaz Mehti Abbas
+    - 10.1:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '10.1'
+        batsman: AK Mohan
+    - 10.2:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: AK Mohan
+    - 10.3:
+        non_striker: AK Mohan
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: Faraaz Mehti Abbas
+    - 10.4:
+        non_striker: AK Mohan
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: Faraaz Mehti Abbas
+    - 10.5:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.5'
+        batsman: AK Mohan
+    - 10.6:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: AK Mohan
+        wicket:
+          player_out: AK Mohan
+          fielders:
+          - TC Barker
+          kind: caught
+    - 11.1:
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Amjad Sher
+        actual_delivery: '11.1'
+        batsman: Faraaz Mehti Abbas
+    - 11.2:
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Amjad Sher
+        actual_delivery: '11.2'
+        batsman: Faraaz Mehti Abbas
+    - 11.3:
+        non_striker: Faraaz Mehti Abbas
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: Amjad Sher
+    - 11.4:
+        non_striker: Faraaz Mehti Abbas
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '11.4'
+        batsman: Amjad Sher
+    - 11.5:
+        non_striker: Faraaz Mehti Abbas
+        bowler: V Vijh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.5'
+        batsman: Amjad Sher
+    - 11.6:
+        non_striker: Faraaz Mehti Abbas
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: Amjad Sher
+    - 11.7:
+        non_striker: Amjad Sher
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Faraaz Mehti Abbas
+    - 12.1:
+        non_striker: Amjad Sher
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.1'
+        batsman: Faraaz Mehti Abbas
+    - 12.2:
+        non_striker: Amjad Sher
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: Faraaz Mehti Abbas
+    - 12.3:
+        non_striker: Amjad Sher
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: Faraaz Mehti Abbas
+    - 12.4:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: Amjad Sher
+        wicket:
+          player_out: Amjad Sher
+          fielders:
+          - TC Barker
+          kind: caught
+    - 12.5:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Zahidullah Kamal
+    - 12.6:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Vivek Dixit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '12.6'
+        batsman: Zahidullah Kamal
+    - 12.7:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Zahidullah Kamal
+    - 13.1:
+        non_striker: Zahidullah Kamal
+        bowler: G Venkateswaran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.1'
+        batsman: Faraaz Mehti Abbas
+    - 13.2:
+        non_striker: Zahidullah Kamal
+        bowler: G Venkateswaran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.2'
+        batsman: Faraaz Mehti Abbas
+    - 13.3:
+        non_striker: Zahidullah Kamal
+        bowler: G Venkateswaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Faraaz Mehti Abbas
+    - 13.4:
+        non_striker: Faraaz Mehti Abbas
+        bowler: G Venkateswaran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: Zahidullah Kamal
+    - 13.5:
+        non_striker: Zahidullah Kamal
+        bowler: G Venkateswaran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Faraaz Mehti Abbas
+    - 13.6:
+        non_striker: Zahidullah Kamal
+        bowler: G Venkateswaran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.6'
+        batsman: Faraaz Mehti Abbas
+    - 14.1:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: Zahidullah Kamal
+    - 14.2:
+        non_striker: Zahidullah Kamal
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: Faraaz Mehti Abbas
+    - 14.3:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: Zahidullah Kamal
+    - 14.4:
+        non_striker: Zahidullah Kamal
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: Faraaz Mehti Abbas
+    - 14.5:
+        non_striker: Zahidullah Kamal
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: Faraaz Mehti Abbas
+    - 14.6:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: Zahidullah Kamal
+    - 15.1:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: Zahidullah Kamal
+    - 15.2:
+        non_striker: Zahidullah Kamal
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '15.2'
+        batsman: Faraaz Mehti Abbas
+    - 15.3:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: Zahidullah Kamal
+        wicket:
+          player_out: Zahidullah Kamal
+          kind: lbw
+    - 15.4:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Mayank Nagayach
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.4'
+        batsman: NM Salonen
+    - 15.5:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: NM Salonen
+    - 15.6:
+        non_striker: NM Salonen
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: Faraaz Mehti Abbas
+    - 15.7:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: NM Salonen
+    - 16.1:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: NM Salonen
+    - 16.2:
+        non_striker: NM Salonen
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: Faraaz Mehti Abbas
+    - 16.3:
+        non_striker: NM Salonen
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: Faraaz Mehti Abbas
+    - 16.4:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.4'
+        batsman: NM Salonen
+    - 16.5:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.5'
+        batsman: NM Salonen
+    - 16.6:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: NM Salonen
+    - 17.1:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.1'
+        batsman: NM Salonen
+    - 17.2:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: NM Salonen
+    - 17.3:
+        non_striker: NM Salonen
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: Faraaz Mehti Abbas
+        wicket:
+          player_out: Faraaz Mehti Abbas
+          fielders:
+          - Mayank Nagayach
+          kind: caught
+    - 17.4:
+        non_striker: NM Salonen
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: Junaid Khan
+    - 17.5:
+        non_striker: Junaid Khan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.5'
+        batsman: NM Salonen
+    - 17.6:
+        non_striker: Junaid Khan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: NM Salonen
+    - 18.1:
+        non_striker: Junaid Khan
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: NM Salonen
+    - 18.2:
+        non_striker: NM Salonen
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: Junaid Khan
+    - 18.3:
+        non_striker: Junaid Khan
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.3'
+        batsman: NM Salonen
+    - 18.4:
+        non_striker: Junaid Khan
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: NM Salonen
+        wicket:
+          player_out: NM Salonen
+          fielders:
+          - WJ Cope
+          kind: caught
+    - 18.5:
+        non_striker: Junaid Khan
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.5'
+        batsman: Madhawa Basnayaka
+    - 18.6:
+        non_striker: Junaid Khan
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.6'
+        batsman: Madhawa Basnayaka
+    - 19.1:
+        non_striker: Madhawa Basnayaka
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: Junaid Khan
+    - 19.2:
+        non_striker: Junaid Khan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: Madhawa Basnayaka
+        wicket:
+          player_out: Madhawa Basnayaka
+          kind: bowled
+    - 19.3:
+        non_striker: Junaid Khan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.3'
+        batsman: Hammadullah Shinwari
+    - 19.4:
+        non_striker: Junaid Khan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: Hammadullah Shinwari
+    - 19.5:
+        non_striker: Junaid Khan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.5'
+        batsman: Hammadullah Shinwari
+    - 19.6:
+        non_striker: Junaid Khan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: Hammadullah Shinwari
+        wicket:
+          player_out: Hammadullah Shinwari
+          fielders:
+          - TC Barker
+          - Kamal Soukhiya
+          kind: run out
+- 2nd innings:
+    team: Luxembourg
+    deliveries:
+    - 0.1:
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Venkateswaran
+        actual_delivery: '0.1'
+        batsman: TC Barker
+    - 0.2:
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Venkateswaran
+        actual_delivery: '0.2'
+        batsman: TC Barker
+    - 0.3:
+        non_striker: TC Barker
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: G Venkateswaran
+    - 0.4:
+        non_striker: G Venkateswaran
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: TC Barker
+    - 0.5:
+        non_striker: G Venkateswaran
+        bowler: Amjad Sher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.5'
+        batsman: TC Barker
+    - 0.6:
+        non_striker: G Venkateswaran
+        bowler: Amjad Sher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '0.5'
+        batsman: TC Barker
+    - 0.7:
+        non_striker: TC Barker
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: G Venkateswaran
+    - 1.1:
+        non_striker: G Venkateswaran
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: TC Barker
+    - 1.2:
+        non_striker: G Venkateswaran
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: TC Barker
+    - 1.3:
+        non_striker: TC Barker
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: G Venkateswaran
+    - 1.4:
+        non_striker: TC Barker
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: G Venkateswaran
+    - 1.5:
+        non_striker: G Venkateswaran
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: TC Barker
+    - 1.6:
+        non_striker: TC Barker
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: G Venkateswaran
+    - 2.1:
+        non_striker: G Venkateswaran
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.1'
+        batsman: TC Barker
+    - 2.2:
+        non_striker: G Venkateswaran
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: TC Barker
+        wicket:
+          player_out: TC Barker
+          fielders:
+          - Zahidullah Kamal
+          kind: caught
+    - 2.3:
+        non_striker: G Venkateswaran
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Asghar Ali Khan
+    - 2.4:
+        non_striker: G Venkateswaran
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Asghar Ali Khan
+    - 2.5:
+        non_striker: G Venkateswaran
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: Asghar Ali Khan
+    - 2.6:
+        non_striker: G Venkateswaran
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Asghar Ali Khan
+    - 3.1:
+        non_striker: Asghar Ali Khan
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: G Venkateswaran
+    - 3.2:
+        non_striker: Asghar Ali Khan
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: G Venkateswaran
+    - 3.3:
+        non_striker: G Venkateswaran
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.3'
+        batsman: Asghar Ali Khan
+    - 3.4:
+        non_striker: G Venkateswaran
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.4'
+        batsman: Asghar Ali Khan
+    - 3.5:
+        non_striker: G Venkateswaran
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: Asghar Ali Khan
+    - 3.6:
+        non_striker: Asghar Ali Khan
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: G Venkateswaran
+        wicket:
+          player_out: G Venkateswaran
+          fielders:
+          - AK Mohan
+          kind: caught
+    - 4.1:
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SKS Gill
+        actual_delivery: '4.1'
+        batsman: Asghar Ali Khan
+    - 4.2:
+        non_striker: Asghar Ali Khan
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: SKS Gill
+    - 4.3:
+        non_striker: Asghar Ali Khan
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: SKS Gill
+    - 4.4:
+        non_striker: Asghar Ali Khan
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: SKS Gill
+    - 4.5:
+        non_striker: Asghar Ali Khan
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: SKS Gill
+    - 4.6:
+        non_striker: SKS Gill
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.6'
+        batsman: Asghar Ali Khan
+    - 5.1:
+        non_striker: Asghar Ali Khan
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: SKS Gill
+    - 5.2:
+        non_striker: Asghar Ali Khan
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: SKS Gill
+        wicket:
+          player_out: SKS Gill
+          kind: bowled
+    - 5.3:
+        non_striker: Asghar Ali Khan
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: WJ Cope
+    - 5.4:
+        non_striker: Asghar Ali Khan
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: WJ Cope
+    - 5.5:
+        non_striker: Asghar Ali Khan
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: WJ Cope
+    - 5.6:
+        non_striker: Asghar Ali Khan
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: WJ Cope
+    - 6.1:
+        non_striker: Asghar Ali Khan
+        bowler: Hammadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: WJ Cope
+    - 6.2:
+        non_striker: Asghar Ali Khan
+        bowler: Hammadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: WJ Cope
+    - 6.3:
+        non_striker: WJ Cope
+        bowler: Hammadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Asghar Ali Khan
+    - 6.4:
+        non_striker: WJ Cope
+        bowler: Hammadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Asghar Ali Khan
+    - 6.5:
+        non_striker: WJ Cope
+        bowler: Hammadullah Shinwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.5'
+        batsman: Asghar Ali Khan
+    - 6.6:
+        non_striker: WJ Cope
+        bowler: Hammadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: Asghar Ali Khan
+    - 7.1:
+        non_striker: Asghar Ali Khan
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: WJ Cope
+    - 7.2:
+        non_striker: Asghar Ali Khan
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.2'
+        batsman: WJ Cope
+    - 7.3:
+        non_striker: Asghar Ali Khan
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.3'
+        batsman: WJ Cope
+    - 7.4:
+        non_striker: Asghar Ali Khan
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: WJ Cope
+    - 7.5:
+        non_striker: Asghar Ali Khan
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: WJ Cope
+    - 7.6:
+        non_striker: WJ Cope
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: Asghar Ali Khan
+    - 8.1:
+        non_striker: WJ Cope
+        bowler: Hammadullah Shinwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.1'
+        batsman: Asghar Ali Khan
+    - 8.2:
+        non_striker: WJ Cope
+        bowler: Hammadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Asghar Ali Khan
+    - 8.3:
+        non_striker: Asghar Ali Khan
+        bowler: Hammadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: WJ Cope
+    - 8.4:
+        non_striker: Asghar Ali Khan
+        bowler: Hammadullah Shinwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.4'
+        batsman: WJ Cope
+    - 8.5:
+        non_striker: Asghar Ali Khan
+        bowler: Hammadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: WJ Cope
+    - 8.6:
+        non_striker: WJ Cope
+        bowler: Hammadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: Asghar Ali Khan
+    - 9.1:
+        non_striker: WJ Cope
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: Asghar Ali Khan
+    - 9.2:
+        non_striker: WJ Cope
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Asghar Ali Khan
+        wicket:
+          player_out: Asghar Ali Khan
+          fielders:
+          - Hammadullah Shinwari
+          kind: caught
+    - 9.3:
+        non_striker: WJ Cope
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: V Vijh
+    - 9.4:
+        non_striker: V Vijh
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: WJ Cope
+    - 9.5:
+        non_striker: V Vijh
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: WJ Cope
+    - 9.6:
+        non_striker: WJ Cope
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: V Vijh
+    - 10.1:
+        non_striker: WJ Cope
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: V Vijh
+    - 10.2:
+        non_striker: V Vijh
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: WJ Cope
+    - 10.3:
+        non_striker: WJ Cope
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: V Vijh
+    - 10.4:
+        non_striker: WJ Cope
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.4'
+        batsman: V Vijh
+    - 10.5:
+        non_striker: WJ Cope
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.4'
+        batsman: V Vijh
+    - 10.6:
+        non_striker: WJ Cope
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: V Vijh
+    - 10.7:
+        non_striker: WJ Cope
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: V Vijh
+    - 11.1:
+        non_striker: V Vijh
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: WJ Cope
+    - 11.2:
+        non_striker: WJ Cope
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.2'
+        batsman: V Vijh
+    - 11.3:
+        non_striker: WJ Cope
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: V Vijh
+    - 11.4:
+        non_striker: V Vijh
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.4'
+        batsman: WJ Cope
+    - 11.5:
+        non_striker: V Vijh
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: WJ Cope
+    - 11.6:
+        non_striker: WJ Cope
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: V Vijh
+    - 12.1:
+        non_striker: V Vijh
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: WJ Cope
+        wicket:
+          player_out: WJ Cope
+          kind: bowled
+    - 12.2:
+        non_striker: V Vijh
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: Benjamin Embleton
+    - 12.3:
+        non_striker: V Vijh
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: Benjamin Embleton
+        wicket:
+          player_out: Benjamin Embleton
+          kind: bowled
+    - 12.4:
+        non_striker: V Vijh
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: Vivek Dixit
+    - 12.5:
+        non_striker: V Vijh
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Vivek Dixit
+    - 12.6:
+        non_striker: V Vijh
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Vivek Dixit
+    - 13.1:
+        non_striker: Vivek Dixit
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: V Vijh
+    - 13.2:
+        non_striker: V Vijh
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: Vivek Dixit
+    - 13.3:
+        non_striker: V Vijh
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: Vivek Dixit
+    - 13.4:
+        non_striker: V Vijh
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Vivek Dixit
+    - 13.5:
+        non_striker: V Vijh
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: Vivek Dixit
+    - 13.6:
+        non_striker: Vivek Dixit
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: V Vijh
+    - 14.1:
+        non_striker: Vivek Dixit
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: V Vijh
+    - 14.2:
+        non_striker: Vivek Dixit
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: V Vijh
+        wicket:
+          player_out: V Vijh
+          fielders:
+          - Faraaz Mehti Abbas
+          kind: caught
+    - 14.3:
+        non_striker: Vivek Dixit
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.3'
+        batsman: Mayank Nagayach
+    - 14.4:
+        non_striker: Vivek Dixit
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.4'
+        batsman: Mayank Nagayach
+    - 14.5:
+        non_striker: Vivek Dixit
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: Mayank Nagayach
+    - 14.6:
+        non_striker: Mayank Nagayach
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: Vivek Dixit
+    - 15.1:
+        non_striker: Mayank Nagayach
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: Vivek Dixit
+    - 15.2:
+        non_striker: Vivek Dixit
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: Mayank Nagayach
+    - 15.3:
+        non_striker: Vivek Dixit
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: Mayank Nagayach
+    - 15.4:
+        non_striker: Mayank Nagayach
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: Vivek Dixit
+        wicket:
+          player_out: Mayank Nagayach
+          fielders:
+          - VS Padhaal
+          - Akhil Arjunan
+          kind: run out
+    - 15.5:
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Madan
+        actual_delivery: '15.5'
+        batsman: Vivek Dixit
+    - 15.6:
+        non_striker: Vivek Dixit
+        bowler: Akhil Arjunan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.6'
+        batsman: J Madan
+    - 16.1:
+        non_striker: J Madan
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.1'
+        batsman: Vivek Dixit
+    - 16.2:
+        non_striker: J Madan
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.2'
+        batsman: Vivek Dixit
+    - 16.3:
+        non_striker: J Madan
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: Vivek Dixit
+    - 16.4:
+        non_striker: Vivek Dixit
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: J Madan
+        wicket:
+          player_out: J Madan
+          kind: bowled
+    - 16.5:
+        non_striker: Vivek Dixit
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: Kamal Soukhiya
+    - 16.6:
+        non_striker: Kamal Soukhiya
+        bowler: Madhawa Basnayaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: Vivek Dixit
+    - 17.1:
+        non_striker: Vivek Dixit
+        bowler: Hammadullah Shinwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.1'
+        batsman: Kamal Soukhiya
+    - 17.2:
+        non_striker: Vivek Dixit
+        bowler: Hammadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: Kamal Soukhiya
+        wicket:
+          player_out: Kamal Soukhiya
+          fielders:
+          - AK Mohan
+          kind: stumped
+    target:
+      overs: 20
+      runs: 169

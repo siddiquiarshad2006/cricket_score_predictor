@@ -1,0 +1,2136 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bristol
+  dates:
+  - '2026-06-23'
+  gender: female
+  match_type: T20
+  match_type_number: 2883
+  outcome:
+    winner: Sri Lanka
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - AC Jayangani
+  players:
+    Ireland:
+    - A Hunter
+    - GH Lewis
+    - O Prendergast
+    - R Stokell
+    - L Paul
+    - A Tector
+    - L Little
+    - AN Kelly
+    - AK Maguire
+    - LA McBride
+    - C Murray
+    Sri Lanka:
+    - AC Jayangani
+    - I Dulani
+    - NND de Silva
+    - GWHM Perera
+    - H Madavi
+    - H Karunaratne
+    - WK Dilhari
+    - EMKNH Senavirathna
+    - BMSM Kumari
+    - NM Meepage
+    - M Ayodhya
+  registry:
+    people:
+      A Hunter: e8fa03ed
+      A Tector: d58e9bfb
+      AC Jayangani: ac56b5a7
+      AK Maguire: f888a374
+      AN Kelly: 397369e0
+      BMSM Kumari: b55fb828
+      C La Borde: 32157f67
+      C Murray: 5a50471c
+      EMKNH Senavirathna: ec691a5b
+      GH Lewis: 1b9d1579
+      GS Lakshmi: ba8d5615
+      GWHM Perera: 53068b45
+      Gayathri Venugopal: 20e3ae99
+      H Karunaratne: f8e27d4a
+      H Madavi: 85021bcd
+      I Dulani: a2c23f31
+      Kim Cotton: 67a7c2ee
+      L Little: 4f86926b
+      L Paul: '07248d8e'
+      LA McBride: 9bd0d19d
+      M Ayodhya: 843e067e
+      NM Meepage: 420d4d31
+      NND de Silva: f0b4294e
+      O Prendergast: d8f20ba5
+      R Stokell: def7b1bb
+      Saleema Imtiaz: d17d21d5
+      WK Dilhari: c34a15e6
+  team_type: international
+  teams:
+  - Ireland
+  - Sri Lanka
+  toss:
+    winner: Sri Lanka
+    decision: field
+  umpires:
+  - C La Borde
+  - Kim Cotton
+  venue: County Ground, Bristol
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: GH Lewis
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: A Hunter
+    - 0.2:
+        non_striker: GH Lewis
+        bowler: M Ayodhya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '0.2'
+        batsman: A Hunter
+    - 0.3:
+        non_striker: A Hunter
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: GH Lewis
+    - 0.4:
+        non_striker: A Hunter
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: GH Lewis
+        wicket:
+          player_out: A Hunter
+          fielders:
+          - EMKNH Senavirathna
+          kind: run out
+    - 0.5:
+        non_striker: GH Lewis
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: O Prendergast
+    - 0.6:
+        non_striker: GH Lewis
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: O Prendergast
+    - 1.1:
+        non_striker: O Prendergast
+        bowler: BMSM Kumari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '1.1'
+        batsman: GH Lewis
+    - 1.2:
+        non_striker: GH Lewis
+        bowler: BMSM Kumari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.2'
+        batsman: O Prendergast
+    - 1.3:
+        non_striker: GH Lewis
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: O Prendergast
+    - 1.4:
+        non_striker: GH Lewis
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: O Prendergast
+    - 1.5:
+        non_striker: GH Lewis
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: O Prendergast
+    - 1.6:
+        non_striker: GH Lewis
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: O Prendergast
+        wicket:
+          player_out: O Prendergast
+          fielders:
+          - EMKNH Senavirathna
+          kind: stumped
+    - 1.7:
+        non_striker: GH Lewis
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: R Stokell
+    - 2.1:
+        non_striker: R Stokell
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: GH Lewis
+    - 2.2:
+        non_striker: R Stokell
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: GH Lewis
+    - 2.3:
+        non_striker: GH Lewis
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: R Stokell
+    - 2.4:
+        non_striker: GH Lewis
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: R Stokell
+    - 2.5:
+        non_striker: GH Lewis
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.5'
+        batsman: R Stokell
+    - 2.6:
+        non_striker: GH Lewis
+        bowler: M Ayodhya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '2.6'
+        batsman: R Stokell
+    - 3.1:
+        non_striker: GH Lewis
+        bowler: BMSM Kumari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.1'
+        batsman: R Stokell
+    - 3.2:
+        non_striker: GH Lewis
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: R Stokell
+    - 3.3:
+        non_striker: GH Lewis
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: R Stokell
+    - 3.4:
+        non_striker: GH Lewis
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: R Stokell
+    - 3.5:
+        non_striker: GH Lewis
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.4'
+        batsman: R Stokell
+    - 3.6:
+        non_striker: GH Lewis
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: R Stokell
+    - 3.7:
+        non_striker: GH Lewis
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: R Stokell
+    - 4.1:
+        non_striker: GH Lewis
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: R Stokell
+        wicket:
+          player_out: R Stokell
+          fielders:
+          - WK Dilhari
+          kind: caught
+    - 4.2:
+        non_striker: GH Lewis
+        bowler: M Ayodhya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.2'
+        batsman: L Paul
+    - 4.3:
+        non_striker: GH Lewis
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: L Paul
+    - 4.4:
+        non_striker: GH Lewis
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: L Paul
+    - 4.5:
+        non_striker: GH Lewis
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: L Paul
+    - 4.6:
+        non_striker: L Paul
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: GH Lewis
+    - 4.7:
+        non_striker: GH Lewis
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: L Paul
+    - 5.1:
+        non_striker: L Paul
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: GH Lewis
+    - 5.2:
+        non_striker: L Paul
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: GH Lewis
+    - 5.3:
+        non_striker: L Paul
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '5.3'
+        batsman: GH Lewis
+    - 5.4:
+        non_striker: GH Lewis
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: L Paul
+    - 5.5:
+        non_striker: L Paul
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: GH Lewis
+    - 5.6:
+        non_striker: L Paul
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: GH Lewis
+    - 6.1:
+        non_striker: GH Lewis
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: L Paul
+    - 6.2:
+        non_striker: GH Lewis
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: L Paul
+    - 6.3:
+        non_striker: GH Lewis
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: L Paul
+    - 6.4:
+        non_striker: L Paul
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: GH Lewis
+    - 6.5:
+        non_striker: GH Lewis
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: L Paul
+    - 6.6:
+        non_striker: GH Lewis
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: L Paul
+    - 7.1:
+        non_striker: L Paul
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: GH Lewis
+    - 7.2:
+        non_striker: L Paul
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: GH Lewis
+    - 7.3:
+        non_striker: L Paul
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: GH Lewis
+    - 7.4:
+        non_striker: L Paul
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: GH Lewis
+    - 7.5:
+        non_striker: GH Lewis
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: L Paul
+    - 7.6:
+        non_striker: GH Lewis
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: L Paul
+    - 8.1:
+        non_striker: GH Lewis
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: L Paul
+    - 8.2:
+        non_striker: L Paul
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: GH Lewis
+    - 8.3:
+        non_striker: L Paul
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.3'
+        batsman: GH Lewis
+    - 8.4:
+        non_striker: L Paul
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.4'
+        batsman: GH Lewis
+    - 8.5:
+        non_striker: L Paul
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.5'
+        batsman: GH Lewis
+    - 8.6:
+        non_striker: L Paul
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.6'
+        batsman: GH Lewis
+    - 9.1:
+        non_striker: GH Lewis
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: L Paul
+    - 9.2:
+        non_striker: GH Lewis
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.2'
+        batsman: L Paul
+    - 9.3:
+        non_striker: GH Lewis
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: L Paul
+    - 9.4:
+        non_striker: L Paul
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: GH Lewis
+    - 9.5:
+        non_striker: GH Lewis
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: L Paul
+    - 9.6:
+        non_striker: L Paul
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.6'
+        batsman: GH Lewis
+    - 10.1:
+        non_striker: GH Lewis
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: L Paul
+    - 10.2:
+        non_striker: L Paul
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: GH Lewis
+    - 10.3:
+        non_striker: GH Lewis
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: L Paul
+    - 10.4:
+        non_striker: L Paul
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: GH Lewis
+    - 10.5:
+        non_striker: L Paul
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: GH Lewis
+    - 10.6:
+        non_striker: GH Lewis
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.6'
+        batsman: L Paul
+    - 11.1:
+        non_striker: L Paul
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: GH Lewis
+    - 11.2:
+        non_striker: GH Lewis
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: L Paul
+    - 11.3:
+        non_striker: L Paul
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.3'
+        batsman: GH Lewis
+    - 11.4:
+        non_striker: L Paul
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: GH Lewis
+    - 11.5:
+        non_striker: GH Lewis
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: L Paul
+    - 11.6:
+        non_striker: L Paul
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: GH Lewis
+    - 12.1:
+        non_striker: GH Lewis
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: L Paul
+    - 12.2:
+        non_striker: L Paul
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.2'
+        batsman: GH Lewis
+    - 12.3:
+        non_striker: L Paul
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.3'
+        batsman: GH Lewis
+    - 12.4:
+        non_striker: L Paul
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: GH Lewis
+    - 12.5:
+        non_striker: GH Lewis
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: L Paul
+    - 12.6:
+        non_striker: GH Lewis
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.6'
+        batsman: L Paul
+    - 13.1:
+        non_striker: L Paul
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: GH Lewis
+    - 13.2:
+        non_striker: L Paul
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.2'
+        batsman: GH Lewis
+    - 13.3:
+        non_striker: L Paul
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: GH Lewis
+    - 13.4:
+        non_striker: L Paul
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: GH Lewis
+    - 13.5:
+        non_striker: GH Lewis
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: L Paul
+    - 13.6:
+        non_striker: GH Lewis
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: L Paul
+        wicket:
+          player_out: L Paul
+          fielders:
+          - EMKNH Senavirathna
+          kind: caught
+    - 14.1:
+        non_striker: A Tector
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: GH Lewis
+    - 14.2:
+        non_striker: A Tector
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: GH Lewis
+    - 14.3:
+        non_striker: A Tector
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.3'
+        batsman: GH Lewis
+    - 14.4:
+        non_striker: A Tector
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: GH Lewis
+    - 14.5:
+        non_striker: GH Lewis
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: A Tector
+    - 14.6:
+        non_striker: A Tector
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: GH Lewis
+    - 15.1:
+        non_striker: GH Lewis
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: A Tector
+    - 15.2:
+        non_striker: GH Lewis
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: A Tector
+    - 15.3:
+        non_striker: A Tector
+        bowler: NND de Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.3'
+        batsman: GH Lewis
+    - 15.4:
+        non_striker: A Tector
+        bowler: NND de Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.3'
+        batsman: GH Lewis
+    - 15.5:
+        non_striker: A Tector
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: GH Lewis
+    - 15.6:
+        non_striker: A Tector
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.4'
+        batsman: GH Lewis
+    - 15.7:
+        non_striker: A Tector
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: GH Lewis
+    - 15.8:
+        non_striker: GH Lewis
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: A Tector
+    - 16.1:
+        non_striker: GH Lewis
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: A Tector
+    - 16.2:
+        non_striker: A Tector
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: GH Lewis
+    - 16.3:
+        non_striker: GH Lewis
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: A Tector
+    - 16.4:
+        non_striker: A Tector
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: GH Lewis
+    - 16.5:
+        non_striker: GH Lewis
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: A Tector
+    - 16.6:
+        non_striker: GH Lewis
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: A Tector
+    - 17.1:
+        non_striker: GH Lewis
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.1'
+        batsman: A Tector
+    - 17.2:
+        non_striker: GH Lewis
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: A Tector
+    - 17.3:
+        non_striker: GH Lewis
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: A Tector
+    - 17.4:
+        non_striker: A Tector
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: GH Lewis
+    - 17.5:
+        non_striker: GH Lewis
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: A Tector
+    - 17.6:
+        non_striker: A Tector
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: GH Lewis
+    - 18.1:
+        non_striker: GH Lewis
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: A Tector
+    - 18.2:
+        non_striker: GH Lewis
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: A Tector
+    - 18.3:
+        non_striker: A Tector
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: GH Lewis
+        wicket:
+          player_out: GH Lewis
+          kind: bowled
+    - 18.4:
+        non_striker: A Tector
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: L Little
+    - 18.5:
+        non_striker: L Little
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.5'
+        batsman: A Tector
+    - 18.6:
+        non_striker: L Little
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '18.6'
+        batsman: A Tector
+    - 19.1:
+        non_striker: L Little
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: A Tector
+    - 19.2:
+        non_striker: A Tector
+        bowler: M Ayodhya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '19.2'
+        batsman: L Little
+    - 19.3:
+        non_striker: L Little
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.3'
+        batsman: A Tector
+    - 19.4:
+        non_striker: L Little
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.4'
+        batsman: A Tector
+    - 19.5:
+        non_striker: L Little
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: A Tector
+    - 19.6:
+        non_striker: L Little
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: A Tector
+- 2nd innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: I Dulani
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.1'
+        batsman: AC Jayangani
+    - 0.2:
+        non_striker: I Dulani
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: AC Jayangani
+    - 0.3:
+        non_striker: I Dulani
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: AC Jayangani
+    - 0.4:
+        non_striker: I Dulani
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: AC Jayangani
+    - 0.5:
+        non_striker: I Dulani
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: AC Jayangani
+    - 0.6:
+        non_striker: AC Jayangani
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: I Dulani
+    - 1.1:
+        non_striker: AC Jayangani
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.1'
+        batsman: I Dulani
+    - 1.2:
+        non_striker: AC Jayangani
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: I Dulani
+    - 1.3:
+        non_striker: I Dulani
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: AC Jayangani
+    - 1.4:
+        non_striker: I Dulani
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: AC Jayangani
+    - 1.5:
+        non_striker: I Dulani
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: AC Jayangani
+    - 1.6:
+        non_striker: AC Jayangani
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: I Dulani
+    - 1.7:
+        non_striker: I Dulani
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: AC Jayangani
+    - 2.1:
+        non_striker: I Dulani
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.1'
+        batsman: AC Jayangani
+    - 2.2:
+        non_striker: I Dulani
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: AC Jayangani
+    - 2.3:
+        non_striker: I Dulani
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: AC Jayangani
+    - 2.4:
+        non_striker: I Dulani
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.4'
+        batsman: AC Jayangani
+    - 2.5:
+        non_striker: I Dulani
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: AC Jayangani
+    - 2.6:
+        non_striker: I Dulani
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: AC Jayangani
+    - 3.1:
+        non_striker: I Dulani
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.1'
+        batsman: AC Jayangani
+    - 3.2:
+        non_striker: I Dulani
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: AC Jayangani
+    - 3.3:
+        non_striker: I Dulani
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: AC Jayangani
+    - 3.4:
+        non_striker: I Dulani
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.4'
+        batsman: AC Jayangani
+    - 3.5:
+        non_striker: I Dulani
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: AC Jayangani
+    - 3.6:
+        non_striker: AC Jayangani
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: I Dulani
+    - 4.1:
+        non_striker: I Dulani
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.1'
+        batsman: AC Jayangani
+    - 4.2:
+        non_striker: I Dulani
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.2'
+        batsman: AC Jayangani
+    - 4.3:
+        non_striker: I Dulani
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: AC Jayangani
+    - 4.4:
+        non_striker: I Dulani
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: AC Jayangani
+    - 4.5:
+        non_striker: I Dulani
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: AC Jayangani
+    - 4.6:
+        non_striker: AC Jayangani
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: I Dulani
+    - 5.1:
+        non_striker: I Dulani
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: AC Jayangani
+    - 5.2:
+        non_striker: I Dulani
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: AC Jayangani
+    - 5.3:
+        non_striker: I Dulani
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: AC Jayangani
+    - 5.4:
+        non_striker: AC Jayangani
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.4'
+        batsman: I Dulani
+    - 5.5:
+        non_striker: AC Jayangani
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: I Dulani
+    - 5.6:
+        non_striker: AC Jayangani
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: I Dulani
+    - 6.1:
+        non_striker: I Dulani
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: AC Jayangani
+    - 6.2:
+        non_striker: AC Jayangani
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: I Dulani
+    - 6.3:
+        non_striker: AC Jayangani
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: I Dulani
+    - 6.4:
+        non_striker: I Dulani
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.4'
+        batsman: AC Jayangani
+    - 6.5:
+        non_striker: I Dulani
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: AC Jayangani
+    - 6.6:
+        non_striker: I Dulani
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.6'
+        batsman: AC Jayangani
+    - 7.1:
+        non_striker: AC Jayangani
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: I Dulani
+    - 7.2:
+        non_striker: AC Jayangani
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: I Dulani
+    - 7.3:
+        non_striker: I Dulani
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: AC Jayangani
+    - 7.4:
+        non_striker: I Dulani
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: AC Jayangani
+    - 7.5:
+        non_striker: AC Jayangani
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.5'
+        batsman: I Dulani
+    - 7.6:
+        non_striker: AC Jayangani
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: I Dulani
+    - 8.1:
+        non_striker: I Dulani
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: AC Jayangani
+    - 8.2:
+        non_striker: AC Jayangani
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: I Dulani
+    - 8.3:
+        non_striker: I Dulani
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.3'
+        batsman: AC Jayangani
+    - 8.4:
+        non_striker: I Dulani
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: AC Jayangani
+    - 8.5:
+        non_striker: I Dulani
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: AC Jayangani
+    - 8.6:
+        non_striker: AC Jayangani
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: I Dulani
+    - 9.1:
+        non_striker: I Dulani
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: AC Jayangani
+    - 9.2:
+        non_striker: AC Jayangani
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: I Dulani
+    - 9.3:
+        non_striker: AC Jayangani
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: I Dulani
+    - 9.4:
+        non_striker: AC Jayangani
+        bowler: AN Kelly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '9.4'
+        batsman: I Dulani
+    - 9.5:
+        non_striker: I Dulani
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.5'
+        batsman: AC Jayangani
+    - 9.6:
+        non_striker: I Dulani
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.6'
+        batsman: AC Jayangani
+    - 10.1:
+        non_striker: AC Jayangani
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: I Dulani
+    - 10.2:
+        non_striker: AC Jayangani
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.2'
+        batsman: I Dulani
+    - 10.3:
+        non_striker: AC Jayangani
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: I Dulani
+    - 10.4:
+        non_striker: AC Jayangani
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: I Dulani
+    - 10.5:
+        non_striker: I Dulani
+        bowler: C Murray
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.5'
+        batsman: AC Jayangani
+    - 10.6:
+        non_striker: I Dulani
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.5'
+        batsman: AC Jayangani
+    - 10.7:
+        non_striker: I Dulani
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: AC Jayangani
+    - 11.1:
+        non_striker: AC Jayangani
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: I Dulani
+    - 11.2:
+        non_striker: I Dulani
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: AC Jayangani
+    - 11.3:
+        non_striker: I Dulani
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: AC Jayangani
+    - 11.4:
+        non_striker: AC Jayangani
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: I Dulani
+    - 11.5:
+        non_striker: AC Jayangani
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: I Dulani
+    - 11.6:
+        non_striker: AC Jayangani
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: I Dulani
+        wicket:
+          player_out: I Dulani
+          kind: bowled
+    - 12.1:
+        non_striker: NND de Silva
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.1'
+        batsman: AC Jayangani
+    - 12.2:
+        non_striker: NND de Silva
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '12.2'
+        batsman: AC Jayangani
+    - 12.3:
+        non_striker: NND de Silva
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: AC Jayangani
+    - 12.4:
+        non_striker: AC Jayangani
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: NND de Silva
+    - 12.5:
+        non_striker: NND de Silva
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.5'
+        batsman: AC Jayangani
+    - 12.6:
+        non_striker: NND de Silva
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: AC Jayangani
+    - 13.1:
+        non_striker: AC Jayangani
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: NND de Silva
+    - 13.2:
+        non_striker: NND de Silva
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: AC Jayangani
+    - 13.3:
+        non_striker: NND de Silva
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: AC Jayangani
+    - 13.4:
+        non_striker: NND de Silva
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: AC Jayangani
+    - 13.5:
+        non_striker: NND de Silva
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.5'
+        batsman: AC Jayangani
+    - 13.6:
+        non_striker: NND de Silva
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: AC Jayangani
+    - 14.1:
+        non_striker: NND de Silva
+        bowler: AN Kelly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.1'
+        batsman: AC Jayangani
+    - 14.2:
+        non_striker: NND de Silva
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.1'
+        batsman: AC Jayangani
+    - 14.3:
+        non_striker: NND de Silva
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: AC Jayangani
+    - 14.4:
+        non_striker: NND de Silva
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: AC Jayangani
+    - 14.5:
+        non_striker: AC Jayangani
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: NND de Silva
+    - 14.6:
+        non_striker: AC Jayangani
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: NND de Silva
+    - 14.7:
+        non_striker: NND de Silva
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.6'
+        batsman: AC Jayangani
+    - 15.1:
+        non_striker: AC Jayangani
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: NND de Silva
+    - 15.2:
+        non_striker: NND de Silva
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: AC Jayangani
+    - 15.3:
+        non_striker: NND de Silva
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.3'
+        batsman: AC Jayangani
+    target:
+      overs: 20
+      runs: 131

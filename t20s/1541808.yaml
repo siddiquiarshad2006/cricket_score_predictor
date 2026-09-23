@@ -1,0 +1,2475 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Singapore
+  dates:
+  - '2026-06-25'
+  gender: male
+  match_type: T20
+  match_type_number: 3987
+  outcome:
+    winner: Singapore
+    by:
+      runs: 123
+  overs: 20
+  player_of_match:
+  - Manpreet Singh
+  players:
+    Singapore:
+    - S Gulecha
+    - M Bhatia
+    - G Gune
+    - RR Naik
+    - Manpreet Singh
+    - A Kessar
+    - H Venkataram
+    - J Santhanam
+    - K Venkatraman
+    - MA Sherry
+    - Raheel Thakkar
+    Indonesia:
+    - Rohit Sharma
+    - KN Chaddha
+    - KD Kesuma
+    - AA Rahayu
+    - DJ Hawoe
+    - S Jegannathan
+    - GA Priandana
+    - IKEG Artawan
+    - F Banunaek
+    - GD Arta
+    - Anjar Tadarus
+  registry:
+    people:
+      A Kessar: 6da5685e
+      AA Rahayu: 2327fdc7
+      Anjar Tadarus: '72275237'
+      DJ Hawoe: a62f55ba
+      F Banunaek: 3c8faed4
+      Foyes Ahmed: 465cdd1d
+      G Gune: 5491a9ff
+      GA Priandana: 2af0e3b1
+      GD Arta: e969e580
+      H Venkataram: e61cee7b
+      IKEG Artawan: 190957d2
+      J Santhanam: 4f1d3f68
+      K Venkatraman: a6881817
+      KD Kesuma: 4b349dc0
+      KN Chaddha: a88e4013
+      M Bhatia: 22bdbba3
+      MA Sherry: 77eb2d60
+      Manpreet Singh: e9d6a2ce
+      RR Naik: f456ad17
+      Raheel Thakkar: 4844672e
+      Rohit Sharma: a1cbdeeb
+      S Gulecha: b70ec03e
+      S Jegannathan: 866e9f3d
+      Sathish Balasubramaniam: b4794f2a
+      T Senthil Kumar: 961ddfac
+  team_type: international
+  teams:
+  - Singapore
+  - Indonesia
+  toss:
+    winner: Indonesia
+    decision: field
+  umpires:
+  - Sathish Balasubramaniam
+  - T Senthil Kumar
+  venue: Singapore National Cricket Ground
+innings:
+- 1st innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Bhatia
+        actual_delivery: '0.1'
+        batsman: S Gulecha
+    - 0.2:
+        non_striker: S Gulecha
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: M Bhatia
+    - 0.3:
+        non_striker: S Gulecha
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: M Bhatia
+    - 0.4:
+        non_striker: S Gulecha
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: M Bhatia
+    - 0.5:
+        non_striker: S Gulecha
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.5'
+        batsman: M Bhatia
+    - 0.6:
+        non_striker: S Gulecha
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: M Bhatia
+    - 1.1:
+        non_striker: M Bhatia
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: S Gulecha
+    - 1.2:
+        non_striker: S Gulecha
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: M Bhatia
+    - 1.3:
+        non_striker: S Gulecha
+        bowler: F Banunaek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.3'
+        batsman: M Bhatia
+    - 1.4:
+        non_striker: S Gulecha
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: M Bhatia
+        wicket:
+          player_out: M Bhatia
+          fielders:
+          - KD Kesuma
+          kind: caught
+    - 1.5:
+        non_striker: S Gulecha
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: G Gune
+    - 1.6:
+        non_striker: S Gulecha
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: G Gune
+    - 1.7:
+        non_striker: G Gune
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.6'
+        batsman: S Gulecha
+    - 2.1:
+        non_striker: S Gulecha
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: G Gune
+    - 2.2:
+        non_striker: S Gulecha
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: G Gune
+    - 2.3:
+        non_striker: G Gune
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: S Gulecha
+    - 2.4:
+        non_striker: S Gulecha
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: G Gune
+    - 2.5:
+        non_striker: S Gulecha
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: G Gune
+    - 2.6:
+        non_striker: G Gune
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.6'
+        batsman: S Gulecha
+    - 3.1:
+        non_striker: S Gulecha
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: G Gune
+    - 3.2:
+        non_striker: S Gulecha
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: G Gune
+    - 3.3:
+        non_striker: S Gulecha
+        bowler: F Banunaek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '3.3'
+        batsman: G Gune
+    - 3.4:
+        non_striker: S Gulecha
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.3'
+        batsman: G Gune
+    - 3.5:
+        non_striker: S Gulecha
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: G Gune
+    - 3.6:
+        non_striker: G Gune
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: S Gulecha
+    - 3.7:
+        non_striker: S Gulecha
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: G Gune
+    - 4.1:
+        non_striker: G Gune
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: S Gulecha
+    - 4.2:
+        non_striker: G Gune
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: S Gulecha
+        wicket:
+          player_out: S Gulecha
+          fielders:
+          - F Banunaek
+          kind: caught
+    - 4.3:
+        non_striker: G Gune
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: RR Naik
+    - 4.4:
+        non_striker: RR Naik
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: G Gune
+    - 4.5:
+        non_striker: RR Naik
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.5'
+        batsman: G Gune
+    - 4.6:
+        non_striker: RR Naik
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: G Gune
+    - 5.1:
+        non_striker: RR Naik
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.1'
+        batsman: G Gune
+    - 5.2:
+        non_striker: RR Naik
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: G Gune
+    - 5.3:
+        non_striker: RR Naik
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.3'
+        batsman: G Gune
+    - 5.4:
+        non_striker: RR Naik
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: G Gune
+    - 5.5:
+        non_striker: G Gune
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: RR Naik
+    - 5.6:
+        non_striker: RR Naik
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: G Gune
+    - 6.1:
+        non_striker: RR Naik
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: G Gune
+    - 6.2:
+        non_striker: G Gune
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: RR Naik
+        wicket:
+          player_out: RR Naik
+          fielders:
+          - KD Kesuma
+          kind: caught
+    - 6.3:
+        non_striker: G Gune
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Manpreet Singh
+    - 6.4:
+        non_striker: G Gune
+        bowler: GD Arta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.4'
+        batsman: Manpreet Singh
+    - 6.5:
+        non_striker: G Gune
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: Manpreet Singh
+    - 6.6:
+        non_striker: Manpreet Singh
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: G Gune
+    - 6.7:
+        non_striker: G Gune
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: Manpreet Singh
+    - 7.1:
+        non_striker: Manpreet Singh
+        bowler: IKEG Artawan
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '7.1'
+        batsman: G Gune
+    - 7.2:
+        non_striker: G Gune
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.1'
+        batsman: Manpreet Singh
+    - 7.3:
+        non_striker: G Gune
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: Manpreet Singh
+    - 7.4:
+        non_striker: Manpreet Singh
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: G Gune
+    - 7.5:
+        non_striker: G Gune
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: Manpreet Singh
+    - 7.6:
+        non_striker: G Gune
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.5'
+        batsman: Manpreet Singh
+    - 7.7:
+        non_striker: G Gune
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: Manpreet Singh
+    - 8.1:
+        non_striker: G Gune
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: Manpreet Singh
+    - 8.2:
+        non_striker: Manpreet Singh
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: G Gune
+    - 8.3:
+        non_striker: G Gune
+        bowler: GD Arta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '8.3'
+        batsman: Manpreet Singh
+    - 8.4:
+        non_striker: Manpreet Singh
+        bowler: GD Arta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.4'
+        batsman: G Gune
+    - 8.5:
+        non_striker: Manpreet Singh
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: G Gune
+    - 8.6:
+        non_striker: G Gune
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Manpreet Singh
+    - 8.7:
+        non_striker: Manpreet Singh
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: G Gune
+    - 9.1:
+        non_striker: Manpreet Singh
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: G Gune
+    - 9.2:
+        non_striker: G Gune
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: Manpreet Singh
+    - 9.3:
+        non_striker: Manpreet Singh
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.3'
+        batsman: G Gune
+    - 9.4:
+        non_striker: Manpreet Singh
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.4'
+        batsman: G Gune
+    - 9.5:
+        non_striker: Manpreet Singh
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: G Gune
+    - 9.6:
+        non_striker: Manpreet Singh
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: G Gune
+    - 10.1:
+        non_striker: Manpreet Singh
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: G Gune
+    - 10.2:
+        non_striker: G Gune
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: Manpreet Singh
+    - 10.3:
+        non_striker: Manpreet Singh
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: G Gune
+    - 10.4:
+        non_striker: Manpreet Singh
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: G Gune
+    - 10.5:
+        non_striker: Manpreet Singh
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: G Gune
+    - 10.6:
+        non_striker: G Gune
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: Manpreet Singh
+    - 11.1:
+        non_striker: G Gune
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: Manpreet Singh
+    - 11.2:
+        non_striker: G Gune
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '11.2'
+        batsman: Manpreet Singh
+    - 11.3:
+        non_striker: G Gune
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: Manpreet Singh
+    - 11.4:
+        non_striker: G Gune
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: Manpreet Singh
+    - 11.5:
+        non_striker: Manpreet Singh
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.5'
+        batsman: G Gune
+    - 11.6:
+        non_striker: Manpreet Singh
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '11.6'
+        batsman: G Gune
+    - 12.1:
+        non_striker: G Gune
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.1'
+        batsman: Manpreet Singh
+    - 12.2:
+        non_striker: G Gune
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.2'
+        batsman: Manpreet Singh
+    - 12.3:
+        non_striker: G Gune
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.3'
+        batsman: Manpreet Singh
+    - 12.4:
+        non_striker: G Gune
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.4'
+        batsman: Manpreet Singh
+    - 12.5:
+        non_striker: G Gune
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: Manpreet Singh
+    - 12.6:
+        non_striker: Manpreet Singh
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: G Gune
+    - 13.1:
+        non_striker: Manpreet Singh
+        bowler: IKEG Artawan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.1'
+        batsman: G Gune
+    - 13.2:
+        non_striker: Manpreet Singh
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.1'
+        batsman: G Gune
+    - 13.3:
+        non_striker: Manpreet Singh
+        bowler: IKEG Artawan
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        actual_delivery: '13.2'
+        batsman: G Gune
+    - 13.4:
+        non_striker: Manpreet Singh
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: G Gune
+    - 13.5:
+        non_striker: G Gune
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.3'
+        batsman: Manpreet Singh
+    - 13.6:
+        non_striker: G Gune
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: Manpreet Singh
+    - 13.7:
+        non_striker: Manpreet Singh
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: G Gune
+    - 13.8:
+        non_striker: G Gune
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Manpreet Singh
+    - 14.1:
+        non_striker: G Gune
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.1'
+        batsman: Manpreet Singh
+    - 14.2:
+        non_striker: G Gune
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '14.2'
+        batsman: Manpreet Singh
+    - 14.3:
+        non_striker: G Gune
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: Manpreet Singh
+    - 14.4:
+        non_striker: G Gune
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: Manpreet Singh
+    - 14.5:
+        non_striker: Manpreet Singh
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: G Gune
+    - 14.6:
+        non_striker: G Gune
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.6'
+        batsman: Manpreet Singh
+    - 15.1:
+        non_striker: Manpreet Singh
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: G Gune
+    - 15.2:
+        non_striker: G Gune
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: Manpreet Singh
+    - 15.3:
+        non_striker: Manpreet Singh
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.3'
+        batsman: G Gune
+    - 15.4:
+        non_striker: Manpreet Singh
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.4'
+        batsman: G Gune
+    - 15.5:
+        non_striker: Manpreet Singh
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.5'
+        batsman: G Gune
+    - 15.6:
+        non_striker: Manpreet Singh
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: G Gune
+    - 16.1:
+        non_striker: Manpreet Singh
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: G Gune
+    - 16.2:
+        non_striker: G Gune
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.2'
+        batsman: Manpreet Singh
+    - 16.3:
+        non_striker: G Gune
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.3'
+        batsman: Manpreet Singh
+    - 16.4:
+        non_striker: G Gune
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.4'
+        batsman: Manpreet Singh
+    - 16.5:
+        non_striker: G Gune
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.5'
+        batsman: Manpreet Singh
+    - 16.6:
+        non_striker: G Gune
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: Manpreet Singh
+    - 17.1:
+        non_striker: G Gune
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: Manpreet Singh
+    - 17.2:
+        non_striker: Manpreet Singh
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: G Gune
+    - 17.3:
+        non_striker: G Gune
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.3'
+        batsman: Manpreet Singh
+    - 17.4:
+        non_striker: G Gune
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.4'
+        batsman: Manpreet Singh
+    - 17.5:
+        non_striker: G Gune
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.5'
+        batsman: Manpreet Singh
+    - 17.6:
+        non_striker: G Gune
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.6'
+        batsman: Manpreet Singh
+    - 18.1:
+        non_striker: Manpreet Singh
+        bowler: F Banunaek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.1'
+        batsman: G Gune
+    - 18.2:
+        non_striker: Manpreet Singh
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.1'
+        batsman: G Gune
+    - 18.3:
+        non_striker: Manpreet Singh
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: G Gune
+    - 18.4:
+        non_striker: Manpreet Singh
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: G Gune
+    - 18.5:
+        non_striker: Manpreet Singh
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.4'
+        batsman: G Gune
+    - 18.6:
+        non_striker: Manpreet Singh
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: G Gune
+    - 18.7:
+        non_striker: G Gune
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.6'
+        batsman: Manpreet Singh
+    - 19.1:
+        non_striker: Manpreet Singh
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.1'
+        batsman: G Gune
+    - 19.2:
+        non_striker: Manpreet Singh
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: G Gune
+    - 19.3:
+        non_striker: Manpreet Singh
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.3'
+        batsman: G Gune
+    - 19.4:
+        non_striker: Manpreet Singh
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.4'
+        batsman: G Gune
+    - 19.5:
+        non_striker: Manpreet Singh
+        bowler: DJ Hawoe
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        actual_delivery: '19.5'
+        batsman: G Gune
+    - 19.6:
+        non_striker: Manpreet Singh
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.5'
+        batsman: G Gune
+    - 19.7:
+        non_striker: G Gune
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.6'
+        batsman: Manpreet Singh
+- 2nd innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        non_striker: KN Chaddha
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: Rohit Sharma
+        wicket:
+          player_out: Rohit Sharma
+          fielders:
+          - Raheel Thakkar
+          kind: caught
+    - 0.2:
+        non_striker: KN Chaddha
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: KD Kesuma
+    - 0.3:
+        non_striker: KN Chaddha
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: KD Kesuma
+    - 0.4:
+        non_striker: KN Chaddha
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: KD Kesuma
+    - 0.5:
+        non_striker: KN Chaddha
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: KD Kesuma
+    - 0.6:
+        non_striker: KN Chaddha
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: KD Kesuma
+    - 1.1:
+        non_striker: KD Kesuma
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: KN Chaddha
+    - 1.2:
+        non_striker: KD Kesuma
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: KN Chaddha
+    - 1.3:
+        non_striker: KN Chaddha
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: KD Kesuma
+    - 1.4:
+        non_striker: KN Chaddha
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: KD Kesuma
+    - 1.5:
+        non_striker: KN Chaddha
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: KD Kesuma
+    - 1.6:
+        non_striker: KD Kesuma
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: KN Chaddha
+    - 2.1:
+        non_striker: KN Chaddha
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: KD Kesuma
+    - 2.2:
+        non_striker: KD Kesuma
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.2'
+        batsman: KN Chaddha
+    - 2.3:
+        non_striker: KD Kesuma
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: KN Chaddha
+    - 2.4:
+        non_striker: KD Kesuma
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: KN Chaddha
+    - 2.5:
+        non_striker: KD Kesuma
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: KN Chaddha
+    - 2.6:
+        non_striker: KN Chaddha
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: KD Kesuma
+    - 3.1:
+        non_striker: KD Kesuma
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.1'
+        batsman: KN Chaddha
+    - 3.2:
+        non_striker: KD Kesuma
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: KN Chaddha
+    - 3.3:
+        non_striker: KD Kesuma
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: KN Chaddha
+    - 3.4:
+        non_striker: KD Kesuma
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: KN Chaddha
+    - 3.5:
+        non_striker: KN Chaddha
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.5'
+        batsman: KD Kesuma
+    - 3.6:
+        non_striker: KN Chaddha
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: KD Kesuma
+    - 4.1:
+        non_striker: KD Kesuma
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: KN Chaddha
+    - 4.2:
+        non_striker: KD Kesuma
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: KN Chaddha
+    - 4.3:
+        non_striker: KD Kesuma
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: KN Chaddha
+    - 4.4:
+        non_striker: KN Chaddha
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: KD Kesuma
+    - 4.5:
+        non_striker: KN Chaddha
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: KD Kesuma
+        wicket:
+          player_out: KD Kesuma
+          fielders:
+          - J Santhanam
+          kind: caught
+    - 4.6:
+        non_striker: KN Chaddha
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: AA Rahayu
+    - 5.1:
+        non_striker: KN Chaddha
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: AA Rahayu
+    - 5.2:
+        non_striker: AA Rahayu
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: KN Chaddha
+    - 5.3:
+        non_striker: KN Chaddha
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: AA Rahayu
+    - 5.4:
+        non_striker: KN Chaddha
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: AA Rahayu
+    - 5.5:
+        non_striker: KN Chaddha
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: AA Rahayu
+    - 5.6:
+        non_striker: KN Chaddha
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: AA Rahayu
+    - 6.1:
+        non_striker: AA Rahayu
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: KN Chaddha
+    - 6.2:
+        non_striker: KN Chaddha
+        bowler: H Venkataram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.2'
+        batsman: AA Rahayu
+    - 6.3:
+        non_striker: KN Chaddha
+        bowler: H Venkataram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.2'
+        batsman: AA Rahayu
+    - 6.4:
+        non_striker: KN Chaddha
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.2'
+        batsman: AA Rahayu
+    - 6.5:
+        non_striker: KN Chaddha
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: AA Rahayu
+    - 6.6:
+        non_striker: AA Rahayu
+        bowler: H Venkataram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.4'
+        batsman: KN Chaddha
+    - 6.7:
+        non_striker: AA Rahayu
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: KN Chaddha
+    - 6.8:
+        non_striker: KN Chaddha
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: AA Rahayu
+    - 6.9:
+        non_striker: AA Rahayu
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: KN Chaddha
+    - 7.1:
+        non_striker: KN Chaddha
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: AA Rahayu
+    - 7.2:
+        non_striker: KN Chaddha
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: AA Rahayu
+    - 7.3:
+        non_striker: KN Chaddha
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: AA Rahayu
+    - 7.4:
+        non_striker: KN Chaddha
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.4'
+        batsman: AA Rahayu
+    - 7.5:
+        non_striker: KN Chaddha
+        bowler: J Santhanam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '7.5'
+        batsman: AA Rahayu
+    - 7.6:
+        non_striker: AA Rahayu
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: KN Chaddha
+    - 8.1:
+        non_striker: AA Rahayu
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: KN Chaddha
+    - 8.2:
+        non_striker: KN Chaddha
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: AA Rahayu
+    - 8.3:
+        non_striker: AA Rahayu
+        bowler: Manpreet Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.3'
+        batsman: KN Chaddha
+    - 8.4:
+        non_striker: AA Rahayu
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: KN Chaddha
+    - 8.5:
+        non_striker: KN Chaddha
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: AA Rahayu
+    - 8.6:
+        non_striker: KN Chaddha
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: AA Rahayu
+    - 8.7:
+        non_striker: KN Chaddha
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: AA Rahayu
+    - 9.1:
+        non_striker: KN Chaddha
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: AA Rahayu
+    - 9.2:
+        non_striker: AA Rahayu
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: KN Chaddha
+    - 9.3:
+        non_striker: KN Chaddha
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: AA Rahayu
+    - 9.4:
+        non_striker: KN Chaddha
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: AA Rahayu
+    - 9.5:
+        non_striker: AA Rahayu
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.5'
+        batsman: KN Chaddha
+    - 9.6:
+        non_striker: AA Rahayu
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: KN Chaddha
+    - 10.1:
+        non_striker: AA Rahayu
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: KN Chaddha
+    - 10.2:
+        non_striker: KN Chaddha
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: AA Rahayu
+    - 10.3:
+        non_striker: AA Rahayu
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: KN Chaddha
+    - 10.4:
+        non_striker: KN Chaddha
+        bowler: Manpreet Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '10.4'
+        batsman: AA Rahayu
+    - 10.5:
+        non_striker: AA Rahayu
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: KN Chaddha
+    - 10.6:
+        non_striker: AA Rahayu
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.6'
+        batsman: KN Chaddha
+    - 11.1:
+        non_striker: KN Chaddha
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: AA Rahayu
+    - 11.2:
+        non_striker: KN Chaddha
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: AA Rahayu
+    - 11.3:
+        non_striker: KN Chaddha
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: AA Rahayu
+    - 11.4:
+        non_striker: AA Rahayu
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: KN Chaddha
+    - 11.5:
+        non_striker: AA Rahayu
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.5'
+        batsman: KN Chaddha
+    - 11.6:
+        non_striker: AA Rahayu
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: KN Chaddha
+    - 12.1:
+        non_striker: AA Rahayu
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: KN Chaddha
+    - 12.2:
+        non_striker: KN Chaddha
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: AA Rahayu
+    - 12.3:
+        non_striker: AA Rahayu
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.3'
+        batsman: KN Chaddha
+    - 12.4:
+        non_striker: AA Rahayu
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: KN Chaddha
+        wicket:
+          player_out: KN Chaddha
+          fielders:
+          - G Gune
+          kind: caught
+    - 12.5:
+        non_striker: AA Rahayu
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.5'
+        batsman: DJ Hawoe
+    - 12.6:
+        non_striker: AA Rahayu
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: DJ Hawoe
+    - 13.1:
+        non_striker: AA Rahayu
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: DJ Hawoe
+        wicket:
+          player_out: DJ Hawoe
+          fielders:
+          - Manpreet Singh
+          kind: caught
+    - 13.2:
+        non_striker: AA Rahayu
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: S Jegannathan
+    - 13.3:
+        non_striker: S Jegannathan
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: AA Rahayu
+    - 13.4:
+        non_striker: S Jegannathan
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.4'
+        batsman: AA Rahayu
+    - 13.5:
+        non_striker: S Jegannathan
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: AA Rahayu
+    - 13.6:
+        non_striker: AA Rahayu
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: S Jegannathan
+        wicket:
+          player_out: S Jegannathan
+          fielders:
+          - Manpreet Singh
+          kind: caught
+    - 14.1:
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GA Priandana
+        actual_delivery: '14.1'
+        batsman: AA Rahayu
+    - 14.2:
+        non_striker: AA Rahayu
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: GA Priandana
+    - 14.3:
+        non_striker: AA Rahayu
+        bowler: S Gulecha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '14.3'
+        batsman: GA Priandana
+    - 14.4:
+        non_striker: GA Priandana
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.4'
+        batsman: AA Rahayu
+    - 14.5:
+        non_striker: GA Priandana
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.5'
+        batsman: AA Rahayu
+    - 14.6:
+        non_striker: GA Priandana
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: AA Rahayu
+    - 15.1:
+        non_striker: GA Priandana
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: AA Rahayu
+    - 15.2:
+        non_striker: GA Priandana
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: AA Rahayu
+    - 15.3:
+        non_striker: AA Rahayu
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: GA Priandana
+    - 15.4:
+        non_striker: AA Rahayu
+        bowler: K Venkatraman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '15.4'
+        batsman: GA Priandana
+    - 15.5:
+        non_striker: GA Priandana
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.5'
+        batsman: AA Rahayu
+    - 15.6:
+        non_striker: GA Priandana
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: AA Rahayu
+    - 16.1:
+        non_striker: AA Rahayu
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.1'
+        batsman: GA Priandana
+    - 16.2:
+        non_striker: AA Rahayu
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: GA Priandana
+    - 16.3:
+        non_striker: GA Priandana
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: AA Rahayu
+    - 16.4:
+        non_striker: GA Priandana
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: AA Rahayu
+    - 16.5:
+        non_striker: GA Priandana
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: AA Rahayu
+    - 16.6:
+        non_striker: AA Rahayu
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: GA Priandana
+    - 17.1:
+        non_striker: AA Rahayu
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: GA Priandana
+        wicket:
+          player_out: GA Priandana
+          kind: bowled
+    - 17.2:
+        non_striker: AA Rahayu
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: IKEG Artawan
+    - 17.3:
+        non_striker: AA Rahayu
+        bowler: K Venkatraman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '17.3'
+        batsman: IKEG Artawan
+    - 17.4:
+        non_striker: IKEG Artawan
+        bowler: K Venkatraman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.4'
+        batsman: AA Rahayu
+    - 17.5:
+        non_striker: IKEG Artawan
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: AA Rahayu
+    - 17.6:
+        non_striker: IKEG Artawan
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.5'
+        batsman: AA Rahayu
+    - 17.7:
+        non_striker: IKEG Artawan
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.6'
+        batsman: AA Rahayu
+    - 18.1:
+        non_striker: AA Rahayu
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: IKEG Artawan
+    - 18.2:
+        non_striker: AA Rahayu
+        bowler: H Venkataram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.2'
+        batsman: IKEG Artawan
+    - 18.3:
+        non_striker: AA Rahayu
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: IKEG Artawan
+    - 18.4:
+        non_striker: AA Rahayu
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: IKEG Artawan
+    - 18.5:
+        non_striker: AA Rahayu
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.4'
+        batsman: IKEG Artawan
+    - 18.6:
+        non_striker: AA Rahayu
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: IKEG Artawan
+    - 18.7:
+        non_striker: AA Rahayu
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: IKEG Artawan
+    - 19.1:
+        non_striker: IKEG Artawan
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.1'
+        batsman: AA Rahayu
+    - 19.2:
+        non_striker: IKEG Artawan
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.2'
+        batsman: AA Rahayu
+    - 19.3:
+        non_striker: IKEG Artawan
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: AA Rahayu
+    - 19.4:
+        non_striker: IKEG Artawan
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: AA Rahayu
+    - 19.5:
+        non_striker: AA Rahayu
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.5'
+        batsman: IKEG Artawan
+    - 19.6:
+        non_striker: AA Rahayu
+        bowler: A Kessar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '19.6'
+        batsman: IKEG Artawan
+    target:
+      overs: 20
+      runs: 259

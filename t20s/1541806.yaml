@@ -1,0 +1,2519 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Singapore
+  dates:
+  - '2026-06-23'
+  gender: male
+  match_type: T20
+  match_type_number: 3982
+  outcome:
+    winner: Singapore
+    by:
+      runs: 88
+  overs: 20
+  player_of_match:
+  - G Gune
+  players:
+    Singapore:
+    - S Gulecha
+    - M Bhatia
+    - G Gune
+    - Manpreet Singh
+    - RR Naik
+    - VT Thiyanesh
+    - Raheel Thakkar
+    - MA Sherry
+    - J Santhanam
+    - A Kessar
+    - K Venkatraman
+    Thailand:
+    - C Chatphaisan
+    - AP Yadav
+    - Y Saranonnakkun
+    - AV Lazarus
+    - P Suanchuai
+    - C Pengkumta
+    - N Senamontree
+    - P Thongsa
+    - P Jirapatananukul
+    - K Senamontree
+    - Sarawut Maliwan
+  registry:
+    people:
+      A Kessar: 6da5685e
+      AP Yadav: a5501504
+      AV Lazarus: 30c917bf
+      C Chatphaisan: 85c56be8
+      C Pengkumta: b3540b2a
+      G Gune: 5491a9ff
+      J Santhanam: 4f1d3f68
+      K Senamontree: e553e27f
+      K Venkatraman: a6881817
+      KK Ghosh: eea3fd8e
+      KSVP Venu Madhav: 8c7fb752
+      M Bhatia: 22bdbba3
+      MA Sherry: 77eb2d60
+      Manpreet Singh: e9d6a2ce
+      N Senamontree: 44e00a4c
+      P Jirapatananukul: f52961ea
+      P Suanchuai: e6948355
+      P Thongsa: '62318525'
+      RR Naik: f456ad17
+      Raheel Thakkar: 4844672e
+      S Gulecha: b70ec03e
+      Sarawut Maliwan: 36a0a88c
+      T Senthil Kumar: 961ddfac
+      VL Sinha: 93cfdc7e
+      VT Thiyanesh: e1d2c0bf
+      Y Saranonnakkun: 9c93c0a3
+  team_type: international
+  teams:
+  - Singapore
+  - Thailand
+  toss:
+    winner: Singapore
+    decision: bat
+  umpires:
+  - T Senthil Kumar
+  - KSVP Venu Madhav
+  venue: Singapore National Cricket Ground
+innings:
+- 1st innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        non_striker: M Bhatia
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: S Gulecha
+        wicket:
+          player_out: S Gulecha
+          fielders:
+          - AP Yadav
+          kind: caught
+    - 0.2:
+        non_striker: M Bhatia
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.2'
+        batsman: G Gune
+    - 0.3:
+        non_striker: M Bhatia
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: G Gune
+    - 0.4:
+        non_striker: G Gune
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: M Bhatia
+    - 0.5:
+        non_striker: G Gune
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: M Bhatia
+    - 0.6:
+        non_striker: G Gune
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: M Bhatia
+    - 1.1:
+        non_striker: M Bhatia
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: G Gune
+    - 1.2:
+        non_striker: G Gune
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: M Bhatia
+    - 1.3:
+        non_striker: G Gune
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: M Bhatia
+    - 1.4:
+        non_striker: M Bhatia
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: G Gune
+    - 1.5:
+        non_striker: G Gune
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: M Bhatia
+    - 1.6:
+        non_striker: M Bhatia
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: G Gune
+    - 2.1:
+        non_striker: G Gune
+        bowler: C Pengkumta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '2.1'
+        batsman: M Bhatia
+    - 2.2:
+        non_striker: M Bhatia
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: G Gune
+    - 2.3:
+        non_striker: G Gune
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: M Bhatia
+    - 2.4:
+        non_striker: G Gune
+        bowler: C Pengkumta
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        actual_delivery: '2.4'
+        batsman: M Bhatia
+    - 2.5:
+        non_striker: G Gune
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: M Bhatia
+    - 2.6:
+        non_striker: M Bhatia
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: G Gune
+    - 3.1:
+        non_striker: G Gune
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: M Bhatia
+    - 3.2:
+        non_striker: M Bhatia
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: G Gune
+    - 3.3:
+        non_striker: G Gune
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.3'
+        batsman: M Bhatia
+    - 3.4:
+        non_striker: G Gune
+        bowler: K Senamontree
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '3.4'
+        batsman: M Bhatia
+    - 3.5:
+        non_striker: M Bhatia
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: G Gune
+    - 3.6:
+        non_striker: G Gune
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.6'
+        batsman: M Bhatia
+    - 4.1:
+        non_striker: M Bhatia
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.1'
+        batsman: G Gune
+    - 4.2:
+        non_striker: M Bhatia
+        bowler: C Pengkumta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.2'
+        batsman: G Gune
+    - 4.3:
+        non_striker: M Bhatia
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: G Gune
+    - 4.4:
+        non_striker: G Gune
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: M Bhatia
+    - 4.5:
+        non_striker: M Bhatia
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: G Gune
+    - 4.6:
+        non_striker: G Gune
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: M Bhatia
+    - 4.7:
+        non_striker: G Gune
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: M Bhatia
+    - 5.1:
+        non_striker: G Gune
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '5.1'
+        batsman: M Bhatia
+    - 5.2:
+        non_striker: M Bhatia
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.1'
+        batsman: G Gune
+    - 5.3:
+        non_striker: M Bhatia
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: G Gune
+    - 5.4:
+        non_striker: G Gune
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: M Bhatia
+    - 5.5:
+        non_striker: M Bhatia
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.4'
+        batsman: G Gune
+    - 5.6:
+        non_striker: M Bhatia
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.5'
+        batsman: G Gune
+    - 5.7:
+        non_striker: M Bhatia
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: G Gune
+    - 6.1:
+        non_striker: M Bhatia
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: G Gune
+    - 6.2:
+        non_striker: G Gune
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: M Bhatia
+    - 6.3:
+        non_striker: M Bhatia
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: G Gune
+    - 6.4:
+        non_striker: M Bhatia
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: G Gune
+    - 6.5:
+        non_striker: M Bhatia
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: G Gune
+    - 6.6:
+        non_striker: G Gune
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '6.6'
+        batsman: M Bhatia
+    - 7.1:
+        non_striker: M Bhatia
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: G Gune
+    - 7.2:
+        non_striker: M Bhatia
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: G Gune
+    - 7.3:
+        non_striker: G Gune
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.3'
+        batsman: M Bhatia
+    - 7.4:
+        non_striker: G Gune
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.4'
+        batsman: M Bhatia
+    - 7.5:
+        non_striker: G Gune
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: M Bhatia
+    - 7.6:
+        non_striker: M Bhatia
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: G Gune
+    - 8.1:
+        non_striker: M Bhatia
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.1'
+        batsman: G Gune
+    - 8.2:
+        non_striker: M Bhatia
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: G Gune
+    - 8.3:
+        non_striker: G Gune
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: M Bhatia
+    - 8.4:
+        non_striker: M Bhatia
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.4'
+        batsman: G Gune
+    - 8.5:
+        non_striker: M Bhatia
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: G Gune
+    - 8.6:
+        non_striker: M Bhatia
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: G Gune
+    - 9.1:
+        non_striker: M Bhatia
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: G Gune
+    - 9.2:
+        non_striker: G Gune
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: M Bhatia
+    - 9.3:
+        non_striker: M Bhatia
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: G Gune
+    - 9.4:
+        non_striker: G Gune
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: M Bhatia
+    - 9.5:
+        non_striker: M Bhatia
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: G Gune
+        wicket:
+          player_out: G Gune
+          fielders:
+          - P Suanchuai
+          kind: caught
+    - 9.6:
+        non_striker: M Bhatia
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: Manpreet Singh
+    - 10.1:
+        non_striker: Manpreet Singh
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: M Bhatia
+    - 10.2:
+        non_striker: Manpreet Singh
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: M Bhatia
+        wicket:
+          player_out: M Bhatia
+          fielders:
+          - K Senamontree
+          kind: caught
+    - 10.3:
+        non_striker: Manpreet Singh
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: RR Naik
+    - 10.4:
+        non_striker: RR Naik
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.4'
+        batsman: Manpreet Singh
+    - 10.5:
+        non_striker: RR Naik
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: Manpreet Singh
+    - 10.6:
+        non_striker: Manpreet Singh
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: RR Naik
+    - 11.1:
+        non_striker: Manpreet Singh
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: RR Naik
+    - 11.2:
+        non_striker: RR Naik
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: Manpreet Singh
+    - 11.3:
+        non_striker: Manpreet Singh
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: RR Naik
+    - 11.4:
+        non_striker: RR Naik
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: Manpreet Singh
+    - 11.5:
+        non_striker: Manpreet Singh
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '11.5'
+        batsman: RR Naik
+    - 11.6:
+        non_striker: Manpreet Singh
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: RR Naik
+    - 12.1:
+        non_striker: Manpreet Singh
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: RR Naik
+    - 12.2:
+        non_striker: RR Naik
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: Manpreet Singh
+    - 12.3:
+        non_striker: Manpreet Singh
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: RR Naik
+    - 12.4:
+        non_striker: RR Naik
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: Manpreet Singh
+    - 12.5:
+        non_striker: Manpreet Singh
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: RR Naik
+    - 12.6:
+        non_striker: RR Naik
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.6'
+        batsman: Manpreet Singh
+    - 13.1:
+        non_striker: Manpreet Singh
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: RR Naik
+    - 13.2:
+        non_striker: RR Naik
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: Manpreet Singh
+    - 13.3:
+        non_striker: RR Naik
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Manpreet Singh
+    - 13.4:
+        non_striker: Manpreet Singh
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.4'
+        batsman: RR Naik
+    - 13.5:
+        non_striker: Manpreet Singh
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: RR Naik
+    - 13.6:
+        non_striker: RR Naik
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Manpreet Singh
+    - 14.1:
+        non_striker: RR Naik
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.1'
+        batsman: Manpreet Singh
+    - 14.2:
+        non_striker: RR Naik
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: Manpreet Singh
+        wicket:
+          player_out: Manpreet Singh
+          fielders:
+          - N Senamontree
+          kind: caught
+    - 14.3:
+        non_striker: RR Naik
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: VT Thiyanesh
+    - 14.4:
+        non_striker: VT Thiyanesh
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: RR Naik
+    - 14.5:
+        non_striker: VT Thiyanesh
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: RR Naik
+    - 14.6:
+        non_striker: RR Naik
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: VT Thiyanesh
+    - 15.1:
+        non_striker: RR Naik
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: VT Thiyanesh
+    - 15.2:
+        non_striker: VT Thiyanesh
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.2'
+        batsman: RR Naik
+    - 15.3:
+        non_striker: VT Thiyanesh
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: RR Naik
+        wicket:
+          player_out: RR Naik
+          fielders:
+          - Y Saranonnakkun
+          kind: caught
+    - 15.4:
+        non_striker: VT Thiyanesh
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: Raheel Thakkar
+    - 15.5:
+        non_striker: VT Thiyanesh
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: Raheel Thakkar
+    - 15.6:
+        non_striker: Raheel Thakkar
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.6'
+        batsman: VT Thiyanesh
+    - 16.1:
+        non_striker: VT Thiyanesh
+        bowler: P Thongsa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.1'
+        batsman: Raheel Thakkar
+    - 16.2:
+        non_striker: VT Thiyanesh
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: Raheel Thakkar
+    - 16.3:
+        non_striker: Raheel Thakkar
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: VT Thiyanesh
+    - 16.4:
+        non_striker: VT Thiyanesh
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: Raheel Thakkar
+    - 16.5:
+        non_striker: Raheel Thakkar
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: VT Thiyanesh
+    - 16.6:
+        non_striker: VT Thiyanesh
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: Raheel Thakkar
+    - 16.7:
+        non_striker: Raheel Thakkar
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: VT Thiyanesh
+        wicket:
+          player_out: VT Thiyanesh
+          fielders:
+          - K Senamontree
+          kind: caught
+    - 17.1:
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MA Sherry
+        actual_delivery: '17.1'
+        batsman: Raheel Thakkar
+    - 17.2:
+        non_striker: Raheel Thakkar
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: MA Sherry
+    - 17.3:
+        non_striker: Raheel Thakkar
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: MA Sherry
+    - 17.4:
+        non_striker: MA Sherry
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: Raheel Thakkar
+    - 17.5:
+        non_striker: Raheel Thakkar
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: MA Sherry
+    - 17.6:
+        non_striker: MA Sherry
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: Raheel Thakkar
+    - 18.1:
+        non_striker: Raheel Thakkar
+        bowler: C Pengkumta
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        actual_delivery: '18.1'
+        batsman: MA Sherry
+    - 18.2:
+        non_striker: Raheel Thakkar
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: MA Sherry
+    - 18.3:
+        non_striker: Raheel Thakkar
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: MA Sherry
+    - 18.4:
+        non_striker: MA Sherry
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: Raheel Thakkar
+    - 18.5:
+        non_striker: Raheel Thakkar
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: MA Sherry
+    - 18.6:
+        non_striker: MA Sherry
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: Raheel Thakkar
+    - 18.7:
+        non_striker: Raheel Thakkar
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: MA Sherry
+    - 19.1:
+        non_striker: Raheel Thakkar
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: MA Sherry
+    - 19.2:
+        non_striker: MA Sherry
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: Raheel Thakkar
+        wicket:
+          player_out: Raheel Thakkar
+          kind: caught and bowled
+    - 19.3:
+        non_striker: MA Sherry
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.3'
+        batsman: J Santhanam
+    - 19.4:
+        non_striker: J Santhanam
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: MA Sherry
+    - 19.5:
+        non_striker: MA Sherry
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: J Santhanam
+    - 19.6:
+        non_striker: MA Sherry
+        bowler: P Jirapatananukul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '19.6'
+        batsman: J Santhanam
+- 2nd innings:
+    team: Thailand
+    deliveries:
+    - 0.1:
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AP Yadav
+        actual_delivery: '0.1'
+        batsman: C Chatphaisan
+    - 0.2:
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AP Yadav
+        actual_delivery: '0.2'
+        batsman: C Chatphaisan
+    - 0.3:
+        bowler: J Santhanam
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        non_striker: AP Yadav
+        actual_delivery: '0.3'
+        batsman: C Chatphaisan
+    - 0.4:
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AP Yadav
+        actual_delivery: '0.3'
+        batsman: C Chatphaisan
+    - 0.5:
+        non_striker: AP Yadav
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: C Chatphaisan
+        wicket:
+          player_out: C Chatphaisan
+          kind: bowled
+    - 0.6:
+        non_striker: AP Yadav
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Y Saranonnakkun
+    - 0.7:
+        non_striker: AP Yadav
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Y Saranonnakkun
+    - 1.1:
+        non_striker: Y Saranonnakkun
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: AP Yadav
+        wicket:
+          player_out: AP Yadav
+          kind: lbw
+    - 1.2:
+        non_striker: Y Saranonnakkun
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: AV Lazarus
+    - 1.3:
+        non_striker: Y Saranonnakkun
+        bowler: A Kessar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.3'
+        batsman: AV Lazarus
+    - 1.4:
+        non_striker: Y Saranonnakkun
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: AV Lazarus
+        wicket:
+          player_out: AV Lazarus
+          kind: bowled
+    - 1.5:
+        non_striker: Y Saranonnakkun
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: P Suanchuai
+    - 1.6:
+        non_striker: P Suanchuai
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Y Saranonnakkun
+    - 1.7:
+        non_striker: P Suanchuai
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: Y Saranonnakkun
+    - 2.1:
+        non_striker: P Suanchuai
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: Y Saranonnakkun
+        wicket:
+          player_out: Y Saranonnakkun
+          fielders:
+          - Manpreet Singh
+          kind: caught
+    - 2.2:
+        non_striker: P Suanchuai
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: C Pengkumta
+    - 2.3:
+        non_striker: P Suanchuai
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: C Pengkumta
+    - 2.4:
+        non_striker: P Suanchuai
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: C Pengkumta
+    - 2.5:
+        non_striker: P Suanchuai
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: C Pengkumta
+    - 2.6:
+        non_striker: P Suanchuai
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: C Pengkumta
+    - 3.1:
+        non_striker: P Suanchuai
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: C Pengkumta
+    - 3.2:
+        non_striker: P Suanchuai
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: C Pengkumta
+    - 3.3:
+        non_striker: P Suanchuai
+        bowler: A Kessar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.3'
+        batsman: C Pengkumta
+    - 3.4:
+        non_striker: P Suanchuai
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: C Pengkumta
+    - 3.5:
+        non_striker: P Suanchuai
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: C Pengkumta
+    - 3.6:
+        non_striker: P Suanchuai
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: C Pengkumta
+    - 3.7:
+        non_striker: P Suanchuai
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: C Pengkumta
+    - 4.1:
+        non_striker: C Pengkumta
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: P Suanchuai
+    - 4.2:
+        non_striker: C Pengkumta
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: P Suanchuai
+    - 4.3:
+        non_striker: P Suanchuai
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: C Pengkumta
+    - 4.4:
+        non_striker: P Suanchuai
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: C Pengkumta
+    - 4.5:
+        non_striker: P Suanchuai
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: C Pengkumta
+    - 4.6:
+        non_striker: P Suanchuai
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: C Pengkumta
+    - 5.1:
+        non_striker: C Pengkumta
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: P Suanchuai
+    - 5.2:
+        non_striker: C Pengkumta
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: P Suanchuai
+    - 5.3:
+        non_striker: C Pengkumta
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.3'
+        batsman: P Suanchuai
+    - 5.4:
+        non_striker: C Pengkumta
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: P Suanchuai
+    - 5.5:
+        non_striker: P Suanchuai
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: C Pengkumta
+    - 5.6:
+        non_striker: C Pengkumta
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: P Suanchuai
+    - 6.1:
+        non_striker: P Suanchuai
+        bowler: M Bhatia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.1'
+        batsman: C Pengkumta
+    - 6.2:
+        non_striker: P Suanchuai
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: C Pengkumta
+    - 6.3:
+        non_striker: P Suanchuai
+        bowler: M Bhatia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.2'
+        batsman: C Pengkumta
+    - 6.4:
+        non_striker: P Suanchuai
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: C Pengkumta
+    - 6.5:
+        non_striker: P Suanchuai
+        bowler: M Bhatia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.3'
+        batsman: C Pengkumta
+    - 6.6:
+        non_striker: P Suanchuai
+        bowler: M Bhatia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '6.3'
+        batsman: C Pengkumta
+    - 6.7:
+        non_striker: C Pengkumta
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: P Suanchuai
+    - 6.8:
+        non_striker: C Pengkumta
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: P Suanchuai
+    - 6.9:
+        non_striker: C Pengkumta
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: P Suanchuai
+    - 7.1:
+        non_striker: P Suanchuai
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: C Pengkumta
+    - 7.2:
+        non_striker: P Suanchuai
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: C Pengkumta
+    - 7.3:
+        non_striker: P Suanchuai
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: C Pengkumta
+        wicket:
+          player_out: C Pengkumta
+          fielders:
+          - S Gulecha
+          kind: caught
+    - 7.4:
+        non_striker: P Suanchuai
+        bowler: K Venkatraman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.4'
+        batsman: N Senamontree
+    - 7.5:
+        non_striker: P Suanchuai
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: N Senamontree
+    - 7.6:
+        non_striker: N Senamontree
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: P Suanchuai
+    - 7.7:
+        non_striker: P Suanchuai
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: N Senamontree
+    - 8.1:
+        non_striker: P Suanchuai
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: N Senamontree
+    - 8.2:
+        non_striker: P Suanchuai
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: N Senamontree
+    - 8.3:
+        non_striker: P Suanchuai
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: N Senamontree
+    - 8.4:
+        non_striker: N Senamontree
+        bowler: M Bhatia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '8.4'
+        batsman: P Suanchuai
+    - 8.5:
+        non_striker: P Suanchuai
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: N Senamontree
+    - 8.6:
+        non_striker: P Suanchuai
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.6'
+        batsman: N Senamontree
+    - 9.1:
+        non_striker: N Senamontree
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: P Suanchuai
+    - 9.2:
+        non_striker: P Suanchuai
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: N Senamontree
+    - 9.3:
+        non_striker: P Suanchuai
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: N Senamontree
+    - 9.4:
+        non_striker: N Senamontree
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: P Suanchuai
+        wicket:
+          player_out: P Suanchuai
+          fielders:
+          - A Kessar
+          kind: caught
+    - 9.5:
+        non_striker: N Senamontree
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: P Thongsa
+    - 9.6:
+        non_striker: N Senamontree
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: P Thongsa
+    - 10.1:
+        non_striker: P Thongsa
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: N Senamontree
+    - 10.2:
+        non_striker: N Senamontree
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: P Thongsa
+    - 10.3:
+        non_striker: P Thongsa
+        bowler: S Gulecha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '10.3'
+        batsman: N Senamontree
+    - 10.4:
+        non_striker: N Senamontree
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: P Thongsa
+    - 10.5:
+        non_striker: N Senamontree
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: P Thongsa
+    - 10.6:
+        non_striker: P Thongsa
+        bowler: S Gulecha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '10.6'
+        batsman: N Senamontree
+    - 11.1:
+        non_striker: P Thongsa
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: N Senamontree
+    - 11.2:
+        non_striker: N Senamontree
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: P Thongsa
+    - 11.3:
+        non_striker: N Senamontree
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.3'
+        batsman: P Thongsa
+    - 11.4:
+        non_striker: N Senamontree
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: P Thongsa
+    - 11.5:
+        non_striker: P Thongsa
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: N Senamontree
+    - 11.6:
+        non_striker: P Thongsa
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: N Senamontree
+    - 12.1:
+        non_striker: N Senamontree
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: P Thongsa
+    - 12.2:
+        non_striker: P Thongsa
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: N Senamontree
+    - 12.3:
+        non_striker: N Senamontree
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: P Thongsa
+    - 12.4:
+        non_striker: P Thongsa
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: N Senamontree
+    - 12.5:
+        non_striker: P Thongsa
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: N Senamontree
+    - 12.6:
+        non_striker: N Senamontree
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: P Thongsa
+    - 13.1:
+        non_striker: P Thongsa
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: N Senamontree
+    - 13.2:
+        non_striker: P Thongsa
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: N Senamontree
+    - 13.3:
+        non_striker: P Thongsa
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: N Senamontree
+    - 13.4:
+        non_striker: N Senamontree
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: P Thongsa
+    - 13.5:
+        non_striker: P Thongsa
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.5'
+        batsman: N Senamontree
+    - 13.6:
+        non_striker: P Thongsa
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: N Senamontree
+    - 14.1:
+        non_striker: P Thongsa
+        bowler: A Kessar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.1'
+        batsman: N Senamontree
+    - 14.2:
+        non_striker: P Thongsa
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: N Senamontree
+    - 14.3:
+        non_striker: N Senamontree
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: P Thongsa
+    - 14.4:
+        non_striker: N Senamontree
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.3'
+        batsman: P Thongsa
+    - 14.5:
+        non_striker: N Senamontree
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.4'
+        batsman: P Thongsa
+    - 14.6:
+        non_striker: N Senamontree
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: P Thongsa
+    - 14.7:
+        non_striker: N Senamontree
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: P Thongsa
+    - 15.1:
+        non_striker: P Thongsa
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: N Senamontree
+    - 15.2:
+        non_striker: P Thongsa
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: N Senamontree
+    - 15.3:
+        non_striker: P Thongsa
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: N Senamontree
+    - 15.4:
+        non_striker: P Thongsa
+        bowler: K Venkatraman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.4'
+        batsman: N Senamontree
+    - 15.5:
+        non_striker: P Thongsa
+        bowler: K Venkatraman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.4'
+        batsman: N Senamontree
+    - 15.6:
+        non_striker: P Thongsa
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: N Senamontree
+    - 15.7:
+        non_striker: P Thongsa
+        bowler: K Venkatraman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.5'
+        batsman: N Senamontree
+    - 15.8:
+        non_striker: P Thongsa
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: N Senamontree
+        wicket:
+          player_out: N Senamontree
+          fielders:
+          - Manpreet Singh
+          kind: caught
+    - 15.9:
+        non_striker: P Thongsa
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: P Jirapatananukul
+    - 16.1:
+        non_striker: P Thongsa
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: P Jirapatananukul
+    - 16.2:
+        non_striker: P Thongsa
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: P Jirapatananukul
+    - 16.3:
+        non_striker: P Jirapatananukul
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: P Thongsa
+    - 16.4:
+        non_striker: P Jirapatananukul
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.4'
+        batsman: P Thongsa
+    - 16.5:
+        non_striker: P Jirapatananukul
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: P Thongsa
+    - 16.6:
+        non_striker: P Jirapatananukul
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: P Thongsa
+    - 17.1:
+        non_striker: P Jirapatananukul
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.1'
+        batsman: P Thongsa
+    - 17.2:
+        non_striker: P Jirapatananukul
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: P Thongsa
+    - 17.3:
+        non_striker: P Jirapatananukul
+        bowler: K Venkatraman
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          byes: 2
+          noballs: 1
+        actual_delivery: '17.3'
+        batsman: P Thongsa
+    - 17.4:
+        non_striker: P Jirapatananukul
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: P Thongsa
+    - 17.5:
+        non_striker: P Thongsa
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: P Jirapatananukul
+        wicket:
+          player_out: P Jirapatananukul
+          kind: bowled
+    - 17.6:
+        non_striker: P Thongsa
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: K Senamontree
+    - 17.7:
+        non_striker: P Thongsa
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: K Senamontree
+    - 18.1:
+        non_striker: K Senamontree
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: P Thongsa
+    - 18.2:
+        non_striker: K Senamontree
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: P Thongsa
+    - 18.3:
+        non_striker: K Senamontree
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: P Thongsa
+    - 18.4:
+        non_striker: P Thongsa
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: K Senamontree
+    - 18.5:
+        non_striker: P Thongsa
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: K Senamontree
+    - 18.6:
+        non_striker: P Thongsa
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: K Senamontree
+        wicket:
+          player_out: K Senamontree
+          fielders:
+          - MA Sherry
+          kind: caught
+    - 19.1:
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sarawut Maliwan
+        actual_delivery: '19.1'
+        batsman: P Thongsa
+    - 19.2:
+        non_striker: P Thongsa
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: Sarawut Maliwan
+    - 19.3:
+        non_striker: Sarawut Maliwan
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.3'
+        batsman: P Thongsa
+    - 19.4:
+        non_striker: P Thongsa
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: Sarawut Maliwan
+    - 19.5:
+        non_striker: P Thongsa
+        bowler: S Gulecha
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        actual_delivery: '19.5'
+        batsman: Sarawut Maliwan
+    - 19.6:
+        non_striker: P Thongsa
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: Sarawut Maliwan
+    target:
+      overs: 20
+      runs: 188

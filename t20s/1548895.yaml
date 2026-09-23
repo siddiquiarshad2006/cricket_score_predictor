@@ -1,0 +1,2345 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-09-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dubai
+  dates:
+  - '2026-09-01'
+  gender: female
+  match_type: T20
+  match_type_number: 2988
+  outcome:
+    winner: Pakistan
+    by:
+      runs: 35
+  overs: 20
+  player_of_match:
+  - Muneeba Ali
+  players:
+    Pakistan:
+    - Muneeba Ali
+    - Shawaal Zulfiqar
+    - Gull Feroza
+    - Ayesha Zafar
+    - Sadaf Shamas
+    - Fatima Sana
+    - Umm-e-Hani
+    - Eyman Fatima
+    - Tuba Hassan
+    - Nashra Sandhu
+    - Sadia Iqbal
+    Thailand:
+    - N Chantam
+    - P Maya
+    - N Koncharoenkai
+    - N Chaiwai
+    - A Suwanchonrathi
+    - C Sutthiruang
+    - NK Hamilton
+    - S Laomi
+    - S Chaturongrattana
+    - O Kamchomphu
+    - T Putthawong
+  registry:
+    people:
+      A Suwanchonrathi: 43a2244f
+      Ayesha Zafar: e15f4fa4
+      C Sutthiruang: f6ddfe08
+      Eyman Fatima: 4357f6f8
+      Fatima Sana: ea9c54de
+      Gull Feroza: 9ff1e91e
+      Muneeba Ali: 86fdf668
+      N Chaiwai: '0825e4b3'
+      N Chantam: b5626ff7
+      N Koncharoenkai: 82c78412
+      N Perera: 129709f9
+      NK Hamilton: 7fdb093b
+      Nashra Sandhu: c981d3c2
+      O Kamchomphu: 519b872a
+      P Maya: 72eada4c
+      Rokeya Sultana: 20abf9b9
+      S Chaturongrattana: bd36bc39
+      S Laomi: 4b15618c
+      SR Das: f4e52218
+      Sadaf Shamas: f19c8dc0
+      Sadia Iqbal: 53bb50f0
+      Shathira Jakir: 6b992a6f
+      Shawaal Zulfiqar: adb2f55e
+      T Putthawong: 23e3f2d6
+      Tuba Hassan: 0d56e9a5
+      Umm-e-Hani: 6ee11109
+      VG Rathi: 144e5b16
+  team_type: international
+  teams:
+  - Pakistan
+  - Thailand
+  toss:
+    winner: Pakistan
+    decision: bat
+  umpires:
+  - N Perera
+  - Shathira Jakir
+  venue: Dubai International Cricket Stadium
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Shawaal Zulfiqar
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.1'
+        batsman: Muneeba Ali
+    - 0.2:
+        non_striker: Shawaal Zulfiqar
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: Muneeba Ali
+    - 0.3:
+        non_striker: Shawaal Zulfiqar
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: Muneeba Ali
+    - 0.4:
+        non_striker: Muneeba Ali
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Shawaal Zulfiqar
+    - 0.5:
+        non_striker: Muneeba Ali
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Shawaal Zulfiqar
+    - 0.6:
+        non_striker: Muneeba Ali
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: Shawaal Zulfiqar
+    - 1.1:
+        non_striker: Muneeba Ali
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: Shawaal Zulfiqar
+    - 1.2:
+        non_striker: Muneeba Ali
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: Shawaal Zulfiqar
+        wicket:
+          player_out: Shawaal Zulfiqar
+          fielders:
+          - S Laomi
+          kind: caught
+    - 1.3:
+        non_striker: Muneeba Ali
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: Gull Feroza
+    - 1.4:
+        non_striker: Muneeba Ali
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: Gull Feroza
+    - 1.5:
+        non_striker: Muneeba Ali
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Gull Feroza
+    - 1.6:
+        non_striker: Muneeba Ali
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Gull Feroza
+        wicket:
+          player_out: Gull Feroza
+          fielders:
+          - P Maya
+          kind: caught
+    - 2.1:
+        non_striker: Ayesha Zafar
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: Muneeba Ali
+    - 2.2:
+        non_striker: Ayesha Zafar
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: Muneeba Ali
+    - 2.3:
+        non_striker: Ayesha Zafar
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: Muneeba Ali
+    - 2.4:
+        non_striker: Muneeba Ali
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Ayesha Zafar
+    - 2.5:
+        non_striker: Muneeba Ali
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.5'
+        batsman: Ayesha Zafar
+    - 2.6:
+        non_striker: Muneeba Ali
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Ayesha Zafar
+    - 3.1:
+        non_striker: Ayesha Zafar
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: Muneeba Ali
+    - 3.2:
+        non_striker: Muneeba Ali
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Ayesha Zafar
+    - 3.3:
+        non_striker: Muneeba Ali
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: Ayesha Zafar
+    - 3.4:
+        non_striker: Ayesha Zafar
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: Muneeba Ali
+    - 3.5:
+        non_striker: Muneeba Ali
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.5'
+        batsman: Ayesha Zafar
+    - 3.6:
+        non_striker: Muneeba Ali
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.6'
+        batsman: Ayesha Zafar
+    - 4.1:
+        non_striker: Ayesha Zafar
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: Muneeba Ali
+    - 4.2:
+        non_striker: Ayesha Zafar
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.2'
+        batsman: Muneeba Ali
+    - 4.3:
+        non_striker: Ayesha Zafar
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: Muneeba Ali
+    - 4.4:
+        non_striker: Muneeba Ali
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: Ayesha Zafar
+        wicket:
+          player_out: Ayesha Zafar
+          fielders:
+          - N Chantam
+          kind: caught
+    - 4.5:
+        non_striker: Muneeba Ali
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: Sadaf Shamas
+    - 4.6:
+        non_striker: Muneeba Ali
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: Sadaf Shamas
+    - 5.1:
+        non_striker: Muneeba Ali
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Sadaf Shamas
+    - 5.2:
+        non_striker: Muneeba Ali
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.2'
+        batsman: Sadaf Shamas
+    - 5.3:
+        non_striker: Muneeba Ali
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: Sadaf Shamas
+    - 5.4:
+        non_striker: Muneeba Ali
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Sadaf Shamas
+    - 5.5:
+        non_striker: Muneeba Ali
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Sadaf Shamas
+    - 5.6:
+        non_striker: Muneeba Ali
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Sadaf Shamas
+    - 6.1:
+        non_striker: Sadaf Shamas
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: Muneeba Ali
+    - 6.2:
+        non_striker: Sadaf Shamas
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: Muneeba Ali
+    - 6.3:
+        non_striker: Sadaf Shamas
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Muneeba Ali
+    - 6.4:
+        non_striker: Sadaf Shamas
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Muneeba Ali
+    - 6.5:
+        non_striker: Sadaf Shamas
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: Muneeba Ali
+    - 6.6:
+        non_striker: Muneeba Ali
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: Sadaf Shamas
+    - 7.1:
+        non_striker: Muneeba Ali
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: Sadaf Shamas
+    - 7.2:
+        non_striker: Sadaf Shamas
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: Muneeba Ali
+    - 7.3:
+        non_striker: Muneeba Ali
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.3'
+        batsman: Sadaf Shamas
+    - 7.4:
+        non_striker: Muneeba Ali
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: Sadaf Shamas
+    - 7.5:
+        non_striker: Sadaf Shamas
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: Muneeba Ali
+    - 7.6:
+        non_striker: Sadaf Shamas
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: Muneeba Ali
+    - 8.1:
+        non_striker: Sadaf Shamas
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Muneeba Ali
+    - 8.2:
+        non_striker: Sadaf Shamas
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.2'
+        batsman: Muneeba Ali
+    - 8.3:
+        non_striker: Sadaf Shamas
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.3'
+        batsman: Muneeba Ali
+    - 8.4:
+        non_striker: Sadaf Shamas
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.4'
+        batsman: Muneeba Ali
+    - 8.5:
+        non_striker: Sadaf Shamas
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Muneeba Ali
+    - 8.6:
+        non_striker: Muneeba Ali
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Sadaf Shamas
+    - 9.1:
+        non_striker: Sadaf Shamas
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.1'
+        batsman: Muneeba Ali
+    - 9.2:
+        non_striker: Sadaf Shamas
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.2'
+        batsman: Muneeba Ali
+    - 9.3:
+        non_striker: Sadaf Shamas
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: Muneeba Ali
+    - 9.4:
+        non_striker: Sadaf Shamas
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.4'
+        batsman: Muneeba Ali
+    - 9.5:
+        non_striker: Sadaf Shamas
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: Muneeba Ali
+    - 9.6:
+        non_striker: Sadaf Shamas
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: Muneeba Ali
+    - 10.1:
+        non_striker: Sadaf Shamas
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.1'
+        batsman: Muneeba Ali
+    - 10.2:
+        non_striker: Sadaf Shamas
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: Muneeba Ali
+    - 10.3:
+        non_striker: Muneeba Ali
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: Sadaf Shamas
+    - 10.4:
+        non_striker: Muneeba Ali
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: Sadaf Shamas
+    - 10.5:
+        non_striker: Sadaf Shamas
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: Muneeba Ali
+    - 10.6:
+        non_striker: Muneeba Ali
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Sadaf Shamas
+    - 11.1:
+        non_striker: Sadaf Shamas
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: Muneeba Ali
+    - 11.2:
+        non_striker: Muneeba Ali
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.2'
+        batsman: Sadaf Shamas
+    - 11.3:
+        non_striker: Muneeba Ali
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: Sadaf Shamas
+    - 11.4:
+        non_striker: Sadaf Shamas
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.4'
+        batsman: Muneeba Ali
+    - 11.5:
+        non_striker: Sadaf Shamas
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.5'
+        batsman: Muneeba Ali
+    - 11.6:
+        non_striker: Sadaf Shamas
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Muneeba Ali
+    - 12.1:
+        non_striker: Sadaf Shamas
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: Muneeba Ali
+    - 12.2:
+        non_striker: Muneeba Ali
+        bowler: S Laomi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '12.2'
+        batsman: Sadaf Shamas
+    - 12.3:
+        non_striker: Sadaf Shamas
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: Muneeba Ali
+    - 12.4:
+        non_striker: Muneeba Ali
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: Sadaf Shamas
+        wicket:
+          player_out: Sadaf Shamas
+          fielders:
+          - P Maya
+          kind: caught
+    - 12.5:
+        non_striker: Muneeba Ali
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Fatima Sana
+    - 12.6:
+        non_striker: Muneeba Ali
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Fatima Sana
+        wicket:
+          player_out: Fatima Sana
+          kind: caught and bowled
+    - 13.1:
+        non_striker: Umm-e-Hani
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: Muneeba Ali
+    - 13.2:
+        non_striker: Umm-e-Hani
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: Muneeba Ali
+    - 13.3:
+        non_striker: Muneeba Ali
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: Umm-e-Hani
+    - 13.4:
+        non_striker: Muneeba Ali
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: Umm-e-Hani
+    - 13.5:
+        non_striker: Umm-e-Hani
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Muneeba Ali
+    - 13.6:
+        non_striker: Umm-e-Hani
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Muneeba Ali
+    - 14.1:
+        non_striker: Umm-e-Hani
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: Muneeba Ali
+    - 14.2:
+        non_striker: Muneeba Ali
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: Umm-e-Hani
+    - 14.3:
+        non_striker: Umm-e-Hani
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: Muneeba Ali
+    - 14.4:
+        non_striker: Muneeba Ali
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: Umm-e-Hani
+    - 14.5:
+        non_striker: Muneeba Ali
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: Umm-e-Hani
+    - 14.6:
+        non_striker: Umm-e-Hani
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: Muneeba Ali
+    - 15.1:
+        non_striker: Umm-e-Hani
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: Muneeba Ali
+    - 15.2:
+        non_striker: Umm-e-Hani
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: Muneeba Ali
+    - 15.3:
+        non_striker: Muneeba Ali
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: Umm-e-Hani
+    - 15.4:
+        non_striker: Umm-e-Hani
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: Muneeba Ali
+    - 15.5:
+        non_striker: Muneeba Ali
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: Umm-e-Hani
+    - 15.6:
+        non_striker: Muneeba Ali
+        bowler: O Kamchomphu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: Umm-e-Hani
+    - 16.1:
+        non_striker: Umm-e-Hani
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: Muneeba Ali
+    - 16.2:
+        non_striker: Muneeba Ali
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: Umm-e-Hani
+    - 16.3:
+        non_striker: Umm-e-Hani
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: Muneeba Ali
+    - 16.4:
+        non_striker: Umm-e-Hani
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: Muneeba Ali
+        wicket:
+          player_out: Muneeba Ali
+          fielders:
+          - N Koncharoenkai
+          kind: stumped
+    - 16.5:
+        non_striker: Umm-e-Hani
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: Eyman Fatima
+    - 16.6:
+        non_striker: Umm-e-Hani
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: Eyman Fatima
+    - 17.1:
+        non_striker: Eyman Fatima
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: Umm-e-Hani
+    - 17.2:
+        non_striker: Umm-e-Hani
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: Eyman Fatima
+    - 17.3:
+        non_striker: Umm-e-Hani
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: Eyman Fatima
+    - 17.4:
+        non_striker: Eyman Fatima
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: Umm-e-Hani
+    - 17.5:
+        non_striker: Umm-e-Hani
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: Eyman Fatima
+        wicket:
+          player_out: Eyman Fatima
+          fielders:
+          - P Maya
+          kind: caught
+    - 17.6:
+        non_striker: Umm-e-Hani
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.6'
+        batsman: Tuba Hassan
+    - 18.1:
+        non_striker: Tuba Hassan
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.1'
+        batsman: Umm-e-Hani
+    - 18.2:
+        non_striker: Tuba Hassan
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.2'
+        batsman: Umm-e-Hani
+    - 18.3:
+        non_striker: Tuba Hassan
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.3'
+        batsman: Umm-e-Hani
+    - 18.4:
+        non_striker: Tuba Hassan
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: Umm-e-Hani
+        wicket:
+          player_out: Umm-e-Hani
+          kind: caught and bowled
+    - 18.5:
+        non_striker: Tuba Hassan
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.5'
+        batsman: Nashra Sandhu
+    - 18.6:
+        non_striker: Tuba Hassan
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: Nashra Sandhu
+    - 19.1:
+        non_striker: Tuba Hassan
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.1'
+        batsman: Nashra Sandhu
+    - 19.2:
+        non_striker: Tuba Hassan
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: Nashra Sandhu
+        wicket:
+          player_out: Nashra Sandhu
+          kind: bowled
+    - 19.3:
+        non_striker: Tuba Hassan
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.3'
+        batsman: Sadia Iqbal
+    - 19.4:
+        non_striker: Sadia Iqbal
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: Tuba Hassan
+    - 19.5:
+        non_striker: Sadia Iqbal
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.5'
+        batsman: Tuba Hassan
+    - 19.6:
+        non_striker: Sadia Iqbal
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.6'
+        batsman: Tuba Hassan
+- 2nd innings:
+    team: Thailand
+    deliveries:
+    - 0.1:
+        non_striker: P Maya
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.1'
+        batsman: N Chantam
+    - 0.2:
+        non_striker: N Chantam
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '0.2'
+        batsman: P Maya
+    - 0.3:
+        non_striker: P Maya
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: N Chantam
+    - 0.4:
+        non_striker: N Chantam
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: P Maya
+    - 0.5:
+        non_striker: N Chantam
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: P Maya
+    - 0.6:
+        non_striker: P Maya
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: N Chantam
+    - 1.1:
+        non_striker: N Chantam
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: P Maya
+    - 1.2:
+        non_striker: N Chantam
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: P Maya
+        wicket:
+          player_out: P Maya
+          kind: bowled
+    - 1.3:
+        non_striker: N Chantam
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: N Koncharoenkai
+    - 1.4:
+        non_striker: N Chantam
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: N Koncharoenkai
+    - 1.5:
+        non_striker: N Chantam
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: N Koncharoenkai
+    - 1.6:
+        non_striker: N Chantam
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: N Koncharoenkai
+        wicket:
+          player_out: N Koncharoenkai
+          fielders:
+          - Eyman Fatima
+          kind: caught
+    - 2.1:
+        non_striker: N Chaiwai
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: N Chantam
+    - 2.2:
+        non_striker: N Chaiwai
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: N Chantam
+    - 2.3:
+        non_striker: N Chaiwai
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: N Chantam
+    - 2.4:
+        non_striker: N Chaiwai
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: N Chantam
+    - 2.5:
+        non_striker: N Chantam
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: N Chaiwai
+    - 2.6:
+        non_striker: N Chantam
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: N Chaiwai
+    - 3.1:
+        non_striker: N Chaiwai
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.1'
+        batsman: N Chantam
+    - 3.2:
+        non_striker: N Chaiwai
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: N Chantam
+    - 3.3:
+        non_striker: N Chaiwai
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: N Chantam
+    - 3.4:
+        non_striker: N Chaiwai
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: N Chantam
+    - 3.5:
+        non_striker: N Chaiwai
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: N Chantam
+    - 3.6:
+        non_striker: N Chaiwai
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: N Chantam
+    - 4.1:
+        non_striker: N Chantam
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: N Chaiwai
+    - 4.2:
+        non_striker: N Chaiwai
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: N Chantam
+    - 4.3:
+        non_striker: N Chaiwai
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: N Chantam
+    - 4.4:
+        non_striker: N Chantam
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: N Chaiwai
+    - 4.5:
+        non_striker: N Chantam
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: N Chaiwai
+    - 4.6:
+        non_striker: N Chaiwai
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.6'
+        batsman: N Chantam
+    - 5.1:
+        non_striker: N Chantam
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: N Chaiwai
+    - 5.2:
+        non_striker: N Chantam
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: N Chaiwai
+    - 5.3:
+        non_striker: N Chaiwai
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: N Chantam
+    - 5.4:
+        non_striker: N Chaiwai
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: N Chantam
+    - 5.5:
+        non_striker: N Chaiwai
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: N Chantam
+    - 5.6:
+        non_striker: N Chantam
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: N Chaiwai
+    - 6.1:
+        non_striker: N Chaiwai
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '6.1'
+        batsman: N Chantam
+    - 6.2:
+        non_striker: N Chantam
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: N Chaiwai
+    - 6.3:
+        non_striker: N Chantam
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: N Chaiwai
+    - 6.4:
+        non_striker: N Chantam
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: N Chaiwai
+    - 6.5:
+        non_striker: N Chaiwai
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: N Chantam
+    - 6.6:
+        non_striker: N Chaiwai
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: N Chantam
+    - 7.1:
+        non_striker: N Chantam
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: N Chaiwai
+    - 7.2:
+        non_striker: N Chantam
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: N Chaiwai
+    - 7.3:
+        non_striker: N Chantam
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: N Chaiwai
+    - 7.4:
+        non_striker: N Chantam
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: N Chaiwai
+    - 7.5:
+        non_striker: N Chantam
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: N Chaiwai
+    - 7.6:
+        non_striker: N Chaiwai
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: N Chantam
+    - 8.1:
+        non_striker: N Chantam
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.1'
+        batsman: N Chaiwai
+    - 8.2:
+        non_striker: N Chantam
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: N Chaiwai
+    - 8.3:
+        non_striker: N Chantam
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: N Chaiwai
+    - 8.4:
+        non_striker: N Chantam
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: N Chaiwai
+    - 8.5:
+        non_striker: N Chantam
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: N Chaiwai
+    - 8.6:
+        non_striker: N Chaiwai
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: N Chantam
+    - 9.1:
+        non_striker: N Chantam
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: N Chaiwai
+    - 9.2:
+        non_striker: N Chaiwai
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: N Chantam
+    - 9.3:
+        non_striker: N Chaiwai
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: N Chantam
+    - 9.4:
+        non_striker: N Chaiwai
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: N Chantam
+        wicket:
+          player_out: N Chantam
+          kind: bowled
+    - 9.5:
+        non_striker: N Chaiwai
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: A Suwanchonrathi
+    - 9.6:
+        non_striker: N Chaiwai
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: A Suwanchonrathi
+    - 10.1:
+        non_striker: A Suwanchonrathi
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: N Chaiwai
+    - 10.2:
+        non_striker: A Suwanchonrathi
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: N Chaiwai
+    - 10.3:
+        non_striker: A Suwanchonrathi
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: N Chaiwai
+    - 10.4:
+        non_striker: N Chaiwai
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: A Suwanchonrathi
+    - 10.5:
+        non_striker: N Chaiwai
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: A Suwanchonrathi
+    - 10.6:
+        non_striker: N Chaiwai
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: A Suwanchonrathi
+    - 11.1:
+        non_striker: A Suwanchonrathi
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: N Chaiwai
+    - 11.2:
+        non_striker: A Suwanchonrathi
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: N Chaiwai
+    - 11.3:
+        non_striker: A Suwanchonrathi
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: N Chaiwai
+    - 11.4:
+        non_striker: A Suwanchonrathi
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: N Chaiwai
+    - 11.5:
+        non_striker: A Suwanchonrathi
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: N Chaiwai
+    - 11.6:
+        non_striker: A Suwanchonrathi
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: N Chaiwai
+    - 12.1:
+        non_striker: N Chaiwai
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: A Suwanchonrathi
+    - 12.2:
+        non_striker: A Suwanchonrathi
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: N Chaiwai
+    - 12.3:
+        non_striker: N Chaiwai
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: A Suwanchonrathi
+    - 12.4:
+        non_striker: A Suwanchonrathi
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: N Chaiwai
+        wicket:
+          player_out: N Chaiwai
+          fielders:
+          - Ayesha Zafar
+          kind: caught
+    - 12.5:
+        non_striker: A Suwanchonrathi
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: C Sutthiruang
+    - 12.6:
+        non_striker: C Sutthiruang
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.6'
+        batsman: A Suwanchonrathi
+    - 13.1:
+        non_striker: A Suwanchonrathi
+        bowler: Umm-e-Hani
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        actual_delivery: '13.1'
+        batsman: C Sutthiruang
+    - 13.2:
+        non_striker: A Suwanchonrathi
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: C Sutthiruang
+    - 13.3:
+        non_striker: A Suwanchonrathi
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: C Sutthiruang
+    - 13.4:
+        non_striker: A Suwanchonrathi
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: C Sutthiruang
+    - 13.5:
+        non_striker: A Suwanchonrathi
+        bowler: Umm-e-Hani
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '13.5'
+        batsman: C Sutthiruang
+    - 13.6:
+        non_striker: C Sutthiruang
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: A Suwanchonrathi
+    - 13.7:
+        non_striker: C Sutthiruang
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: A Suwanchonrathi
+    - 14.1:
+        non_striker: A Suwanchonrathi
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: C Sutthiruang
+    - 14.2:
+        non_striker: A Suwanchonrathi
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: C Sutthiruang
+    - 14.3:
+        non_striker: C Sutthiruang
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.3'
+        batsman: A Suwanchonrathi
+    - 14.4:
+        non_striker: C Sutthiruang
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.4'
+        batsman: A Suwanchonrathi
+    - 14.5:
+        non_striker: C Sutthiruang
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: A Suwanchonrathi
+    - 14.6:
+        non_striker: A Suwanchonrathi
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: C Sutthiruang
+    - 15.1:
+        non_striker: A Suwanchonrathi
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: C Sutthiruang
+    - 15.2:
+        non_striker: C Sutthiruang
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: A Suwanchonrathi
+    - 15.3:
+        non_striker: C Sutthiruang
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: A Suwanchonrathi
+    - 15.4:
+        non_striker: C Sutthiruang
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: A Suwanchonrathi
+    - 15.5:
+        non_striker: A Suwanchonrathi
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.5'
+        batsman: C Sutthiruang
+    - 15.6:
+        non_striker: A Suwanchonrathi
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: C Sutthiruang
+    - 16.1:
+        non_striker: C Sutthiruang
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: A Suwanchonrathi
+    - 16.2:
+        non_striker: A Suwanchonrathi
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: C Sutthiruang
+    - 16.3:
+        non_striker: A Suwanchonrathi
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: C Sutthiruang
+    - 16.4:
+        non_striker: A Suwanchonrathi
+        bowler: Tuba Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '16.4'
+        batsman: C Sutthiruang
+    - 16.5:
+        non_striker: C Sutthiruang
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: A Suwanchonrathi
+        wicket:
+          player_out: A Suwanchonrathi
+          fielders:
+          - Muneeba Ali
+          kind: stumped
+    - 16.6:
+        non_striker: C Sutthiruang
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: NK Hamilton
+    - 17.1:
+        non_striker: NK Hamilton
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.1'
+        batsman: C Sutthiruang
+    - 17.2:
+        non_striker: NK Hamilton
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: C Sutthiruang
+    - 17.3:
+        non_striker: C Sutthiruang
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: NK Hamilton
+        wicket:
+          player_out: NK Hamilton
+          fielders:
+          - Tuba Hassan
+          kind: run out
+    - 17.4:
+        non_striker: S Laomi
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: C Sutthiruang
+    - 17.5:
+        non_striker: C Sutthiruang
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: S Laomi
+    - 17.6:
+        non_striker: S Laomi
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: C Sutthiruang
+    - 18.1:
+        non_striker: S Laomi
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.1'
+        batsman: C Sutthiruang
+    - 18.2:
+        non_striker: S Laomi
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: C Sutthiruang
+    - 18.3:
+        non_striker: C Sutthiruang
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: S Laomi
+        wicket:
+          player_out: S Laomi
+          kind: bowled
+    - 18.4:
+        non_striker: C Sutthiruang
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: S Chaturongrattana
+    - 18.5:
+        non_striker: C Sutthiruang
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: S Chaturongrattana
+    - 18.6:
+        non_striker: C Sutthiruang
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: S Chaturongrattana
+    - 19.1:
+        non_striker: C Sutthiruang
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: S Chaturongrattana
+    - 19.2:
+        non_striker: S Chaturongrattana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: C Sutthiruang
+    - 19.3:
+        non_striker: C Sutthiruang
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.3'
+        batsman: S Chaturongrattana
+    - 19.4:
+        non_striker: S Chaturongrattana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.4'
+        batsman: C Sutthiruang
+    - 19.5:
+        non_striker: S Chaturongrattana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.5'
+        batsman: C Sutthiruang
+    - 19.6:
+        non_striker: S Chaturongrattana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: C Sutthiruang
+        wicket:
+          player_out: C Sutthiruang
+          fielders:
+          - Sadaf Shamas
+          kind: caught
+    target:
+      overs: 20
+      runs: 120

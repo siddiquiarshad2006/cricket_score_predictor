@@ -1,0 +1,2477 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Episkopi
+  dates:
+  - '2026-06-20'
+  gender: female
+  match_type: T20
+  match_type_number: 2976
+  outcome:
+    winner: Cyprus
+    by:
+      runs: 51
+  overs: 20
+  player_of_match:
+  - I Chathurani
+  players:
+    Cyprus:
+    - A Dirannehelage
+    - S Jayakodi
+    - I Chathurani
+    - D Koralalage
+    - Dilini Ishara
+    - T De Silva
+    - C Wijesinghe
+    - S Dunukedeniya
+    - N Liyanage
+    - S Arachchige
+    - Nilusha Waruwangodage
+    Malta:
+    - Likitha Yadav
+    - TRR Sharfudheen
+    - N De Bromhead
+    - A Rameshan
+    - Silda Joy
+    - SM Don
+    - SM Arooja
+    - Susan George
+    - RT Raghavan
+    - S Coelho
+    - S Bandeva
+  registry:
+    people:
+      A Dirannehelage: '039168c7'
+      A Rameshan: f0f9d832
+      C Wijesinghe: db86ac96
+      D Koralalage: 5e6041a4
+      Dilini Ishara: f45efeca
+      I Chathurani: '85364088'
+      Likitha Yadav: 1a9a6b15
+      N De Bromhead: a8ac7250
+      N Liyanage: 2ee5997e
+      Nilusha Waruwangodage: aa655cd5
+      RT Raghavan: 4622d730
+      S Arachchige: e6681f88
+      S Bandeva: c9b3394c
+      S Coelho: 821d2ff6
+      S Dunukedeniya: 3134e4a4
+      S Jayakodi: 64875d5c
+      SM Arooja: 59decd79
+      SM Don: eb96bc06
+      Silda Joy: dec85af5
+      Susan George: 55f13cf4
+      T De Silva: '31821596'
+      TRR Sharfudheen: 8a5b0066
+  team_type: international
+  teams:
+  - Cyprus
+  - Malta
+  toss:
+    winner: Malta
+    decision: field
+  venue: Happy Valley Ground
+innings:
+- 1st innings:
+    team: Cyprus
+    deliveries:
+    - 0.1:
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Jayakodi
+        actual_delivery: '0.1'
+        batsman: A Dirannehelage
+    - 0.2:
+        bowler: Likitha Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: S Jayakodi
+        actual_delivery: '0.2'
+        batsman: A Dirannehelage
+    - 0.3:
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Jayakodi
+        actual_delivery: '0.2'
+        batsman: A Dirannehelage
+    - 0.4:
+        bowler: Likitha Yadav
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: S Jayakodi
+        actual_delivery: '0.3'
+        batsman: A Dirannehelage
+    - 0.5:
+        non_striker: A Dirannehelage
+        bowler: Likitha Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '0.3'
+        batsman: S Jayakodi
+    - 0.6:
+        non_striker: S Jayakodi
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: A Dirannehelage
+        wicket:
+          player_out: A Dirannehelage
+          fielders:
+          - A Rameshan
+          kind: caught
+    - 0.7:
+        non_striker: S Jayakodi
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: I Chathurani
+    - 0.8:
+        non_striker: S Jayakodi
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.6'
+        batsman: I Chathurani
+    - 1.1:
+        non_striker: I Chathurani
+        bowler: N De Bromhead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: S Jayakodi
+    - 1.2:
+        non_striker: I Chathurani
+        bowler: N De Bromhead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: S Jayakodi
+    - 1.3:
+        non_striker: S Jayakodi
+        bowler: N De Bromhead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: I Chathurani
+    - 1.4:
+        non_striker: S Jayakodi
+        bowler: N De Bromhead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: I Chathurani
+    - 1.5:
+        non_striker: I Chathurani
+        bowler: N De Bromhead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: S Jayakodi
+    - 1.6:
+        non_striker: S Jayakodi
+        bowler: N De Bromhead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: I Chathurani
+    - 2.1:
+        non_striker: S Jayakodi
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: I Chathurani
+    - 2.2:
+        non_striker: I Chathurani
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: S Jayakodi
+        wicket:
+          player_out: S Jayakodi
+          kind: bowled
+    - 2.3:
+        non_striker: I Chathurani
+        bowler: Likitha Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.3'
+        batsman: D Koralalage
+    - 2.4:
+        non_striker: I Chathurani
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: D Koralalage
+    - 2.5:
+        non_striker: I Chathurani
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: D Koralalage
+    - 2.6:
+        non_striker: D Koralalage
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: I Chathurani
+    - 2.7:
+        non_striker: I Chathurani
+        bowler: Likitha Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.6'
+        batsman: D Koralalage
+    - 2.8:
+        non_striker: I Chathurani
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: D Koralalage
+    - 3.1:
+        non_striker: D Koralalage
+        bowler: N De Bromhead
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.1'
+        batsman: I Chathurani
+    - 3.2:
+        non_striker: D Koralalage
+        bowler: N De Bromhead
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.2'
+        batsman: I Chathurani
+    - 3.3:
+        non_striker: D Koralalage
+        bowler: N De Bromhead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: I Chathurani
+    - 3.4:
+        non_striker: D Koralalage
+        bowler: N De Bromhead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: I Chathurani
+    - 3.5:
+        non_striker: D Koralalage
+        bowler: N De Bromhead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: I Chathurani
+    - 3.6:
+        non_striker: D Koralalage
+        bowler: N De Bromhead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: I Chathurani
+        wicket:
+          player_out: D Koralalage
+          fielders:
+          - SM Don
+          kind: run out
+    - 4.1:
+        non_striker: I Chathurani
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: Dilini Ishara
+    - 4.2:
+        non_striker: I Chathurani
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: Dilini Ishara
+    - 4.3:
+        non_striker: I Chathurani
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: Dilini Ishara
+    - 4.4:
+        non_striker: I Chathurani
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: Dilini Ishara
+    - 4.5:
+        non_striker: I Chathurani
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Dilini Ishara
+    - 4.6:
+        non_striker: I Chathurani
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Dilini Ishara
+    - 5.1:
+        non_striker: Dilini Ishara
+        bowler: N De Bromhead
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.1'
+        batsman: I Chathurani
+    - 5.2:
+        non_striker: Dilini Ishara
+        bowler: N De Bromhead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: I Chathurani
+    - 5.3:
+        non_striker: I Chathurani
+        bowler: N De Bromhead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: Dilini Ishara
+    - 5.4:
+        non_striker: I Chathurani
+        bowler: N De Bromhead
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.4'
+        batsman: Dilini Ishara
+    - 5.5:
+        non_striker: I Chathurani
+        bowler: N De Bromhead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: Dilini Ishara
+    - 5.6:
+        non_striker: Dilini Ishara
+        bowler: N De Bromhead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: I Chathurani
+    - 5.7:
+        non_striker: I Chathurani
+        bowler: N De Bromhead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Dilini Ishara
+    - 6.1:
+        non_striker: Dilini Ishara
+        bowler: Silda Joy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.1'
+        batsman: I Chathurani
+    - 6.2:
+        non_striker: Dilini Ishara
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: I Chathurani
+    - 6.3:
+        non_striker: I Chathurani
+        bowler: Silda Joy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.2'
+        batsman: Dilini Ishara
+    - 6.4:
+        non_striker: I Chathurani
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: Dilini Ishara
+    - 6.5:
+        non_striker: Dilini Ishara
+        bowler: Silda Joy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.3'
+        batsman: I Chathurani
+    - 6.6:
+        non_striker: Dilini Ishara
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: I Chathurani
+    - 6.7:
+        non_striker: Dilini Ishara
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: I Chathurani
+    - 6.8:
+        non_striker: Dilini Ishara
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: I Chathurani
+    - 6.9:
+        non_striker: I Chathurani
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: Dilini Ishara
+    - 7.1:
+        non_striker: Dilini Ishara
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: I Chathurani
+    - 7.2:
+        non_striker: Dilini Ishara
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: I Chathurani
+    - 7.3:
+        non_striker: Dilini Ishara
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: I Chathurani
+    - 7.4:
+        non_striker: Dilini Ishara
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: I Chathurani
+    - 7.5:
+        non_striker: I Chathurani
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: Dilini Ishara
+    - 7.6:
+        non_striker: Dilini Ishara
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: I Chathurani
+    - 8.1:
+        non_striker: I Chathurani
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: Dilini Ishara
+    - 8.2:
+        non_striker: Dilini Ishara
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: I Chathurani
+    - 8.3:
+        non_striker: Dilini Ishara
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: I Chathurani
+    - 8.4:
+        non_striker: Dilini Ishara
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: I Chathurani
+    - 8.5:
+        non_striker: I Chathurani
+        bowler: Silda Joy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.5'
+        batsman: Dilini Ishara
+    - 8.6:
+        non_striker: I Chathurani
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: Dilini Ishara
+        wicket:
+          player_out: Dilini Ishara
+          fielders:
+          - Likitha Yadav
+          kind: caught
+    - 8.7:
+        non_striker: I Chathurani
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: T De Silva
+    - 9.1:
+        non_striker: T De Silva
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: I Chathurani
+    - 9.2:
+        non_striker: T De Silva
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: I Chathurani
+    - 9.3:
+        non_striker: T De Silva
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: I Chathurani
+    - 9.4:
+        non_striker: T De Silva
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: I Chathurani
+    - 9.5:
+        non_striker: T De Silva
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: I Chathurani
+    - 9.6:
+        non_striker: T De Silva
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.6'
+        batsman: I Chathurani
+    - 10.1:
+        non_striker: I Chathurani
+        bowler: SM Don
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.1'
+        batsman: T De Silva
+    - 10.2:
+        non_striker: I Chathurani
+        bowler: SM Don
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: T De Silva
+    - 10.3:
+        non_striker: I Chathurani
+        bowler: SM Don
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.2'
+        batsman: T De Silva
+    - 10.4:
+        non_striker: I Chathurani
+        bowler: SM Don
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: T De Silva
+    - 10.5:
+        non_striker: I Chathurani
+        bowler: SM Don
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: T De Silva
+        wicket:
+          player_out: T De Silva
+          fielders:
+          - N De Bromhead
+          kind: caught
+    - 10.6:
+        non_striker: I Chathurani
+        bowler: SM Don
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '10.4'
+        batsman: C Wijesinghe
+    - 10.7:
+        non_striker: I Chathurani
+        bowler: SM Don
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.4'
+        batsman: C Wijesinghe
+    - 10.8:
+        non_striker: I Chathurani
+        bowler: SM Don
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: C Wijesinghe
+    - 10.9:
+        non_striker: I Chathurani
+        bowler: SM Don
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: C Wijesinghe
+    - 10.10:
+        non_striker: I Chathurani
+        bowler: SM Don
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.6'
+        batsman: C Wijesinghe
+    - 11.1:
+        non_striker: C Wijesinghe
+        bowler: Susan George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: I Chathurani
+    - 11.2:
+        non_striker: I Chathurani
+        bowler: Susan George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: C Wijesinghe
+    - 11.3:
+        non_striker: I Chathurani
+        bowler: Susan George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: C Wijesinghe
+    - 11.4:
+        non_striker: I Chathurani
+        bowler: Susan George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: C Wijesinghe
+    - 11.5:
+        non_striker: I Chathurani
+        bowler: Susan George
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '11.5'
+        batsman: C Wijesinghe
+    - 11.6:
+        non_striker: I Chathurani
+        bowler: Susan George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: C Wijesinghe
+    - 11.7:
+        non_striker: I Chathurani
+        bowler: Susan George
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.6'
+        batsman: C Wijesinghe
+    - 11.8:
+        non_striker: I Chathurani
+        bowler: Susan George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: C Wijesinghe
+    - 12.1:
+        non_striker: I Chathurani
+        bowler: SM Don
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.1'
+        batsman: C Wijesinghe
+    - 12.2:
+        non_striker: I Chathurani
+        bowler: SM Don
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: C Wijesinghe
+    - 12.3:
+        non_striker: I Chathurani
+        bowler: SM Don
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: C Wijesinghe
+    - 12.4:
+        non_striker: I Chathurani
+        bowler: SM Don
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: C Wijesinghe
+    - 12.5:
+        non_striker: I Chathurani
+        bowler: SM Don
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: C Wijesinghe
+    - 12.6:
+        non_striker: C Wijesinghe
+        bowler: SM Don
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.5'
+        batsman: I Chathurani
+    - 12.7:
+        non_striker: C Wijesinghe
+        bowler: SM Don
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: I Chathurani
+    - 13.1:
+        non_striker: I Chathurani
+        bowler: Susan George
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: C Wijesinghe
+    - 13.2:
+        non_striker: I Chathurani
+        bowler: Susan George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: C Wijesinghe
+    - 13.3:
+        non_striker: C Wijesinghe
+        bowler: Susan George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: I Chathurani
+    - 13.4:
+        non_striker: I Chathurani
+        bowler: Susan George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: C Wijesinghe
+    - 13.5:
+        non_striker: C Wijesinghe
+        bowler: Susan George
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.5'
+        batsman: I Chathurani
+    - 13.6:
+        non_striker: C Wijesinghe
+        bowler: Susan George
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.6'
+        batsman: I Chathurani
+    - 14.1:
+        non_striker: I Chathurani
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: C Wijesinghe
+    - 14.2:
+        non_striker: C Wijesinghe
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: I Chathurani
+    - 14.3:
+        non_striker: C Wijesinghe
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: I Chathurani
+        wicket:
+          player_out: I Chathurani
+          fielders:
+          - N De Bromhead
+          kind: caught
+    - 14.4:
+        non_striker: C Wijesinghe
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: S Dunukedeniya
+    - 14.5:
+        non_striker: C Wijesinghe
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.5'
+        batsman: S Dunukedeniya
+    - 14.6:
+        non_striker: C Wijesinghe
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: S Dunukedeniya
+    - 15.1:
+        non_striker: C Wijesinghe
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: S Dunukedeniya
+    - 15.2:
+        non_striker: C Wijesinghe
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: S Dunukedeniya
+    - 15.3:
+        non_striker: S Dunukedeniya
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: C Wijesinghe
+        wicket:
+          player_out: C Wijesinghe
+          kind: lbw
+    - 15.4:
+        non_striker: S Dunukedeniya
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: N Liyanage
+    - 15.5:
+        non_striker: N Liyanage
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: S Dunukedeniya
+    - 15.6:
+        non_striker: N Liyanage
+        bowler: A Rameshan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.6'
+        batsman: S Dunukedeniya
+    - 15.7:
+        non_striker: N Liyanage
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: S Dunukedeniya
+    - 16.1:
+        non_striker: N Liyanage
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: S Dunukedeniya
+    - 16.2:
+        non_striker: N Liyanage
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: S Dunukedeniya
+    - 16.3:
+        non_striker: N Liyanage
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: S Dunukedeniya
+    - 16.4:
+        non_striker: N Liyanage
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: S Dunukedeniya
+    - 16.5:
+        non_striker: N Liyanage
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: S Dunukedeniya
+    - 16.6:
+        non_striker: N Liyanage
+        bowler: Silda Joy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: S Dunukedeniya
+        wicket:
+          player_out: S Dunukedeniya
+          kind: bowled
+    - 17.1:
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Arachchige
+        actual_delivery: '17.1'
+        batsman: N Liyanage
+    - 17.2:
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Arachchige
+        actual_delivery: '17.2'
+        batsman: N Liyanage
+    - 17.3:
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Arachchige
+        actual_delivery: '17.3'
+        batsman: N Liyanage
+    - 17.4:
+        non_striker: N Liyanage
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: S Arachchige
+    - 17.5:
+        non_striker: S Arachchige
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: N Liyanage
+        wicket:
+          player_out: N Liyanage
+          kind: bowled
+    - 17.6:
+        non_striker: S Arachchige
+        bowler: A Rameshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: Nilusha Waruwangodage
+    - 18.1:
+        non_striker: Nilusha Waruwangodage
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: S Arachchige
+    - 18.2:
+        non_striker: Nilusha Waruwangodage
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: S Arachchige
+    - 18.3:
+        non_striker: S Arachchige
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: Nilusha Waruwangodage
+    - 18.4:
+        non_striker: S Arachchige
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: Nilusha Waruwangodage
+    - 18.5:
+        non_striker: S Arachchige
+        bowler: Likitha Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.5'
+        batsman: Nilusha Waruwangodage
+    - 18.6:
+        non_striker: S Arachchige
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: Nilusha Waruwangodage
+    - 18.7:
+        non_striker: S Arachchige
+        bowler: Likitha Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.6'
+        batsman: Nilusha Waruwangodage
+    - 18.8:
+        non_striker: S Arachchige
+        bowler: Likitha Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: Nilusha Waruwangodage
+    - 19.1:
+        non_striker: Nilusha Waruwangodage
+        bowler: SM Don
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.1'
+        batsman: S Arachchige
+    - 19.2:
+        non_striker: Nilusha Waruwangodage
+        bowler: SM Don
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: S Arachchige
+    - 19.3:
+        non_striker: S Arachchige
+        bowler: SM Don
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: Nilusha Waruwangodage
+    - 19.4:
+        non_striker: S Arachchige
+        bowler: SM Don
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.3'
+        batsman: Nilusha Waruwangodage
+    - 19.5:
+        non_striker: S Arachchige
+        bowler: SM Don
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.3'
+        batsman: Nilusha Waruwangodage
+    - 19.6:
+        non_striker: S Arachchige
+        bowler: SM Don
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: Nilusha Waruwangodage
+    - 19.7:
+        non_striker: S Arachchige
+        bowler: SM Don
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: Nilusha Waruwangodage
+    - 19.8:
+        non_striker: S Arachchige
+        bowler: SM Don
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.5'
+        batsman: Nilusha Waruwangodage
+    - 19.9:
+        non_striker: Nilusha Waruwangodage
+        bowler: SM Don
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.6'
+        batsman: S Arachchige
+    - 19.10:
+        non_striker: Nilusha Waruwangodage
+        bowler: SM Don
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: S Arachchige
+- 2nd innings:
+    team: Malta
+    deliveries:
+    - 0.1:
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TRR Sharfudheen
+        actual_delivery: '0.1'
+        batsman: Likitha Yadav
+    - 0.2:
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TRR Sharfudheen
+        actual_delivery: '0.2'
+        batsman: Likitha Yadav
+    - 0.3:
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TRR Sharfudheen
+        actual_delivery: '0.3'
+        batsman: Likitha Yadav
+    - 0.4:
+        bowler: D Koralalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: TRR Sharfudheen
+        actual_delivery: '0.4'
+        batsman: Likitha Yadav
+    - 0.5:
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TRR Sharfudheen
+        actual_delivery: '0.4'
+        batsman: Likitha Yadav
+    - 0.6:
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TRR Sharfudheen
+        actual_delivery: '0.5'
+        batsman: Likitha Yadav
+    - 0.7:
+        non_striker: TRR Sharfudheen
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Likitha Yadav
+    - 1.1:
+        non_striker: Likitha Yadav
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: TRR Sharfudheen
+    - 1.2:
+        non_striker: TRR Sharfudheen
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: Likitha Yadav
+        wicket:
+          player_out: Likitha Yadav
+          kind: bowled
+    - 1.3:
+        non_striker: TRR Sharfudheen
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: N De Bromhead
+    - 1.4:
+        non_striker: TRR Sharfudheen
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: N De Bromhead
+    - 1.5:
+        non_striker: N De Bromhead
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: TRR Sharfudheen
+        wicket:
+          player_out: TRR Sharfudheen
+          kind: bowled
+    - 1.6:
+        non_striker: N De Bromhead
+        bowler: S Dunukedeniya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.6'
+        batsman: A Rameshan
+    - 1.7:
+        non_striker: N De Bromhead
+        bowler: S Dunukedeniya
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '1.6'
+        batsman: A Rameshan
+    - 1.8:
+        non_striker: A Rameshan
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: N De Bromhead
+    - 2.1:
+        non_striker: N De Bromhead
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: A Rameshan
+    - 2.2:
+        non_striker: N De Bromhead
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: A Rameshan
+    - 2.3:
+        non_striker: N De Bromhead
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: A Rameshan
+    - 2.4:
+        non_striker: N De Bromhead
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: A Rameshan
+    - 2.5:
+        non_striker: A Rameshan
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: N De Bromhead
+    - 2.6:
+        non_striker: A Rameshan
+        bowler: D Koralalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: N De Bromhead
+    - 3.1:
+        non_striker: N De Bromhead
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: A Rameshan
+    - 3.2:
+        non_striker: N De Bromhead
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: A Rameshan
+        wicket:
+          player_out: A Rameshan
+          fielders:
+          - T De Silva
+          kind: caught
+    - 3.3:
+        non_striker: N De Bromhead
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Silda Joy
+    - 3.4:
+        non_striker: N De Bromhead
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Silda Joy
+    - 3.5:
+        non_striker: N De Bromhead
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Silda Joy
+    - 3.6:
+        non_striker: N De Bromhead
+        bowler: S Dunukedeniya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '3.6'
+        batsman: Silda Joy
+    - 3.7:
+        non_striker: N De Bromhead
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Silda Joy
+    - 4.1:
+        non_striker: Silda Joy
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: N De Bromhead
+    - 4.2:
+        non_striker: N De Bromhead
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: Silda Joy
+        wicket:
+          player_out: Silda Joy
+          kind: bowled
+    - 4.3:
+        non_striker: N De Bromhead
+        bowler: A Dirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.3'
+        batsman: SM Don
+    - 4.4:
+        non_striker: N De Bromhead
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: SM Don
+    - 4.5:
+        non_striker: N De Bromhead
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: SM Don
+    - 4.6:
+        non_striker: N De Bromhead
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: SM Don
+    - 4.7:
+        non_striker: N De Bromhead
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: SM Don
+    - 5.1:
+        non_striker: SM Don
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: N De Bromhead
+    - 5.2:
+        non_striker: SM Don
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: N De Bromhead
+    - 5.3:
+        non_striker: SM Don
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: N De Bromhead
+    - 5.4:
+        non_striker: SM Don
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: N De Bromhead
+        wicket:
+          player_out: N De Bromhead
+          kind: bowled
+    - 5.5:
+        non_striker: SM Don
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: SM Arooja
+    - 5.6:
+        non_striker: SM Arooja
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: SM Don
+    - 6.1:
+        non_striker: SM Don
+        bowler: A Dirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '6.1'
+        batsman: SM Arooja
+    - 6.2:
+        non_striker: SM Arooja
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: SM Don
+    - 6.3:
+        non_striker: SM Arooja
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: SM Don
+    - 6.4:
+        non_striker: SM Arooja
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: SM Don
+    - 6.5:
+        non_striker: SM Arooja
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: SM Don
+    - 6.6:
+        non_striker: SM Don
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: SM Arooja
+    - 7.1:
+        non_striker: SM Arooja
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.1'
+        batsman: SM Don
+    - 7.2:
+        non_striker: SM Arooja
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: SM Don
+    - 7.3:
+        non_striker: SM Don
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.3'
+        batsman: SM Arooja
+    - 7.4:
+        non_striker: SM Don
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.3'
+        batsman: SM Arooja
+    - 7.5:
+        non_striker: SM Don
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: SM Arooja
+        wicket:
+          player_out: SM Arooja
+          kind: bowled
+    - 7.6:
+        non_striker: SM Don
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: Susan George
+    - 7.7:
+        non_striker: Susan George
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: SM Don
+    - 7.8:
+        non_striker: Susan George
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: SM Don
+    - 8.1:
+        non_striker: SM Don
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Susan George
+    - 8.2:
+        non_striker: SM Don
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: Susan George
+    - 8.3:
+        non_striker: SM Don
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: Susan George
+    - 8.4:
+        non_striker: SM Don
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: Susan George
+    - 8.5:
+        non_striker: SM Don
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: Susan George
+    - 8.6:
+        non_striker: SM Don
+        bowler: A Dirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.6'
+        batsman: Susan George
+    - 8.7:
+        non_striker: SM Don
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Susan George
+    - 9.1:
+        non_striker: Susan George
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: SM Don
+    - 9.2:
+        non_striker: Susan George
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: SM Don
+    - 9.3:
+        non_striker: Susan George
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: SM Don
+    - 9.4:
+        non_striker: Susan George
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: SM Don
+    - 9.5:
+        non_striker: Susan George
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: SM Don
+    - 9.6:
+        non_striker: Susan George
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.6'
+        batsman: SM Don
+    - 9.7:
+        non_striker: Susan George
+        bowler: C Wijesinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.6'
+        batsman: SM Don
+    - 9.8:
+        non_striker: Susan George
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: SM Don
+    - 10.1:
+        non_striker: SM Don
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: Susan George
+    - 10.2:
+        non_striker: SM Don
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: Susan George
+    - 10.3:
+        non_striker: SM Don
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Susan George
+    - 10.4:
+        non_striker: Susan George
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.4'
+        batsman: SM Don
+    - 10.5:
+        non_striker: Susan George
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: SM Don
+    - 10.6:
+        non_striker: Susan George
+        bowler: A Dirannehelage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.6'
+        batsman: SM Don
+    - 10.7:
+        non_striker: Susan George
+        bowler: A Dirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: SM Don
+        wicket:
+          player_out: SM Don
+          kind: bowled
+    - 11.1:
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RT Raghavan
+        actual_delivery: '11.1'
+        batsman: Susan George
+    - 11.2:
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RT Raghavan
+        actual_delivery: '11.2'
+        batsman: Susan George
+    - 11.3:
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RT Raghavan
+        actual_delivery: '11.3'
+        batsman: Susan George
+    - 11.4:
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RT Raghavan
+        actual_delivery: '11.4'
+        batsman: Susan George
+    - 11.5:
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RT Raghavan
+        actual_delivery: '11.5'
+        batsman: Susan George
+    - 11.6:
+        non_striker: RT Raghavan
+        bowler: C Wijesinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: Susan George
+    - 12.1:
+        non_striker: Susan George
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: RT Raghavan
+    - 12.2:
+        non_striker: Susan George
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: RT Raghavan
+    - 12.3:
+        non_striker: Susan George
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: RT Raghavan
+    - 12.4:
+        non_striker: Susan George
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: RT Raghavan
+    - 12.5:
+        non_striker: Susan George
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: RT Raghavan
+    - 12.6:
+        non_striker: Susan George
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: RT Raghavan
+    - 13.1:
+        non_striker: RT Raghavan
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: Susan George
+    - 13.2:
+        non_striker: RT Raghavan
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: Susan George
+    - 13.3:
+        non_striker: RT Raghavan
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: Susan George
+    - 13.4:
+        non_striker: RT Raghavan
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Susan George
+    - 13.5:
+        non_striker: RT Raghavan
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Susan George
+    - 13.6:
+        non_striker: RT Raghavan
+        bowler: S Dunukedeniya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.6'
+        batsman: Susan George
+    - 13.7:
+        non_striker: RT Raghavan
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Susan George
+    - 14.1:
+        non_striker: RT Raghavan
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: Susan George
+        wicket:
+          player_out: Susan George
+          kind: caught and bowled
+    - 14.2:
+        non_striker: RT Raghavan
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: S Coelho
+    - 14.3:
+        non_striker: RT Raghavan
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: S Coelho
+    - 14.4:
+        non_striker: RT Raghavan
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: S Coelho
+        wicket:
+          player_out: S Coelho
+          kind: bowled
+    - 14.5:
+        non_striker: RT Raghavan
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: S Bandeva
+    - 14.6:
+        non_striker: RT Raghavan
+        bowler: I Chathurani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: S Bandeva
+    - 15.1:
+        non_striker: S Bandeva
+        bowler: S Dunukedeniya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.1'
+        batsman: RT Raghavan
+    - 15.2:
+        non_striker: S Bandeva
+        bowler: S Dunukedeniya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.1'
+        batsman: RT Raghavan
+    - 15.3:
+        non_striker: S Bandeva
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: RT Raghavan
+    - 15.4:
+        non_striker: S Bandeva
+        bowler: S Dunukedeniya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: RT Raghavan
+        wicket:
+          player_out: RT Raghavan
+          fielders:
+          - D Koralalage
+          kind: caught
+    target:
+      overs: 20
+      runs: 82

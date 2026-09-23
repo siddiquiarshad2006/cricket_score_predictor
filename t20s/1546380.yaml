@@ -1,0 +1,1991 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-07-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ilfov County
+  dates:
+  - '2026-07-26'
+  gender: male
+  match_type: T20
+  match_type_number: 4045
+  outcome:
+    winner: Romania
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - Taranjeet Singh
+  players:
+    Turkey:
+    - G Tuskan
+    - Serdar Burak Emir
+    - Mustafa Balkis
+    - Ibrahim Kursad Dalyan
+    - Furkan Tuskan
+    - Mertcan Donmez
+    - Muhammad Fahad
+    - Murat Yilmaz
+    - Omer Kutuk
+    - Mustafa Atmaca
+    - A Kanogullari
+    Romania:
+    - Taranjeet Singh
+    - Rohit Kumar
+    - Irfan Ringku
+    - V Saini
+    - Md Ariyan
+    - J Khadka
+    - Nazmus Sakib
+    - Shahab Alam
+    - G Sanjeewa
+    - S Nadigotla
+    - Umair Safi
+  registry:
+    people:
+      A Kanogullari: a6f365e7
+      Asad Ali: fd0758b9
+      Furkan Tuskan: 32009b6a
+      G Sanjeewa: 71d0fad3
+      G Tuskan: 0b22ec0f
+      Ibrahim Kursad Dalyan: f0f20cf8
+      Imran Haider: 1b8242f2
+      Irfan Ringku: fa0d1410
+      J Khadka: 191ee2f2
+      Md Ariyan: ff4805ee
+      Mertcan Donmez: fb5a5fe3
+      Muhammad Fahad: 3f778477
+      Murat Yilmaz: f2990906
+      Mustafa Atmaca: 76f168de
+      Mustafa Balkis: 55e6c23c
+      Nazmus Sakib: d3347684
+      Omer Kutuk: c9a05046
+      Rohit Kumar: '43462314'
+      S Nadigotla: b78b3ffd
+      Serdar Burak Emir: 6d9238ac
+      Shahab Alam: 1b09fbcf
+      Suleman Saeed: 60018b15
+      Taranjeet Singh: ec483176
+      Umair Safi: bcc12dab
+      V Saini: 0fa81719
+  team_type: international
+  teams:
+  - Turkey
+  - Romania
+  toss:
+    winner: Turkey
+    decision: bat
+  umpires:
+  - Imran Haider
+  - Suleman Saeed
+  venue: Moara Vlasiei Cricket Ground, Ilfov County
+innings:
+- 1st innings:
+    team: Turkey
+    deliveries:
+    - 0.1:
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Serdar Burak Emir
+        actual_delivery: '0.1'
+        batsman: G Tuskan
+    - 0.2:
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Serdar Burak Emir
+        actual_delivery: '0.2'
+        batsman: G Tuskan
+    - 0.3:
+        non_striker: G Tuskan
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: Serdar Burak Emir
+    - 0.4:
+        non_striker: G Tuskan
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: Serdar Burak Emir
+    - 0.5:
+        non_striker: Serdar Burak Emir
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: G Tuskan
+    - 0.6:
+        non_striker: Serdar Burak Emir
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: G Tuskan
+    - 1.1:
+        non_striker: G Tuskan
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: Serdar Burak Emir
+        wicket:
+          player_out: Serdar Burak Emir
+          kind: lbw
+    - 1.2:
+        non_striker: G Tuskan
+        bowler: G Sanjeewa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.2'
+        batsman: Mustafa Balkis
+    - 1.3:
+        non_striker: G Tuskan
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: Mustafa Balkis
+    - 1.4:
+        non_striker: Mustafa Balkis
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: G Tuskan
+    - 1.5:
+        non_striker: Mustafa Balkis
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: G Tuskan
+    - 1.6:
+        non_striker: G Tuskan
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Mustafa Balkis
+    - 1.7:
+        non_striker: G Tuskan
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: Mustafa Balkis
+    - 2.1:
+        non_striker: G Tuskan
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: Mustafa Balkis
+    - 2.2:
+        non_striker: Mustafa Balkis
+        bowler: Irfan Ringku
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '2.2'
+        batsman: G Tuskan
+    - 2.3:
+        non_striker: G Tuskan
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Mustafa Balkis
+    - 2.4:
+        non_striker: G Tuskan
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Mustafa Balkis
+    - 2.5:
+        non_striker: G Tuskan
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: Mustafa Balkis
+    - 2.6:
+        non_striker: G Tuskan
+        bowler: Irfan Ringku
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.6'
+        batsman: Mustafa Balkis
+    - 2.7:
+        non_striker: G Tuskan
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: Mustafa Balkis
+    - 3.1:
+        non_striker: G Tuskan
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.1'
+        batsman: Mustafa Balkis
+    - 3.2:
+        non_striker: G Tuskan
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Mustafa Balkis
+    - 3.3:
+        non_striker: G Tuskan
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Mustafa Balkis
+    - 3.4:
+        non_striker: G Tuskan
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: Mustafa Balkis
+    - 3.5:
+        non_striker: Mustafa Balkis
+        bowler: G Sanjeewa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.5'
+        batsman: G Tuskan
+    - 3.6:
+        non_striker: Mustafa Balkis
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: G Tuskan
+    - 3.7:
+        non_striker: Mustafa Balkis
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.6'
+        batsman: G Tuskan
+    - 4.1:
+        non_striker: G Tuskan
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: Mustafa Balkis
+    - 4.2:
+        non_striker: Mustafa Balkis
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: G Tuskan
+    - 4.3:
+        non_striker: Mustafa Balkis
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: G Tuskan
+    - 4.4:
+        non_striker: G Tuskan
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: Mustafa Balkis
+    - 4.5:
+        non_striker: G Tuskan
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Mustafa Balkis
+    - 4.6:
+        non_striker: G Tuskan
+        bowler: Irfan Ringku
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.6'
+        batsman: Mustafa Balkis
+    - 4.7:
+        non_striker: G Tuskan
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Mustafa Balkis
+    - 5.1:
+        non_striker: Mustafa Balkis
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: G Tuskan
+    - 5.2:
+        non_striker: G Tuskan
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.2'
+        batsman: Mustafa Balkis
+    - 5.3:
+        non_striker: G Tuskan
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: Mustafa Balkis
+    - 5.4:
+        non_striker: G Tuskan
+        bowler: G Sanjeewa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.4'
+        batsman: Mustafa Balkis
+    - 5.5:
+        non_striker: G Tuskan
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Mustafa Balkis
+    - 5.6:
+        non_striker: G Tuskan
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Mustafa Balkis
+    - 5.7:
+        non_striker: G Tuskan
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Mustafa Balkis
+    - 6.1:
+        non_striker: Mustafa Balkis
+        bowler: Umair Safi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '6.1'
+        batsman: G Tuskan
+    - 6.2:
+        non_striker: G Tuskan
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: Mustafa Balkis
+    - 6.3:
+        non_striker: G Tuskan
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Mustafa Balkis
+    - 6.4:
+        non_striker: G Tuskan
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Mustafa Balkis
+    - 6.5:
+        non_striker: G Tuskan
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Mustafa Balkis
+    - 6.6:
+        non_striker: G Tuskan
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: Mustafa Balkis
+    - 7.1:
+        non_striker: Mustafa Balkis
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: G Tuskan
+    - 7.2:
+        non_striker: G Tuskan
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: Mustafa Balkis
+    - 7.3:
+        non_striker: Mustafa Balkis
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: G Tuskan
+    - 7.4:
+        non_striker: G Tuskan
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: Mustafa Balkis
+    - 7.5:
+        non_striker: G Tuskan
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: Mustafa Balkis
+    - 7.6:
+        non_striker: G Tuskan
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.6'
+        batsman: Mustafa Balkis
+    - 8.1:
+        non_striker: Mustafa Balkis
+        bowler: Umair Safi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        actual_delivery: '8.1'
+        batsman: G Tuskan
+    - 8.2:
+        non_striker: Mustafa Balkis
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: G Tuskan
+    - 8.3:
+        non_striker: G Tuskan
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: Mustafa Balkis
+    - 8.4:
+        non_striker: G Tuskan
+        bowler: Umair Safi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.4'
+        batsman: Mustafa Balkis
+    - 8.5:
+        non_striker: G Tuskan
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: Mustafa Balkis
+    - 8.6:
+        non_striker: G Tuskan
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Mustafa Balkis
+    - 8.7:
+        non_striker: Mustafa Balkis
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: G Tuskan
+    - 9.1:
+        non_striker: Mustafa Balkis
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.1'
+        batsman: G Tuskan
+    - 9.2:
+        non_striker: Mustafa Balkis
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: G Tuskan
+    - 9.3:
+        non_striker: Mustafa Balkis
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: G Tuskan
+        wicket:
+          player_out: G Tuskan
+          kind: lbw
+    - 9.4:
+        non_striker: Mustafa Balkis
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: Ibrahim Kursad Dalyan
+    - 9.5:
+        non_striker: Mustafa Balkis
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: Ibrahim Kursad Dalyan
+    - 9.6:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: Mustafa Balkis
+    - 10.1:
+        non_striker: Mustafa Balkis
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: Ibrahim Kursad Dalyan
+    - 10.2:
+        non_striker: Mustafa Balkis
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: Ibrahim Kursad Dalyan
+    - 10.3:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Mustafa Balkis
+    - 10.4:
+        non_striker: Mustafa Balkis
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: Ibrahim Kursad Dalyan
+    - 10.5:
+        non_striker: Mustafa Balkis
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: Ibrahim Kursad Dalyan
+    - 10.6:
+        non_striker: Mustafa Balkis
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.6'
+        batsman: Ibrahim Kursad Dalyan
+    - 11.1:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: Mustafa Balkis
+    - 11.2:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: Mustafa Balkis
+        wicket:
+          player_out: Mustafa Balkis
+          kind: bowled
+    - 11.3:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: Furkan Tuskan
+        wicket:
+          player_out: Furkan Tuskan
+          kind: bowled
+    - 11.4:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: Mertcan Donmez
+    - 11.5:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Mertcan Donmez
+    - 11.6:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.6'
+        batsman: Mertcan Donmez
+    - 12.1:
+        non_striker: Mertcan Donmez
+        bowler: Umair Safi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.1'
+        batsman: Ibrahim Kursad Dalyan
+    - 12.2:
+        non_striker: Mertcan Donmez
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Ibrahim Kursad Dalyan
+    - 12.3:
+        non_striker: Mertcan Donmez
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: Ibrahim Kursad Dalyan
+    - 12.4:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: Mertcan Donmez
+    - 12.5:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: Mertcan Donmez
+    - 12.6:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Mertcan Donmez
+    - 12.7:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: Umair Safi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '12.6'
+        batsman: Mertcan Donmez
+    - 13.1:
+        non_striker: Mertcan Donmez
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: Ibrahim Kursad Dalyan
+    - 13.2:
+        non_striker: Mertcan Donmez
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: Ibrahim Kursad Dalyan
+    - 13.3:
+        non_striker: Mertcan Donmez
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Ibrahim Kursad Dalyan
+    - 13.4:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Mertcan Donmez
+    - 13.5:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Mertcan Donmez
+    - 13.6:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: Nazmus Sakib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: Mertcan Donmez
+    - 14.1:
+        non_striker: Mertcan Donmez
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.1'
+        batsman: Ibrahim Kursad Dalyan
+    - 14.2:
+        non_striker: Mertcan Donmez
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: Ibrahim Kursad Dalyan
+    - 14.3:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: Mertcan Donmez
+    - 14.4:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.4'
+        batsman: Mertcan Donmez
+    - 14.5:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: Mertcan Donmez
+    - 14.6:
+        non_striker: Mertcan Donmez
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: Ibrahim Kursad Dalyan
+    - 15.1:
+        non_striker: Mertcan Donmez
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: Ibrahim Kursad Dalyan
+    - 15.2:
+        non_striker: Mertcan Donmez
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.2'
+        batsman: Ibrahim Kursad Dalyan
+    - 15.3:
+        non_striker: Mertcan Donmez
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: Ibrahim Kursad Dalyan
+    - 15.4:
+        non_striker: Ibrahim Kursad Dalyan
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: Mertcan Donmez
+    - 15.5:
+        non_striker: Mertcan Donmez
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.5'
+        batsman: Ibrahim Kursad Dalyan
+    - 15.6:
+        non_striker: Mertcan Donmez
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: Ibrahim Kursad Dalyan
+    - 16.1:
+        non_striker: Mertcan Donmez
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.1'
+        batsman: Ibrahim Kursad Dalyan
+    - 16.2:
+        non_striker: Mertcan Donmez
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: Ibrahim Kursad Dalyan
+    - 16.3:
+        non_striker: Mertcan Donmez
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: Ibrahim Kursad Dalyan
+        wicket:
+          player_out: Ibrahim Kursad Dalyan
+          fielders:
+          - G Sanjeewa
+          kind: caught
+    - 16.4:
+        non_striker: Mertcan Donmez
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: Muhammad Fahad
+    - 16.5:
+        non_striker: Muhammad Fahad
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: Mertcan Donmez
+        wicket:
+          player_out: Mertcan Donmez
+          fielders:
+          - Shahab Alam
+          kind: caught
+    - 16.6:
+        non_striker: Muhammad Fahad
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: Murat Yilmaz
+    - 17.1:
+        non_striker: Muhammad Fahad
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: Murat Yilmaz
+        wicket:
+          player_out: Murat Yilmaz
+          fielders:
+          - S Nadigotla
+          kind: caught
+    - 17.2:
+        non_striker: Muhammad Fahad
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: Omer Kutuk
+    - 17.3:
+        non_striker: Omer Kutuk
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: Muhammad Fahad
+        wicket:
+          player_out: Muhammad Fahad
+          fielders:
+          - Rohit Kumar
+          kind: caught
+    - 17.4:
+        non_striker: Omer Kutuk
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: Mustafa Atmaca
+    - 17.5:
+        non_striker: Omer Kutuk
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: Mustafa Atmaca
+    - 17.6:
+        non_striker: Mustafa Atmaca
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: Omer Kutuk
+    - 18.1:
+        non_striker: Mustafa Atmaca
+        bowler: J Khadka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.1'
+        batsman: Omer Kutuk
+    - 18.2:
+        non_striker: Mustafa Atmaca
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: Omer Kutuk
+    - 18.3:
+        non_striker: Mustafa Atmaca
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: Omer Kutuk
+    - 18.4:
+        non_striker: Mustafa Atmaca
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: Omer Kutuk
+    - 18.5:
+        non_striker: Omer Kutuk
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: Mustafa Atmaca
+    - 18.6:
+        non_striker: Mustafa Atmaca
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: Omer Kutuk
+    - 18.7:
+        non_striker: Mustafa Atmaca
+        bowler: J Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: Omer Kutuk
+    - 19.1:
+        non_striker: Mustafa Atmaca
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.1'
+        batsman: Omer Kutuk
+    - 19.2:
+        non_striker: Mustafa Atmaca
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: Omer Kutuk
+    - 19.3:
+        non_striker: Mustafa Atmaca
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.3'
+        batsman: Omer Kutuk
+    - 19.4:
+        non_striker: Omer Kutuk
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: Mustafa Atmaca
+    - 19.5:
+        non_striker: Mustafa Atmaca
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: Omer Kutuk
+    - 19.6:
+        non_striker: Mustafa Atmaca
+        bowler: G Sanjeewa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: Omer Kutuk
+        wicket:
+          player_out: Mustafa Atmaca
+          fielders:
+          - Rohit Kumar
+          - S Nadigotla
+          kind: run out
+- 2nd innings:
+    team: Romania
+    deliveries:
+    - 0.1:
+        bowler: Mustafa Atmaca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Rohit Kumar
+        actual_delivery: '0.1'
+        batsman: Taranjeet Singh
+    - 0.2:
+        non_striker: Taranjeet Singh
+        bowler: Mustafa Atmaca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.2'
+        batsman: Rohit Kumar
+    - 0.3:
+        non_striker: Rohit Kumar
+        bowler: Mustafa Atmaca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: Taranjeet Singh
+    - 0.4:
+        non_striker: Taranjeet Singh
+        bowler: Mustafa Atmaca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Rohit Kumar
+    - 0.5:
+        non_striker: Taranjeet Singh
+        bowler: Mustafa Atmaca
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.5'
+        batsman: Rohit Kumar
+    - 0.6:
+        non_striker: Taranjeet Singh
+        bowler: Mustafa Atmaca
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.5'
+        batsman: Rohit Kumar
+    - 0.7:
+        non_striker: Taranjeet Singh
+        bowler: Mustafa Atmaca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.6'
+        batsman: Rohit Kumar
+    - 1.1:
+        non_striker: Rohit Kumar
+        bowler: Serdar Burak Emir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.1'
+        batsman: Taranjeet Singh
+    - 1.2:
+        non_striker: Rohit Kumar
+        bowler: Serdar Burak Emir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.2'
+        batsman: Taranjeet Singh
+    - 1.3:
+        non_striker: Rohit Kumar
+        bowler: Serdar Burak Emir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.2'
+        batsman: Taranjeet Singh
+    - 1.4:
+        non_striker: Rohit Kumar
+        bowler: Serdar Burak Emir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: Taranjeet Singh
+    - 1.5:
+        non_striker: Rohit Kumar
+        bowler: Serdar Burak Emir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: Taranjeet Singh
+    - 1.6:
+        non_striker: Rohit Kumar
+        bowler: Serdar Burak Emir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.4'
+        batsman: Taranjeet Singh
+    - 1.7:
+        non_striker: Rohit Kumar
+        bowler: Serdar Burak Emir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Taranjeet Singh
+    - 1.8:
+        non_striker: Rohit Kumar
+        bowler: Serdar Burak Emir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.6'
+        batsman: Taranjeet Singh
+    - 2.1:
+        non_striker: Taranjeet Singh
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.1'
+        batsman: Rohit Kumar
+    - 2.2:
+        non_striker: Taranjeet Singh
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: Rohit Kumar
+    - 2.3:
+        non_striker: Taranjeet Singh
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Rohit Kumar
+    - 2.4:
+        non_striker: Taranjeet Singh
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Rohit Kumar
+    - 2.5:
+        non_striker: Taranjeet Singh
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: Rohit Kumar
+    - 2.6:
+        non_striker: Rohit Kumar
+        bowler: Furkan Tuskan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '2.6'
+        batsman: Taranjeet Singh
+    - 3.1:
+        non_striker: Rohit Kumar
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: Taranjeet Singh
+    - 3.2:
+        non_striker: Taranjeet Singh
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: Rohit Kumar
+    - 3.3:
+        non_striker: Taranjeet Singh
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: Rohit Kumar
+    - 3.4:
+        non_striker: Taranjeet Singh
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Rohit Kumar
+    - 3.5:
+        non_striker: Taranjeet Singh
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Rohit Kumar
+    - 3.6:
+        non_striker: Taranjeet Singh
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: Rohit Kumar
+    - 4.1:
+        non_striker: Taranjeet Singh
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: Rohit Kumar
+    - 4.2:
+        non_striker: Rohit Kumar
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: Taranjeet Singh
+    - 4.3:
+        non_striker: Rohit Kumar
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.3'
+        batsman: Taranjeet Singh
+    - 4.4:
+        non_striker: Rohit Kumar
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: Taranjeet Singh
+    - 4.5:
+        non_striker: Taranjeet Singh
+        bowler: Muhammad Fahad
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        actual_delivery: '4.5'
+        batsman: Rohit Kumar
+    - 4.6:
+        non_striker: Taranjeet Singh
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Rohit Kumar
+    - 4.7:
+        non_striker: Taranjeet Singh
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Rohit Kumar
+    - 5.1:
+        non_striker: Rohit Kumar
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.1'
+        batsman: Taranjeet Singh
+    - 5.2:
+        non_striker: Rohit Kumar
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: Taranjeet Singh
+    - 5.3:
+        non_striker: Rohit Kumar
+        bowler: Murat Yilmaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.3'
+        batsman: Taranjeet Singh
+    - 5.4:
+        non_striker: Rohit Kumar
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: Taranjeet Singh
+    - 5.5:
+        non_striker: Rohit Kumar
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.4'
+        batsman: Taranjeet Singh
+    - 5.6:
+        non_striker: Rohit Kumar
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: Taranjeet Singh
+    - 5.7:
+        non_striker: Rohit Kumar
+        bowler: Murat Yilmaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Taranjeet Singh
+    - 6.1:
+        non_striker: Taranjeet Singh
+        bowler: Mustafa Atmaca
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        actual_delivery: '6.1'
+        batsman: Rohit Kumar
+    - 6.2:
+        non_striker: Taranjeet Singh
+        bowler: Mustafa Atmaca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: Rohit Kumar
+    - 6.3:
+        non_striker: Rohit Kumar
+        bowler: Mustafa Atmaca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: Taranjeet Singh
+    - 6.4:
+        non_striker: Taranjeet Singh
+        bowler: Mustafa Atmaca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: Rohit Kumar
+    - 6.5:
+        non_striker: Rohit Kumar
+        bowler: Mustafa Atmaca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Taranjeet Singh
+    - 6.6:
+        non_striker: Rohit Kumar
+        bowler: Mustafa Atmaca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: Taranjeet Singh
+    - 7.1:
+        non_striker: Rohit Kumar
+        bowler: G Tuskan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.1'
+        batsman: Taranjeet Singh
+    - 7.2:
+        non_striker: Rohit Kumar
+        bowler: G Tuskan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: Taranjeet Singh
+    - 7.3:
+        non_striker: Taranjeet Singh
+        bowler: G Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: Rohit Kumar
+    - 7.4:
+        non_striker: Taranjeet Singh
+        bowler: G Tuskan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: Rohit Kumar
+    - 7.5:
+        non_striker: Rohit Kumar
+        bowler: G Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: Taranjeet Singh
+    - 7.6:
+        non_striker: Rohit Kumar
+        bowler: G Tuskan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: Taranjeet Singh
+    - 8.1:
+        non_striker: Rohit Kumar
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.1'
+        batsman: Taranjeet Singh
+    - 8.2:
+        non_striker: Rohit Kumar
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.2'
+        batsman: Taranjeet Singh
+    - 8.3:
+        non_striker: Rohit Kumar
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Taranjeet Singh
+    - 8.4:
+        non_striker: Taranjeet Singh
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: Rohit Kumar
+    - 8.5:
+        non_striker: Rohit Kumar
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: Taranjeet Singh
+    - 8.6:
+        non_striker: Taranjeet Singh
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: Rohit Kumar
+    - 8.7:
+        non_striker: Taranjeet Singh
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: Rohit Kumar
+    - 9.1:
+        non_striker: Taranjeet Singh
+        bowler: Mustafa Atmaca
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.1'
+        batsman: Rohit Kumar
+    - 9.2:
+        non_striker: Taranjeet Singh
+        bowler: Mustafa Atmaca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: Rohit Kumar
+    - 9.3:
+        non_striker: Rohit Kumar
+        bowler: Mustafa Atmaca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Taranjeet Singh
+    - 9.4:
+        non_striker: Rohit Kumar
+        bowler: Mustafa Atmaca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: Taranjeet Singh
+    - 9.5:
+        non_striker: Taranjeet Singh
+        bowler: Mustafa Atmaca
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '9.4'
+        batsman: Rohit Kumar
+    - 9.6:
+        non_striker: Rohit Kumar
+        bowler: Mustafa Atmaca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: Taranjeet Singh
+    - 9.7:
+        non_striker: Rohit Kumar
+        bowler: Mustafa Atmaca
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '9.6'
+        batsman: Taranjeet Singh
+    - 10.1:
+        non_striker: Taranjeet Singh
+        bowler: G Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: Rohit Kumar
+    - 10.2:
+        non_striker: Taranjeet Singh
+        bowler: G Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: Rohit Kumar
+    - 10.3:
+        non_striker: Taranjeet Singh
+        bowler: G Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: Rohit Kumar
+    - 10.4:
+        non_striker: Taranjeet Singh
+        bowler: G Tuskan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: Rohit Kumar
+    - 10.5:
+        non_striker: Rohit Kumar
+        bowler: G Tuskan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: Taranjeet Singh
+    - 10.6:
+        non_striker: Taranjeet Singh
+        bowler: G Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Rohit Kumar
+    - 11.1:
+        non_striker: Rohit Kumar
+        bowler: Mustafa Atmaca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.1'
+        batsman: Taranjeet Singh
+    target:
+      overs: 20
+      runs: 104

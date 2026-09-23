@@ -1,0 +1,2080 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-08-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ilfov County
+  dates:
+  - '2026-08-26'
+  gender: female
+  match_type: T20
+  match_type_number: 2967
+  outcome:
+    winner: Austria
+    by:
+      runs: 85
+  overs: 20
+  player_of_match:
+  - SK Reddy
+  players:
+    Austria:
+    - SK Reddy
+    - Hadia Siddiqui
+    - P Sabu
+    - S Bhardwaj
+    - V Poglitsch
+    - Ashi Chopla
+    - P Ganeshan
+    - MPM Pathirannehelage
+    - Prithaa Ganeshan
+    - A Saifee
+    - Florence Hira
+    Guernsey:
+    - PJ Stahelin
+    - R Merrien
+    - A Le Ray
+    - E Millington
+    - R Hubbard
+    - K De La Mare
+    - K Robert
+    - H Atkinson
+    - M Watson
+    - E Bourgaize
+    - C Elmore
+  registry:
+    people:
+      A Le Ray: 4c7d4170
+      A Saifee: 7efe9059
+      Ashi Chopla: 89d6902b
+      C Elmore: 49e5f1b4
+      E Bourgaize: 1308f9d8
+      E Millington: 9877d487
+      Florence Hira: 2ceca8d3
+      H Atkinson: e4415fe7
+      Hadia Siddiqui: 14bc5d2d
+      K De La Mare: '089aec60'
+      K Robert: 1ad21202
+      K Sukesh Prudhvi: e3415097
+      M Watson: '00712197'
+      MPM Pathirannehelage: 0c142594
+      Nilkesh Patel: 194158ae
+      O Koilraj: 97d8c8bf
+      P Ganeshan: 3829c5ea
+      P Sabu: a38da707
+      PJ Stahelin: 472a8672
+      Prithaa Ganeshan: ab7b5a48
+      R Hubbard: a1d4bc51
+      R Merrien: 3861da30
+      S Bhardwaj: 83e9173e
+      SK Reddy: 3e1fbf05
+      Senura Lakween: 03dde74e
+      V Poglitsch: e7351fbd
+  team_type: international
+  teams:
+  - Austria
+  - Guernsey
+  toss:
+    winner: Guernsey
+    decision: field
+  umpires:
+  - Nilkesh Patel
+  - Senura Lakween
+  venue: Moara Vlasiei Cricket Ground, Ilfov County
+innings:
+- 1st innings:
+    team: Austria
+    deliveries:
+    - 0.1:
+        bowler: E Millington
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Hadia Siddiqui
+        actual_delivery: '0.1'
+        batsman: SK Reddy
+    - 0.2:
+        bowler: E Millington
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: Hadia Siddiqui
+        actual_delivery: '0.1'
+        batsman: SK Reddy
+    - 0.3:
+        non_striker: SK Reddy
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.2'
+        batsman: Hadia Siddiqui
+        wicket:
+          player_out: Hadia Siddiqui
+          fielders:
+          - A Le Ray
+          - K De La Mare
+          kind: run out
+    - 0.4:
+        non_striker: SK Reddy
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: P Sabu
+    - 0.5:
+        non_striker: P Sabu
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: SK Reddy
+    - 0.6:
+        non_striker: SK Reddy
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '0.5'
+        batsman: P Sabu
+    - 0.7:
+        non_striker: P Sabu
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: SK Reddy
+    - 1.1:
+        non_striker: SK Reddy
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: P Sabu
+    - 1.2:
+        non_striker: SK Reddy
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: P Sabu
+    - 1.3:
+        non_striker: P Sabu
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: SK Reddy
+    - 1.4:
+        non_striker: P Sabu
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.4'
+        batsman: SK Reddy
+    - 1.5:
+        non_striker: P Sabu
+        bowler: A Le Ray
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '1.5'
+        batsman: SK Reddy
+    - 1.6:
+        non_striker: SK Reddy
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: P Sabu
+    - 1.7:
+        non_striker: P Sabu
+        bowler: A Le Ray
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.6'
+        batsman: SK Reddy
+    - 1.8:
+        non_striker: P Sabu
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.6'
+        batsman: SK Reddy
+    - 2.1:
+        non_striker: SK Reddy
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: P Sabu
+    - 2.2:
+        non_striker: P Sabu
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: SK Reddy
+    - 2.3:
+        non_striker: SK Reddy
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: P Sabu
+        wicket:
+          player_out: P Sabu
+          fielders:
+          - H Atkinson
+          kind: caught
+    - 2.4:
+        non_striker: SK Reddy
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: S Bhardwaj
+    - 2.5:
+        non_striker: S Bhardwaj
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: SK Reddy
+    - 2.6:
+        non_striker: S Bhardwaj
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.6'
+        batsman: SK Reddy
+    - 3.1:
+        non_striker: SK Reddy
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: S Bhardwaj
+    - 3.2:
+        non_striker: SK Reddy
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: S Bhardwaj
+    - 3.3:
+        non_striker: S Bhardwaj
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: SK Reddy
+    - 3.4:
+        non_striker: S Bhardwaj
+        bowler: A Le Ray
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.4'
+        batsman: SK Reddy
+    - 3.5:
+        non_striker: S Bhardwaj
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: SK Reddy
+    - 3.6:
+        non_striker: S Bhardwaj
+        bowler: A Le Ray
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.5'
+        batsman: SK Reddy
+    - 3.7:
+        non_striker: S Bhardwaj
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: SK Reddy
+    - 3.8:
+        non_striker: S Bhardwaj
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '3.6'
+        batsman: SK Reddy
+    - 4.1:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: SK Reddy
+    - 4.2:
+        non_striker: SK Reddy
+        bowler: E Bourgaize
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: S Bhardwaj
+    - 4.3:
+        non_striker: SK Reddy
+        bowler: E Bourgaize
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: S Bhardwaj
+    - 4.4:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: SK Reddy
+    - 4.5:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        actual_delivery: '4.5'
+        batsman: SK Reddy
+    - 4.6:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: SK Reddy
+    - 4.7:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.6'
+        batsman: SK Reddy
+    - 4.8:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: SK Reddy
+    - 5.1:
+        non_striker: S Bhardwaj
+        bowler: K Robert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: SK Reddy
+    - 5.2:
+        non_striker: S Bhardwaj
+        bowler: K Robert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: SK Reddy
+    - 5.3:
+        non_striker: SK Reddy
+        bowler: K Robert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: S Bhardwaj
+    - 5.4:
+        non_striker: SK Reddy
+        bowler: K Robert
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.4'
+        batsman: S Bhardwaj
+    - 5.5:
+        non_striker: SK Reddy
+        bowler: K Robert
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.4'
+        batsman: S Bhardwaj
+    - 5.6:
+        non_striker: SK Reddy
+        bowler: K Robert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: S Bhardwaj
+    - 5.7:
+        non_striker: SK Reddy
+        bowler: K Robert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: S Bhardwaj
+    - 5.8:
+        non_striker: S Bhardwaj
+        bowler: K Robert
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.6'
+        batsman: SK Reddy
+    - 5.9:
+        non_striker: S Bhardwaj
+        bowler: K Robert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: SK Reddy
+    - 6.1:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: SK Reddy
+    - 6.2:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: SK Reddy
+    - 6.3:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: SK Reddy
+    - 6.4:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: SK Reddy
+    - 6.5:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.5'
+        batsman: SK Reddy
+    - 6.6:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.5'
+        batsman: SK Reddy
+    - 6.7:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.6'
+        batsman: SK Reddy
+    - 7.1:
+        non_striker: SK Reddy
+        bowler: K Robert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: S Bhardwaj
+    - 7.2:
+        non_striker: S Bhardwaj
+        bowler: K Robert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: SK Reddy
+    - 7.3:
+        non_striker: SK Reddy
+        bowler: K Robert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: S Bhardwaj
+    - 7.4:
+        non_striker: SK Reddy
+        bowler: K Robert
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.4'
+        batsman: S Bhardwaj
+    - 7.5:
+        non_striker: SK Reddy
+        bowler: K Robert
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.4'
+        batsman: S Bhardwaj
+    - 7.6:
+        non_striker: SK Reddy
+        bowler: K Robert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: S Bhardwaj
+    - 7.7:
+        non_striker: SK Reddy
+        bowler: K Robert
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.5'
+        batsman: S Bhardwaj
+    - 7.8:
+        non_striker: SK Reddy
+        bowler: K Robert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: S Bhardwaj
+    - 8.1:
+        non_striker: SK Reddy
+        bowler: E Bourgaize
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.1'
+        batsman: S Bhardwaj
+    - 8.2:
+        non_striker: SK Reddy
+        bowler: E Bourgaize
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '8.2'
+        batsman: S Bhardwaj
+    - 8.3:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.2'
+        batsman: SK Reddy
+    - 8.4:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.3'
+        batsman: SK Reddy
+    - 8.5:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '8.3'
+        batsman: SK Reddy
+    - 8.6:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: SK Reddy
+    - 8.7:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.4'
+        batsman: SK Reddy
+    - 8.8:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.4'
+        batsman: SK Reddy
+    - 8.9:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.4'
+        batsman: SK Reddy
+    - 8.10:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.4'
+        batsman: SK Reddy
+    - 8.11:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: SK Reddy
+    - 8.12:
+        non_striker: S Bhardwaj
+        bowler: E Bourgaize
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '8.5'
+        batsman: SK Reddy
+    - 8.13:
+        non_striker: SK Reddy
+        bowler: PJ Stahelin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: PJ Stahelin
+            out: E Bourgaize
+            reason: unknown
+            role: bowler
+        actual_delivery: '8.5'
+        batsman: S Bhardwaj
+    - 8.14:
+        non_striker: S Bhardwaj
+        bowler: PJ Stahelin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.6'
+        batsman: SK Reddy
+    - 8.15:
+        non_striker: S Bhardwaj
+        bowler: PJ Stahelin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.6'
+        batsman: SK Reddy
+    - 8.16:
+        non_striker: S Bhardwaj
+        bowler: PJ Stahelin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: SK Reddy
+    - 9.1:
+        non_striker: SK Reddy
+        bowler: M Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: S Bhardwaj
+    - 9.2:
+        non_striker: SK Reddy
+        bowler: M Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: S Bhardwaj
+        wicket:
+          player_out: S Bhardwaj
+          fielders:
+          - E Millington
+          - K De La Mare
+          kind: run out
+    - 9.3:
+        non_striker: SK Reddy
+        bowler: M Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: V Poglitsch
+    - 9.4:
+        non_striker: SK Reddy
+        bowler: M Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: V Poglitsch
+    - 9.5:
+        non_striker: SK Reddy
+        bowler: M Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: V Poglitsch
+    - 9.6:
+        non_striker: SK Reddy
+        bowler: M Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: V Poglitsch
+    - 10.1:
+        non_striker: V Poglitsch
+        bowler: C Elmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: SK Reddy
+    - 10.2:
+        non_striker: V Poglitsch
+        bowler: C Elmore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.2'
+        batsman: SK Reddy
+    - 10.3:
+        non_striker: V Poglitsch
+        bowler: C Elmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: SK Reddy
+    - 10.4:
+        non_striker: SK Reddy
+        bowler: C Elmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: V Poglitsch
+    - 10.5:
+        non_striker: SK Reddy
+        bowler: C Elmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: V Poglitsch
+    - 10.6:
+        non_striker: SK Reddy
+        bowler: C Elmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: V Poglitsch
+    - 10.7:
+        non_striker: SK Reddy
+        bowler: C Elmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: V Poglitsch
+    - 11.1:
+        non_striker: V Poglitsch
+        bowler: M Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: SK Reddy
+    - 11.2:
+        non_striker: V Poglitsch
+        bowler: M Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: SK Reddy
+    - 11.3:
+        non_striker: SK Reddy
+        bowler: M Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: V Poglitsch
+    - 11.4:
+        non_striker: SK Reddy
+        bowler: M Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: V Poglitsch
+        wicket:
+          player_out: V Poglitsch
+          fielders:
+          - K Robert
+          - M Watson
+          kind: run out
+    - 11.5:
+        bowler: M Watson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Ashi Chopla
+        actual_delivery: '11.5'
+        batsman: SK Reddy
+    - 11.6:
+        bowler: M Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ashi Chopla
+        actual_delivery: '11.5'
+        batsman: SK Reddy
+    - 11.7:
+        non_striker: Ashi Chopla
+        bowler: M Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: SK Reddy
+    - 12.1:
+        non_striker: Ashi Chopla
+        bowler: C Elmore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.1'
+        batsman: SK Reddy
+    - 12.2:
+        non_striker: Ashi Chopla
+        bowler: C Elmore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.1'
+        batsman: SK Reddy
+    - 12.3:
+        non_striker: Ashi Chopla
+        bowler: C Elmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: SK Reddy
+        wicket:
+          player_out: SK Reddy
+          kind: bowled
+    - 12.4:
+        non_striker: Ashi Chopla
+        bowler: C Elmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: P Ganeshan
+    - 12.5:
+        non_striker: Ashi Chopla
+        bowler: C Elmore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.3'
+        batsman: P Ganeshan
+    - 12.6:
+        non_striker: Ashi Chopla
+        bowler: C Elmore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.3'
+        batsman: P Ganeshan
+    - 12.7:
+        non_striker: Ashi Chopla
+        bowler: C Elmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: P Ganeshan
+    - 12.8:
+        non_striker: Ashi Chopla
+        bowler: C Elmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: P Ganeshan
+    - 12.9:
+        non_striker: Ashi Chopla
+        bowler: C Elmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: P Ganeshan
+    - 12.10:
+        non_striker: Ashi Chopla
+        bowler: C Elmore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: P Ganeshan
+    - 13.1:
+        non_striker: Ashi Chopla
+        bowler: M Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: P Ganeshan
+    - 13.2:
+        non_striker: Ashi Chopla
+        bowler: M Watson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.2'
+        batsman: P Ganeshan
+    - 13.3:
+        non_striker: Ashi Chopla
+        bowler: M Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: P Ganeshan
+    - 13.4:
+        non_striker: Ashi Chopla
+        bowler: M Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: P Ganeshan
+    - 13.5:
+        non_striker: Ashi Chopla
+        bowler: M Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: P Ganeshan
+    - 13.6:
+        non_striker: Ashi Chopla
+        bowler: M Watson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.5'
+        batsman: P Ganeshan
+    - 13.7:
+        non_striker: Ashi Chopla
+        bowler: M Watson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.5'
+        batsman: P Ganeshan
+    - 13.8:
+        non_striker: Ashi Chopla
+        bowler: M Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: P Ganeshan
+    - 13.9:
+        non_striker: Ashi Chopla
+        bowler: M Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: P Ganeshan
+    - 14.1:
+        non_striker: P Ganeshan
+        bowler: C Elmore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.1'
+        batsman: Ashi Chopla
+    - 14.2:
+        non_striker: P Ganeshan
+        bowler: C Elmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: Ashi Chopla
+    - 14.3:
+        non_striker: P Ganeshan
+        bowler: C Elmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: Ashi Chopla
+        wicket:
+          player_out: Ashi Chopla
+          fielders:
+          - E Bourgaize
+          kind: caught
+    - 14.4:
+        non_striker: P Ganeshan
+        bowler: C Elmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: MPM Pathirannehelage
+    - 14.5:
+        non_striker: P Ganeshan
+        bowler: C Elmore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '14.5'
+        batsman: MPM Pathirannehelage
+    - 14.6:
+        non_striker: P Ganeshan
+        bowler: C Elmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: MPM Pathirannehelage
+    - 14.7:
+        non_striker: P Ganeshan
+        bowler: C Elmore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.6'
+        batsman: MPM Pathirannehelage
+    - 14.8:
+        non_striker: P Ganeshan
+        bowler: C Elmore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.6'
+        batsman: MPM Pathirannehelage
+    - 14.9:
+        non_striker: P Ganeshan
+        bowler: C Elmore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: MPM Pathirannehelage
+    - 15.1:
+        non_striker: MPM Pathirannehelage
+        bowler: K Robert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: P Ganeshan
+    - 15.2:
+        non_striker: MPM Pathirannehelage
+        bowler: K Robert
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.2'
+        batsman: P Ganeshan
+    - 15.3:
+        non_striker: MPM Pathirannehelage
+        bowler: K Robert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: P Ganeshan
+    - 15.4:
+        non_striker: MPM Pathirannehelage
+        bowler: K Robert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: P Ganeshan
+    - 15.5:
+        non_striker: MPM Pathirannehelage
+        bowler: K Robert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: P Ganeshan
+    - 15.6:
+        non_striker: MPM Pathirannehelage
+        bowler: K Robert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: P Ganeshan
+    - 15.7:
+        non_striker: P Ganeshan
+        bowler: K Robert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: MPM Pathirannehelage
+        wicket:
+          player_out: MPM Pathirannehelage
+          fielders:
+          - PJ Stahelin
+          kind: caught
+    - 16.1:
+        bowler: E Millington
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Prithaa Ganeshan
+        actual_delivery: '16.1'
+        batsman: P Ganeshan
+    - 16.2:
+        bowler: E Millington
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Prithaa Ganeshan
+        actual_delivery: '16.1'
+        batsman: P Ganeshan
+    - 16.3:
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Prithaa Ganeshan
+        actual_delivery: '16.1'
+        batsman: P Ganeshan
+    - 16.4:
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Prithaa Ganeshan
+        actual_delivery: '16.2'
+        batsman: P Ganeshan
+    - 16.5:
+        non_striker: P Ganeshan
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: Prithaa Ganeshan
+    - 16.6:
+        non_striker: P Ganeshan
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: Prithaa Ganeshan
+    - 16.7:
+        non_striker: P Ganeshan
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: Prithaa Ganeshan
+    - 16.8:
+        non_striker: P Ganeshan
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: Prithaa Ganeshan
+    - 17.1:
+        non_striker: Prithaa Ganeshan
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: P Ganeshan
+    - 17.2:
+        non_striker: Prithaa Ganeshan
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: P Ganeshan
+    - 17.3:
+        non_striker: Prithaa Ganeshan
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: P Ganeshan
+    - 17.4:
+        non_striker: P Ganeshan
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: Prithaa Ganeshan
+    - 17.5:
+        non_striker: P Ganeshan
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: Prithaa Ganeshan
+    - 17.6:
+        non_striker: P Ganeshan
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: Prithaa Ganeshan
+    - 18.1:
+        non_striker: Prithaa Ganeshan
+        bowler: E Millington
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.1'
+        batsman: P Ganeshan
+    - 18.2:
+        non_striker: Prithaa Ganeshan
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: P Ganeshan
+    - 18.3:
+        non_striker: Prithaa Ganeshan
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: P Ganeshan
+    - 18.4:
+        non_striker: Prithaa Ganeshan
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: P Ganeshan
+    - 18.5:
+        non_striker: P Ganeshan
+        bowler: E Millington
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.4'
+        batsman: Prithaa Ganeshan
+    - 18.6:
+        non_striker: P Ganeshan
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: Prithaa Ganeshan
+    - 18.7:
+        non_striker: P Ganeshan
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: Prithaa Ganeshan
+    - 18.8:
+        non_striker: Prithaa Ganeshan
+        bowler: E Millington
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: P Ganeshan
+    - 19.1:
+        non_striker: Prithaa Ganeshan
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.1'
+        batsman: P Ganeshan
+    - 19.2:
+        non_striker: Prithaa Ganeshan
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: P Ganeshan
+    - 19.3:
+        non_striker: Prithaa Ganeshan
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: P Ganeshan
+    - 19.4:
+        non_striker: Prithaa Ganeshan
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: P Ganeshan
+        wicket:
+          player_out: P Ganeshan
+          fielders:
+          - R Merrien
+          kind: caught
+    - 19.5:
+        non_striker: Prithaa Ganeshan
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: A Saifee
+    - 19.6:
+        non_striker: Prithaa Ganeshan
+        bowler: A Le Ray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: A Saifee
+- 2nd innings:
+    team: Guernsey
+    deliveries:
+    - 0.1:
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Merrien
+        actual_delivery: '0.1'
+        batsman: PJ Stahelin
+    - 0.2:
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Merrien
+        actual_delivery: '0.2'
+        batsman: PJ Stahelin
+    - 0.3:
+        non_striker: PJ Stahelin
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: R Merrien
+        wicket:
+          player_out: R Merrien
+          kind: bowled
+    - 0.4:
+        non_striker: PJ Stahelin
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: A Le Ray
+    - 0.5:
+        non_striker: PJ Stahelin
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: A Le Ray
+    - 0.6:
+        non_striker: PJ Stahelin
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: A Le Ray
+    - 1.1:
+        non_striker: PJ Stahelin
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.1'
+        batsman: A Le Ray
+    - 1.2:
+        non_striker: PJ Stahelin
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: A Le Ray
+    - 1.3:
+        non_striker: A Le Ray
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: PJ Stahelin
+    - 1.4:
+        non_striker: A Le Ray
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: PJ Stahelin
+    - 1.5:
+        non_striker: A Le Ray
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: PJ Stahelin
+    - 1.6:
+        non_striker: PJ Stahelin
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: A Le Ray
+    - 2.1:
+        non_striker: A Le Ray
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: PJ Stahelin
+    - 2.2:
+        non_striker: PJ Stahelin
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: A Le Ray
+        wicket:
+          player_out: A Le Ray
+          kind: bowled
+    - 2.3:
+        non_striker: PJ Stahelin
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: E Millington
+        wicket:
+          player_out: E Millington
+          kind: bowled
+    - 2.4:
+        non_striker: PJ Stahelin
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: R Hubbard
+    - 2.5:
+        non_striker: PJ Stahelin
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: R Hubbard
+    - 2.6:
+        non_striker: PJ Stahelin
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '2.6'
+        batsman: R Hubbard
+    - 2.7:
+        non_striker: R Hubbard
+        bowler: MPM Pathirannehelage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: PJ Stahelin
+    - 3.1:
+        non_striker: PJ Stahelin
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.1'
+        batsman: R Hubbard
+    - 3.2:
+        non_striker: PJ Stahelin
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: R Hubbard
+    - 3.3:
+        non_striker: PJ Stahelin
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: R Hubbard
+    - 3.4:
+        non_striker: PJ Stahelin
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: R Hubbard
+        wicket:
+          player_out: PJ Stahelin
+          fielders:
+          - Hadia Siddiqui
+          - V Poglitsch
+          kind: run out
+    - 3.5:
+        non_striker: R Hubbard
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: K De La Mare
+    - 3.6:
+        non_striker: R Hubbard
+        bowler: Ashi Chopla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: K De La Mare
+    - 4.1:
+        non_striker: K De La Mare
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: R Hubbard
+    - 4.2:
+        non_striker: K De La Mare
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: R Hubbard
+    - 4.3:
+        non_striker: K De La Mare
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: R Hubbard
+    - 4.4:
+        non_striker: R Hubbard
+        bowler: SK Reddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '4.4'
+        batsman: K De La Mare
+    - 4.5:
+        non_striker: K De La Mare
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: R Hubbard
+        wicket:
+          player_out: R Hubbard
+          kind: lbw
+    - 4.6:
+        non_striker: K De La Mare
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: K Robert
+    - 5.1:
+        non_striker: K Robert
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: K De La Mare
+        wicket:
+          player_out: K De La Mare
+          kind: bowled
+    - 5.2:
+        non_striker: K Robert
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: H Atkinson
+    - 5.3:
+        non_striker: H Atkinson
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: K Robert
+        wicket:
+          player_out: K Robert
+          fielders:
+          - Hadia Siddiqui
+          kind: caught
+    - 5.4:
+        non_striker: H Atkinson
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: M Watson
+    - 5.5:
+        non_striker: H Atkinson
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: M Watson
+    - 5.6:
+        non_striker: H Atkinson
+        bowler: P Sabu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: M Watson
+    - 6.1:
+        non_striker: H Atkinson
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: M Watson
+    - 6.2:
+        non_striker: H Atkinson
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: M Watson
+        wicket:
+          player_out: M Watson
+          kind: bowled
+    - 6.3:
+        non_striker: H Atkinson
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: E Bourgaize
+    - 6.4:
+        non_striker: E Bourgaize
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: H Atkinson
+        wicket:
+          player_out: H Atkinson
+          kind: bowled
+    - 6.5:
+        non_striker: E Bourgaize
+        bowler: SK Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: C Elmore
+        wicket:
+          player_out: C Elmore
+          kind: bowled
+    target:
+      overs: 20
+      runs: 105

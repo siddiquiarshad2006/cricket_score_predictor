@@ -1,0 +1,2449 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Copenhagen
+  dates:
+  - '2026-06-27'
+  gender: female
+  match_type: T20
+  match_type_number: 2894
+  outcome:
+    winner: Denmark
+    by:
+      runs: 44
+  overs: 20
+  player_of_match:
+  - NP Dalgaard
+  players:
+    Denmark:
+    - S Hojholt
+    - ML Karlsen
+    - S Ostergaard
+    - L Ostergaard
+    - AB Slebsager
+    - K Pandya
+    - NP Dalgaard
+    - C Ostergaard
+    - D Golechha
+    - L Holmgaard
+    - E Brock-Nielsen
+    Switzerland:
+    - Amrita Sasidharan
+    - S Divya
+    - Vani Dhanuka
+    - D Medagoda
+    - Natalie Clarke
+    - S Dabholkatr
+    - Ananya Srinivasan
+    - Samiha Konuganti
+    - Naina Saju
+    - Sejal Vinod
+    - M Parinitha
+  registry:
+    people:
+      AB Slebsager: 4ae7048b
+      Amrita Sasidharan: b21446f8
+      Ananya Srinivasan: 74d9909b
+      C Ostergaard: e212b0fd
+      D Golechha: c2c12f2a
+      D Medagoda: 77b49bd9
+      E Brock-Nielsen: 26683e15
+      K Pandya: 75b4acc8
+      L Holmgaard: 8ea1f4c4
+      L Ostergaard: 3a5160d9
+      M Parinitha: '28615668'
+      ML Karlsen: 4302af3d
+      NP Dalgaard: '40283617'
+      Naina Saju: 756989cf
+      Natalie Clarke: 739ed6df
+      S Dabholkatr: 280dc48c
+      S Divya: '09d1cf95'
+      S Hojholt: 1a14aefd
+      S Ostergaard: a19e799b
+      Samiha Konuganti: 8e051da2
+      Sejal Vinod: 4ec107c8
+      Vani Dhanuka: 98132a18
+  team_type: international
+  teams:
+  - Denmark
+  - Switzerland
+  toss:
+    winner: Switzerland
+    decision: field
+  venue: Albertslund Cricket Club
+innings:
+- 1st innings:
+    team: Denmark
+    deliveries:
+    - 0.1:
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Karlsen
+        actual_delivery: '0.1'
+        batsman: S Hojholt
+    - 0.2:
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Karlsen
+        actual_delivery: '0.2'
+        batsman: S Hojholt
+    - 0.3:
+        bowler: Natalie Clarke
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: ML Karlsen
+        actual_delivery: '0.3'
+        batsman: S Hojholt
+    - 0.4:
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Karlsen
+        actual_delivery: '0.3'
+        batsman: S Hojholt
+    - 0.5:
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Karlsen
+        actual_delivery: '0.4'
+        batsman: S Hojholt
+    - 0.6:
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Karlsen
+        actual_delivery: '0.5'
+        batsman: S Hojholt
+    - 0.7:
+        non_striker: ML Karlsen
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: S Hojholt
+    - 1.1:
+        non_striker: S Hojholt
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: ML Karlsen
+    - 1.2:
+        non_striker: S Hojholt
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: ML Karlsen
+    - 1.3:
+        non_striker: S Hojholt
+        bowler: Samiha Konuganti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.3'
+        batsman: ML Karlsen
+    - 1.4:
+        non_striker: S Hojholt
+        bowler: Samiha Konuganti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.3'
+        batsman: ML Karlsen
+    - 1.5:
+        non_striker: S Hojholt
+        bowler: Samiha Konuganti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.3'
+        batsman: ML Karlsen
+    - 1.6:
+        non_striker: S Hojholt
+        bowler: Samiha Konuganti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '1.3'
+        batsman: ML Karlsen
+    - 1.7:
+        non_striker: ML Karlsen
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: S Hojholt
+    - 1.8:
+        non_striker: ML Karlsen
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: S Hojholt
+    - 1.9:
+        non_striker: ML Karlsen
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.6'
+        batsman: S Hojholt
+    - 2.1:
+        non_striker: S Hojholt
+        bowler: Natalie Clarke
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        actual_delivery: '2.1'
+        batsman: ML Karlsen
+    - 2.2:
+        non_striker: S Hojholt
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: ML Karlsen
+        wicket:
+          player_out: ML Karlsen
+          fielders:
+          - Natalie Clarke
+          kind: run out
+    - 2.3:
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Ostergaard
+        actual_delivery: '2.2'
+        batsman: S Hojholt
+    - 2.4:
+        non_striker: S Hojholt
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: S Ostergaard
+    - 2.5:
+        non_striker: S Hojholt
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.4'
+        batsman: S Ostergaard
+    - 2.6:
+        non_striker: S Hojholt
+        bowler: Natalie Clarke
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        actual_delivery: '2.5'
+        batsman: S Ostergaard
+    - 2.7:
+        non_striker: S Hojholt
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: S Ostergaard
+    - 3.1:
+        non_striker: S Ostergaard
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: S Hojholt
+    - 3.2:
+        non_striker: S Hojholt
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: S Ostergaard
+    - 3.3:
+        non_striker: S Hojholt
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: S Ostergaard
+    - 3.4:
+        non_striker: S Hojholt
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: S Ostergaard
+    - 3.5:
+        non_striker: S Hojholt
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: S Ostergaard
+    - 3.6:
+        non_striker: S Hojholt
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: S Ostergaard
+        wicket:
+          player_out: S Ostergaard
+          kind: bowled
+    - 4.1:
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Ostergaard
+        actual_delivery: '4.1'
+        batsman: S Hojholt
+    - 4.2:
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Ostergaard
+        actual_delivery: '4.2'
+        batsman: S Hojholt
+    - 4.3:
+        bowler: S Dabholkatr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: L Ostergaard
+        actual_delivery: '4.3'
+        batsman: S Hojholt
+    - 4.4:
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Ostergaard
+        actual_delivery: '4.3'
+        batsman: S Hojholt
+    - 4.5:
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Ostergaard
+        actual_delivery: '4.4'
+        batsman: S Hojholt
+    - 4.6:
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Ostergaard
+        actual_delivery: '4.5'
+        batsman: S Hojholt
+    - 4.7:
+        non_striker: L Ostergaard
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.6'
+        batsman: S Hojholt
+    - 5.1:
+        non_striker: S Hojholt
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: L Ostergaard
+    - 5.2:
+        non_striker: S Hojholt
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: L Ostergaard
+    - 5.3:
+        non_striker: S Hojholt
+        bowler: Vani Dhanuka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.3'
+        batsman: L Ostergaard
+    - 5.4:
+        non_striker: S Hojholt
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '5.3'
+        batsman: L Ostergaard
+    - 5.5:
+        non_striker: L Ostergaard
+        bowler: Vani Dhanuka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.4'
+        batsman: S Hojholt
+    - 5.6:
+        non_striker: L Ostergaard
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: S Hojholt
+    - 5.7:
+        non_striker: L Ostergaard
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: S Hojholt
+    - 5.8:
+        non_striker: L Ostergaard
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: S Hojholt
+    - 6.1:
+        non_striker: S Hojholt
+        bowler: S Dabholkatr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.1'
+        batsman: L Ostergaard
+    - 6.2:
+        non_striker: S Hojholt
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: L Ostergaard
+    - 6.3:
+        non_striker: S Hojholt
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: L Ostergaard
+    - 6.4:
+        non_striker: S Hojholt
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: L Ostergaard
+    - 6.5:
+        non_striker: S Hojholt
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: L Ostergaard
+    - 6.6:
+        non_striker: S Hojholt
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: L Ostergaard
+    - 6.7:
+        non_striker: L Ostergaard
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: S Hojholt
+    - 7.1:
+        non_striker: S Hojholt
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: L Ostergaard
+    - 7.2:
+        non_striker: S Hojholt
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: L Ostergaard
+    - 7.3:
+        non_striker: S Hojholt
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: L Ostergaard
+    - 7.4:
+        non_striker: L Ostergaard
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: S Hojholt
+    - 7.5:
+        non_striker: L Ostergaard
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: S Hojholt
+    - 7.6:
+        non_striker: L Ostergaard
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.6'
+        batsman: S Hojholt
+    - 8.1:
+        non_striker: S Hojholt
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: L Ostergaard
+    - 8.2:
+        non_striker: S Hojholt
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: L Ostergaard
+    - 8.3:
+        non_striker: S Hojholt
+        bowler: Sejal Vinod
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.3'
+        batsman: L Ostergaard
+    - 8.4:
+        non_striker: S Hojholt
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: L Ostergaard
+    - 8.5:
+        non_striker: S Hojholt
+        bowler: Sejal Vinod
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '8.4'
+        batsman: L Ostergaard
+    - 8.6:
+        non_striker: S Hojholt
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: L Ostergaard
+    - 8.7:
+        non_striker: L Ostergaard
+        bowler: Sejal Vinod
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.5'
+        batsman: S Hojholt
+    - 8.8:
+        non_striker: L Ostergaard
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: S Hojholt
+    - 8.9:
+        non_striker: L Ostergaard
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: S Hojholt
+    - 9.1:
+        non_striker: L Ostergaard
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: S Hojholt
+    - 9.2:
+        non_striker: L Ostergaard
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: S Hojholt
+    - 9.3:
+        non_striker: L Ostergaard
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.3'
+        batsman: S Hojholt
+    - 9.4:
+        non_striker: L Ostergaard
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.4'
+        batsman: S Hojholt
+    - 9.5:
+        non_striker: L Ostergaard
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: S Hojholt
+    - 9.6:
+        non_striker: L Ostergaard
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: S Hojholt
+    - 9.7:
+        non_striker: L Ostergaard
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: S Hojholt
+    - 10.1:
+        non_striker: S Hojholt
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.1'
+        batsman: L Ostergaard
+    - 10.2:
+        non_striker: S Hojholt
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: L Ostergaard
+        wicket:
+          player_out: L Ostergaard
+          fielders:
+          - S Divya
+          kind: caught
+    - 10.3:
+        non_striker: S Hojholt
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: AB Slebsager
+    - 10.4:
+        non_striker: S Hojholt
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: AB Slebsager
+    - 10.5:
+        non_striker: S Hojholt
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: AB Slebsager
+    - 10.6:
+        non_striker: AB Slebsager
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: S Hojholt
+    - 11.1:
+        non_striker: AB Slebsager
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: S Hojholt
+        wicket:
+          player_out: S Hojholt
+          kind: bowled
+    - 11.2:
+        non_striker: AB Slebsager
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: K Pandya
+    - 11.3:
+        non_striker: AB Slebsager
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '11.3'
+        batsman: K Pandya
+    - 11.4:
+        non_striker: K Pandya
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        actual_delivery: '11.3'
+        batsman: AB Slebsager
+    - 11.5:
+        non_striker: K Pandya
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '11.3'
+        batsman: AB Slebsager
+    - 11.6:
+        non_striker: K Pandya
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.3'
+        batsman: AB Slebsager
+    - 11.7:
+        non_striker: K Pandya
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.4'
+        batsman: AB Slebsager
+    - 11.8:
+        non_striker: K Pandya
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.5'
+        batsman: AB Slebsager
+    - 11.9:
+        non_striker: K Pandya
+        bowler: M Parinitha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '11.6'
+        batsman: AB Slebsager
+    - 11.10:
+        non_striker: K Pandya
+        bowler: M Parinitha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.6'
+        batsman: AB Slebsager
+    - 12.1:
+        non_striker: AB Slebsager
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: K Pandya
+    - 12.2:
+        non_striker: AB Slebsager
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: K Pandya
+    - 12.3:
+        non_striker: AB Slebsager
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: K Pandya
+    - 12.4:
+        non_striker: K Pandya
+        bowler: Sejal Vinod
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.4'
+        batsman: AB Slebsager
+    - 12.5:
+        non_striker: K Pandya
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: AB Slebsager
+    - 12.6:
+        non_striker: AB Slebsager
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: K Pandya
+    - 12.7:
+        non_striker: AB Slebsager
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: K Pandya
+    - 13.1:
+        non_striker: K Pandya
+        bowler: Naina Saju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '13.1'
+        batsman: AB Slebsager
+    - 13.2:
+        non_striker: AB Slebsager
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: K Pandya
+    - 13.3:
+        non_striker: AB Slebsager
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.3'
+        batsman: K Pandya
+    - 13.4:
+        non_striker: AB Slebsager
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: K Pandya
+    - 13.5:
+        non_striker: K Pandya
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: AB Slebsager
+    - 13.6:
+        non_striker: AB Slebsager
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: K Pandya
+    - 14.1:
+        non_striker: K Pandya
+        bowler: S Dabholkatr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.1'
+        batsman: AB Slebsager
+    - 14.2:
+        non_striker: K Pandya
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: AB Slebsager
+    - 14.3:
+        non_striker: AB Slebsager
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: K Pandya
+    - 14.4:
+        non_striker: K Pandya
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: AB Slebsager
+    - 14.5:
+        non_striker: K Pandya
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: AB Slebsager
+    - 14.6:
+        non_striker: AB Slebsager
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: K Pandya
+    - 14.7:
+        non_striker: AB Slebsager
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: K Pandya
+    - 15.1:
+        non_striker: AB Slebsager
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: K Pandya
+    - 15.2:
+        non_striker: K Pandya
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.2'
+        batsman: AB Slebsager
+    - 15.3:
+        non_striker: K Pandya
+        bowler: Naina Saju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.3'
+        batsman: AB Slebsager
+    - 15.4:
+        non_striker: K Pandya
+        bowler: Naina Saju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.3'
+        batsman: AB Slebsager
+    - 15.5:
+        non_striker: K Pandya
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: AB Slebsager
+        wicket:
+          player_out: AB Slebsager
+          kind: bowled
+    - 15.6:
+        non_striker: K Pandya
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: NP Dalgaard
+    - 15.7:
+        non_striker: NP Dalgaard
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: K Pandya
+    - 15.8:
+        non_striker: K Pandya
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: NP Dalgaard
+    - 16.1:
+        non_striker: NP Dalgaard
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: K Pandya
+    - 16.2:
+        non_striker: NP Dalgaard
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: K Pandya
+    - 16.3:
+        non_striker: NP Dalgaard
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: K Pandya
+    - 16.4:
+        non_striker: NP Dalgaard
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: K Pandya
+    - 16.5:
+        non_striker: K Pandya
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: NP Dalgaard
+        wicket:
+          player_out: NP Dalgaard
+          fielders:
+          - D Medagoda
+          kind: caught
+    - 16.6:
+        non_striker: K Pandya
+        bowler: S Dabholkatr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: C Ostergaard
+    - 17.1:
+        non_striker: C Ostergaard
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: K Pandya
+    - 17.2:
+        non_striker: C Ostergaard
+        bowler: Samiha Konuganti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.2'
+        batsman: K Pandya
+    - 17.3:
+        non_striker: C Ostergaard
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: K Pandya
+    - 17.4:
+        non_striker: K Pandya
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: C Ostergaard
+    - 17.5:
+        non_striker: K Pandya
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: C Ostergaard
+    - 17.6:
+        non_striker: K Pandya
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: C Ostergaard
+    - 17.7:
+        non_striker: C Ostergaard
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: K Pandya
+    - 18.1:
+        non_striker: C Ostergaard
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: K Pandya
+    - 18.2:
+        non_striker: C Ostergaard
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: K Pandya
+    - 18.3:
+        non_striker: K Pandya
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: C Ostergaard
+    - 18.4:
+        non_striker: C Ostergaard
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: K Pandya
+    - 18.5:
+        non_striker: K Pandya
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: C Ostergaard
+    - 18.6:
+        non_striker: C Ostergaard
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: K Pandya
+    - 19.1:
+        non_striker: C Ostergaard
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: K Pandya
+    - 19.2:
+        non_striker: K Pandya
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: C Ostergaard
+    - 19.3:
+        non_striker: C Ostergaard
+        bowler: Samiha Konuganti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.3'
+        batsman: K Pandya
+    - 19.4:
+        non_striker: C Ostergaard
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.3'
+        batsman: K Pandya
+    - 19.5:
+        non_striker: C Ostergaard
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: K Pandya
+    - 19.6:
+        non_striker: C Ostergaard
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.5'
+        batsman: K Pandya
+    - 19.7:
+        non_striker: C Ostergaard
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: K Pandya
+- 2nd innings:
+    team: Switzerland
+    deliveries:
+    - 0.1:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Divya
+        actual_delivery: '0.1'
+        batsman: Amrita Sasidharan
+    - 0.2:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Divya
+        actual_delivery: '0.2'
+        batsman: Amrita Sasidharan
+    - 0.3:
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        non_striker: S Divya
+        actual_delivery: '0.3'
+        batsman: Amrita Sasidharan
+    - 0.4:
+        non_striker: Amrita Sasidharan
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: S Divya
+    - 0.5:
+        non_striker: S Divya
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.4'
+        batsman: Amrita Sasidharan
+    - 0.6:
+        non_striker: S Divya
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: Amrita Sasidharan
+    - 0.7:
+        non_striker: Amrita Sasidharan
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: S Divya
+        wicket:
+          player_out: S Divya
+          kind: bowled
+    - 1.1:
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Vani Dhanuka
+        actual_delivery: '1.1'
+        batsman: Amrita Sasidharan
+    - 1.2:
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Vani Dhanuka
+        actual_delivery: '1.2'
+        batsman: Amrita Sasidharan
+    - 1.3:
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Vani Dhanuka
+        actual_delivery: '1.3'
+        batsman: Amrita Sasidharan
+    - 1.4:
+        non_striker: Amrita Sasidharan
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: Vani Dhanuka
+    - 1.5:
+        non_striker: Amrita Sasidharan
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.5'
+        batsman: Vani Dhanuka
+    - 1.6:
+        non_striker: Amrita Sasidharan
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Vani Dhanuka
+    - 2.1:
+        non_striker: Vani Dhanuka
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: Amrita Sasidharan
+    - 2.2:
+        non_striker: Vani Dhanuka
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: Amrita Sasidharan
+    - 2.3:
+        non_striker: Amrita Sasidharan
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Vani Dhanuka
+    - 2.4:
+        non_striker: Amrita Sasidharan
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Vani Dhanuka
+    - 2.5:
+        non_striker: Amrita Sasidharan
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.5'
+        batsman: Vani Dhanuka
+    - 2.6:
+        non_striker: Amrita Sasidharan
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.6'
+        batsman: Vani Dhanuka
+    - 3.1:
+        non_striker: Vani Dhanuka
+        bowler: C Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.1'
+        batsman: Amrita Sasidharan
+    - 3.2:
+        non_striker: Vani Dhanuka
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: Amrita Sasidharan
+    - 3.3:
+        non_striker: Amrita Sasidharan
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: Vani Dhanuka
+    - 3.4:
+        non_striker: Amrita Sasidharan
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Vani Dhanuka
+    - 3.5:
+        non_striker: Amrita Sasidharan
+        bowler: C Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.4'
+        batsman: Vani Dhanuka
+    - 3.6:
+        non_striker: Amrita Sasidharan
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: Vani Dhanuka
+    - 3.7:
+        non_striker: Vani Dhanuka
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: Amrita Sasidharan
+    - 3.8:
+        non_striker: Amrita Sasidharan
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Vani Dhanuka
+        wicket:
+          player_out: Vani Dhanuka
+          fielders:
+          - AB Slebsager
+          kind: caught
+    - 4.1:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Medagoda
+        actual_delivery: '4.1'
+        batsman: Amrita Sasidharan
+    - 4.2:
+        non_striker: D Medagoda
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: Amrita Sasidharan
+        wicket:
+          player_out: Amrita Sasidharan
+          kind: bowled
+    - 4.3:
+        non_striker: D Medagoda
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: Natalie Clarke
+        wicket:
+          player_out: Natalie Clarke
+          kind: bowled
+    - 4.4:
+        non_striker: D Medagoda
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: S Dabholkatr
+    - 4.5:
+        non_striker: S Dabholkatr
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: D Medagoda
+    - 4.6:
+        non_striker: S Dabholkatr
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: D Medagoda
+    - 5.1:
+        non_striker: D Medagoda
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: S Dabholkatr
+    - 5.2:
+        non_striker: S Dabholkatr
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: D Medagoda
+    - 5.3:
+        non_striker: S Dabholkatr
+        bowler: AB Slebsager
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.3'
+        batsman: D Medagoda
+    - 5.4:
+        non_striker: S Dabholkatr
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: D Medagoda
+    - 5.5:
+        non_striker: D Medagoda
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: S Dabholkatr
+    - 5.6:
+        non_striker: D Medagoda
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: S Dabholkatr
+    - 5.7:
+        non_striker: S Dabholkatr
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: D Medagoda
+    - 6.1:
+        non_striker: S Dabholkatr
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: D Medagoda
+    - 6.2:
+        non_striker: S Dabholkatr
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.2'
+        batsman: D Medagoda
+    - 6.3:
+        non_striker: S Dabholkatr
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: D Medagoda
+    - 6.4:
+        non_striker: S Dabholkatr
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: D Medagoda
+    - 6.5:
+        non_striker: S Dabholkatr
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: D Medagoda
+        wicket:
+          player_out: D Medagoda
+          kind: bowled
+    - 6.6:
+        non_striker: S Dabholkatr
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: Ananya Srinivasan
+    - 7.1:
+        non_striker: Ananya Srinivasan
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: S Dabholkatr
+    - 7.2:
+        non_striker: S Dabholkatr
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: Ananya Srinivasan
+    - 7.3:
+        non_striker: Ananya Srinivasan
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: S Dabholkatr
+    - 7.4:
+        non_striker: Ananya Srinivasan
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.4'
+        batsman: S Dabholkatr
+    - 7.5:
+        non_striker: Ananya Srinivasan
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: S Dabholkatr
+    - 7.6:
+        non_striker: Ananya Srinivasan
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.6'
+        batsman: S Dabholkatr
+    - 8.1:
+        non_striker: S Dabholkatr
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Ananya Srinivasan
+        wicket:
+          player_out: Ananya Srinivasan
+          kind: lbw
+    - 8.2:
+        non_striker: S Dabholkatr
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: Samiha Konuganti
+    - 8.3:
+        non_striker: S Dabholkatr
+        bowler: NP Dalgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.3'
+        batsman: Samiha Konuganti
+    - 8.4:
+        non_striker: S Dabholkatr
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: Samiha Konuganti
+    - 8.5:
+        non_striker: S Dabholkatr
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: Samiha Konuganti
+    - 8.6:
+        non_striker: S Dabholkatr
+        bowler: NP Dalgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.5'
+        batsman: Samiha Konuganti
+    - 8.7:
+        non_striker: S Dabholkatr
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.5'
+        batsman: Samiha Konuganti
+    - 8.8:
+        non_striker: S Dabholkatr
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Samiha Konuganti
+    - 9.1:
+        non_striker: Samiha Konuganti
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: S Dabholkatr
+    - 9.2:
+        non_striker: S Dabholkatr
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Samiha Konuganti
+    - 9.3:
+        non_striker: S Dabholkatr
+        bowler: AB Slebsager
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.3'
+        batsman: Samiha Konuganti
+    - 9.4:
+        non_striker: S Dabholkatr
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: Samiha Konuganti
+    - 9.5:
+        non_striker: Samiha Konuganti
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: S Dabholkatr
+    - 9.6:
+        non_striker: S Dabholkatr
+        bowler: AB Slebsager
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '9.5'
+        batsman: Samiha Konuganti
+    - 9.7:
+        non_striker: S Dabholkatr
+        bowler: AB Slebsager
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.5'
+        batsman: Samiha Konuganti
+    - 9.8:
+        non_striker: S Dabholkatr
+        bowler: AB Slebsager
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '9.5'
+        batsman: Samiha Konuganti
+    - 9.9:
+        non_striker: S Dabholkatr
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.5'
+        batsman: Samiha Konuganti
+    - 9.10:
+        non_striker: S Dabholkatr
+        bowler: AB Slebsager
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: Samiha Konuganti
+        wicket:
+          player_out: S Dabholkatr
+          fielders:
+          - AB Slebsager
+          kind: run out
+    - 10.1:
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Naina Saju
+        actual_delivery: '10.1'
+        batsman: Samiha Konuganti
+    - 10.2:
+        non_striker: Samiha Konuganti
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: Naina Saju
+    - 10.3:
+        non_striker: Naina Saju
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: Samiha Konuganti
+    - 10.4:
+        non_striker: Naina Saju
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: Samiha Konuganti
+    - 10.5:
+        non_striker: Samiha Konuganti
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: Naina Saju
+    - 10.6:
+        non_striker: Samiha Konuganti
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Naina Saju
+    - 11.1:
+        non_striker: Naina Saju
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: Samiha Konuganti
+    - 11.2:
+        non_striker: Naina Saju
+        bowler: L Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.2'
+        batsman: Samiha Konuganti
+    - 11.3:
+        non_striker: Naina Saju
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: Samiha Konuganti
+    - 11.4:
+        non_striker: Naina Saju
+        bowler: L Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '11.3'
+        batsman: Samiha Konuganti
+    - 11.5:
+        non_striker: Samiha Konuganti
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: Naina Saju
+    - 11.6:
+        non_striker: Naina Saju
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Samiha Konuganti
+    - 11.7:
+        non_striker: Naina Saju
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: Samiha Konuganti
+    - 12.1:
+        non_striker: Samiha Konuganti
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Naina Saju
+    - 12.2:
+        non_striker: Samiha Konuganti
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: Naina Saju
+        wicket:
+          player_out: Naina Saju
+          fielders:
+          - L Ostergaard
+          kind: caught
+    - 12.3:
+        non_striker: Samiha Konuganti
+        bowler: NP Dalgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.3'
+        batsman: Sejal Vinod
+    - 12.4:
+        non_striker: Samiha Konuganti
+        bowler: NP Dalgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.3'
+        batsman: Sejal Vinod
+    - 12.5:
+        non_striker: Samiha Konuganti
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: Sejal Vinod
+    - 12.6:
+        non_striker: Samiha Konuganti
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: Sejal Vinod
+    - 12.7:
+        non_striker: Samiha Konuganti
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Sejal Vinod
+    - 12.8:
+        non_striker: Samiha Konuganti
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Sejal Vinod
+    - 13.1:
+        non_striker: Sejal Vinod
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: Samiha Konuganti
+        wicket:
+          player_out: Samiha Konuganti
+          kind: bowled
+    - 13.2:
+        non_striker: Sejal Vinod
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: M Parinitha
+    - 13.3:
+        non_striker: Sejal Vinod
+        bowler: L Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.3'
+        batsman: M Parinitha
+    - 13.4:
+        non_striker: Sejal Vinod
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: M Parinitha
+    - 13.5:
+        non_striker: Sejal Vinod
+        bowler: L Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '13.4'
+        batsman: M Parinitha
+    - 13.6:
+        non_striker: Sejal Vinod
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: M Parinitha
+    - 13.7:
+        non_striker: M Parinitha
+        bowler: L Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '13.5'
+        batsman: Sejal Vinod
+    - 13.8:
+        non_striker: M Parinitha
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Sejal Vinod
+    - 13.9:
+        non_striker: M Parinitha
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Sejal Vinod
+    - 14.1:
+        non_striker: M Parinitha
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: Sejal Vinod
+    - 14.2:
+        non_striker: M Parinitha
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: Sejal Vinod
+    - 14.3:
+        non_striker: Sejal Vinod
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: M Parinitha
+        wicket:
+          player_out: M Parinitha
+          fielders:
+          - AB Slebsager
+          kind: run out
+    target:
+      overs: 20
+      runs: 115

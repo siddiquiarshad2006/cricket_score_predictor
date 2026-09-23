@@ -1,0 +1,2415 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kigali City
+  dates:
+  - '2026-06-11'
+  gender: female
+  match_type: T20
+  match_type_number: 2841
+  outcome:
+    winner: Brazil
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - M Ribeiro
+  players:
+    Nigeria:
+    - C Chukwuonye
+    - O Omonkhobio
+    - OP Eguakun
+    - JC Bieni
+    - S Sunday
+    - A Adekunle
+    - E Sandy
+    - L Udeh
+    - F Eseigbe
+    - S Etim
+    - F Effiong
+    Brazil:
+    - LV Boas
+    - L Agatha
+    - L Cardoso
+    - RMAM Avery
+    - MR Machado
+    - L Moises
+    - M Ribeiro
+    - MLG Silva
+    - M Artur
+    - AC Sabino
+    - NC Monteiro
+  registry:
+    people:
+      A Adekunle: 1b0ce76e
+      AC Sabino: dd45b04b
+      AN Igihozo: 58ab9dd9
+      C Chukwuonye: bb0aac11
+      DI Dusabemungu: 90e03594
+      E Sandy: 59063d6b
+      F Effiong: 0bb077ff
+      F Eseigbe: 292d11ee
+      JC Bieni: e8eab9f5
+      L Agatha: 1aebb2fa
+      L Cardoso: 5777d460
+      L Moises: b27f9716
+      L Udeh: 8451562a
+      LV Boas: 3a00d34f
+      M Artur: 400b36cd
+      M Ribeiro: 38424a4d
+      MLG Silva: 3b62a6b4
+      MR Machado: 4a4f94fa
+      NC Monteiro: 752af5a4
+      O Omonkhobio: 4f3080c3
+      OP Eguakun: 728b71eb
+      RMAM Avery: 4cf645c9
+      S Etim: aa197946
+      S Sunday: 594a0dec
+      V Iriho: 2853eafb
+  team_type: international
+  teams:
+  - Nigeria
+  - Brazil
+  toss:
+    winner: Nigeria
+    decision: bat
+  umpires:
+  - AN Igihozo
+  - DI Dusabemungu
+  venue: Gahanga International Cricket Stadium, Rwanda
+innings:
+- 1st innings:
+    team: Nigeria
+    deliveries:
+    - 0.1:
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: O Omonkhobio
+        actual_delivery: '0.1'
+        batsman: C Chukwuonye
+    - 0.2:
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Omonkhobio
+        actual_delivery: '0.1'
+        batsman: C Chukwuonye
+    - 0.3:
+        non_striker: O Omonkhobio
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: C Chukwuonye
+        wicket:
+          player_out: C Chukwuonye
+          fielders:
+          - LV Boas
+          kind: caught
+    - 0.4:
+        non_striker: O Omonkhobio
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: OP Eguakun
+    - 0.5:
+        non_striker: O Omonkhobio
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: OP Eguakun
+        wicket:
+          player_out: OP Eguakun
+          kind: bowled
+    - 0.6:
+        non_striker: O Omonkhobio
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: JC Bieni
+    - 0.7:
+        non_striker: O Omonkhobio
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: JC Bieni
+    - 1.1:
+        non_striker: JC Bieni
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: O Omonkhobio
+    - 1.2:
+        non_striker: JC Bieni
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: O Omonkhobio
+    - 1.3:
+        non_striker: JC Bieni
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: O Omonkhobio
+    - 1.4:
+        non_striker: O Omonkhobio
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: JC Bieni
+    - 1.5:
+        non_striker: O Omonkhobio
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: JC Bieni
+    - 1.6:
+        non_striker: O Omonkhobio
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: JC Bieni
+    - 2.1:
+        non_striker: JC Bieni
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: O Omonkhobio
+    - 2.2:
+        non_striker: JC Bieni
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: O Omonkhobio
+    - 2.3:
+        non_striker: O Omonkhobio
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: JC Bieni
+    - 2.4:
+        non_striker: JC Bieni
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: O Omonkhobio
+    - 2.5:
+        non_striker: O Omonkhobio
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.5'
+        batsman: JC Bieni
+    - 2.6:
+        non_striker: O Omonkhobio
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: JC Bieni
+    - 3.1:
+        non_striker: JC Bieni
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: O Omonkhobio
+    - 3.2:
+        non_striker: O Omonkhobio
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: JC Bieni
+    - 3.3:
+        non_striker: O Omonkhobio
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: JC Bieni
+    - 3.4:
+        non_striker: O Omonkhobio
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: JC Bieni
+    - 3.5:
+        non_striker: JC Bieni
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: O Omonkhobio
+    - 3.6:
+        non_striker: O Omonkhobio
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: JC Bieni
+    - 4.1:
+        non_striker: JC Bieni
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: O Omonkhobio
+    - 4.2:
+        non_striker: O Omonkhobio
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: JC Bieni
+        wicket:
+          player_out: JC Bieni
+          fielders:
+          - M Artur
+          kind: caught
+    - 4.3:
+        non_striker: O Omonkhobio
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.3'
+        batsman: S Sunday
+    - 4.4:
+        non_striker: O Omonkhobio
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: S Sunday
+    - 4.5:
+        non_striker: S Sunday
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: O Omonkhobio
+    - 4.6:
+        non_striker: S Sunday
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.6'
+        batsman: O Omonkhobio
+    - 5.1:
+        non_striker: O Omonkhobio
+        bowler: NC Monteiro
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '5.1'
+        batsman: S Sunday
+    - 5.2:
+        non_striker: S Sunday
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: O Omonkhobio
+    - 5.3:
+        non_striker: O Omonkhobio
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: S Sunday
+    - 5.4:
+        non_striker: O Omonkhobio
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: S Sunday
+    - 5.5:
+        non_striker: S Sunday
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: O Omonkhobio
+    - 5.6:
+        non_striker: S Sunday
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: O Omonkhobio
+        wicket:
+          player_out: O Omonkhobio
+          fielders:
+          - MLG Silva
+          kind: caught
+    - 5.7:
+        non_striker: S Sunday
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: A Adekunle
+    - 6.1:
+        non_striker: A Adekunle
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: S Sunday
+    - 6.2:
+        non_striker: A Adekunle
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: S Sunday
+    - 6.3:
+        non_striker: S Sunday
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: A Adekunle
+    - 6.4:
+        non_striker: S Sunday
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: A Adekunle
+    - 6.5:
+        non_striker: A Adekunle
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: S Sunday
+    - 6.6:
+        non_striker: A Adekunle
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: S Sunday
+    - 7.1:
+        non_striker: S Sunday
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: A Adekunle
+    - 7.2:
+        non_striker: S Sunday
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: A Adekunle
+    - 7.3:
+        non_striker: A Adekunle
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.3'
+        batsman: S Sunday
+    - 7.4:
+        non_striker: A Adekunle
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.4'
+        batsman: S Sunday
+    - 7.5:
+        non_striker: A Adekunle
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: S Sunday
+    - 7.6:
+        non_striker: S Sunday
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: A Adekunle
+    - 8.1:
+        non_striker: A Adekunle
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.1'
+        batsman: S Sunday
+    - 8.2:
+        non_striker: A Adekunle
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: S Sunday
+    - 8.3:
+        non_striker: A Adekunle
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: S Sunday
+    - 8.4:
+        non_striker: S Sunday
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: A Adekunle
+    - 8.5:
+        non_striker: S Sunday
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: A Adekunle
+    - 8.6:
+        non_striker: S Sunday
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: A Adekunle
+    - 9.1:
+        non_striker: A Adekunle
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: S Sunday
+    - 9.2:
+        non_striker: A Adekunle
+        bowler: M Artur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.2'
+        batsman: S Sunday
+    - 9.3:
+        non_striker: A Adekunle
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: S Sunday
+    - 9.4:
+        non_striker: A Adekunle
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: S Sunday
+    - 9.5:
+        non_striker: A Adekunle
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: S Sunday
+    - 9.6:
+        non_striker: S Sunday
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.5'
+        batsman: A Adekunle
+    - 9.7:
+        non_striker: S Sunday
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: A Adekunle
+    - 10.1:
+        non_striker: A Adekunle
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: S Sunday
+    - 10.2:
+        non_striker: A Adekunle
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: S Sunday
+    - 10.3:
+        non_striker: S Sunday
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: A Adekunle
+    - 10.4:
+        non_striker: S Sunday
+        bowler: L Cardoso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.4'
+        batsman: A Adekunle
+    - 10.5:
+        non_striker: S Sunday
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: A Adekunle
+    - 10.6:
+        non_striker: A Adekunle
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: S Sunday
+    - 10.7:
+        non_striker: S Sunday
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: A Adekunle
+    - 11.1:
+        non_striker: A Adekunle
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: S Sunday
+    - 11.2:
+        non_striker: S Sunday
+        bowler: M Artur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.2'
+        batsman: A Adekunle
+        wicket:
+          player_out: S Sunday
+          fielders:
+          - L Moises
+          kind: run out
+    - 11.3:
+        non_striker: A Adekunle
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: E Sandy
+    - 11.4:
+        non_striker: A Adekunle
+        bowler: M Artur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.3'
+        batsman: E Sandy
+    - 11.5:
+        non_striker: A Adekunle
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: E Sandy
+    - 11.6:
+        non_striker: E Sandy
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: A Adekunle
+    - 11.7:
+        non_striker: E Sandy
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: A Adekunle
+    - 11.8:
+        non_striker: E Sandy
+        bowler: M Artur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: A Adekunle
+    - 12.1:
+        non_striker: A Adekunle
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: E Sandy
+    - 12.2:
+        non_striker: A Adekunle
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: E Sandy
+    - 12.3:
+        non_striker: A Adekunle
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: E Sandy
+    - 12.4:
+        non_striker: E Sandy
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: A Adekunle
+    - 12.5:
+        non_striker: E Sandy
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: A Adekunle
+    - 12.6:
+        non_striker: E Sandy
+        bowler: L Cardoso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.6'
+        batsman: A Adekunle
+    - 12.7:
+        non_striker: E Sandy
+        bowler: L Cardoso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.6'
+        batsman: A Adekunle
+    - 12.8:
+        non_striker: E Sandy
+        bowler: L Cardoso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: A Adekunle
+    - 13.1:
+        non_striker: A Adekunle
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: E Sandy
+    - 13.2:
+        non_striker: A Adekunle
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: E Sandy
+    - 13.3:
+        non_striker: A Adekunle
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: E Sandy
+    - 13.4:
+        non_striker: A Adekunle
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: E Sandy
+    - 13.5:
+        non_striker: E Sandy
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: A Adekunle
+    - 13.6:
+        non_striker: A Adekunle
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: E Sandy
+    - 14.1:
+        non_striker: E Sandy
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: A Adekunle
+    - 14.2:
+        non_striker: E Sandy
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: A Adekunle
+    - 14.3:
+        non_striker: E Sandy
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: A Adekunle
+    - 14.4:
+        non_striker: E Sandy
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: A Adekunle
+    - 14.5:
+        non_striker: E Sandy
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.5'
+        batsman: A Adekunle
+    - 14.6:
+        non_striker: E Sandy
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: A Adekunle
+    - 15.1:
+        non_striker: E Sandy
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.1'
+        batsman: A Adekunle
+    - 15.2:
+        non_striker: E Sandy
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: A Adekunle
+    - 15.3:
+        non_striker: E Sandy
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: A Adekunle
+    - 15.4:
+        non_striker: A Adekunle
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: E Sandy
+    - 15.5:
+        non_striker: A Adekunle
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: E Sandy
+    - 15.6:
+        non_striker: E Sandy
+        bowler: L Moises
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: A Adekunle
+    - 16.1:
+        non_striker: E Sandy
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: A Adekunle
+    - 16.2:
+        non_striker: E Sandy
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: A Adekunle
+    - 16.3:
+        non_striker: E Sandy
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: A Adekunle
+    - 16.4:
+        non_striker: A Adekunle
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: E Sandy
+    - 16.5:
+        non_striker: E Sandy
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: A Adekunle
+    - 16.6:
+        non_striker: A Adekunle
+        bowler: NC Monteiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: E Sandy
+    - 17.1:
+        non_striker: E Sandy
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.1'
+        batsman: A Adekunle
+    - 17.2:
+        non_striker: E Sandy
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.2'
+        batsman: A Adekunle
+    - 17.3:
+        non_striker: E Sandy
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: A Adekunle
+    - 17.4:
+        non_striker: E Sandy
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: A Adekunle
+    - 17.5:
+        non_striker: A Adekunle
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: E Sandy
+    - 17.6:
+        non_striker: E Sandy
+        bowler: RMAM Avery
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: A Adekunle
+    - 18.1:
+        non_striker: E Sandy
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: A Adekunle
+    - 18.2:
+        non_striker: E Sandy
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.2'
+        batsman: A Adekunle
+    - 18.3:
+        non_striker: E Sandy
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: A Adekunle
+    - 18.4:
+        non_striker: A Adekunle
+        bowler: M Ribeiro
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.4'
+        batsman: E Sandy
+    - 18.5:
+        non_striker: A Adekunle
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: E Sandy
+    - 18.6:
+        non_striker: E Sandy
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: A Adekunle
+    - 18.7:
+        non_striker: A Adekunle
+        bowler: M Ribeiro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: E Sandy
+    - 19.1:
+        non_striker: A Adekunle
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.1'
+        batsman: E Sandy
+    - 19.2:
+        non_striker: A Adekunle
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.2'
+        batsman: E Sandy
+    - 19.3:
+        non_striker: A Adekunle
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: E Sandy
+        wicket:
+          player_out: A Adekunle
+          fielders:
+          - LV Boas
+          kind: run out
+    - 19.4:
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Udeh
+        actual_delivery: '19.4'
+        batsman: E Sandy
+    - 19.5:
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Udeh
+        actual_delivery: '19.5'
+        batsman: E Sandy
+    - 19.6:
+        non_striker: E Sandy
+        bowler: LV Boas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: L Udeh
+- 2nd innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Agatha
+        actual_delivery: '0.1'
+        batsman: LV Boas
+    - 0.2:
+        bowler: L Udeh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: L Agatha
+        actual_delivery: '0.2'
+        batsman: LV Boas
+    - 0.3:
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Agatha
+        actual_delivery: '0.2'
+        batsman: LV Boas
+    - 0.4:
+        non_striker: LV Boas
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: L Agatha
+    - 0.5:
+        non_striker: LV Boas
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: L Agatha
+    - 0.6:
+        non_striker: L Agatha
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: LV Boas
+    - 0.7:
+        non_striker: LV Boas
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: L Agatha
+    - 1.1:
+        non_striker: L Agatha
+        bowler: F Effiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: LV Boas
+    - 1.2:
+        non_striker: L Agatha
+        bowler: F Effiong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: LV Boas
+    - 1.3:
+        non_striker: L Agatha
+        bowler: F Effiong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: LV Boas
+    - 1.4:
+        non_striker: LV Boas
+        bowler: F Effiong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: L Agatha
+    - 1.5:
+        non_striker: L Agatha
+        bowler: F Effiong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: LV Boas
+    - 1.6:
+        non_striker: LV Boas
+        bowler: F Effiong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.6'
+        batsman: L Agatha
+    - 1.7:
+        non_striker: LV Boas
+        bowler: F Effiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: L Agatha
+    - 2.1:
+        non_striker: L Agatha
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: LV Boas
+    - 2.2:
+        non_striker: LV Boas
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: L Agatha
+    - 2.3:
+        non_striker: L Agatha
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: LV Boas
+    - 2.4:
+        non_striker: L Agatha
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: LV Boas
+    - 2.5:
+        non_striker: L Agatha
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: LV Boas
+    - 2.6:
+        non_striker: LV Boas
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: L Agatha
+    - 3.1:
+        non_striker: LV Boas
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: L Agatha
+    - 3.2:
+        non_striker: L Agatha
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: LV Boas
+    - 3.3:
+        non_striker: L Agatha
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: LV Boas
+    - 3.4:
+        non_striker: LV Boas
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: L Agatha
+    - 3.5:
+        non_striker: L Agatha
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: LV Boas
+    - 3.6:
+        non_striker: LV Boas
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.6'
+        batsman: L Agatha
+    - 4.1:
+        non_striker: L Agatha
+        bowler: F Effiong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.1'
+        batsman: LV Boas
+    - 4.2:
+        non_striker: L Agatha
+        bowler: F Effiong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.2'
+        batsman: LV Boas
+    - 4.3:
+        non_striker: L Agatha
+        bowler: F Effiong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: LV Boas
+    - 4.4:
+        non_striker: LV Boas
+        bowler: F Effiong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: L Agatha
+    - 4.5:
+        non_striker: L Agatha
+        bowler: F Effiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: LV Boas
+    - 4.6:
+        non_striker: L Agatha
+        bowler: F Effiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: LV Boas
+    - 4.7:
+        non_striker: L Agatha
+        bowler: F Effiong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: LV Boas
+    - 5.1:
+        non_striker: LV Boas
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: L Agatha
+    - 5.2:
+        non_striker: LV Boas
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: L Agatha
+    - 5.3:
+        non_striker: L Agatha
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: LV Boas
+    - 5.4:
+        non_striker: L Agatha
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: LV Boas
+    - 5.5:
+        non_striker: LV Boas
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: L Agatha
+    - 5.6:
+        non_striker: LV Boas
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: L Agatha
+    - 6.1:
+        non_striker: LV Boas
+        bowler: A Adekunle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.1'
+        batsman: L Agatha
+    - 6.2:
+        non_striker: LV Boas
+        bowler: A Adekunle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: L Agatha
+    - 6.3:
+        non_striker: L Agatha
+        bowler: A Adekunle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: LV Boas
+    - 6.4:
+        non_striker: LV Boas
+        bowler: A Adekunle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.4'
+        batsman: L Agatha
+    - 6.5:
+        non_striker: LV Boas
+        bowler: A Adekunle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: L Agatha
+    - 6.6:
+        non_striker: LV Boas
+        bowler: A Adekunle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: L Agatha
+        wicket:
+          player_out: L Agatha
+          fielders:
+          - S Etim
+          kind: stumped
+    - 7.1:
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Cardoso
+        actual_delivery: '7.1'
+        batsman: LV Boas
+    - 7.2:
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: L Cardoso
+        actual_delivery: '7.2'
+        batsman: LV Boas
+    - 7.3:
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Cardoso
+        actual_delivery: '7.3'
+        batsman: LV Boas
+    - 7.4:
+        non_striker: LV Boas
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.4'
+        batsman: L Cardoso
+    - 7.5:
+        non_striker: LV Boas
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: L Cardoso
+    - 7.6:
+        non_striker: LV Boas
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: L Cardoso
+    - 8.1:
+        non_striker: LV Boas
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.1'
+        batsman: L Cardoso
+    - 8.2:
+        non_striker: LV Boas
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: L Cardoso
+    - 8.3:
+        non_striker: LV Boas
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: L Cardoso
+    - 8.4:
+        non_striker: L Cardoso
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: LV Boas
+    - 8.5:
+        non_striker: L Cardoso
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.5'
+        batsman: LV Boas
+    - 8.6:
+        non_striker: L Cardoso
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: LV Boas
+    - 9.1:
+        non_striker: LV Boas
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.1'
+        batsman: L Cardoso
+    - 9.2:
+        non_striker: LV Boas
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: L Cardoso
+    - 9.3:
+        non_striker: LV Boas
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: L Cardoso
+    - 9.4:
+        non_striker: L Cardoso
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: LV Boas
+    - 9.5:
+        non_striker: LV Boas
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: L Cardoso
+        wicket:
+          player_out: L Cardoso
+          fielders:
+          - L Udeh
+          kind: caught
+    - 9.6:
+        non_striker: LV Boas
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: RMAM Avery
+    - 10.1:
+        non_striker: RMAM Avery
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: LV Boas
+    - 10.2:
+        non_striker: LV Boas
+        bowler: C Chukwuonye
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '10.2'
+        batsman: RMAM Avery
+    - 10.3:
+        non_striker: RMAM Avery
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: LV Boas
+    - 10.4:
+        non_striker: LV Boas
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: RMAM Avery
+    - 10.5:
+        non_striker: RMAM Avery
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: LV Boas
+    - 10.6:
+        non_striker: LV Boas
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: RMAM Avery
+    - 10.7:
+        non_striker: LV Boas
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: RMAM Avery
+    - 11.1:
+        non_striker: RMAM Avery
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: LV Boas
+    - 11.2:
+        non_striker: LV Boas
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: RMAM Avery
+    - 11.3:
+        non_striker: RMAM Avery
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: LV Boas
+    - 11.4:
+        non_striker: LV Boas
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: RMAM Avery
+    - 11.5:
+        non_striker: LV Boas
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: RMAM Avery
+    - 11.6:
+        non_striker: RMAM Avery
+        bowler: F Eseigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: LV Boas
+    - 12.1:
+        non_striker: RMAM Avery
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: LV Boas
+    - 12.2:
+        non_striker: RMAM Avery
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: LV Boas
+    - 12.3:
+        non_striker: RMAM Avery
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: LV Boas
+        wicket:
+          player_out: LV Boas
+          fielders:
+          - O Omonkhobio
+          kind: caught
+    - 12.4:
+        non_striker: RMAM Avery
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: MR Machado
+    - 12.5:
+        non_striker: MR Machado
+        bowler: C Chukwuonye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.5'
+        batsman: RMAM Avery
+    - 12.6:
+        non_striker: MR Machado
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: RMAM Avery
+    - 12.7:
+        non_striker: MR Machado
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: RMAM Avery
+    - 13.1:
+        non_striker: RMAM Avery
+        bowler: A Adekunle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.1'
+        batsman: MR Machado
+    - 13.2:
+        non_striker: RMAM Avery
+        bowler: A Adekunle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.2'
+        batsman: MR Machado
+    - 13.3:
+        non_striker: RMAM Avery
+        bowler: A Adekunle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: MR Machado
+    - 13.4:
+        non_striker: RMAM Avery
+        bowler: A Adekunle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.4'
+        batsman: MR Machado
+    - 13.5:
+        non_striker: RMAM Avery
+        bowler: A Adekunle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: MR Machado
+    - 13.6:
+        non_striker: RMAM Avery
+        bowler: A Adekunle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: MR Machado
+    - 13.7:
+        non_striker: RMAM Avery
+        bowler: A Adekunle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.6'
+        batsman: MR Machado
+    - 14.1:
+        non_striker: MR Machado
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: RMAM Avery
+    - 14.2:
+        non_striker: RMAM Avery
+        bowler: C Chukwuonye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.2'
+        batsman: MR Machado
+    - 14.3:
+        non_striker: RMAM Avery
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: MR Machado
+    - 14.4:
+        non_striker: MR Machado
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: RMAM Avery
+    - 14.5:
+        non_striker: MR Machado
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: RMAM Avery
+    - 14.6:
+        non_striker: MR Machado
+        bowler: C Chukwuonye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.5'
+        batsman: RMAM Avery
+    - 14.7:
+        non_striker: MR Machado
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: RMAM Avery
+    - 14.8:
+        non_striker: MR Machado
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: RMAM Avery
+    - 15.1:
+        non_striker: RMAM Avery
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: MR Machado
+    - 15.2:
+        non_striker: MR Machado
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: RMAM Avery
+    - 15.3:
+        non_striker: RMAM Avery
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: MR Machado
+    - 15.4:
+        non_striker: RMAM Avery
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: MR Machado
+    - 15.5:
+        non_striker: MR Machado
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: RMAM Avery
+    - 15.6:
+        non_striker: MR Machado
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: RMAM Avery
+    - 16.1:
+        non_striker: RMAM Avery
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: MR Machado
+    - 16.2:
+        non_striker: RMAM Avery
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: MR Machado
+    - 16.3:
+        non_striker: RMAM Avery
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: MR Machado
+    - 16.4:
+        non_striker: MR Machado
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: RMAM Avery
+    - 16.5:
+        non_striker: MR Machado
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: RMAM Avery
+    - 16.6:
+        non_striker: MR Machado
+        bowler: C Chukwuonye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.6'
+        batsman: RMAM Avery
+    - 16.7:
+        non_striker: MR Machado
+        bowler: C Chukwuonye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: RMAM Avery
+    - 17.1:
+        non_striker: RMAM Avery
+        bowler: L Udeh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.1'
+        batsman: MR Machado
+    - 17.2:
+        non_striker: RMAM Avery
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: MR Machado
+    - 17.3:
+        non_striker: RMAM Avery
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.2'
+        batsman: MR Machado
+    - 17.4:
+        non_striker: RMAM Avery
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: MR Machado
+    - 17.5:
+        non_striker: RMAM Avery
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: MR Machado
+    - 17.6:
+        non_striker: MR Machado
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: RMAM Avery
+    - 17.7:
+        non_striker: MR Machado
+        bowler: L Udeh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '17.6'
+        batsman: RMAM Avery
+    - 18.1:
+        non_striker: MR Machado
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: RMAM Avery
+    - 18.2:
+        non_striker: RMAM Avery
+        bowler: O Omonkhobio
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.2'
+        batsman: MR Machado
+    target:
+      overs: 20
+      runs: 112

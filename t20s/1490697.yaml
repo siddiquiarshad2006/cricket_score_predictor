@@ -1,0 +1,2146 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Leeds
+  dates:
+  - '2026-06-23'
+  gender: female
+  match_type: T20
+  match_type_number: 2884
+  outcome:
+    winner: Australia
+    by:
+      runs: 113
+  overs: 20
+  player_of_match:
+  - EA Perry
+  players:
+    Australia:
+    - BL Mooney
+    - G Voll
+    - EA Perry
+    - A Gardner
+    - G Wareham
+    - A Sutherland
+    - NJ Carey
+    - S Molineux
+    - A King
+    - KJ Garth
+    - LK Hamilton
+    Pakistan:
+    - Muneeba Ali
+    - Gull Feroza
+    - Saira Jabeen
+    - Ayesha Zafar
+    - Iram Javed
+    - Aliya Riaz
+    - Fatima Sana
+    - Rameen Shamim
+    - Nashra Sandhu
+    - Diana Baig
+    - Sadia Iqbal
+  registry:
+    people:
+      A Gardner: bc969efb
+      A King: '83558266'
+      A Sutherland: 65d9b6b6
+      Aliya Riaz: 2904b4b6
+      Ayesha Zafar: e15f4fa4
+      BL Mooney: 52d1dbc8
+      Diana Baig: a51e6c6e
+      EA Perry: be150fc8
+      Fatima Sana: ea9c54de
+      G Voll: 5c30d455
+      G Wareham: f0b4e47d
+      Gull Feroza: 9ff1e91e
+      Iram Javed: dc596fac
+      JM Pereira: f9a4a039
+      JM Williams: b61d9d70
+      KJ Garth: 0b69a844
+      LK Hamilton: c347ffe6
+      Muneeba Ali: 86fdf668
+      NJ Carey: dff806f4
+      Nashra Sandhu: c981d3c2
+      Rameen Shamim: 0b78b7c1
+      S Molineux: 99e23670
+      S Redfern: 5b038989
+      Sadia Iqbal: 53bb50f0
+      Saira Jabeen: e4ff6a62
+      Shathira Jakir: 6b992a6f
+      VG Rathi: 144e5b16
+  team_type: international
+  teams:
+  - Australia
+  - Pakistan
+  toss:
+    winner: Australia
+    decision: bat
+  umpires:
+  - S Redfern
+  - VG Rathi
+  venue: Headingley, Leeds
+innings:
+- 1st innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: G Voll
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: BL Mooney
+        wicket:
+          player_out: BL Mooney
+          fielders:
+          - Gull Feroza
+          kind: caught
+    - 0.2:
+        non_striker: G Voll
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.2'
+        batsman: EA Perry
+    - 0.3:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: G Voll
+    - 0.4:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: G Voll
+    - 0.5:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: G Voll
+    - 0.6:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: G Voll
+    - 1.1:
+        non_striker: EA Perry
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: G Voll
+    - 1.2:
+        non_striker: EA Perry
+        bowler: Fatima Sana
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          wides: 4
+        actual_delivery: '1.2'
+        batsman: G Voll
+    - 1.3:
+        non_striker: G Voll
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: EA Perry
+    - 1.4:
+        non_striker: G Voll
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: EA Perry
+    - 1.5:
+        non_striker: G Voll
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: EA Perry
+    - 1.6:
+        non_striker: EA Perry
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.5'
+        batsman: G Voll
+    - 1.7:
+        non_striker: EA Perry
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: G Voll
+    - 2.1:
+        non_striker: G Voll
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: EA Perry
+    - 2.2:
+        non_striker: G Voll
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: EA Perry
+    - 2.3:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: G Voll
+    - 2.4:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: G Voll
+    - 2.5:
+        non_striker: G Voll
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: EA Perry
+    - 2.6:
+        non_striker: G Voll
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: EA Perry
+    - 3.1:
+        non_striker: G Voll
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.1'
+        batsman: EA Perry
+    - 3.2:
+        non_striker: G Voll
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: EA Perry
+    - 3.3:
+        non_striker: G Voll
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: EA Perry
+    - 3.4:
+        non_striker: G Voll
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: EA Perry
+    - 3.5:
+        non_striker: G Voll
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.5'
+        batsman: EA Perry
+    - 3.6:
+        non_striker: G Voll
+        bowler: Diana Baig
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        actual_delivery: '3.6'
+        batsman: EA Perry
+    - 3.7:
+        non_striker: G Voll
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: EA Perry
+    - 4.1:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: G Voll
+    - 4.2:
+        non_striker: G Voll
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.2'
+        batsman: EA Perry
+    - 4.3:
+        non_striker: G Voll
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: EA Perry
+    - 4.4:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: G Voll
+    - 4.5:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: G Voll
+    - 4.6:
+        non_striker: EA Perry
+        bowler: Sadia Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '4.6'
+        batsman: G Voll
+    - 5.1:
+        non_striker: EA Perry
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.1'
+        batsman: G Voll
+    - 5.2:
+        non_striker: EA Perry
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: G Voll
+    - 5.3:
+        non_striker: G Voll
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.3'
+        batsman: EA Perry
+    - 5.4:
+        non_striker: G Voll
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.3'
+        batsman: EA Perry
+    - 5.5:
+        non_striker: G Voll
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: EA Perry
+    - 5.6:
+        non_striker: G Voll
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: EA Perry
+    - 5.7:
+        non_striker: G Voll
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: EA Perry
+    - 5.8:
+        non_striker: G Voll
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: EA Perry
+    - 6.1:
+        non_striker: G Voll
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: EA Perry
+    - 6.2:
+        non_striker: EA Perry
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: G Voll
+    - 6.3:
+        non_striker: G Voll
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: EA Perry
+    - 6.4:
+        non_striker: EA Perry
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: G Voll
+    - 6.5:
+        non_striker: G Voll
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: EA Perry
+    - 6.6:
+        non_striker: EA Perry
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.6'
+        batsman: G Voll
+    - 7.1:
+        non_striker: G Voll
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.1'
+        batsman: EA Perry
+    - 7.2:
+        non_striker: G Voll
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: EA Perry
+    - 7.3:
+        non_striker: EA Perry
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.3'
+        batsman: G Voll
+    - 7.4:
+        non_striker: EA Perry
+        bowler: Diana Baig
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '7.4'
+        batsman: G Voll
+    - 7.5:
+        non_striker: G Voll
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: EA Perry
+    - 7.6:
+        non_striker: EA Perry
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: G Voll
+    - 8.1:
+        non_striker: EA Perry
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: G Voll
+    - 8.2:
+        non_striker: G Voll
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.2'
+        batsman: EA Perry
+    - 8.3:
+        non_striker: G Voll
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: EA Perry
+    - 8.4:
+        non_striker: EA Perry
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.4'
+        batsman: G Voll
+    - 8.5:
+        non_striker: EA Perry
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: G Voll
+    - 8.6:
+        non_striker: EA Perry
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: G Voll
+    - 9.1:
+        non_striker: EA Perry
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.1'
+        batsman: G Voll
+    - 9.2:
+        non_striker: EA Perry
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: G Voll
+    - 9.3:
+        non_striker: EA Perry
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: G Voll
+        wicket:
+          player_out: G Voll
+          fielders:
+          - Iram Javed
+          kind: caught
+    - 9.4:
+        non_striker: EA Perry
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: A Gardner
+    - 9.5:
+        non_striker: EA Perry
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: A Gardner
+        wicket:
+          player_out: A Gardner
+          fielders:
+          - Diana Baig
+          kind: caught
+    - 9.6:
+        non_striker: EA Perry
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.6'
+        batsman: G Wareham
+    - 10.1:
+        non_striker: G Wareham
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: EA Perry
+    - 10.2:
+        non_striker: EA Perry
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: G Wareham
+    - 10.3:
+        non_striker: G Wareham
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: EA Perry
+    - 10.4:
+        non_striker: EA Perry
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: G Wareham
+        wicket:
+          player_out: G Wareham
+          fielders:
+          - Gull Feroza
+          kind: caught
+    - 10.5:
+        non_striker: EA Perry
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: A Sutherland
+    - 10.6:
+        non_striker: A Sutherland
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.6'
+        batsman: EA Perry
+    - 11.1:
+        non_striker: EA Perry
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: A Sutherland
+    - 11.2:
+        non_striker: A Sutherland
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: EA Perry
+    - 11.3:
+        non_striker: EA Perry
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.3'
+        batsman: A Sutherland
+    - 11.4:
+        non_striker: EA Perry
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.4'
+        batsman: A Sutherland
+    - 11.5:
+        non_striker: EA Perry
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: A Sutherland
+    - 11.6:
+        non_striker: EA Perry
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: A Sutherland
+    - 12.1:
+        non_striker: EA Perry
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: A Sutherland
+    - 12.2:
+        non_striker: EA Perry
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: A Sutherland
+    - 12.3:
+        non_striker: EA Perry
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.3'
+        batsman: A Sutherland
+    - 12.4:
+        non_striker: EA Perry
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: A Sutherland
+    - 12.5:
+        non_striker: A Sutherland
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: EA Perry
+    - 12.6:
+        non_striker: EA Perry
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: A Sutherland
+    - 13.1:
+        non_striker: EA Perry
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.1'
+        batsman: A Sutherland
+    - 13.2:
+        non_striker: EA Perry
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: A Sutherland
+    - 13.3:
+        non_striker: EA Perry
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: A Sutherland
+    - 13.4:
+        non_striker: A Sutherland
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: EA Perry
+    - 13.5:
+        non_striker: EA Perry
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: A Sutherland
+    - 13.6:
+        non_striker: A Sutherland
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: EA Perry
+    - 14.1:
+        non_striker: A Sutherland
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.1'
+        batsman: EA Perry
+    - 14.2:
+        non_striker: A Sutherland
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.2'
+        batsman: EA Perry
+    - 14.3:
+        non_striker: A Sutherland
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.3'
+        batsman: EA Perry
+    - 14.4:
+        non_striker: A Sutherland
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: EA Perry
+    - 14.5:
+        non_striker: A Sutherland
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: EA Perry
+    - 14.6:
+        non_striker: A Sutherland
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: EA Perry
+    - 15.1:
+        non_striker: A Sutherland
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: EA Perry
+    - 15.2:
+        non_striker: A Sutherland
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: EA Perry
+    - 15.3:
+        non_striker: EA Perry
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: A Sutherland
+    - 15.4:
+        non_striker: A Sutherland
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: EA Perry
+    - 15.5:
+        non_striker: EA Perry
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: A Sutherland
+    - 15.6:
+        non_striker: A Sutherland
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: EA Perry
+    - 16.1:
+        non_striker: EA Perry
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: A Sutherland
+        wicket:
+          player_out: A Sutherland
+          fielders:
+          - Fatima Sana
+          kind: caught
+    - 16.2:
+        non_striker: EA Perry
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.2'
+        batsman: NJ Carey
+    - 16.3:
+        non_striker: EA Perry
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: NJ Carey
+    - 16.4:
+        non_striker: EA Perry
+        bowler: Rameen Shamim
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        actual_delivery: '16.4'
+        batsman: NJ Carey
+    - 16.5:
+        non_striker: EA Perry
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.5'
+        batsman: NJ Carey
+    - 16.6:
+        non_striker: EA Perry
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: NJ Carey
+    - 17.1:
+        non_striker: NJ Carey
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.1'
+        batsman: EA Perry
+    - 17.2:
+        non_striker: NJ Carey
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: EA Perry
+    - 17.3:
+        non_striker: NJ Carey
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: EA Perry
+        wicket:
+          player_out: EA Perry
+          fielders:
+          - Muneeba Ali
+          kind: caught
+    - 17.4:
+        non_striker: NJ Carey
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: S Molineux
+    - 17.5:
+        non_striker: S Molineux
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.5'
+        batsman: NJ Carey
+    - 17.6:
+        non_striker: S Molineux
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.6'
+        batsman: NJ Carey
+    - 18.1:
+        non_striker: NJ Carey
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.1'
+        batsman: S Molineux
+    - 18.2:
+        non_striker: NJ Carey
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: S Molineux
+        wicket:
+          player_out: S Molineux
+          kind: bowled
+    - 18.3:
+        non_striker: NJ Carey
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: A King
+    - 18.4:
+        non_striker: A King
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.4'
+        batsman: NJ Carey
+    - 18.5:
+        non_striker: A King
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.5'
+        batsman: NJ Carey
+    - 18.6:
+        non_striker: A King
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: NJ Carey
+    - 19.1:
+        non_striker: A King
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.1'
+        batsman: NJ Carey
+    - 19.2:
+        non_striker: A King
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.2'
+        batsman: NJ Carey
+    - 19.3:
+        non_striker: A King
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.3'
+        batsman: NJ Carey
+    - 19.4:
+        non_striker: NJ Carey
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.4'
+        batsman: A King
+    - 19.5:
+        non_striker: NJ Carey
+        bowler: Fatima Sana
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        actual_delivery: '19.5'
+        batsman: A King
+    - 19.6:
+        non_striker: NJ Carey
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: A King
+- 2nd innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Gull Feroza
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.1'
+        batsman: Muneeba Ali
+    - 0.2:
+        non_striker: Muneeba Ali
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: Gull Feroza
+    - 0.3:
+        non_striker: Muneeba Ali
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: Gull Feroza
+    - 0.4:
+        non_striker: Muneeba Ali
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: Gull Feroza
+    - 0.5:
+        non_striker: Gull Feroza
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Muneeba Ali
+    - 0.6:
+        non_striker: Gull Feroza
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: Muneeba Ali
+    - 1.1:
+        non_striker: Gull Feroza
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: Muneeba Ali
+    - 1.2:
+        non_striker: Gull Feroza
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: Muneeba Ali
+    - 1.3:
+        non_striker: Gull Feroza
+        bowler: KJ Garth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.3'
+        batsman: Muneeba Ali
+        wicket:
+          player_out: Gull Feroza
+          fielders:
+          - G Voll
+          - KJ Garth
+          kind: run out
+    - 1.4:
+        non_striker: Saira Jabeen
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: Muneeba Ali
+    - 1.5:
+        non_striker: Saira Jabeen
+        bowler: KJ Garth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.4'
+        batsman: Muneeba Ali
+    - 1.6:
+        non_striker: Saira Jabeen
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: Muneeba Ali
+    - 1.7:
+        non_striker: Muneeba Ali
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: Saira Jabeen
+    - 1.8:
+        non_striker: Saira Jabeen
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.6'
+        batsman: Muneeba Ali
+    - 2.1:
+        non_striker: Muneeba Ali
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.1'
+        batsman: Saira Jabeen
+    - 2.2:
+        non_striker: Muneeba Ali
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: Saira Jabeen
+    - 2.3:
+        non_striker: Muneeba Ali
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Saira Jabeen
+        wicket:
+          player_out: Saira Jabeen
+          fielders:
+          - A Gardner
+          kind: caught
+    - 2.4:
+        non_striker: Muneeba Ali
+        bowler: S Molineux
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.4'
+        batsman: Ayesha Zafar
+    - 2.5:
+        non_striker: Muneeba Ali
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Ayesha Zafar
+    - 2.6:
+        non_striker: Muneeba Ali
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: Ayesha Zafar
+    - 2.7:
+        non_striker: Muneeba Ali
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Ayesha Zafar
+    - 3.1:
+        non_striker: Ayesha Zafar
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Muneeba Ali
+    - 3.2:
+        non_striker: Ayesha Zafar
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Muneeba Ali
+    - 3.3:
+        non_striker: Ayesha Zafar
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: Muneeba Ali
+    - 3.4:
+        non_striker: Ayesha Zafar
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.4'
+        batsman: Muneeba Ali
+    - 3.5:
+        non_striker: Ayesha Zafar
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.5'
+        batsman: Muneeba Ali
+    - 3.6:
+        non_striker: Ayesha Zafar
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Muneeba Ali
+    - 4.1:
+        non_striker: Muneeba Ali
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: Ayesha Zafar
+        wicket:
+          player_out: Ayesha Zafar
+          fielders:
+          - BL Mooney
+          - S Molineux
+          kind: run out
+    - 4.2:
+        non_striker: Muneeba Ali
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: Iram Javed
+    - 4.3:
+        non_striker: Muneeba Ali
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: Iram Javed
+    - 4.4:
+        non_striker: Iram Javed
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: Muneeba Ali
+    - 4.5:
+        non_striker: Iram Javed
+        bowler: LK Hamilton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.5'
+        batsman: Muneeba Ali
+    - 4.6:
+        non_striker: Iram Javed
+        bowler: LK Hamilton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.5'
+        batsman: Muneeba Ali
+    - 4.7:
+        non_striker: Iram Javed
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: Muneeba Ali
+    - 4.8:
+        non_striker: Iram Javed
+        bowler: LK Hamilton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Muneeba Ali
+    - 5.1:
+        non_striker: Muneeba Ali
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.1'
+        batsman: Iram Javed
+    - 5.2:
+        non_striker: Muneeba Ali
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.2'
+        batsman: Iram Javed
+    - 5.3:
+        non_striker: Muneeba Ali
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.3'
+        batsman: Iram Javed
+    - 5.4:
+        non_striker: Muneeba Ali
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Iram Javed
+    - 5.5:
+        non_striker: Muneeba Ali
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: Iram Javed
+    - 5.6:
+        non_striker: Iram Javed
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Muneeba Ali
+    - 6.1:
+        non_striker: Muneeba Ali
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: Iram Javed
+    - 6.2:
+        non_striker: Muneeba Ali
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: Iram Javed
+        wicket:
+          player_out: Iram Javed
+          kind: bowled
+    - 6.3:
+        non_striker: Muneeba Ali
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Aliya Riaz
+    - 6.4:
+        non_striker: Muneeba Ali
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Aliya Riaz
+    - 6.5:
+        non_striker: Muneeba Ali
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Aliya Riaz
+    - 6.6:
+        non_striker: Muneeba Ali
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: Aliya Riaz
+    - 7.1:
+        non_striker: Aliya Riaz
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: Muneeba Ali
+    - 7.2:
+        non_striker: Aliya Riaz
+        bowler: A Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.2'
+        batsman: Muneeba Ali
+    - 7.3:
+        non_striker: Aliya Riaz
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: Muneeba Ali
+    - 7.4:
+        non_striker: Aliya Riaz
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: Muneeba Ali
+    - 7.5:
+        non_striker: Muneeba Ali
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: Aliya Riaz
+    - 7.6:
+        non_striker: Muneeba Ali
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: Aliya Riaz
+    - 7.7:
+        non_striker: Aliya Riaz
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.6'
+        batsman: Muneeba Ali
+    - 8.1:
+        non_striker: Muneeba Ali
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Aliya Riaz
+    - 8.2:
+        non_striker: Muneeba Ali
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Aliya Riaz
+    - 8.3:
+        non_striker: Aliya Riaz
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: Muneeba Ali
+    - 8.4:
+        non_striker: Muneeba Ali
+        bowler: A King
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.4'
+        batsman: Aliya Riaz
+    - 8.5:
+        non_striker: Muneeba Ali
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Aliya Riaz
+    - 8.6:
+        non_striker: Aliya Riaz
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: Muneeba Ali
+    - 9.1:
+        non_striker: Aliya Riaz
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: Muneeba Ali
+        wicket:
+          player_out: Muneeba Ali
+          fielders:
+          - A Gardner
+          kind: caught
+    - 9.2:
+        non_striker: Aliya Riaz
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Fatima Sana
+    - 9.3:
+        non_striker: Aliya Riaz
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.3'
+        batsman: Fatima Sana
+    - 9.4:
+        non_striker: Aliya Riaz
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.4'
+        batsman: Fatima Sana
+    - 9.5:
+        non_striker: Aliya Riaz
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: Fatima Sana
+    - 9.6:
+        non_striker: Fatima Sana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: Aliya Riaz
+        wicket:
+          player_out: Aliya Riaz
+          fielders:
+          - BL Mooney
+          kind: caught
+    - 10.1:
+        non_striker: Rameen Shamim
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: Fatima Sana
+    - 10.2:
+        non_striker: Fatima Sana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: Rameen Shamim
+    - 10.3:
+        non_striker: Fatima Sana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: Rameen Shamim
+    - 10.4:
+        non_striker: Fatima Sana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: Rameen Shamim
+        wicket:
+          player_out: Rameen Shamim
+          fielders:
+          - BL Mooney
+          - G Voll
+          kind: run out
+    - 10.5:
+        non_striker: Fatima Sana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: Nashra Sandhu
+    - 10.6:
+        non_striker: Fatima Sana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Nashra Sandhu
+        wicket:
+          player_out: Nashra Sandhu
+          kind: bowled
+    - 11.1:
+        non_striker: Diana Baig
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: Fatima Sana
+    - 11.2:
+        non_striker: Diana Baig
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: Fatima Sana
+    - 11.3:
+        non_striker: Fatima Sana
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: Diana Baig
+    - 11.4:
+        non_striker: Diana Baig
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: Fatima Sana
+    - 11.5:
+        non_striker: Fatima Sana
+        bowler: A Gardner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.5'
+        batsman: Diana Baig
+    - 11.6:
+        non_striker: Fatima Sana
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Diana Baig
+    - 11.7:
+        non_striker: Fatima Sana
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: Diana Baig
+    - 12.1:
+        non_striker: Diana Baig
+        bowler: G Wareham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.1'
+        batsman: Fatima Sana
+    - 12.2:
+        non_striker: Diana Baig
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: Fatima Sana
+    - 12.3:
+        non_striker: Fatima Sana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: Diana Baig
+    - 12.4:
+        non_striker: Fatima Sana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: Diana Baig
+    - 12.5:
+        non_striker: Fatima Sana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: Diana Baig
+    - 12.6:
+        non_striker: Fatima Sana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Diana Baig
+    - 12.7:
+        non_striker: Fatima Sana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Diana Baig
+    - 13.1:
+        non_striker: Diana Baig
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: Fatima Sana
+    - 13.2:
+        non_striker: Diana Baig
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: Fatima Sana
+    - 13.3:
+        non_striker: Diana Baig
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: Fatima Sana
+        wicket:
+          player_out: Fatima Sana
+          fielders:
+          - BL Mooney
+          kind: caught
+    - 13.4:
+        non_striker: Diana Baig
+        bowler: A Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.4'
+        batsman: Sadia Iqbal
+    - 13.5:
+        non_striker: Diana Baig
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Sadia Iqbal
+        wicket:
+          player_out: Sadia Iqbal
+          fielders:
+          - BL Mooney
+          kind: caught
+    target:
+      overs: 20
+      runs: 200

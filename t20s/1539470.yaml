@@ -1,0 +1,1880 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Stockholm
+  dates:
+  - '2026-06-14'
+  gender: male
+  match_type: T20
+  match_type_number: 3953
+  outcome:
+    winner: Austria
+    by:
+      runs: 15
+    method: D/L
+  overs: 20
+  player_of_match:
+  - Bilal Zalmai
+  players:
+    Norway:
+    - Saif-Ul Islam
+    - Khizer Ahmed
+    - Walid Ghauri
+    - Chaudhary Akram
+    - Akhter Pacha Sher
+    - Faisal Raza
+    - Qamar Mushtaque
+    - Farmanullah Ghari
+    - A Gupta
+    - Ahmadullah Shinwari
+    - AJ Parmar
+    Austria:
+    - Karanbir Singh
+    - Bilal Zalmai
+    - Irfan Safi
+    - Shadnan Khan
+    - A Randhawa
+    - Zeshan Arif
+    - H Khogiyani
+    - Baseer Khan
+    - Hamid Safi
+    - Waqar Zalmai
+    - Nageebullah Sultanzai
+  registry:
+    people:
+      A Gupta: 59e1abef
+      A Randhawa: 1798078c
+      AJ Parmar: 94113d54
+      Ahmadullah Shinwari: e068d48e
+      Akhter Pacha Sher: 921292ca
+      Baseer Khan: 75ebfe19
+      Bilal Zalmai: 33b67317
+      Chaudhary Akram: 3e697d4a
+      Faisal Raza: dccb802c
+      Faridullah Shams: b979b662
+      Farmanullah Ghari: 2f7244b5
+      H Khogiyani: b85c0597
+      Hamid Safi: ec4ae12d
+      Irfan Safi: 6c53ffb2
+      Kamran Zia: '06976c61'
+      Karanbir Singh: 6a97c7a4
+      Khizer Ahmed: 723ca856
+      Madhava Rao: 66ac328c
+      Nageebullah Sultanzai: dcfad6eb
+      Qamar Mushtaque: fc362c5d
+      Saif-Ul Islam: 1f3d7990
+      Shadnan Khan: b17d629e
+      Walid Ghauri: 331e137f
+      Waqar Zalmai: 74571ec4
+      Zeshan Arif: 6829b373
+  team_type: international
+  teams:
+  - Norway
+  - Austria
+  toss:
+    winner: Norway
+    decision: bat
+  umpires:
+  - Kamran Zia
+  - Madhava Rao
+  venue: Botkyrka Cricket Center, Stockholm
+innings:
+- 1st innings:
+    team: Norway
+    deliveries:
+    - 0.1:
+        non_striker: Khizer Ahmed
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        bowler: H Khogiyani
+        actual_delivery: '0.1'
+        batsman: Saif-Ul Islam
+    - 0.2:
+        non_striker: Saif-Ul Islam
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        bowler: H Khogiyani
+        actual_delivery: '0.2'
+        batsman: Khizer Ahmed
+    - 0.3:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: H Khogiyani
+        actual_delivery: '0.2'
+        batsman: Khizer Ahmed
+    - 0.4:
+        non_striker: Saif-Ul Islam
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        bowler: H Khogiyani
+        actual_delivery: '0.3'
+        batsman: Khizer Ahmed
+    - 0.5:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: H Khogiyani
+        actual_delivery: '0.3'
+        batsman: Khizer Ahmed
+    - 0.6:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: H Khogiyani
+        actual_delivery: '0.4'
+        batsman: Khizer Ahmed
+    - 0.7:
+        non_striker: Khizer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: H Khogiyani
+        actual_delivery: '0.5'
+        batsman: Saif-Ul Islam
+    - 0.8:
+        non_striker: Khizer Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: H Khogiyani
+        actual_delivery: '0.6'
+        batsman: Saif-Ul Islam
+    - 1.1:
+        non_striker: Khizer Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Baseer Khan
+        actual_delivery: '1.1'
+        batsman: Saif-Ul Islam
+    - 1.2:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Baseer Khan
+        actual_delivery: '1.2'
+        batsman: Khizer Ahmed
+        wicket:
+          player_out: Khizer Ahmed
+          fielders:
+          - H Khogiyani
+          kind: caught
+    - 1.3:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        bowler: Baseer Khan
+        actual_delivery: '1.3'
+        batsman: Walid Ghauri
+    - 1.4:
+        non_striker: Walid Ghauri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Baseer Khan
+        actual_delivery: '1.4'
+        batsman: Saif-Ul Islam
+    - 1.5:
+        non_striker: Walid Ghauri
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        bowler: Baseer Khan
+        actual_delivery: '1.5'
+        batsman: Saif-Ul Islam
+    - 1.6:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Baseer Khan
+        actual_delivery: '1.6'
+        batsman: Walid Ghauri
+    - 2.1:
+        non_striker: Walid Ghauri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: H Khogiyani
+        actual_delivery: '2.1'
+        batsman: Saif-Ul Islam
+    - 2.2:
+        non_striker: Walid Ghauri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: H Khogiyani
+        actual_delivery: '2.2'
+        batsman: Saif-Ul Islam
+    - 2.3:
+        non_striker: Walid Ghauri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: H Khogiyani
+        actual_delivery: '2.3'
+        batsman: Saif-Ul Islam
+    - 2.4:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: H Khogiyani
+        actual_delivery: '2.4'
+        batsman: Walid Ghauri
+    - 2.5:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: H Khogiyani
+        actual_delivery: '2.5'
+        batsman: Walid Ghauri
+    - 2.6:
+        non_striker: Walid Ghauri
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        bowler: H Khogiyani
+        actual_delivery: '2.6'
+        batsman: Saif-Ul Islam
+    - 2.7:
+        non_striker: Walid Ghauri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: H Khogiyani
+        actual_delivery: '2.6'
+        batsman: Saif-Ul Islam
+    - 3.1:
+        non_striker: Walid Ghauri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        bowler: Baseer Khan
+        actual_delivery: '3.1'
+        batsman: Saif-Ul Islam
+    - 3.2:
+        non_striker: Walid Ghauri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Baseer Khan
+        actual_delivery: '3.2'
+        batsman: Saif-Ul Islam
+    - 3.3:
+        non_striker: Walid Ghauri
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        bowler: Baseer Khan
+        actual_delivery: '3.3'
+        batsman: Saif-Ul Islam
+    - 3.4:
+        non_striker: Walid Ghauri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Baseer Khan
+        actual_delivery: '3.3'
+        batsman: Saif-Ul Islam
+    - 3.5:
+        non_striker: Walid Ghauri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Baseer Khan
+        actual_delivery: '3.4'
+        batsman: Saif-Ul Islam
+    - 3.6:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Baseer Khan
+        actual_delivery: '3.5'
+        batsman: Walid Ghauri
+    - 3.7:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Baseer Khan
+        actual_delivery: '3.6'
+        batsman: Walid Ghauri
+    - 4.1:
+        non_striker: Walid Ghauri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: H Khogiyani
+        actual_delivery: '4.1'
+        batsman: Saif-Ul Islam
+    - 4.2:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        bowler: H Khogiyani
+        actual_delivery: '4.2'
+        batsman: Walid Ghauri
+    - 4.3:
+        non_striker: Saif-Ul Islam
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        bowler: H Khogiyani
+        actual_delivery: '4.3'
+        batsman: Walid Ghauri
+    - 4.4:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: H Khogiyani
+        actual_delivery: '4.3'
+        batsman: Walid Ghauri
+    - 4.5:
+        non_striker: Walid Ghauri
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        bowler: H Khogiyani
+        actual_delivery: '4.4'
+        batsman: Saif-Ul Islam
+    - 4.6:
+        non_striker: Walid Ghauri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        bowler: H Khogiyani
+        actual_delivery: '4.4'
+        batsman: Saif-Ul Islam
+    - 4.7:
+        non_striker: Walid Ghauri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: H Khogiyani
+        actual_delivery: '4.5'
+        batsman: Saif-Ul Islam
+    - 4.8:
+        non_striker: Walid Ghauri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        bowler: H Khogiyani
+        actual_delivery: '4.6'
+        batsman: Saif-Ul Islam
+    - 5.1:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        bowler: Baseer Khan
+        actual_delivery: '5.1'
+        batsman: Walid Ghauri
+    - 5.2:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Baseer Khan
+        actual_delivery: '5.2'
+        batsman: Walid Ghauri
+    - 5.3:
+        non_striker: Walid Ghauri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Baseer Khan
+        actual_delivery: '5.3'
+        batsman: Saif-Ul Islam
+    - 5.4:
+        non_striker: Walid Ghauri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Baseer Khan
+        actual_delivery: '5.4'
+        batsman: Saif-Ul Islam
+    - 5.5:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Baseer Khan
+        actual_delivery: '5.5'
+        batsman: Walid Ghauri
+        wicket:
+          player_out: Walid Ghauri
+          fielders:
+          - Zeshan Arif
+          kind: caught
+    - 5.6:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Baseer Khan
+        actual_delivery: '5.6'
+        batsman: Chaudhary Akram
+    - 6.1:
+        non_striker: Chaudhary Akram
+        bowler: Shadnan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: Saif-Ul Islam
+    - 6.2:
+        non_striker: Saif-Ul Islam
+        bowler: Shadnan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.2'
+        batsman: Chaudhary Akram
+    - 6.3:
+        non_striker: Saif-Ul Islam
+        bowler: Shadnan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.3'
+        batsman: Chaudhary Akram
+    - 6.4:
+        non_striker: Saif-Ul Islam
+        bowler: Shadnan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Chaudhary Akram
+    - 6.5:
+        non_striker: Saif-Ul Islam
+        bowler: Shadnan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: Chaudhary Akram
+    - 6.6:
+        non_striker: Chaudhary Akram
+        bowler: Shadnan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: Saif-Ul Islam
+    - 7.1:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Baseer Khan
+        actual_delivery: '7.1'
+        batsman: Chaudhary Akram
+    - 7.2:
+        non_striker: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Baseer Khan
+        actual_delivery: '7.2'
+        batsman: Saif-Ul Islam
+    - 7.3:
+        non_striker: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Baseer Khan
+        actual_delivery: '7.3'
+        batsman: Saif-Ul Islam
+    - 7.4:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Baseer Khan
+        actual_delivery: '7.4'
+        batsman: Chaudhary Akram
+    - 7.5:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        bowler: Baseer Khan
+        actual_delivery: '7.5'
+        batsman: Chaudhary Akram
+    - 7.6:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Baseer Khan
+        actual_delivery: '7.6'
+        batsman: Chaudhary Akram
+    - 8.1:
+        non_striker: Chaudhary Akram
+        bowler: Shadnan Khan
+        extras:
+          byes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Saif-Ul Islam
+    - 8.2:
+        non_striker: Saif-Ul Islam
+        bowler: Shadnan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Chaudhary Akram
+    - 8.3:
+        non_striker: Chaudhary Akram
+        bowler: Shadnan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: Saif-Ul Islam
+    - 8.4:
+        non_striker: Saif-Ul Islam
+        bowler: Shadnan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: Chaudhary Akram
+    - 8.5:
+        non_striker: Chaudhary Akram
+        bowler: Shadnan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.5'
+        batsman: Saif-Ul Islam
+    - 8.6:
+        non_striker: Chaudhary Akram
+        bowler: Shadnan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.6'
+        batsman: Saif-Ul Islam
+    - 9.1:
+        non_striker: Saif-Ul Islam
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: Chaudhary Akram
+    - 9.2:
+        non_striker: Chaudhary Akram
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Saif-Ul Islam
+    - 9.3:
+        non_striker: Chaudhary Akram
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: Saif-Ul Islam
+    - 9.4:
+        non_striker: Chaudhary Akram
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: Saif-Ul Islam
+    - 9.5:
+        non_striker: Chaudhary Akram
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: Saif-Ul Islam
+    - 9.6:
+        non_striker: Saif-Ul Islam
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: Chaudhary Akram
+    - 10.1:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Waqar Zalmai
+        actual_delivery: '10.1'
+        batsman: Chaudhary Akram
+    - 10.2:
+        non_striker: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Waqar Zalmai
+        actual_delivery: '10.2'
+        batsman: Saif-Ul Islam
+    - 10.3:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Waqar Zalmai
+        actual_delivery: '10.3'
+        batsman: Chaudhary Akram
+    - 10.4:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        bowler: Waqar Zalmai
+        actual_delivery: '10.4'
+        batsman: Chaudhary Akram
+    - 10.5:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Waqar Zalmai
+        actual_delivery: '10.5'
+        batsman: Chaudhary Akram
+    - 10.6:
+        non_striker: Saif-Ul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Waqar Zalmai
+        actual_delivery: '10.6'
+        batsman: Chaudhary Akram
+    - 11.1:
+        non_striker: Saif-Ul Islam
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: Chaudhary Akram
+    - 11.2:
+        non_striker: Chaudhary Akram
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: Saif-Ul Islam
+        wicket:
+          player_out: Saif-Ul Islam
+          fielders:
+          - Faridullah Shams (sub)
+          kind: caught
+    - 11.3:
+        non_striker: Chaudhary Akram
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: Akhter Pacha Sher
+        wicket:
+          player_out: Akhter Pacha Sher
+          kind: lbw
+    - 11.4:
+        non_striker: Chaudhary Akram
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: Faisal Raza
+    - 11.5:
+        non_striker: Chaudhary Akram
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: Faisal Raza
+    - 11.6:
+        non_striker: Faisal Raza
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Chaudhary Akram
+    - 12.1:
+        non_striker: Faisal Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Waqar Zalmai
+        actual_delivery: '12.1'
+        batsman: Chaudhary Akram
+    - 12.2:
+        non_striker: Faisal Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Waqar Zalmai
+        actual_delivery: '12.2'
+        batsman: Chaudhary Akram
+    - 12.3:
+        non_striker: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Waqar Zalmai
+        actual_delivery: '12.3'
+        batsman: Faisal Raza
+    - 12.4:
+        non_striker: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Waqar Zalmai
+        actual_delivery: '12.4'
+        batsman: Faisal Raza
+    - 12.5:
+        non_striker: Faisal Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Waqar Zalmai
+        actual_delivery: '12.5'
+        batsman: Chaudhary Akram
+    - 12.6:
+        non_striker: Chaudhary Akram
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        bowler: Waqar Zalmai
+        actual_delivery: '12.6'
+        batsman: Faisal Raza
+    - 12.7:
+        non_striker: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Waqar Zalmai
+        actual_delivery: '12.6'
+        batsman: Faisal Raza
+    - 13.1:
+        non_striker: Chaudhary Akram
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.1'
+        batsman: Faisal Raza
+    - 13.2:
+        non_striker: Chaudhary Akram
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: Faisal Raza
+    - 13.3:
+        non_striker: Chaudhary Akram
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: Faisal Raza
+    - 13.4:
+        non_striker: Chaudhary Akram
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Faisal Raza
+    - 13.5:
+        non_striker: Chaudhary Akram
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.5'
+        batsman: Faisal Raza
+    - 13.6:
+        non_striker: Chaudhary Akram
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Faisal Raza
+    - 14.1:
+        non_striker: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Waqar Zalmai
+        actual_delivery: '14.1'
+        batsman: Faisal Raza
+    - 14.2:
+        non_striker: Faisal Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Waqar Zalmai
+        actual_delivery: '14.2'
+        batsman: Chaudhary Akram
+    - 14.3:
+        non_striker: Faisal Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Waqar Zalmai
+        actual_delivery: '14.3'
+        batsman: Chaudhary Akram
+    - 14.4:
+        non_striker: Faisal Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Waqar Zalmai
+        actual_delivery: '14.4'
+        batsman: Chaudhary Akram
+    - 14.5:
+        non_striker: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Waqar Zalmai
+        actual_delivery: '14.5'
+        batsman: Faisal Raza
+    - 14.6:
+        non_striker: Faisal Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Waqar Zalmai
+        actual_delivery: '14.6'
+        batsman: Chaudhary Akram
+    - 15.1:
+        non_striker: Faisal Raza
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: Chaudhary Akram
+    - 15.2:
+        non_striker: Chaudhary Akram
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.2'
+        batsman: Faisal Raza
+    - 15.3:
+        non_striker: Chaudhary Akram
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: Faisal Raza
+        wicket:
+          player_out: Faisal Raza
+          kind: bowled
+    - 15.4:
+        non_striker: Chaudhary Akram
+        bowler: Bilal Zalmai
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: Qamar Mushtaque
+    - 15.5:
+        non_striker: Chaudhary Akram
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: Qamar Mushtaque
+    - 15.6:
+        non_striker: Chaudhary Akram
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: Qamar Mushtaque
+    - 15.7:
+        non_striker: Chaudhary Akram
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: Qamar Mushtaque
+    - 16.1:
+        non_striker: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Waqar Zalmai
+        actual_delivery: '16.1'
+        batsman: Qamar Mushtaque
+        wicket:
+          player_out: Qamar Mushtaque
+          fielders:
+          - Irfan Safi
+          kind: caught
+    - 16.2:
+        non_striker: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Waqar Zalmai
+        actual_delivery: '16.2'
+        batsman: Farmanullah Ghari
+    - 16.3:
+        non_striker: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Waqar Zalmai
+        actual_delivery: '16.3'
+        batsman: Farmanullah Ghari
+    - 16.4:
+        non_striker: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        bowler: Waqar Zalmai
+        actual_delivery: '16.4'
+        batsman: Farmanullah Ghari
+    - 16.5:
+        non_striker: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Waqar Zalmai
+        actual_delivery: '16.5'
+        batsman: Farmanullah Ghari
+        wicket:
+          player_out: Farmanullah Ghari
+          kind: bowled
+    - 16.6:
+        non_striker: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Waqar Zalmai
+        actual_delivery: '16.6'
+        batsman: A Gupta
+    - 17.1:
+        non_striker: Chaudhary Akram
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: A Gupta
+    - 17.2:
+        non_striker: A Gupta
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.2'
+        batsman: Chaudhary Akram
+    - 17.3:
+        non_striker: A Gupta
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.3'
+        batsman: Chaudhary Akram
+    - 17.4:
+        non_striker: A Gupta
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.4'
+        batsman: Chaudhary Akram
+    - 17.5:
+        non_striker: A Gupta
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.5'
+        batsman: Chaudhary Akram
+    - 17.6:
+        non_striker: A Gupta
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: Chaudhary Akram
+        wicket:
+          player_out: Chaudhary Akram
+          fielders:
+          - Bilal Zalmai
+          - Nageebullah Sultanzai
+          kind: run out
+- 2nd innings:
+    team: Austria
+    deliveries:
+    - 0.1:
+        non_striker: Bilal Zalmai
+        extras:
+          wides: 2
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '0.1'
+        batsman: Karanbir Singh
+    - 0.2:
+        non_striker: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '0.1'
+        batsman: Bilal Zalmai
+    - 0.3:
+        non_striker: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '0.2'
+        batsman: Bilal Zalmai
+    - 0.4:
+        non_striker: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '0.3'
+        batsman: Bilal Zalmai
+    - 0.5:
+        non_striker: Karanbir Singh
+        extras:
+          wides: 2
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '0.4'
+        batsman: Bilal Zalmai
+    - 0.6:
+        non_striker: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '0.4'
+        batsman: Karanbir Singh
+    - 0.7:
+        non_striker: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '0.5'
+        batsman: Karanbir Singh
+    - 0.8:
+        non_striker: Karanbir Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '0.6'
+        batsman: Bilal Zalmai
+    - 1.1:
+        non_striker: Karanbir Singh
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: Bilal Zalmai
+    - 1.2:
+        non_striker: Karanbir Singh
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: Bilal Zalmai
+    - 1.3:
+        non_striker: Karanbir Singh
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: Bilal Zalmai
+    - 1.4:
+        non_striker: Karanbir Singh
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: Bilal Zalmai
+    - 1.5:
+        non_striker: Karanbir Singh
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: Bilal Zalmai
+    - 1.6:
+        non_striker: Bilal Zalmai
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Karanbir Singh
+    - 2.1:
+        non_striker: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '2.1'
+        batsman: Bilal Zalmai
+        wicket:
+          player_out: Bilal Zalmai
+          fielders:
+          - Khizer Ahmed
+          kind: caught
+    - 2.2:
+        non_striker: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '2.2'
+        batsman: Irfan Safi
+    - 2.3:
+        non_striker: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '2.3'
+        batsman: Irfan Safi
+    - 2.4:
+        non_striker: Karanbir Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '2.4'
+        batsman: Irfan Safi
+    - 2.5:
+        non_striker: Irfan Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '2.5'
+        batsman: Karanbir Singh
+    - 2.6:
+        non_striker: Irfan Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '2.6'
+        batsman: Karanbir Singh
+    - 3.1:
+        non_striker: Karanbir Singh
+        bowler: Farmanullah Ghari
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Irfan Safi
+    - 3.2:
+        non_striker: Karanbir Singh
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Irfan Safi
+    - 3.3:
+        non_striker: Karanbir Singh
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Irfan Safi
+    - 3.4:
+        non_striker: Karanbir Singh
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: Irfan Safi
+    - 3.5:
+        non_striker: Irfan Safi
+        bowler: Farmanullah Ghari
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Karanbir Singh
+    - 3.6:
+        non_striker: Irfan Safi
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Karanbir Singh
+    - 3.7:
+        non_striker: Irfan Safi
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Karanbir Singh
+    - 3.8:
+        non_striker: Irfan Safi
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Karanbir Singh
+    - 4.1:
+        non_striker: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '4.1'
+        batsman: Irfan Safi
+    - 4.2:
+        non_striker: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '4.2'
+        batsman: Irfan Safi
+    - 4.3:
+        non_striker: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '4.3'
+        batsman: Irfan Safi
+    - 4.4:
+        non_striker: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '4.4'
+        batsman: Irfan Safi
+    - 4.5:
+        non_striker: Karanbir Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '4.5'
+        batsman: Irfan Safi
+    - 4.6:
+        non_striker: Irfan Safi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '4.6'
+        batsman: Karanbir Singh
+    - 5.1:
+        non_striker: Irfan Safi
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Karanbir Singh
+    - 5.2:
+        non_striker: Irfan Safi
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: Karanbir Singh
+    - 5.3:
+        non_striker: Irfan Safi
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.3'
+        batsman: Karanbir Singh
+    - 5.4:
+        non_striker: Irfan Safi
+        bowler: Qamar Mushtaque
+        extras:
+          byes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Karanbir Singh
+    - 5.5:
+        non_striker: Karanbir Singh
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: Irfan Safi
+    - 5.6:
+        non_striker: Irfan Safi
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: Karanbir Singh
+    - 6.1:
+        non_striker: Irfan Safi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '6.1'
+        batsman: Karanbir Singh
+    - 6.2:
+        non_striker: Irfan Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '6.2'
+        batsman: Karanbir Singh
+    - 6.3:
+        non_striker: Irfan Safi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '6.3'
+        batsman: Karanbir Singh
+    - 6.4:
+        non_striker: Irfan Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '6.4'
+        batsman: Karanbir Singh
+    - 6.5:
+        non_striker: Irfan Safi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '6.5'
+        batsman: Karanbir Singh
+    - 6.6:
+        non_striker: Karanbir Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        bowler: Ahmadullah Shinwari
+        actual_delivery: '6.6'
+        batsman: Irfan Safi
+    - 7.1:
+        non_striker: Irfan Safi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        bowler: AJ Parmar
+        actual_delivery: '7.1'
+        batsman: Karanbir Singh
+    - 7.2:
+        non_striker: Irfan Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: AJ Parmar
+        actual_delivery: '7.2'
+        batsman: Karanbir Singh
+    - 7.3:
+        non_striker: Irfan Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: AJ Parmar
+        actual_delivery: '7.3'
+        batsman: Karanbir Singh
+    - 7.4:
+        non_striker: Irfan Safi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: AJ Parmar
+        actual_delivery: '7.4'
+        batsman: Karanbir Singh
+    - 7.5:
+        non_striker: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: AJ Parmar
+        actual_delivery: '7.5'
+        batsman: Irfan Safi
+    - 7.6:
+        non_striker: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: AJ Parmar
+        actual_delivery: '7.6'
+        batsman: Irfan Safi
+    - 8.1:
+        non_striker: Irfan Safi
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.1'
+        batsman: Karanbir Singh
+    - 8.2:
+        non_striker: Irfan Safi
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Karanbir Singh
+    - 8.3:
+        non_striker: Karanbir Singh
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.3'
+        batsman: Irfan Safi
+    - 8.4:
+        non_striker: Karanbir Singh
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: Irfan Safi
+    - 8.5:
+        non_striker: Karanbir Singh
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Irfan Safi
+    - 8.6:
+        non_striker: Irfan Safi
+        bowler: A Gupta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: Karanbir Singh
+    - 9.1:
+        non_striker: Irfan Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: AJ Parmar
+        actual_delivery: '9.1'
+        batsman: Karanbir Singh
+    - 9.2:
+        non_striker: Irfan Safi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: AJ Parmar
+        actual_delivery: '9.2'
+        batsman: Karanbir Singh
+    - 9.3:
+        non_striker: Karanbir Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        bowler: AJ Parmar
+        actual_delivery: '9.3'
+        batsman: Irfan Safi
+    - 9.4:
+        non_striker: Karanbir Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: AJ Parmar
+        actual_delivery: '9.4'
+        batsman: Irfan Safi
+    - 9.5:
+        non_striker: Irfan Safi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        bowler: AJ Parmar
+        actual_delivery: '9.5'
+        batsman: Karanbir Singh
+    - 9.6:
+        non_striker: Irfan Safi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: AJ Parmar
+        actual_delivery: '9.6'
+        batsman: Karanbir Singh
+    - 10.1:
+        non_striker: Irfan Safi
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: Karanbir Singh
+    - 10.2:
+        non_striker: Irfan Safi
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: Karanbir Singh
+    - 10.3:
+        non_striker: Irfan Safi
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '10.3'
+        batsman: Karanbir Singh
+    - 10.4:
+        non_striker: Irfan Safi
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.4'
+        batsman: Karanbir Singh
+    - 10.5:
+        non_striker: Irfan Safi
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: Karanbir Singh
+        wicket:
+          player_out: Karanbir Singh
+          fielders:
+          - Khizer Ahmed
+          kind: caught
+    - 10.6:
+        non_striker: Irfan Safi
+        bowler: Qamar Mushtaque
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Shadnan Khan
+    - 11.1:
+        non_striker: Irfan Safi
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: Shadnan Khan
+    - 11.2:
+        non_striker: Shadnan Khan
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: Irfan Safi
+    - 11.3:
+        non_striker: Irfan Safi
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: Shadnan Khan
+    - 11.4:
+        non_striker: Shadnan Khan
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: Irfan Safi

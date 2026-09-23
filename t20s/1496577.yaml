@@ -1,0 +1,2078 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-07-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bristol
+  dates:
+  - '2026-07-09'
+  gender: male
+  match_type: T20
+  match_type_number: 4020
+  outcome:
+    winner: England
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - HC Brook
+  players:
+    India:
+    - V Suryavanshi
+    - Abhishek Sharma
+    - Ishan Kishan
+    - SS Iyer
+    - S Dube
+    - Tilak Varma
+    - Washington Sundar
+    - AR Patel
+    - Prince Yadav
+    - Arshdeep Singh
+    - M Prasidh Krishna
+    England:
+    - PD Salt
+    - JC Buttler
+    - HC Brook
+    - JG Bethell
+    - T Banton
+    - WG Jacks
+    - SM Curran
+    - Rehan Ahmed
+    - JC Archer
+    - AU Rashid
+    - JC Tongue
+  registry:
+    people:
+      AR Patel: 2e171977
+      AU Rashid: 249d60c9
+      Abhishek Sharma: f29185a1
+      Arshdeep Singh: 244048f6
+      GD Lloyd: 36e0770d
+      HC Brook: 4ae1755b
+      Ishan Kishan: 752f7486
+      JC Archer: 5574750c
+      JC Buttler: 99b75528
+      JC Tongue: 1f1b4c89
+      JG Bethell: 3c55c703
+      M Burns: b3bd0666
+      M Prasidh Krishna: 85e0cf10
+      MJ Saggers: 402d5937
+      PD Salt: 3d284ca3
+      Prince Yadav: 80b2fb19
+      RB Richardson: 410e2f12
+      RJ Warren: 9d1c62d7
+      Rehan Ahmed: 0ecb4de6
+      S Dube: a4e37e47
+      SM Curran: e94915e6
+      SS Iyer: 85ec8e33
+      T Banton: 25f7b7d6
+      Tilak Varma: b0482a1d
+      V Suryavanshi: 470f446b
+      WG Jacks: 9caf69a1
+      Washington Sundar: f19ccfad
+  team_type: international
+  teams:
+  - India
+  - England
+  toss:
+    winner: India
+    decision: bat
+  umpires:
+  - M Burns
+  - RJ Warren
+  venue: County Ground, Bristol
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.1'
+        batsman: V Suryavanshi
+    - 0.2:
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.1'
+        batsman: V Suryavanshi
+    - 0.3:
+        non_striker: V Suryavanshi
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: Abhishek Sharma
+    - 0.4:
+        non_striker: V Suryavanshi
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: Abhishek Sharma
+    - 0.5:
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.4'
+        batsman: V Suryavanshi
+    - 0.6:
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: V Suryavanshi
+    - 0.7:
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: V Suryavanshi
+    - 1.1:
+        non_striker: V Suryavanshi
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.1'
+        batsman: Abhishek Sharma
+    - 1.2:
+        non_striker: V Suryavanshi
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: Abhishek Sharma
+    - 1.3:
+        non_striker: V Suryavanshi
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: Abhishek Sharma
+    - 1.4:
+        non_striker: Abhishek Sharma
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: V Suryavanshi
+    - 1.5:
+        non_striker: Abhishek Sharma
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.5'
+        batsman: V Suryavanshi
+    - 1.6:
+        non_striker: Abhishek Sharma
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.6'
+        batsman: V Suryavanshi
+    - 2.1:
+        non_striker: V Suryavanshi
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: Abhishek Sharma
+    - 2.2:
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.2'
+        batsman: V Suryavanshi
+    - 2.3:
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: V Suryavanshi
+    - 2.4:
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: V Suryavanshi
+        wicket:
+          player_out: V Suryavanshi
+          fielders:
+          - SM Curran
+          kind: caught
+    - 2.5:
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: Ishan Kishan
+    - 2.6:
+        non_striker: Ishan Kishan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Abhishek Sharma
+    - 3.1:
+        non_striker: Abhishek Sharma
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Ishan Kishan
+    - 3.2:
+        non_striker: Abhishek Sharma
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: Ishan Kishan
+    - 3.3:
+        non_striker: Ishan Kishan
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: Abhishek Sharma
+    - 3.4:
+        non_striker: Ishan Kishan
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: Abhishek Sharma
+    - 3.5:
+        non_striker: Abhishek Sharma
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.5'
+        batsman: Ishan Kishan
+    - 3.6:
+        non_striker: Abhishek Sharma
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Ishan Kishan
+    - 4.1:
+        non_striker: Ishan Kishan
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: Abhishek Sharma
+    - 4.2:
+        non_striker: Abhishek Sharma
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: Ishan Kishan
+        wicket:
+          player_out: Ishan Kishan
+          fielders:
+          - SM Curran
+          kind: caught
+    - 4.3:
+        non_striker: Abhishek Sharma
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: SS Iyer
+    - 4.4:
+        non_striker: Abhishek Sharma
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: SS Iyer
+    - 4.5:
+        non_striker: Abhishek Sharma
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: SS Iyer
+    - 4.6:
+        non_striker: Abhishek Sharma
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: SS Iyer
+    - 5.1:
+        non_striker: SS Iyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: Abhishek Sharma
+    - 5.2:
+        non_striker: Abhishek Sharma
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: SS Iyer
+    - 5.3:
+        non_striker: Abhishek Sharma
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: SS Iyer
+    - 5.4:
+        non_striker: Abhishek Sharma
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.4'
+        batsman: SS Iyer
+    - 5.5:
+        non_striker: Abhishek Sharma
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: SS Iyer
+    - 5.6:
+        non_striker: SS Iyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: Abhishek Sharma
+    - 6.1:
+        non_striker: SS Iyer
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: Abhishek Sharma
+    - 6.2:
+        non_striker: Abhishek Sharma
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.2'
+        batsman: SS Iyer
+    - 6.3:
+        non_striker: Abhishek Sharma
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: SS Iyer
+    - 6.4:
+        non_striker: SS Iyer
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Abhishek Sharma
+        wicket:
+          player_out: Abhishek Sharma
+          kind: caught and bowled
+    - 6.5:
+        non_striker: SS Iyer
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: S Dube
+    - 6.6:
+        non_striker: S Dube
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: SS Iyer
+    - 7.1:
+        non_striker: S Dube
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '7.1'
+        batsman: SS Iyer
+    - 7.2:
+        non_striker: SS Iyer
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: S Dube
+    - 7.3:
+        non_striker: SS Iyer
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: S Dube
+    - 7.4:
+        non_striker: S Dube
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: SS Iyer
+    - 7.5:
+        non_striker: S Dube
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: SS Iyer
+    - 7.6:
+        non_striker: S Dube
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.6'
+        batsman: SS Iyer
+    - 8.1:
+        non_striker: SS Iyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: S Dube
+    - 8.2:
+        non_striker: S Dube
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: SS Iyer
+    - 8.3:
+        non_striker: SS Iyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: S Dube
+    - 8.4:
+        non_striker: S Dube
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: SS Iyer
+    - 8.5:
+        non_striker: SS Iyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: S Dube
+    - 8.6:
+        non_striker: S Dube
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: SS Iyer
+    - 9.1:
+        non_striker: S Dube
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: SS Iyer
+    - 9.2:
+        non_striker: SS Iyer
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: S Dube
+    - 9.3:
+        non_striker: SS Iyer
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.3'
+        batsman: S Dube
+    - 9.4:
+        non_striker: SS Iyer
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: S Dube
+    - 9.5:
+        non_striker: SS Iyer
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: S Dube
+    - 9.6:
+        non_striker: S Dube
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: SS Iyer
+    - 10.1:
+        non_striker: S Dube
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: SS Iyer
+    - 10.2:
+        non_striker: S Dube
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: SS Iyer
+    - 10.3:
+        non_striker: SS Iyer
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: S Dube
+    - 10.4:
+        non_striker: SS Iyer
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: S Dube
+    - 10.5:
+        non_striker: S Dube
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.5'
+        batsman: SS Iyer
+    - 10.6:
+        non_striker: S Dube
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '10.6'
+        batsman: SS Iyer
+    - 11.1:
+        non_striker: SS Iyer
+        bowler: WG Jacks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.1'
+        batsman: S Dube
+    - 11.2:
+        non_striker: SS Iyer
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: S Dube
+    - 11.3:
+        non_striker: S Dube
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: SS Iyer
+    - 11.4:
+        non_striker: SS Iyer
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: S Dube
+    - 11.5:
+        non_striker: S Dube
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: SS Iyer
+    - 11.6:
+        non_striker: SS Iyer
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: S Dube
+    - 11.7:
+        non_striker: SS Iyer
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: S Dube
+    - 12.1:
+        non_striker: SS Iyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: S Dube
+    - 12.2:
+        non_striker: SS Iyer
+        bowler: SM Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.2'
+        batsman: S Dube
+    - 12.3:
+        non_striker: SS Iyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: S Dube
+    - 12.4:
+        non_striker: SS Iyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.3'
+        batsman: S Dube
+    - 12.5:
+        non_striker: SS Iyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: S Dube
+    - 12.6:
+        non_striker: S Dube
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: SS Iyer
+    - 12.7:
+        non_striker: S Dube
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: SS Iyer
+    - 13.1:
+        non_striker: S Dube
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: SS Iyer
+    - 13.2:
+        non_striker: SS Iyer
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: S Dube
+    - 13.3:
+        non_striker: S Dube
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '13.3'
+        batsman: SS Iyer
+    - 13.4:
+        non_striker: SS Iyer
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.4'
+        batsman: S Dube
+    - 13.5:
+        non_striker: SS Iyer
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: S Dube
+        wicket:
+          player_out: S Dube
+          fielders:
+          - T Banton
+          kind: caught
+    - 13.6:
+        non_striker: SS Iyer
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.6'
+        batsman: Tilak Varma
+    - 14.1:
+        non_striker: Tilak Varma
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.1'
+        batsman: SS Iyer
+    - 14.2:
+        non_striker: Tilak Varma
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: SS Iyer
+    - 14.3:
+        non_striker: SS Iyer
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: Tilak Varma
+    - 14.4:
+        non_striker: SS Iyer
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: Tilak Varma
+    - 14.5:
+        non_striker: Tilak Varma
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '14.5'
+        batsman: SS Iyer
+    - 14.6:
+        non_striker: Tilak Varma
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: SS Iyer
+    - 15.1:
+        non_striker: Tilak Varma
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: SS Iyer
+    - 15.2:
+        non_striker: Tilak Varma
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: SS Iyer
+    - 15.3:
+        non_striker: SS Iyer
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: Tilak Varma
+    - 15.4:
+        non_striker: Tilak Varma
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: SS Iyer
+    - 15.5:
+        non_striker: SS Iyer
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: Tilak Varma
+    - 15.6:
+        non_striker: Tilak Varma
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: SS Iyer
+    - 16.1:
+        non_striker: Tilak Varma
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.1'
+        batsman: SS Iyer
+    - 16.2:
+        non_striker: Tilak Varma
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: SS Iyer
+    - 16.3:
+        non_striker: SS Iyer
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: Tilak Varma
+    - 16.4:
+        non_striker: SS Iyer
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.4'
+        batsman: Tilak Varma
+    - 16.5:
+        non_striker: SS Iyer
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: Tilak Varma
+        wicket:
+          player_out: Tilak Varma
+          fielders:
+          - Rehan Ahmed
+          kind: caught
+    - 16.6:
+        non_striker: SS Iyer
+        bowler: JC Tongue
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: Washington Sundar
+    - 17.1:
+        non_striker: Washington Sundar
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.1'
+        batsman: SS Iyer
+    - 17.2:
+        non_striker: Washington Sundar
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: SS Iyer
+    - 17.3:
+        non_striker: SS Iyer
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: Washington Sundar
+    - 17.4:
+        non_striker: Washington Sundar
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.4'
+        batsman: SS Iyer
+    - 17.5:
+        non_striker: Washington Sundar
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.5'
+        batsman: SS Iyer
+    - 17.6:
+        non_striker: Washington Sundar
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.6'
+        batsman: SS Iyer
+    - 18.1:
+        non_striker: SS Iyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: Washington Sundar
+    - 18.2:
+        non_striker: SS Iyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: Washington Sundar
+    - 18.3:
+        non_striker: Washington Sundar
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: SS Iyer
+    - 18.4:
+        non_striker: SS Iyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: Washington Sundar
+    - 18.5:
+        non_striker: SS Iyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: Washington Sundar
+    - 18.6:
+        non_striker: Washington Sundar
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: SS Iyer
+    - 19.1:
+        non_striker: Washington Sundar
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: SS Iyer
+    - 19.2:
+        non_striker: SS Iyer
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.2'
+        batsman: Washington Sundar
+    - 19.3:
+        non_striker: SS Iyer
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: Washington Sundar
+        wicket:
+          player_out: Washington Sundar
+          fielders:
+          - AU Rashid
+          kind: caught
+    - 19.4:
+        non_striker: SS Iyer
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: AR Patel
+    - 19.5:
+        non_striker: SS Iyer
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.5'
+        batsman: AR Patel
+    - 19.6:
+        non_striker: AR Patel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: SS Iyer
+        wicket:
+          player_out: AR Patel
+          fielders:
+          - JC Archer
+          kind: run out
+- 2nd innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: JC Buttler
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: PD Salt
+    - 0.2:
+        non_striker: JC Buttler
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: PD Salt
+    - 0.3:
+        non_striker: JC Buttler
+        bowler: Arshdeep Singh
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        actual_delivery: '0.3'
+        batsman: PD Salt
+    - 0.4:
+        non_striker: JC Buttler
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: PD Salt
+    - 0.5:
+        non_striker: JC Buttler
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: PD Salt
+    - 0.6:
+        non_striker: JC Buttler
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: PD Salt
+    - 1.1:
+        non_striker: PD Salt
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: JC Buttler
+    - 1.2:
+        non_striker: PD Salt
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: JC Buttler
+    - 1.3:
+        non_striker: PD Salt
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: JC Buttler
+    - 1.4:
+        non_striker: JC Buttler
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '1.4'
+        batsman: PD Salt
+    - 1.5:
+        non_striker: PD Salt
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: JC Buttler
+    - 1.6:
+        non_striker: PD Salt
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: JC Buttler
+    - 2.1:
+        non_striker: PD Salt
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: JC Buttler
+    - 2.2:
+        non_striker: PD Salt
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.2'
+        batsman: JC Buttler
+    - 2.3:
+        non_striker: PD Salt
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: JC Buttler
+        wicket:
+          player_out: JC Buttler
+          fielders:
+          - Ishan Kishan
+          kind: caught
+    - 2.4:
+        non_striker: PD Salt
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: HC Brook
+    - 2.5:
+        non_striker: PD Salt
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.5'
+        batsman: HC Brook
+    - 2.6:
+        non_striker: PD Salt
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.6'
+        batsman: HC Brook
+    - 2.7:
+        non_striker: PD Salt
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.6'
+        batsman: HC Brook
+    - 3.1:
+        non_striker: HC Brook
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: PD Salt
+    - 3.2:
+        non_striker: HC Brook
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: PD Salt
+    - 3.3:
+        non_striker: HC Brook
+        bowler: Prince Yadav
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        actual_delivery: '3.3'
+        batsman: PD Salt
+    - 3.4:
+        non_striker: HC Brook
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: PD Salt
+    - 3.5:
+        non_striker: HC Brook
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.4'
+        batsman: PD Salt
+    - 3.6:
+        non_striker: HC Brook
+        bowler: Prince Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.5'
+        batsman: PD Salt
+    - 3.7:
+        non_striker: HC Brook
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.5'
+        batsman: PD Salt
+    - 3.8:
+        non_striker: HC Brook
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: PD Salt
+    - 4.1:
+        non_striker: HC Brook
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.1'
+        batsman: PD Salt
+    - 4.2:
+        non_striker: HC Brook
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: PD Salt
+    - 4.3:
+        non_striker: HC Brook
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: PD Salt
+    - 4.4:
+        non_striker: PD Salt
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: HC Brook
+    - 4.5:
+        non_striker: PD Salt
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '4.5'
+        batsman: HC Brook
+    - 4.6:
+        non_striker: HC Brook
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: PD Salt
+    - 4.7:
+        non_striker: HC Brook
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.6'
+        batsman: PD Salt
+    - 5.1:
+        non_striker: PD Salt
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: HC Brook
+    - 5.2:
+        non_striker: HC Brook
+        bowler: Prince Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '5.2'
+        batsman: PD Salt
+    - 5.3:
+        non_striker: PD Salt
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: HC Brook
+    - 5.4:
+        non_striker: PD Salt
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.4'
+        batsman: HC Brook
+    - 5.5:
+        non_striker: PD Salt
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: HC Brook
+    - 5.6:
+        non_striker: PD Salt
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.6'
+        batsman: HC Brook
+    - 6.1:
+        non_striker: HC Brook
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.1'
+        batsman: PD Salt
+    - 6.2:
+        non_striker: HC Brook
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: PD Salt
+    - 6.3:
+        non_striker: HC Brook
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: PD Salt
+    - 6.4:
+        non_striker: PD Salt
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: HC Brook
+    - 6.5:
+        non_striker: HC Brook
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: PD Salt
+    - 6.6:
+        non_striker: PD Salt
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: HC Brook
+    - 7.1:
+        non_striker: PD Salt
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: HC Brook
+    - 7.2:
+        non_striker: PD Salt
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.2'
+        batsman: HC Brook
+    - 7.3:
+        non_striker: PD Salt
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.3'
+        batsman: HC Brook
+    - 7.4:
+        non_striker: PD Salt
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.4'
+        batsman: HC Brook
+    - 7.5:
+        non_striker: PD Salt
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.5'
+        batsman: HC Brook
+    - 7.6:
+        non_striker: PD Salt
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: HC Brook
+    - 8.1:
+        non_striker: PD Salt
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: HC Brook
+    - 8.2:
+        non_striker: HC Brook
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: PD Salt
+    - 8.3:
+        non_striker: HC Brook
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.3'
+        batsman: PD Salt
+    - 8.4:
+        non_striker: HC Brook
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: PD Salt
+    - 8.5:
+        non_striker: PD Salt
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.5'
+        batsman: HC Brook
+    - 8.6:
+        non_striker: PD Salt
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.6'
+        batsman: HC Brook
+    - 9.1:
+        non_striker: HC Brook
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: PD Salt
+    - 9.2:
+        non_striker: PD Salt
+        bowler: S Dube
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.2'
+        batsman: HC Brook
+    - 9.3:
+        non_striker: PD Salt
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.2'
+        batsman: HC Brook
+    - 9.4:
+        non_striker: PD Salt
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.3'
+        batsman: HC Brook
+    - 9.5:
+        non_striker: PD Salt
+        bowler: S Dube
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.4'
+        batsman: HC Brook
+    - 9.6:
+        non_striker: PD Salt
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: HC Brook
+    - 9.7:
+        non_striker: HC Brook
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.5'
+        batsman: PD Salt
+    - 9.8:
+        non_striker: HC Brook
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: PD Salt
+    - 10.1:
+        non_striker: HC Brook
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: PD Salt
+    - 10.2:
+        non_striker: PD Salt
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.2'
+        batsman: HC Brook
+    - 10.3:
+        non_striker: PD Salt
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.3'
+        batsman: HC Brook
+    - 10.4:
+        non_striker: PD Salt
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: HC Brook
+    - 10.5:
+        non_striker: HC Brook
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.5'
+        batsman: PD Salt
+    - 10.6:
+        non_striker: HC Brook
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: PD Salt
+    - 11.1:
+        non_striker: HC Brook
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.1'
+        batsman: PD Salt
+    - 11.2:
+        non_striker: HC Brook
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: PD Salt
+    - 11.3:
+        non_striker: HC Brook
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: PD Salt
+    - 11.4:
+        non_striker: HC Brook
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: PD Salt
+    - 11.5:
+        non_striker: PD Salt
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: HC Brook
+    - 11.6:
+        non_striker: PD Salt
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.6'
+        batsman: HC Brook
+    - 12.1:
+        non_striker: HC Brook
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: PD Salt
+    - 12.2:
+        non_striker: HC Brook
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: PD Salt
+    - 12.3:
+        non_striker: PD Salt
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: HC Brook
+    - 12.4:
+        non_striker: PD Salt
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: HC Brook
+    - 12.5:
+        non_striker: HC Brook
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: PD Salt
+    - 12.6:
+        non_striker: PD Salt
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: HC Brook
+    - 13.1:
+        non_striker: PD Salt
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.1'
+        batsman: HC Brook
+    - 13.2:
+        non_striker: PD Salt
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.2'
+        batsman: HC Brook
+    - 13.3:
+        non_striker: PD Salt
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: HC Brook
+    - 13.4:
+        non_striker: HC Brook
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.4'
+        batsman: PD Salt
+    - 13.5:
+        non_striker: HC Brook
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.5'
+        batsman: PD Salt
+    - 13.6:
+        non_striker: HC Brook
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: PD Salt
+    target:
+      overs: 20
+      runs: 159

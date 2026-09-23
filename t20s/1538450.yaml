@@ -1,0 +1,2525 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Singapore
+  dates:
+  - '2026-06-05'
+  gender: male
+  match_type: T20
+  match_type_number: 3935
+  outcome:
+    winner: Bahrain
+    by:
+      runs: 2
+  overs: 20
+  player_of_match:
+  - Shujaat Rasool
+  players:
+    Bahrain:
+    - Abdulla Pervaiz
+    - Hamza Riaz
+    - Junaid Aziz
+    - Mohammed Sameer
+    - Muhammad Adil
+    - Yousif Wali
+    - Shujaat Rasool
+    - Abdul Rauf
+    - Sameer Yousuf
+    - Mohamad Junaid Khushi
+    - Mohammad Hamza
+    Singapore:
+    - M Bhatia
+    - Chamalka Fernando
+    - Aslan Jafri
+    - G Gune
+    - DPS Tyagi
+    - J Santhanam
+    - H Bharadwaj
+    - VT Thiyanesh
+    - MA Sherry
+    - P Somani
+    - K Venkatraman
+  registry:
+    people:
+      Abdul Rauf: 7f065618
+      Abdulla Pervaiz: 2f1be128
+      Aslan Jafri: a14b5f3c
+      Chamalka Fernando: cedf2c91
+      DPS Tyagi: d5f96736
+      G Gune: 5491a9ff
+      H Bharadwaj: 2e89652e
+      Hamza Riaz: f74390c5
+      J Santhanam: 4f1d3f68
+      John Prakash: b5f3d429
+      Junaid Aziz: c39ee9e0
+      K Venkatraman: a6881817
+      KK Ghosh: eea3fd8e
+      M Bhatia: 22bdbba3
+      MA Sherry: 77eb2d60
+      Mohamad Junaid Khushi: 389d04a6
+      Mohammad Hamza: 30adc2fa
+      Mohammed Sameer: e6409ae1
+      Muhammad Adil: 46e64b28
+      P Somani: e28cc0b7
+      Riaz Ur Rahman: 476a220a
+      Samad Akbar: f05bd21b
+      Sameer Yousuf: 89b2f78f
+      Shujaat Rasool: 2dd90a40
+      VT Thiyanesh: e1d2c0bf
+      Yousif Wali: ed27d267
+  teams:
+  - Bahrain
+  - Singapore
+  toss:
+    winner: Singapore
+    decision: field
+  umpires:
+  - Riaz Ur Rahman
+  - Samad Akbar
+  venue: Singapore National Cricket Ground
+  team_type: international
+innings:
+- 1st innings:
+    team: Bahrain
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Hamza Riaz
+        batsman: Abdulla Pervaiz
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: DPS Tyagi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Hamza Riaz
+        batsman: Abdulla Pervaiz
+    - 0.3:
+        actual_delivery: '0.2'
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Hamza Riaz
+        batsman: Abdulla Pervaiz
+    - 0.4:
+        actual_delivery: '0.3'
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Hamza Riaz
+        batsman: Abdulla Pervaiz
+    - 0.5:
+        actual_delivery: '0.4'
+        non_striker: Abdulla Pervaiz
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Riaz
+    - 0.6:
+        actual_delivery: '0.5'
+        non_striker: Abdulla Pervaiz
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Riaz
+    - 0.7:
+        actual_delivery: '0.6'
+        non_striker: Abdulla Pervaiz
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Riaz
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Hamza Riaz
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdulla Pervaiz
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Hamza Riaz
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abdulla Pervaiz
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: Hamza Riaz
+        bowler: K Venkatraman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Abdulla Pervaiz
+    - 1.4:
+        actual_delivery: '1.3'
+        non_striker: Hamza Riaz
+        bowler: K Venkatraman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abdulla Pervaiz
+    - 1.5:
+        actual_delivery: '1.3'
+        non_striker: Hamza Riaz
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdulla Pervaiz
+    - 1.6:
+        actual_delivery: '1.4'
+        non_striker: Abdulla Pervaiz
+        bowler: K Venkatraman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hamza Riaz
+    - 1.7:
+        actual_delivery: '1.4'
+        non_striker: Abdulla Pervaiz
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Riaz
+    - 1.8:
+        actual_delivery: '1.5'
+        non_striker: Abdulla Pervaiz
+        bowler: K Venkatraman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hamza Riaz
+    - 1.9:
+        actual_delivery: '1.5'
+        non_striker: Abdulla Pervaiz
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Riaz
+    - 1.10:
+        actual_delivery: '1.6'
+        non_striker: Abdulla Pervaiz
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Riaz
+        wicket:
+          player_out: Hamza Riaz
+          fielders:
+          - Aslan Jafri
+          kind: caught
+    - 2.1:
+        actual_delivery: '2.1'
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Junaid Aziz
+        batsman: Abdulla Pervaiz
+    - 2.2:
+        actual_delivery: '2.2'
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Junaid Aziz
+        batsman: Abdulla Pervaiz
+    - 2.3:
+        actual_delivery: '2.3'
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Junaid Aziz
+        batsman: Abdulla Pervaiz
+    - 2.4:
+        actual_delivery: '2.4'
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Junaid Aziz
+        batsman: Abdulla Pervaiz
+    - 2.5:
+        actual_delivery: '2.5'
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Junaid Aziz
+        batsman: Abdulla Pervaiz
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: Junaid Aziz
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abdulla Pervaiz
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Abdulla Pervaiz
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Abdulla Pervaiz
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: Abdulla Pervaiz
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Junaid Aziz
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: Abdulla Pervaiz
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: Abdulla Pervaiz
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: Abdulla Pervaiz
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Junaid Aziz
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Junaid Aziz
+        bowler: K Venkatraman
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Abdulla Pervaiz
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: Junaid Aziz
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdulla Pervaiz
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: Junaid Aziz
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdulla Pervaiz
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Junaid Aziz
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdulla Pervaiz
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: Junaid Aziz
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdulla Pervaiz
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: Junaid Aziz
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdulla Pervaiz
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Abdulla Pervaiz
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Abdulla Pervaiz
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Abdulla Pervaiz
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Aziz
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Junaid Aziz
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdulla Pervaiz
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: Junaid Aziz
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abdulla Pervaiz
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: Junaid Aziz
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdulla Pervaiz
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: Junaid Aziz
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdulla Pervaiz
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: Abdulla Pervaiz
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Junaid Aziz
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: Abdulla Pervaiz
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Abdulla Pervaiz
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Abdulla Pervaiz
+        bowler: J Santhanam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Junaid Aziz
+    - 6.6:
+        actual_delivery: '6.5'
+        non_striker: Abdulla Pervaiz
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Aziz
+    - 6.7:
+        actual_delivery: '6.6'
+        non_striker: Junaid Aziz
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdulla Pervaiz
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Abdulla Pervaiz
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: Abdulla Pervaiz
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Aziz
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: Junaid Aziz
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdulla Pervaiz
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: Abdulla Pervaiz
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Junaid Aziz
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: Abdulla Pervaiz
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Aziz
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: Junaid Aziz
+        bowler: VT Thiyanesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abdulla Pervaiz
+    - 7.7:
+        actual_delivery: '7.6'
+        non_striker: Junaid Aziz
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abdulla Pervaiz
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: Abdulla Pervaiz
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Junaid Aziz
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: Abdulla Pervaiz
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Aziz
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: Junaid Aziz
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abdulla Pervaiz
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: Junaid Aziz
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdulla Pervaiz
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: Abdulla Pervaiz
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: Abdulla Pervaiz
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Aziz
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: Abdulla Pervaiz
+        bowler: J Santhanam
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Junaid Aziz
+    - 9.2:
+        actual_delivery: '9.1'
+        non_striker: Junaid Aziz
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abdulla Pervaiz
+    - 9.3:
+        actual_delivery: '9.2'
+        non_striker: Junaid Aziz
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdulla Pervaiz
+        wicket:
+          player_out: Abdulla Pervaiz
+          kind: bowled
+    - 9.4:
+        actual_delivery: '9.3'
+        non_striker: Junaid Aziz
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Sameer
+    - 9.5:
+        actual_delivery: '9.4'
+        non_striker: Junaid Aziz
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Sameer
+        wicket:
+          player_out: Mohammed Sameer
+          kind: lbw
+    - 9.6:
+        actual_delivery: '9.5'
+        non_striker: Junaid Aziz
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Adil
+    - 9.7:
+        actual_delivery: '9.6'
+        non_striker: Muhammad Adil
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+        wicket:
+          player_out: Junaid Aziz
+          kind: lbw
+    - 10.1:
+        actual_delivery: '10.1'
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Yousif Wali
+        batsman: Muhammad Adil
+    - 10.2:
+        actual_delivery: '10.2'
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yousif Wali
+        batsman: Muhammad Adil
+    - 10.3:
+        actual_delivery: '10.3'
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Yousif Wali
+        batsman: Muhammad Adil
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: Muhammad Adil
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousif Wali
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: Muhammad Adil
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousif Wali
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: Muhammad Adil
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousif Wali
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Muhammad Adil
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousif Wali
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Yousif Wali
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Adil
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: Yousif Wali
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Adil
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: Muhammad Adil
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousif Wali
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: Muhammad Adil
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousif Wali
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: Yousif Wali
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Adil
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: Muhammad Adil
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousif Wali
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Muhammad Adil
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousif Wali
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Muhammad Adil
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousif Wali
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Yousif Wali
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Adil
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Yousif Wali
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Adil
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: Muhammad Adil
+        bowler: H Bharadwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yousif Wali
+    - 12.7:
+        actual_delivery: '12.6'
+        non_striker: Muhammad Adil
+        bowler: H Bharadwaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yousif Wali
+    - 12.8:
+        actual_delivery: '12.6'
+        non_striker: Muhammad Adil
+        bowler: H Bharadwaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousif Wali
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Yousif Wali
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Adil
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Yousif Wali
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Adil
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Yousif Wali
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Adil
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Muhammad Adil
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousif Wali
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: Yousif Wali
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Adil
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: Yousif Wali
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Adil
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Muhammad Adil
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousif Wali
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Muhammad Adil
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousif Wali
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Yousif Wali
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Adil
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: Yousif Wali
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Adil
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: Muhammad Adil
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousif Wali
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Muhammad Adil
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yousif Wali
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Yousif Wali
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Adil
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: Yousif Wali
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Adil
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: Muhammad Adil
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousif Wali
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: Yousif Wali
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Adil
+        wicket:
+          player_out: Muhammad Adil
+          kind: bowled
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: Yousif Wali
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shujaat Rasool
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: Yousif Wali
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shujaat Rasool
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: Shujaat Rasool
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousif Wali
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Shujaat Rasool
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousif Wali
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: Yousif Wali
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shujaat Rasool
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: Yousif Wali
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shujaat Rasool
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: Shujaat Rasool
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousif Wali
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: Yousif Wali
+        bowler: M Bhatia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shujaat Rasool
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: Yousif Wali
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shujaat Rasool
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: Yousif Wali
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shujaat Rasool
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: Yousif Wali
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shujaat Rasool
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: Yousif Wali
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shujaat Rasool
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: Yousif Wali
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shujaat Rasool
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: Yousif Wali
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shujaat Rasool
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: Shujaat Rasool
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousif Wali
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: Yousif Wali
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shujaat Rasool
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: Yousif Wali
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shujaat Rasool
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: Yousif Wali
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shujaat Rasool
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: Shujaat Rasool
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousif Wali
+        wicket:
+          player_out: Yousif Wali
+          kind: bowled
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: Shujaat Rasool
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Rauf
+        wicket:
+          player_out: Abdul Rauf
+          fielders:
+          - G Gune
+          kind: caught
+    - 19.1:
+        actual_delivery: '19.1'
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sameer Yousuf
+        batsman: Shujaat Rasool
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: Shujaat Rasool
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Yousuf
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: Sameer Yousuf
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shujaat Rasool
+        wicket:
+          player_out: Shujaat Rasool
+          fielders:
+          - VT Thiyanesh
+          kind: caught
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: Sameer Yousuf
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamad Junaid Khushi
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: Mohamad Junaid Khushi
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sameer Yousuf
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: Mohamad Junaid Khushi
+        bowler: K Venkatraman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sameer Yousuf
+- 2nd innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Mohamad Junaid Khushi
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        non_striker: Chamalka Fernando
+        batsman: M Bhatia
+    - 0.2:
+        actual_delivery: '0.1'
+        bowler: Mohamad Junaid Khushi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Chamalka Fernando
+        batsman: M Bhatia
+    - 0.3:
+        actual_delivery: '0.2'
+        bowler: Mohamad Junaid Khushi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Chamalka Fernando
+        batsman: M Bhatia
+    - 0.4:
+        actual_delivery: '0.2'
+        bowler: Mohamad Junaid Khushi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Chamalka Fernando
+        batsman: M Bhatia
+    - 0.5:
+        actual_delivery: '0.3'
+        bowler: Mohamad Junaid Khushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Chamalka Fernando
+        batsman: M Bhatia
+    - 0.6:
+        actual_delivery: '0.4'
+        non_striker: M Bhatia
+        bowler: Mohamad Junaid Khushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chamalka Fernando
+    - 0.7:
+        actual_delivery: '0.5'
+        non_striker: Chamalka Fernando
+        bowler: Mohamad Junaid Khushi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Bhatia
+    - 0.8:
+        actual_delivery: '0.6'
+        non_striker: Chamalka Fernando
+        bowler: Mohamad Junaid Khushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bhatia
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Chamalka Fernando
+        bowler: Shujaat Rasool
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bhatia
+    - 1.2:
+        actual_delivery: '1.1'
+        non_striker: Chamalka Fernando
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bhatia
+    - 1.3:
+        actual_delivery: '1.2'
+        non_striker: Chamalka Fernando
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Bhatia
+    - 1.4:
+        actual_delivery: '1.3'
+        non_striker: Chamalka Fernando
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bhatia
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: M Bhatia
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chamalka Fernando
+    - 1.6:
+        actual_delivery: '1.5'
+        non_striker: Chamalka Fernando
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bhatia
+    - 1.7:
+        actual_delivery: '1.6'
+        non_striker: Chamalka Fernando
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bhatia
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: M Bhatia
+        bowler: Abdul Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Chamalka Fernando
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: M Bhatia
+        bowler: Abdul Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chamalka Fernando
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: Chamalka Fernando
+        bowler: Abdul Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bhatia
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: M Bhatia
+        bowler: Abdul Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chamalka Fernando
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: Chamalka Fernando
+        bowler: Abdul Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bhatia
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: M Bhatia
+        bowler: Abdul Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chamalka Fernando
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: M Bhatia
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Chamalka Fernando
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: M Bhatia
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chamalka Fernando
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: Chamalka Fernando
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bhatia
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: Chamalka Fernando
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bhatia
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: M Bhatia
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chamalka Fernando
+        wicket:
+          player_out: Chamalka Fernando
+          kind: bowled
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: M Bhatia
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslan Jafri
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: M Bhatia
+        bowler: Abdul Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aslan Jafri
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: M Bhatia
+        bowler: Abdul Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aslan Jafri
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: M Bhatia
+        bowler: Abdul Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslan Jafri
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: M Bhatia
+        bowler: Abdul Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslan Jafri
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: Aslan Jafri
+        bowler: Abdul Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bhatia
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: Aslan Jafri
+        bowler: Abdul Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bhatia
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Aslan Jafri
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Bhatia
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Aslan Jafri
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Bhatia
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: M Bhatia
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslan Jafri
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: M Bhatia
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aslan Jafri
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: M Bhatia
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Aslan Jafri
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: Aslan Jafri
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bhatia
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: M Bhatia
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aslan Jafri
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: M Bhatia
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslan Jafri
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: Aslan Jafri
+        bowler: Sameer Yousuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bhatia
+    - 6.4:
+        actual_delivery: '6.3'
+        non_striker: Aslan Jafri
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Bhatia
+    - 6.5:
+        actual_delivery: '6.4'
+        non_striker: Aslan Jafri
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bhatia
+    - 6.6:
+        actual_delivery: '6.5'
+        non_striker: M Bhatia
+        bowler: Sameer Yousuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Aslan Jafri
+    - 6.7:
+        actual_delivery: '6.6'
+        non_striker: Aslan Jafri
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bhatia
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Aslan Jafri
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bhatia
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: Aslan Jafri
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bhatia
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: M Bhatia
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aslan Jafri
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: M Bhatia
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aslan Jafri
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: M Bhatia
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslan Jafri
+        wicket:
+          player_out: Aslan Jafri
+          fielders:
+          - Mohammed Sameer
+          kind: caught
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: M Bhatia
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: M Bhatia
+        bowler: Sameer Yousuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Gune
+    - 8.2:
+        actual_delivery: '8.1'
+        non_striker: M Bhatia
+        bowler: Sameer Yousuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Gune
+    - 8.3:
+        actual_delivery: '8.1'
+        non_striker: M Bhatia
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 8.4:
+        actual_delivery: '8.2'
+        non_striker: M Bhatia
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 8.5:
+        actual_delivery: '8.3'
+        non_striker: M Bhatia
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 8.6:
+        actual_delivery: '8.4'
+        non_striker: M Bhatia
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 8.7:
+        actual_delivery: '8.5'
+        non_striker: G Gune
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bhatia
+        wicket:
+          player_out: M Bhatia
+          fielders:
+          - Shujaat Rasool
+          kind: caught
+    - 8.8:
+        actual_delivery: '8.6'
+        non_striker: G Gune
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DPS Tyagi
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: DPS Tyagi
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: DPS Tyagi
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: G Gune
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DPS Tyagi
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: G Gune
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPS Tyagi
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: G Gune
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPS Tyagi
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: G Gune
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPS Tyagi
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: DPS Tyagi
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: G Gune
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPS Tyagi
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: G Gune
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPS Tyagi
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: G Gune
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPS Tyagi
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: DPS Tyagi
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Gune
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: DPS Tyagi
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: DPS Tyagi
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Gune
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: DPS Tyagi
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: DPS Tyagi
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: G Gune
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPS Tyagi
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: DPS Tyagi
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Gune
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: DPS Tyagi
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: DPS Tyagi
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: DPS Tyagi
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: G Gune
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DPS Tyagi
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: G Gune
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPS Tyagi
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: G Gune
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DPS Tyagi
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: G Gune
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPS Tyagi
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: G Gune
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DPS Tyagi
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: G Gune
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPS Tyagi
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: DPS Tyagi
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: G Gune
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPS Tyagi
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: DPS Tyagi
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: G Gune
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DPS Tyagi
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: DPS Tyagi
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: DPS Tyagi
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: G Gune
+        bowler: Sameer Yousuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DPS Tyagi
+    - 14.4:
+        actual_delivery: '14.3'
+        non_striker: G Gune
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DPS Tyagi
+    - 14.5:
+        actual_delivery: '14.4'
+        non_striker: G Gune
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPS Tyagi
+    - 14.6:
+        actual_delivery: '14.5'
+        non_striker: DPS Tyagi
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 14.7:
+        actual_delivery: '14.6'
+        non_striker: DPS Tyagi
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Gune
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: G Gune
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPS Tyagi
+        wicket:
+          player_out: DPS Tyagi
+          kind: bowled
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: G Gune
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Santhanam
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: J Santhanam
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: J Santhanam
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: G Gune
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Santhanam
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: G Gune
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Santhanam
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: G Gune
+        bowler: Mohamad Junaid Khushi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: J Santhanam
+    - 16.2:
+        actual_delivery: '16.1'
+        non_striker: G Gune
+        bowler: Mohamad Junaid Khushi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Santhanam
+    - 16.3:
+        actual_delivery: '16.2'
+        non_striker: J Santhanam
+        bowler: Mohamad Junaid Khushi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 16.4:
+        actual_delivery: '16.3'
+        non_striker: J Santhanam
+        bowler: Mohamad Junaid Khushi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 16.5:
+        actual_delivery: '16.4'
+        non_striker: J Santhanam
+        bowler: Mohamad Junaid Khushi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Gune
+    - 16.6:
+        actual_delivery: '16.5'
+        non_striker: J Santhanam
+        bowler: Mohamad Junaid Khushi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Gune
+    - 16.7:
+        actual_delivery: '16.6'
+        non_striker: J Santhanam
+        bowler: Mohamad Junaid Khushi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+        wicket:
+          player_out: G Gune
+          fielders:
+          - Muhammad Adil
+          kind: caught
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: H Bharadwaj
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Santhanam
+        wicket:
+          player_out: J Santhanam
+          fielders:
+          - Mohammad Hamza
+          kind: caught
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: H Bharadwaj
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Venkatraman
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: H Bharadwaj
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Venkatraman
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: K Venkatraman
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Bharadwaj
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: H Bharadwaj
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Venkatraman
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: H Bharadwaj
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Venkatraman
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: K Venkatraman
+        bowler: Mohamad Junaid Khushi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bharadwaj
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: K Venkatraman
+        bowler: Mohamad Junaid Khushi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Bharadwaj
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: K Venkatraman
+        bowler: Mohamad Junaid Khushi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bharadwaj
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: K Venkatraman
+        bowler: Mohamad Junaid Khushi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Bharadwaj
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: K Venkatraman
+        bowler: Mohamad Junaid Khushi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: H Bharadwaj
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: H Bharadwaj
+        bowler: Mohamad Junaid Khushi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Venkatraman
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: K Venkatraman
+        bowler: Abdul Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bharadwaj
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: K Venkatraman
+        bowler: Abdul Rauf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Bharadwaj
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: K Venkatraman
+        bowler: Abdul Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Bharadwaj
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: K Venkatraman
+        bowler: Abdul Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Bharadwaj
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: K Venkatraman
+        bowler: Abdul Rauf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: H Bharadwaj
+    - 19.6:
+        actual_delivery: '19.5'
+        non_striker: K Venkatraman
+        bowler: Abdul Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Bharadwaj
+    - 19.7:
+        actual_delivery: '19.6'
+        non_striker: K Venkatraman
+        bowler: Abdul Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Bharadwaj
+    target:
+      overs: 20
+      runs: 213

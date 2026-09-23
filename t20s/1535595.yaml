@@ -1,0 +1,1340 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Edinburgh
+  dates:
+  - '2026-06-03'
+  gender: female
+  match_type: T20
+  match_type_number: 2809
+  outcome:
+    winner: Scotland
+    by:
+      runs: 24
+    method: D/L
+  overs: 20
+  player_of_match:
+  - KE Bryce
+  players:
+    Scotland:
+    - DEM Carter
+    - K Fraser
+    - KE Bryce
+    - SJ Bryce
+    - A Lister
+    - KL Gordon
+    - M McColl
+    - PA Chatterji
+    - O Bell
+    - C Abel
+    - AH Maqsood
+    Netherlands:
+    - HDJ Siegers
+    - P Molkenboer
+    - B de Leede
+    - SL Kalis
+    - R Rijke
+    - S Khurana
+    - IJR Zwilling
+    - HWA Landheer
+    - C de Lange
+    - S Siegers
+    - I van der Woning
+  registry:
+    people:
+      A Lister: '090c0213'
+      AH Maqsood: f61e2829
+      B de Leede: b3020075
+      C Abel: d92d3563
+      C de Lange: c6a019f5
+      DEM Carter: c3394c16
+      DH Mclean: 281d4749
+      HDJ Siegers: 6d48df01
+      HWA Landheer: a6ec88f4
+      I McDonald: 37b55799
+      I van der Woning: 5aa8574b
+      IJR Zwilling: 47b32a5a
+      K Fraser: a0a65375
+      KE Bryce: f13d3eba
+      KL Gordon: '00823a96'
+      M McColl: d5fa2ab3
+      O Bell: 385eac52
+      P Molkenboer: fa9db243
+      PA Chatterji: 8e7be59c
+      R Rijke: 42e4b276
+      Ryan Milne: d2343b26
+      S Graham: f93dbab9
+      S Khurana: 9a9a056d
+      S Siegers: 9a58f2c8
+      SJ Bryce: 2ca65aee
+      SL Kalis: 2b150c6b
+  teams:
+  - Scotland
+  - Netherlands
+  toss:
+    winner: Netherlands
+    decision: field
+  umpires:
+  - I McDonald
+  - Ryan Milne
+  venue: Grange Cricket Club Ground, Raeburn Place, Edinburgh
+  team_type: international
+innings:
+- 1st innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: K Fraser
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: K Fraser
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: DEM Carter
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Fraser
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: DEM Carter
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: DEM Carter
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Fraser
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: DEM Carter
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Fraser
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: K Fraser
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: DEM Carter
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: DEM Carter
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: DEM Carter
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: K Fraser
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+        wicket:
+          player_out: DEM Carter
+          fielders:
+          - P Molkenboer
+          kind: caught
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: K Fraser
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: KE Bryce
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: KE Bryce
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Fraser
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: KE Bryce
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: K Fraser
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: KE Bryce
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: KE Bryce
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: K Fraser
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: K Fraser
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: K Fraser
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: K Fraser
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: K Fraser
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: K Fraser
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: KE Bryce
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Fraser
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: KE Bryce
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: K Fraser
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: K Fraser
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: KE Bryce
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: KE Bryce
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: K Fraser
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: K Fraser
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: K Fraser
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: K Fraser
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: KE Bryce
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+        wicket:
+          player_out: K Fraser
+          kind: bowled
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: KE Bryce
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: SJ Bryce
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: SJ Bryce
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: SJ Bryce
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: SJ Bryce
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: SJ Bryce
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: SJ Bryce
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: SJ Bryce
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: SJ Bryce
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: SJ Bryce
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: SJ Bryce
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: SJ Bryce
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: KE Bryce
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: KE Bryce
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: SJ Bryce
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: SJ Bryce
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: SJ Bryce
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: SJ Bryce
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: KE Bryce
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: KE Bryce
+        bowler: I van der Woning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: SJ Bryce
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KE Bryce
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: SJ Bryce
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: KE Bryce
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: KE Bryce
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: KE Bryce
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: KE Bryce
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: SJ Bryce
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: SJ Bryce
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+        wicket:
+          player_out: KE Bryce
+          fielders:
+          - S Khurana
+          kind: caught
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: SJ Bryce
+        bowler: IJR Zwilling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Lister
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: A Lister
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: SJ Bryce
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: A Lister
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: SJ Bryce
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Lister
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: SJ Bryce
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: A Lister
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: SJ Bryce
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: A Lister
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: SJ Bryce
+        bowler: HDJ Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+- 2nd innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: P Molkenboer
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: P Molkenboer
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDJ Siegers
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: HDJ Siegers
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: HDJ Siegers
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: HDJ Siegers
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Molkenboer
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: P Molkenboer
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDJ Siegers
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: P Molkenboer
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: P Molkenboer
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDJ Siegers
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: HDJ Siegers
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: HDJ Siegers
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+        wicket:
+          player_out: P Molkenboer
+          kind: bowled
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: HDJ Siegers
+        bowler: KE Bryce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: B de Leede
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: B de Leede
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDJ Siegers
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: HDJ Siegers
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: HDJ Siegers
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: B de Leede
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDJ Siegers
+        wicket:
+          player_out: HDJ Siegers
+          fielders:
+          - KE Bryce
+          kind: caught
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: B de Leede
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: SL Kalis
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B de Leede
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: SL Kalis
+        bowler: O Bell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B de Leede
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: B de Leede
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: B de Leede
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: B de Leede
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: SL Kalis
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B de Leede
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: B de Leede
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: B de Leede
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: B de Leede
+        bowler: KL Gordon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Kalis
+    - 4.2:
+        actual_delivery: '4.1'
+        non_striker: B de Leede
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 4.3:
+        actual_delivery: '4.2'
+        non_striker: B de Leede
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Kalis
+    - 4.4:
+        actual_delivery: '4.3'
+        non_striker: B de Leede
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 4.5:
+        actual_delivery: '4.4'
+        non_striker: B de Leede
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Kalis
+    - 4.6:
+        actual_delivery: '4.5'
+        non_striker: B de Leede
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Kalis
+    - 4.7:
+        actual_delivery: '4.6'
+        non_striker: B de Leede
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: B de Leede
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Kalis
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: B de Leede
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: B de Leede
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: B de Leede
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: B de Leede
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Kalis
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: B de Leede
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: B de Leede
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Kalis
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: B de Leede
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: B de Leede
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Kalis
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: SL Kalis
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+        wicket:
+          player_out: B de Leede
+          fielders:
+          - SJ Bryce
+          kind: caught
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: SL Kalis
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: SL Kalis
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: SL Kalis
+        bowler: PA Chatterji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Rijke
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: R Rijke
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Kalis
+        wicket:
+          player_out: SL Kalis
+          kind: bowled
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: R Rijke
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Khurana
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: S Khurana
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: R Rijke
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Khurana
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: S Khurana
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: R Rijke
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Khurana
+        wicket:
+          player_out: S Khurana
+          fielders:
+          - KE Bryce
+          kind: caught
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: R Rijke
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IJR Zwilling
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: R Rijke
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: R Rijke
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: IJR Zwilling
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: R Rijke
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: IJR Zwilling
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: R Rijke
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: R Rijke
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IJR Zwilling
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: R Rijke
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: IJR Zwilling
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+        wicket:
+          player_out: R Rijke
+          fielders:
+          - SJ Bryce
+          - M McColl
+          kind: run out
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: IJR Zwilling
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWA Landheer
+    target:
+      overs: 10
+      runs: 105

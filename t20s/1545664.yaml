@@ -1,0 +1,2406 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-08-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kerava
+  dates:
+  - '2026-08-15'
+  gender: male
+  match_type: T20
+  match_type_number: 4075
+  outcome:
+    winner: Czech Republic
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - S Wickramasekara
+  players:
+    Greece:
+    - Sinan Khan
+    - BJ Konstas
+    - Sajid Khan Afridi
+    - AS Mehmi
+    - BADL Faunce
+    - C Bogdanos
+    - A Gasteratos
+    - GC Galanis
+    - Samader Shadab
+    - Emanuel
+    - D Triantafillithis
+    Czech Republic:
+    - Ratul Khan
+    - S Grover
+    - Ritik Tomar
+    - Sazib Bhuiyan
+    - S Davizi
+    - S Wickramasekara
+    - D Ramani
+    - Sojib Miah
+    - JR Cope
+    - Saqlain Mukhtar
+    - N Tyagi
+  registry:
+    people:
+      A Gasteratos: e87c009a
+      AS Mehmi: 4612619b
+      BADL Faunce: 00df8c9b
+      BJ Konstas: '68877963'
+      C Bogdanos: ecdfdd3c
+      D Ramani: dacf556b
+      D Triantafillithis: 6e64afca
+      Emanuel: 510d525c
+      GC Galanis: db218528
+      JR Cope: d22960d9
+      MS Sathe: 7c82e11b
+      N Tyagi: 53984f75
+      Prakash Bhatt: f848ab0b
+      Ratul Khan: 75855e23
+      Ritik Tomar: 6de51a8e
+      Rizwan Akram: b5346f1e
+      S Davizi: 5787be00
+      S Grover: c2a6e61f
+      S Wickramasekara: a9a09cb8
+      Sajid Khan Afridi: edc950ce
+      Samader Shadab: 4289ccc9
+      Saqlain Mukhtar: 906bc22b
+      Sazib Bhuiyan: e5464794
+      Sinan Khan: 251eb801
+      Sojib Miah: 2c1f0acf
+      Vinay Malhotra: 452837d1
+  team_type: international
+  teams:
+  - Greece
+  - Czech Republic
+  toss:
+    winner: Greece
+    decision: bat
+  umpires:
+  - MS Sathe
+  - Vinay Malhotra
+  venue: Kerava National Cricket Ground
+innings:
+- 1st innings:
+    team: Greece
+    deliveries:
+    - 0.1:
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BJ Konstas
+        actual_delivery: '0.1'
+        batsman: Sinan Khan
+    - 0.2:
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BJ Konstas
+        actual_delivery: '0.2'
+        batsman: Sinan Khan
+    - 0.3:
+        bowler: JR Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: BJ Konstas
+        actual_delivery: '0.3'
+        batsman: Sinan Khan
+    - 0.4:
+        non_striker: BJ Konstas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: Sinan Khan
+        wicket:
+          player_out: Sinan Khan
+          kind: bowled
+    - 0.5:
+        non_striker: BJ Konstas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.4'
+        batsman: Sajid Khan Afridi
+    - 0.6:
+        non_striker: BJ Konstas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: Sajid Khan Afridi
+    - 0.7:
+        non_striker: Sajid Khan Afridi
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: BJ Konstas
+    - 1.1:
+        non_striker: Sajid Khan Afridi
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: BJ Konstas
+    - 1.2:
+        non_striker: Sajid Khan Afridi
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: BJ Konstas
+    - 1.3:
+        non_striker: Sajid Khan Afridi
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: BJ Konstas
+    - 1.4:
+        non_striker: BJ Konstas
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: Sajid Khan Afridi
+    - 1.5:
+        non_striker: Sajid Khan Afridi
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: BJ Konstas
+    - 1.6:
+        non_striker: Sajid Khan Afridi
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: BJ Konstas
+    - 2.1:
+        non_striker: BJ Konstas
+        bowler: JR Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.1'
+        batsman: Sajid Khan Afridi
+    - 2.2:
+        non_striker: BJ Konstas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: Sajid Khan Afridi
+    - 2.3:
+        non_striker: BJ Konstas
+        bowler: JR Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.2'
+        batsman: Sajid Khan Afridi
+    - 2.4:
+        non_striker: BJ Konstas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: Sajid Khan Afridi
+    - 2.5:
+        non_striker: BJ Konstas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: Sajid Khan Afridi
+    - 2.6:
+        non_striker: BJ Konstas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: Sajid Khan Afridi
+    - 2.7:
+        non_striker: Sajid Khan Afridi
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.5'
+        batsman: BJ Konstas
+    - 2.8:
+        non_striker: Sajid Khan Afridi
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: BJ Konstas
+    - 3.1:
+        non_striker: Sajid Khan Afridi
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: BJ Konstas
+    - 3.2:
+        non_striker: BJ Konstas
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Sajid Khan Afridi
+    - 3.3:
+        non_striker: BJ Konstas
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: Sajid Khan Afridi
+    - 3.4:
+        non_striker: BJ Konstas
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: Sajid Khan Afridi
+    - 3.5:
+        non_striker: Sajid Khan Afridi
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: BJ Konstas
+    - 3.6:
+        non_striker: BJ Konstas
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.6'
+        batsman: Sajid Khan Afridi
+    - 4.1:
+        non_striker: Sajid Khan Afridi
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: BJ Konstas
+    - 4.2:
+        non_striker: Sajid Khan Afridi
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: BJ Konstas
+    - 4.3:
+        non_striker: BJ Konstas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.3'
+        batsman: Sajid Khan Afridi
+    - 4.4:
+        non_striker: BJ Konstas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '4.4'
+        batsman: Sajid Khan Afridi
+    - 4.5:
+        non_striker: Sajid Khan Afridi
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '4.5'
+        batsman: BJ Konstas
+    - 4.6:
+        non_striker: BJ Konstas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Sajid Khan Afridi
+    - 5.1:
+        non_striker: Sajid Khan Afridi
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '5.1'
+        batsman: BJ Konstas
+    - 5.2:
+        non_striker: BJ Konstas
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.2'
+        batsman: Sajid Khan Afridi
+    - 5.3:
+        non_striker: BJ Konstas
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.3'
+        batsman: Sajid Khan Afridi
+    - 5.4:
+        non_striker: BJ Konstas
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: Sajid Khan Afridi
+    - 5.5:
+        non_striker: Sajid Khan Afridi
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: BJ Konstas
+        wicket:
+          player_out: BJ Konstas
+          fielders:
+          - S Davizi
+          kind: caught
+    - 5.6:
+        non_striker: Sajid Khan Afridi
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: AS Mehmi
+    - 6.1:
+        non_striker: Sajid Khan Afridi
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: AS Mehmi
+    - 6.2:
+        non_striker: AS Mehmi
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.2'
+        batsman: Sajid Khan Afridi
+    - 6.3:
+        non_striker: AS Mehmi
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Sajid Khan Afridi
+        wicket:
+          player_out: Sajid Khan Afridi
+          fielders:
+          - Saqlain Mukhtar
+          kind: caught
+    - 6.4:
+        non_striker: AS Mehmi
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: BADL Faunce
+    - 6.5:
+        non_striker: AS Mehmi
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: BADL Faunce
+    - 6.6:
+        non_striker: BADL Faunce
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: AS Mehmi
+    - 7.1:
+        non_striker: AS Mehmi
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: BADL Faunce
+    - 7.2:
+        non_striker: BADL Faunce
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: AS Mehmi
+    - 7.3:
+        non_striker: AS Mehmi
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: BADL Faunce
+    - 7.4:
+        non_striker: AS Mehmi
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.4'
+        batsman: BADL Faunce
+    - 7.5:
+        non_striker: AS Mehmi
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.5'
+        batsman: BADL Faunce
+    - 7.6:
+        non_striker: AS Mehmi
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: BADL Faunce
+    - 7.7:
+        non_striker: BADL Faunce
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: AS Mehmi
+    - 8.1:
+        non_striker: AS Mehmi
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: BADL Faunce
+        wicket:
+          player_out: BADL Faunce
+          fielders:
+          - Ratul Khan
+          kind: caught
+    - 8.2:
+        non_striker: AS Mehmi
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: C Bogdanos
+    - 8.3:
+        non_striker: AS Mehmi
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.3'
+        batsman: C Bogdanos
+    - 8.4:
+        non_striker: AS Mehmi
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: C Bogdanos
+    - 8.5:
+        non_striker: AS Mehmi
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: C Bogdanos
+    - 8.6:
+        non_striker: C Bogdanos
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: AS Mehmi
+    - 9.1:
+        non_striker: AS Mehmi
+        bowler: S Davizi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: C Bogdanos
+    - 9.2:
+        non_striker: AS Mehmi
+        bowler: S Davizi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.2'
+        batsman: C Bogdanos
+    - 9.3:
+        non_striker: AS Mehmi
+        bowler: S Davizi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: C Bogdanos
+    - 9.4:
+        non_striker: AS Mehmi
+        bowler: S Davizi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.3'
+        batsman: C Bogdanos
+    - 9.5:
+        non_striker: AS Mehmi
+        bowler: S Davizi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.3'
+        batsman: C Bogdanos
+    - 9.6:
+        non_striker: AS Mehmi
+        bowler: S Davizi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: C Bogdanos
+    - 9.7:
+        non_striker: AS Mehmi
+        bowler: S Davizi
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        actual_delivery: '9.4'
+        batsman: C Bogdanos
+    - 9.8:
+        non_striker: AS Mehmi
+        bowler: S Davizi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.4'
+        batsman: C Bogdanos
+    - 9.9:
+        non_striker: AS Mehmi
+        bowler: S Davizi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: C Bogdanos
+    - 9.10:
+        non_striker: C Bogdanos
+        bowler: S Davizi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: AS Mehmi
+    - 10.1:
+        non_striker: C Bogdanos
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: AS Mehmi
+    - 10.2:
+        non_striker: AS Mehmi
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: C Bogdanos
+    - 10.3:
+        non_striker: AS Mehmi
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: C Bogdanos
+    - 10.4:
+        non_striker: C Bogdanos
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: AS Mehmi
+    - 10.5:
+        non_striker: AS Mehmi
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: C Bogdanos
+    - 10.6:
+        non_striker: AS Mehmi
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: C Bogdanos
+    - 11.1:
+        non_striker: AS Mehmi
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: C Bogdanos
+    - 11.2:
+        non_striker: C Bogdanos
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: AS Mehmi
+    - 11.3:
+        non_striker: C Bogdanos
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: AS Mehmi
+    - 11.4:
+        non_striker: AS Mehmi
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: C Bogdanos
+    - 11.5:
+        non_striker: AS Mehmi
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.5'
+        batsman: C Bogdanos
+    - 11.6:
+        non_striker: AS Mehmi
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: C Bogdanos
+    - 12.1:
+        non_striker: C Bogdanos
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: AS Mehmi
+    - 12.2:
+        non_striker: C Bogdanos
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: AS Mehmi
+    - 12.3:
+        non_striker: AS Mehmi
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: C Bogdanos
+    - 12.4:
+        non_striker: C Bogdanos
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: AS Mehmi
+    - 12.5:
+        non_striker: AS Mehmi
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.5'
+        batsman: C Bogdanos
+    - 12.6:
+        non_striker: AS Mehmi
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: C Bogdanos
+    - 13.1:
+        non_striker: AS Mehmi
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: C Bogdanos
+    - 13.2:
+        non_striker: C Bogdanos
+        bowler: S Wickramasekara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.2'
+        batsman: AS Mehmi
+    - 13.3:
+        non_striker: C Bogdanos
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: AS Mehmi
+    - 13.4:
+        non_striker: C Bogdanos
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: AS Mehmi
+    - 13.5:
+        non_striker: AS Mehmi
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: C Bogdanos
+    - 13.6:
+        non_striker: C Bogdanos
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: AS Mehmi
+    - 13.7:
+        non_striker: AS Mehmi
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: C Bogdanos
+    - 14.1:
+        non_striker: C Bogdanos
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: AS Mehmi
+    - 14.2:
+        non_striker: AS Mehmi
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: C Bogdanos
+    - 14.3:
+        non_striker: C Bogdanos
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '14.3'
+        batsman: AS Mehmi
+    - 14.4:
+        non_striker: AS Mehmi
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: C Bogdanos
+    - 14.5:
+        non_striker: C Bogdanos
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.5'
+        batsman: AS Mehmi
+    - 14.6:
+        non_striker: C Bogdanos
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: AS Mehmi
+    - 15.1:
+        non_striker: AS Mehmi
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: C Bogdanos
+    - 15.2:
+        non_striker: AS Mehmi
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: C Bogdanos
+    - 15.3:
+        non_striker: C Bogdanos
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.3'
+        batsman: AS Mehmi
+    - 15.4:
+        non_striker: C Bogdanos
+        bowler: S Wickramasekara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '15.4'
+        batsman: AS Mehmi
+    - 15.5:
+        non_striker: AS Mehmi
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: C Bogdanos
+    - 15.6:
+        non_striker: AS Mehmi
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: C Bogdanos
+    - 16.1:
+        non_striker: AS Mehmi
+        bowler: D Ramani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.1'
+        batsman: C Bogdanos
+    - 16.2:
+        non_striker: AS Mehmi
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: C Bogdanos
+    - 16.3:
+        non_striker: C Bogdanos
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.2'
+        batsman: AS Mehmi
+    - 16.4:
+        non_striker: C Bogdanos
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.3'
+        batsman: AS Mehmi
+    - 16.5:
+        non_striker: C Bogdanos
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: AS Mehmi
+    - 16.6:
+        non_striker: C Bogdanos
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: AS Mehmi
+        wicket:
+          player_out: AS Mehmi
+          fielders:
+          - Ritik Tomar
+          kind: caught
+    - 16.7:
+        non_striker: C Bogdanos
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: A Gasteratos
+    - 17.1:
+        non_striker: A Gasteratos
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: C Bogdanos
+    - 17.2:
+        non_striker: C Bogdanos
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: A Gasteratos
+        wicket:
+          player_out: A Gasteratos
+          fielders:
+          - Ratul Khan
+          kind: caught
+    - 17.3:
+        non_striker: C Bogdanos
+        bowler: JR Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '17.3'
+        batsman: GC Galanis
+    - 17.4:
+        non_striker: GC Galanis
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.4'
+        batsman: C Bogdanos
+    - 17.5:
+        non_striker: GC Galanis
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: C Bogdanos
+        wicket:
+          player_out: C Bogdanos
+          kind: bowled
+    - 17.6:
+        non_striker: GC Galanis
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: Samader Shadab
+    - 18.1:
+        non_striker: GC Galanis
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: Samader Shadab
+    - 18.2:
+        non_striker: Samader Shadab
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.2'
+        batsman: GC Galanis
+    - 18.3:
+        non_striker: Samader Shadab
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: GC Galanis
+    - 18.4:
+        non_striker: Samader Shadab
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: GC Galanis
+    - 18.5:
+        non_striker: GC Galanis
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: Samader Shadab
+        wicket:
+          player_out: Samader Shadab
+          kind: bowled
+    - 18.6:
+        non_striker: GC Galanis
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: Emanuel
+    - 19.1:
+        non_striker: Emanuel
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.1'
+        batsman: GC Galanis
+    - 19.2:
+        non_striker: Emanuel
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: GC Galanis
+    - 19.3:
+        non_striker: Emanuel
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: GC Galanis
+    - 19.4:
+        non_striker: Emanuel
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: GC Galanis
+    - 19.5:
+        non_striker: GC Galanis
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: Emanuel
+    - 19.6:
+        non_striker: GC Galanis
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: Emanuel
+        wicket:
+          player_out: Emanuel
+          fielders:
+          - Ratul Khan
+          - Ritik Tomar
+          kind: run out
+- 2nd innings:
+    team: Czech Republic
+    deliveries:
+    - 0.1:
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Grover
+        actual_delivery: '0.1'
+        batsman: Ratul Khan
+    - 0.2:
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Grover
+        actual_delivery: '0.2'
+        batsman: Ratul Khan
+    - 0.3:
+        non_striker: Ratul Khan
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: S Grover
+    - 0.4:
+        non_striker: Ratul Khan
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: S Grover
+    - 0.5:
+        non_striker: S Grover
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: Ratul Khan
+    - 0.6:
+        non_striker: Ratul Khan
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: S Grover
+    - 1.1:
+        non_striker: S Grover
+        bowler: Emanuel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: Ratul Khan
+    - 1.2:
+        non_striker: Ratul Khan
+        bowler: Emanuel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: S Grover
+    - 1.3:
+        non_striker: Ratul Khan
+        bowler: Emanuel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: S Grover
+    - 1.4:
+        non_striker: Ratul Khan
+        bowler: Emanuel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: S Grover
+    - 1.5:
+        non_striker: Ratul Khan
+        bowler: Emanuel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.5'
+        batsman: S Grover
+    - 1.6:
+        non_striker: Ratul Khan
+        bowler: Emanuel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.6'
+        batsman: S Grover
+    - 2.1:
+        non_striker: S Grover
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: Ratul Khan
+    - 2.2:
+        non_striker: Ratul Khan
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: S Grover
+    - 2.3:
+        non_striker: Ratul Khan
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: S Grover
+    - 2.4:
+        non_striker: Ratul Khan
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: S Grover
+    - 2.5:
+        non_striker: Ratul Khan
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: S Grover
+    - 2.6:
+        non_striker: S Grover
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Ratul Khan
+    - 3.1:
+        non_striker: Ratul Khan
+        bowler: Emanuel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: S Grover
+    - 3.2:
+        non_striker: Ratul Khan
+        bowler: Emanuel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: S Grover
+    - 3.3:
+        non_striker: Ratul Khan
+        bowler: Emanuel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.3'
+        batsman: S Grover
+    - 3.4:
+        non_striker: Ratul Khan
+        bowler: Emanuel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.4'
+        batsman: S Grover
+    - 3.5:
+        non_striker: Ratul Khan
+        bowler: Emanuel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.5'
+        batsman: S Grover
+    - 3.6:
+        non_striker: Ratul Khan
+        bowler: Emanuel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.6'
+        batsman: S Grover
+    - 4.1:
+        non_striker: S Grover
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.1'
+        batsman: Ratul Khan
+    - 4.2:
+        non_striker: S Grover
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.2'
+        batsman: Ratul Khan
+    - 4.3:
+        non_striker: S Grover
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: Ratul Khan
+    - 4.4:
+        non_striker: Ratul Khan
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: S Grover
+    - 4.5:
+        non_striker: S Grover
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Ratul Khan
+    - 4.6:
+        non_striker: S Grover
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: Ratul Khan
+    - 5.1:
+        non_striker: S Grover
+        bowler: Samader Shadab
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.1'
+        batsman: Ratul Khan
+    - 5.2:
+        non_striker: S Grover
+        bowler: Samader Shadab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: Ratul Khan
+    - 5.3:
+        non_striker: S Grover
+        bowler: Samader Shadab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: Ratul Khan
+    - 5.4:
+        non_striker: Ratul Khan
+        bowler: Samader Shadab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: S Grover
+    - 5.5:
+        non_striker: S Grover
+        bowler: Samader Shadab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Ratul Khan
+    - 5.6:
+        non_striker: S Grover
+        bowler: Samader Shadab
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.6'
+        batsman: Ratul Khan
+    - 5.7:
+        non_striker: S Grover
+        bowler: Samader Shadab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: Ratul Khan
+    - 6.1:
+        non_striker: S Grover
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: Ratul Khan
+    - 6.2:
+        non_striker: Ratul Khan
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: S Grover
+    - 6.3:
+        non_striker: S Grover
+        bowler: AS Mehmi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '6.3'
+        batsman: Ratul Khan
+    - 6.4:
+        non_striker: Ratul Khan
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: S Grover
+    - 6.5:
+        non_striker: S Grover
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.5'
+        batsman: Ratul Khan
+    - 6.6:
+        non_striker: S Grover
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: Ratul Khan
+    - 7.1:
+        non_striker: S Grover
+        bowler: Samader Shadab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: Ratul Khan
+        wicket:
+          player_out: Ratul Khan
+          fielders:
+          - D Triantafillithis
+          kind: caught
+    - 7.2:
+        non_striker: S Grover
+        bowler: Samader Shadab
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.2'
+        batsman: Ritik Tomar
+    - 7.3:
+        non_striker: S Grover
+        bowler: Samader Shadab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: Ritik Tomar
+    - 7.4:
+        non_striker: Ritik Tomar
+        bowler: Samader Shadab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: S Grover
+    - 7.5:
+        non_striker: S Grover
+        bowler: Samader Shadab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: Ritik Tomar
+    - 7.6:
+        non_striker: Ritik Tomar
+        bowler: Samader Shadab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: S Grover
+    - 7.7:
+        non_striker: S Grover
+        bowler: Samader Shadab
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '7.6'
+        batsman: Ritik Tomar
+    - 7.8:
+        non_striker: Ritik Tomar
+        bowler: Samader Shadab
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.6'
+        batsman: S Grover
+    - 8.1:
+        non_striker: S Grover
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: Ritik Tomar
+    - 8.2:
+        non_striker: Ritik Tomar
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: S Grover
+        wicket:
+          player_out: S Grover
+          fielders:
+          - GC Galanis
+          kind: caught
+    - 8.3:
+        non_striker: Ritik Tomar
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: Sazib Bhuiyan
+    - 8.4:
+        non_striker: Sazib Bhuiyan
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: Ritik Tomar
+    - 8.5:
+        non_striker: Ritik Tomar
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: Sazib Bhuiyan
+    - 8.6:
+        non_striker: Ritik Tomar
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Sazib Bhuiyan
+    - 9.1:
+        non_striker: Sazib Bhuiyan
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: Ritik Tomar
+    - 9.2:
+        non_striker: Sazib Bhuiyan
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: Ritik Tomar
+    - 9.3:
+        non_striker: Ritik Tomar
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: Sazib Bhuiyan
+    - 9.4:
+        non_striker: Sazib Bhuiyan
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: Ritik Tomar
+    - 9.5:
+        non_striker: Ritik Tomar
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: Sazib Bhuiyan
+    - 9.6:
+        non_striker: Sazib Bhuiyan
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: Ritik Tomar
+    - 10.1:
+        non_striker: Sazib Bhuiyan
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: Ritik Tomar
+    - 10.2:
+        non_striker: Ritik Tomar
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: Sazib Bhuiyan
+    - 10.3:
+        non_striker: Ritik Tomar
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Sazib Bhuiyan
+    - 10.4:
+        non_striker: Sazib Bhuiyan
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: Ritik Tomar
+    - 10.5:
+        non_striker: Sazib Bhuiyan
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.5'
+        batsman: Ritik Tomar
+    - 10.6:
+        non_striker: Sazib Bhuiyan
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '10.6'
+        batsman: Ritik Tomar
+    - 11.1:
+        non_striker: Sazib Bhuiyan
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: Ritik Tomar
+    - 11.2:
+        non_striker: Ritik Tomar
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: Sazib Bhuiyan
+    - 11.3:
+        non_striker: Sazib Bhuiyan
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: Ritik Tomar
+    - 11.4:
+        non_striker: Ritik Tomar
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.4'
+        batsman: Sazib Bhuiyan
+    - 11.5:
+        non_striker: Ritik Tomar
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.5'
+        batsman: Sazib Bhuiyan
+    - 11.6:
+        non_striker: Ritik Tomar
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: Sazib Bhuiyan
+        wicket:
+          player_out: Sazib Bhuiyan
+          fielders:
+          - A Gasteratos
+          kind: caught
+    - 12.1:
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Davizi
+        actual_delivery: '12.1'
+        batsman: Ritik Tomar
+    - 12.2:
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Davizi
+        actual_delivery: '12.2'
+        batsman: Ritik Tomar
+    - 12.3:
+        non_striker: S Davizi
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: Ritik Tomar
+        wicket:
+          player_out: Ritik Tomar
+          kind: lbw
+    - 12.4:
+        non_striker: S Davizi
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: S Wickramasekara
+    - 12.5:
+        non_striker: S Davizi
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: S Wickramasekara
+    - 12.6:
+        non_striker: S Davizi
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: S Wickramasekara
+    - 13.1:
+        non_striker: S Wickramasekara
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.1'
+        batsman: S Davizi
+    - 13.2:
+        non_striker: S Wickramasekara
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: S Davizi
+    - 13.3:
+        non_striker: S Wickramasekara
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.3'
+        batsman: S Davizi
+    - 13.4:
+        non_striker: S Wickramasekara
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: S Davizi
+    - 13.5:
+        non_striker: S Davizi
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: S Wickramasekara
+    - 13.6:
+        non_striker: S Wickramasekara
+        bowler: AS Mehmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: S Davizi
+    - 14.1:
+        non_striker: S Davizi
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.1'
+        batsman: S Wickramasekara
+    - 14.2:
+        non_striker: S Davizi
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.2'
+        batsman: S Wickramasekara
+    - 14.3:
+        non_striker: S Davizi
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: S Wickramasekara
+    - 14.4:
+        non_striker: S Davizi
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: S Wickramasekara
+    - 14.5:
+        non_striker: S Davizi
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '14.5'
+        batsman: S Wickramasekara
+    - 14.6:
+        non_striker: S Davizi
+        bowler: BADL Faunce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.6'
+        batsman: S Wickramasekara
+    - 14.7:
+        non_striker: S Davizi
+        bowler: BADL Faunce
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '14.6'
+        batsman: S Wickramasekara
+    - 15.1:
+        non_striker: S Wickramasekara
+        bowler: Sajid Khan Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: S Davizi
+    - 15.2:
+        non_striker: S Wickramasekara
+        bowler: Sajid Khan Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: S Davizi
+    - 15.3:
+        non_striker: S Davizi
+        bowler: Sajid Khan Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '15.3'
+        batsman: S Wickramasekara
+    - 15.4:
+        non_striker: S Wickramasekara
+        bowler: Sajid Khan Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.4'
+        batsman: S Davizi
+    - 15.5:
+        non_striker: S Wickramasekara
+        bowler: Sajid Khan Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.5'
+        batsman: S Davizi
+    - 15.6:
+        non_striker: S Wickramasekara
+        bowler: Sajid Khan Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: S Davizi
+    - 16.1:
+        non_striker: S Wickramasekara
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: S Davizi
+    - 16.2:
+        non_striker: S Wickramasekara
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: S Davizi
+    - 16.3:
+        non_striker: S Davizi
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.3'
+        batsman: S Wickramasekara
+    - 16.4:
+        non_striker: S Davizi
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.4'
+        batsman: S Wickramasekara
+    - 16.5:
+        non_striker: S Davizi
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.5'
+        batsman: S Wickramasekara
+    - 16.6:
+        non_striker: S Davizi
+        bowler: BJ Konstas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: S Wickramasekara
+    - 17.1:
+        non_striker: S Wickramasekara
+        bowler: Sajid Khan Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.1'
+        batsman: S Davizi
+    - 17.2:
+        non_striker: S Wickramasekara
+        bowler: Sajid Khan Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: S Davizi
+    - 17.3:
+        non_striker: S Davizi
+        bowler: Sajid Khan Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: S Wickramasekara
+    - 17.4:
+        non_striker: S Wickramasekara
+        bowler: Sajid Khan Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.3'
+        batsman: S Davizi
+    - 17.5:
+        non_striker: S Wickramasekara
+        bowler: Sajid Khan Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: S Davizi
+    - 17.6:
+        non_striker: S Wickramasekara
+        bowler: Sajid Khan Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.5'
+        batsman: S Davizi
+    - 17.7:
+        non_striker: S Wickramasekara
+        bowler: Sajid Khan Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: S Davizi
+    - 17.8:
+        non_striker: S Davizi
+        bowler: Sajid Khan Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.6'
+        batsman: S Wickramasekara
+    - 18.1:
+        non_striker: S Wickramasekara
+        bowler: D Triantafillithis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: S Davizi
+    - 18.2:
+        non_striker: S Davizi
+        bowler: D Triantafillithis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.2'
+        batsman: S Wickramasekara
+    target:
+      overs: 20
+      runs: 148

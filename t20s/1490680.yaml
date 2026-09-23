@@ -1,0 +1,2394 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Southampton
+  dates:
+  - '2026-06-13'
+  gender: female
+  match_type: T20
+  match_type_number: 2852
+  outcome:
+    winner: West Indies
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - SA Campbelle
+  players:
+    New Zealand:
+    - IC Gaze
+    - GE Plimmer
+    - AC Kerr
+    - SFM Devine
+    - BM Halliday
+    - ML Green
+    - IG Sharp
+    - JM Kerr
+    - NH Patel
+    - RA Mair
+    - BG Illing
+    West Indies:
+    - Q Joseph
+    - HK Matthews
+    - SA Campbelle
+    - DJS Dottin
+    - JKC Claxton
+    - J Glasgow
+    - AA Alleyne
+    - Z James
+    - S Hector
+    - ASS Fletcher
+    - K Ramharack
+  registry:
+    people:
+      AA Alleyne: 4b0e3049
+      AC Kerr: 7673c908
+      ASS Fletcher: 42d9dd09
+      AY Harris: 90d95b82
+      BG Illing: 80a0cd77
+      BM Halliday: efb6cb2a
+      DJS Dottin: 53bee17f
+      GE Plimmer: 575494db
+      HK Matthews: d32cf49a
+      IC Gaze: 60c250bf
+      IG Sharp: 4de0779a
+      J Glasgow: a2632c7c
+      JKC Claxton: e22f8ec1
+      JM Kerr: 9af58032
+      K Klaaste: 6cc1d918
+      K Ramharack: 321c980e
+      ML Green: 865eae1f
+      NH Patel: d945db3e
+      Q Joseph: d6164dc0
+      RA Kettleborough: 4017868f
+      RA Mair: d5eb8b84
+      S Hector: 3faa312e
+      SA Campbelle: a7cd72b2
+      SA Fritz: d15e60c8
+      SFM Devine: de69af96
+      VG Rathi: 144e5b16
+      Z James: 816af623
+  team_type: international
+  teams:
+  - New Zealand
+  - West Indies
+  toss:
+    winner: West Indies
+    decision: field
+  umpires:
+  - AY Harris
+  - VG Rathi
+  venue: The Rose Bowl, Southampton
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: GE Plimmer
+        bowler: Z James
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.1'
+        batsman: IC Gaze
+    - 0.2:
+        non_striker: GE Plimmer
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: IC Gaze
+    - 0.3:
+        non_striker: GE Plimmer
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: IC Gaze
+    - 0.4:
+        non_striker: GE Plimmer
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.3'
+        batsman: IC Gaze
+    - 0.5:
+        non_striker: GE Plimmer
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: IC Gaze
+    - 0.6:
+        non_striker: GE Plimmer
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: IC Gaze
+    - 0.7:
+        non_striker: GE Plimmer
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.6'
+        batsman: IC Gaze
+    - 1.1:
+        non_striker: IC Gaze
+        bowler: S Hector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: GE Plimmer
+    - 1.2:
+        non_striker: IC Gaze
+        bowler: S Hector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: GE Plimmer
+    - 1.3:
+        non_striker: IC Gaze
+        bowler: S Hector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: GE Plimmer
+    - 1.4:
+        non_striker: GE Plimmer
+        bowler: S Hector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: IC Gaze
+    - 1.5:
+        non_striker: GE Plimmer
+        bowler: S Hector
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.5'
+        batsman: IC Gaze
+    - 1.6:
+        non_striker: GE Plimmer
+        bowler: S Hector
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.6'
+        batsman: IC Gaze
+    - 2.1:
+        non_striker: IC Gaze
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: GE Plimmer
+    - 2.2:
+        non_striker: GE Plimmer
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.2'
+        batsman: IC Gaze
+    - 2.3:
+        non_striker: GE Plimmer
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: IC Gaze
+    - 2.4:
+        non_striker: GE Plimmer
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.4'
+        batsman: IC Gaze
+    - 2.5:
+        non_striker: GE Plimmer
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: IC Gaze
+    - 2.6:
+        non_striker: GE Plimmer
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: IC Gaze
+    - 3.1:
+        non_striker: IC Gaze
+        bowler: DJS Dottin
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '3.1'
+        batsman: GE Plimmer
+    - 3.2:
+        non_striker: GE Plimmer
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: IC Gaze
+    - 3.3:
+        non_striker: GE Plimmer
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: IC Gaze
+    - 3.4:
+        non_striker: GE Plimmer
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: IC Gaze
+    - 3.5:
+        non_striker: GE Plimmer
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: IC Gaze
+    - 3.6:
+        non_striker: IC Gaze
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: GE Plimmer
+    - 3.7:
+        non_striker: IC Gaze
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.6'
+        batsman: GE Plimmer
+    - 4.1:
+        non_striker: GE Plimmer
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: IC Gaze
+    - 4.2:
+        non_striker: GE Plimmer
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: IC Gaze
+    - 4.3:
+        non_striker: GE Plimmer
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.3'
+        batsman: IC Gaze
+    - 4.4:
+        non_striker: GE Plimmer
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: IC Gaze
+    - 4.5:
+        non_striker: GE Plimmer
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: IC Gaze
+    - 4.6:
+        non_striker: GE Plimmer
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: IC Gaze
+    - 5.1:
+        non_striker: IC Gaze
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: GE Plimmer
+    - 5.2:
+        non_striker: GE Plimmer
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: IC Gaze
+    - 5.3:
+        non_striker: IC Gaze
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: GE Plimmer
+    - 5.4:
+        non_striker: IC Gaze
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: GE Plimmer
+    - 5.5:
+        non_striker: IC Gaze
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.5'
+        batsman: GE Plimmer
+    - 5.6:
+        non_striker: IC Gaze
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: GE Plimmer
+        wicket:
+          player_out: GE Plimmer
+          fielders:
+          - DJS Dottin
+          kind: caught
+    - 5.7:
+        non_striker: IC Gaze
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: AC Kerr
+    - 6.1:
+        non_striker: AC Kerr
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: IC Gaze
+    - 6.2:
+        non_striker: IC Gaze
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: AC Kerr
+    - 6.3:
+        non_striker: IC Gaze
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: AC Kerr
+    - 6.4:
+        non_striker: IC Gaze
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: AC Kerr
+    - 6.5:
+        non_striker: AC Kerr
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: IC Gaze
+    - 6.6:
+        non_striker: AC Kerr
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: IC Gaze
+    - 7.1:
+        non_striker: IC Gaze
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.1'
+        batsman: AC Kerr
+    - 7.2:
+        non_striker: IC Gaze
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: AC Kerr
+        wicket:
+          player_out: AC Kerr
+          fielders:
+          - K Ramharack
+          kind: caught
+    - 7.3:
+        non_striker: IC Gaze
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: SFM Devine
+    - 7.4:
+        non_striker: SFM Devine
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: IC Gaze
+        wicket:
+          player_out: IC Gaze
+          fielders:
+          - K Ramharack
+          kind: caught
+    - 7.5:
+        non_striker: SFM Devine
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: BM Halliday
+    - 7.6:
+        non_striker: SFM Devine
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: BM Halliday
+    - 8.1:
+        non_striker: BM Halliday
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.1'
+        batsman: SFM Devine
+    - 8.2:
+        non_striker: BM Halliday
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: SFM Devine
+    - 8.3:
+        non_striker: BM Halliday
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: SFM Devine
+    - 8.4:
+        non_striker: BM Halliday
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: SFM Devine
+    - 8.5:
+        non_striker: SFM Devine
+        bowler: ASS Fletcher
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '8.5'
+        batsman: BM Halliday
+    - 8.6:
+        non_striker: BM Halliday
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: SFM Devine
+    - 8.7:
+        non_striker: SFM Devine
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: BM Halliday
+    - 9.1:
+        non_striker: SFM Devine
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: BM Halliday
+    - 9.2:
+        non_striker: SFM Devine
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.2'
+        batsman: BM Halliday
+    - 9.3:
+        non_striker: SFM Devine
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: BM Halliday
+    - 9.4:
+        non_striker: BM Halliday
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: SFM Devine
+    - 9.5:
+        non_striker: BM Halliday
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.5'
+        batsman: SFM Devine
+    - 9.6:
+        non_striker: BM Halliday
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: SFM Devine
+    - 10.1:
+        non_striker: BM Halliday
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.1'
+        batsman: SFM Devine
+    - 10.2:
+        non_striker: BM Halliday
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: SFM Devine
+    - 10.3:
+        non_striker: SFM Devine
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: BM Halliday
+    - 10.4:
+        non_striker: SFM Devine
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.4'
+        batsman: BM Halliday
+    - 10.5:
+        non_striker: SFM Devine
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: BM Halliday
+    - 10.6:
+        non_striker: BM Halliday
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.6'
+        batsman: SFM Devine
+    - 11.1:
+        non_striker: SFM Devine
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.1'
+        batsman: BM Halliday
+    - 11.2:
+        non_striker: SFM Devine
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.2'
+        batsman: BM Halliday
+    - 11.3:
+        non_striker: SFM Devine
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: BM Halliday
+    - 11.4:
+        non_striker: BM Halliday
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: SFM Devine
+    - 11.5:
+        non_striker: SFM Devine
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: BM Halliday
+    - 11.6:
+        non_striker: BM Halliday
+        bowler: Q Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.6'
+        batsman: SFM Devine
+    - 12.1:
+        non_striker: SFM Devine
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.1'
+        batsman: BM Halliday
+    - 12.2:
+        non_striker: SFM Devine
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: BM Halliday
+    - 12.3:
+        non_striker: BM Halliday
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: SFM Devine
+        wicket:
+          player_out: SFM Devine
+          fielders:
+          - JKC Claxton
+          kind: caught
+    - 12.4:
+        non_striker: BM Halliday
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: ML Green
+    - 12.5:
+        non_striker: ML Green
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: BM Halliday
+    - 12.6:
+        non_striker: BM Halliday
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: ML Green
+    - 13.1:
+        non_striker: BM Halliday
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: ML Green
+    - 13.2:
+        non_striker: BM Halliday
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: ML Green
+    - 13.3:
+        non_striker: ML Green
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.3'
+        batsman: BM Halliday
+    - 13.4:
+        non_striker: ML Green
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: BM Halliday
+    - 13.5:
+        non_striker: ML Green
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: BM Halliday
+    - 13.6:
+        non_striker: BM Halliday
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: ML Green
+    - 14.1:
+        non_striker: ML Green
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: BM Halliday
+    - 14.2:
+        non_striker: ML Green
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: BM Halliday
+    - 14.3:
+        non_striker: ML Green
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: BM Halliday
+    - 14.4:
+        non_striker: ML Green
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: BM Halliday
+    - 14.5:
+        non_striker: BM Halliday
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: ML Green
+    - 14.6:
+        non_striker: BM Halliday
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: ML Green
+    - 15.1:
+        non_striker: BM Halliday
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.1'
+        batsman: ML Green
+    - 15.2:
+        non_striker: BM Halliday
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: ML Green
+    - 15.3:
+        non_striker: BM Halliday
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: ML Green
+    - 15.4:
+        non_striker: BM Halliday
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.4'
+        batsman: ML Green
+    - 15.5:
+        non_striker: BM Halliday
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: ML Green
+    - 15.6:
+        non_striker: ML Green
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.6'
+        batsman: BM Halliday
+    - 16.1:
+        non_striker: BM Halliday
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: ML Green
+    - 16.2:
+        non_striker: ML Green
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.2'
+        batsman: BM Halliday
+    - 16.3:
+        non_striker: ML Green
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: BM Halliday
+    - 16.4:
+        non_striker: ML Green
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: BM Halliday
+    - 16.5:
+        non_striker: BM Halliday
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: ML Green
+    - 16.6:
+        non_striker: ML Green
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: BM Halliday
+    - 17.1:
+        non_striker: ML Green
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: BM Halliday
+    - 17.2:
+        non_striker: ML Green
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.2'
+        batsman: BM Halliday
+    - 17.3:
+        non_striker: ML Green
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: BM Halliday
+    - 17.4:
+        non_striker: BM Halliday
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.3'
+        batsman: ML Green
+    - 17.5:
+        non_striker: BM Halliday
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: ML Green
+    - 17.6:
+        non_striker: ML Green
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.5'
+        batsman: BM Halliday
+    - 17.7:
+        non_striker: ML Green
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: BM Halliday
+        wicket:
+          player_out: BM Halliday
+          fielders:
+          - S Hector
+          kind: caught
+    - 18.1:
+        non_striker: IG Sharp
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.1'
+        batsman: ML Green
+    - 18.2:
+        non_striker: IG Sharp
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: ML Green
+    - 18.3:
+        non_striker: ML Green
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.3'
+        batsman: IG Sharp
+    - 18.4:
+        non_striker: ML Green
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: IG Sharp
+    - 18.5:
+        non_striker: IG Sharp
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: ML Green
+    - 18.6:
+        non_striker: ML Green
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.6'
+        batsman: IG Sharp
+    - 19.1:
+        non_striker: IG Sharp
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.1'
+        batsman: ML Green
+    - 19.2:
+        non_striker: IG Sharp
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.2'
+        batsman: ML Green
+    - 19.3:
+        non_striker: IG Sharp
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.3'
+        batsman: ML Green
+    - 19.4:
+        non_striker: ML Green
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: IG Sharp
+        wicket:
+          player_out: IG Sharp
+          fielders:
+          - Z James
+          kind: caught
+    - 19.5:
+        non_striker: ML Green
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: JM Kerr
+    - 19.6:
+        non_striker: ML Green
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.6'
+        batsman: JM Kerr
+- 2nd innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: HK Matthews
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: Q Joseph
+    - 0.2:
+        non_striker: HK Matthews
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: Q Joseph
+    - 0.3:
+        non_striker: HK Matthews
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: Q Joseph
+    - 0.4:
+        non_striker: Q Joseph
+        bowler: RA Mair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '0.4'
+        batsman: HK Matthews
+    - 0.5:
+        non_striker: HK Matthews
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: Q Joseph
+    - 0.6:
+        non_striker: Q Joseph
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: HK Matthews
+    - 1.1:
+        non_striker: Q Joseph
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: HK Matthews
+    - 1.2:
+        non_striker: Q Joseph
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: HK Matthews
+    - 1.3:
+        non_striker: Q Joseph
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: HK Matthews
+    - 1.4:
+        non_striker: Q Joseph
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: HK Matthews
+        wicket:
+          player_out: Q Joseph
+          fielders:
+          - IC Gaze
+          - NH Patel
+          kind: run out
+    - 1.5:
+        non_striker: HK Matthews
+        bowler: BG Illing
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        actual_delivery: '1.5'
+        batsman: SA Campbelle
+    - 1.6:
+        non_striker: HK Matthews
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: SA Campbelle
+    - 2.1:
+        non_striker: SA Campbelle
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: HK Matthews
+    - 2.2:
+        non_striker: SA Campbelle
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: HK Matthews
+    - 2.3:
+        non_striker: HK Matthews
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: SA Campbelle
+    - 2.4:
+        non_striker: HK Matthews
+        bowler: RA Mair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.4'
+        batsman: SA Campbelle
+    - 2.5:
+        non_striker: HK Matthews
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: SA Campbelle
+    - 2.6:
+        non_striker: SA Campbelle
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: HK Matthews
+    - 2.7:
+        non_striker: HK Matthews
+        bowler: RA Mair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '2.6'
+        batsman: SA Campbelle
+    - 3.1:
+        non_striker: HK Matthews
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: SA Campbelle
+    - 3.2:
+        non_striker: HK Matthews
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: SA Campbelle
+    - 3.3:
+        non_striker: SA Campbelle
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: HK Matthews
+    - 3.4:
+        non_striker: HK Matthews
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: SA Campbelle
+    - 3.5:
+        non_striker: HK Matthews
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.5'
+        batsman: SA Campbelle
+    - 3.6:
+        non_striker: HK Matthews
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: SA Campbelle
+    - 4.1:
+        non_striker: SA Campbelle
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.1'
+        batsman: HK Matthews
+    - 4.2:
+        non_striker: SA Campbelle
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: HK Matthews
+    - 4.3:
+        non_striker: SA Campbelle
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: HK Matthews
+    - 4.4:
+        non_striker: HK Matthews
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: SA Campbelle
+    - 4.5:
+        non_striker: HK Matthews
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: SA Campbelle
+    - 4.6:
+        non_striker: HK Matthews
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: SA Campbelle
+    - 5.1:
+        non_striker: HK Matthews
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: SA Campbelle
+    - 5.2:
+        non_striker: HK Matthews
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: SA Campbelle
+    - 5.3:
+        non_striker: SA Campbelle
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: HK Matthews
+    - 5.4:
+        non_striker: SA Campbelle
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: HK Matthews
+    - 5.5:
+        non_striker: HK Matthews
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: SA Campbelle
+    - 5.6:
+        non_striker: SA Campbelle
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: HK Matthews
+    - 6.1:
+        non_striker: SA Campbelle
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: HK Matthews
+    - 6.2:
+        non_striker: SA Campbelle
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.2'
+        batsman: HK Matthews
+    - 6.3:
+        non_striker: SA Campbelle
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: HK Matthews
+    - 6.4:
+        non_striker: SA Campbelle
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.4'
+        batsman: HK Matthews
+    - 6.5:
+        non_striker: SA Campbelle
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: HK Matthews
+    - 6.6:
+        non_striker: HK Matthews
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.6'
+        batsman: SA Campbelle
+    - 7.1:
+        non_striker: SA Campbelle
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.1'
+        batsman: HK Matthews
+    - 7.2:
+        non_striker: SA Campbelle
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: HK Matthews
+    - 7.3:
+        non_striker: HK Matthews
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.3'
+        batsman: SA Campbelle
+    - 7.4:
+        non_striker: HK Matthews
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: SA Campbelle
+    - 7.5:
+        non_striker: SA Campbelle
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: HK Matthews
+    - 7.6:
+        non_striker: SA Campbelle
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: HK Matthews
+    - 8.1:
+        non_striker: HK Matthews
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: SA Campbelle
+    - 8.2:
+        non_striker: HK Matthews
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.2'
+        batsman: SA Campbelle
+    - 8.3:
+        non_striker: HK Matthews
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: SA Campbelle
+    - 8.4:
+        non_striker: SA Campbelle
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: HK Matthews
+    - 8.5:
+        non_striker: HK Matthews
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: SA Campbelle
+    - 8.6:
+        non_striker: SA Campbelle
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: HK Matthews
+    - 9.1:
+        non_striker: SA Campbelle
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: HK Matthews
+    - 9.2:
+        non_striker: HK Matthews
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: SA Campbelle
+    - 9.3:
+        non_striker: HK Matthews
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: SA Campbelle
+    - 9.4:
+        non_striker: SA Campbelle
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: HK Matthews
+    - 9.5:
+        non_striker: HK Matthews
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: SA Campbelle
+    - 9.6:
+        non_striker: SA Campbelle
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: HK Matthews
+    - 10.1:
+        non_striker: SA Campbelle
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: HK Matthews
+    - 10.2:
+        non_striker: SA Campbelle
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '10.2'
+        batsman: HK Matthews
+    - 10.3:
+        non_striker: SA Campbelle
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: HK Matthews
+    - 10.4:
+        non_striker: HK Matthews
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.4'
+        batsman: SA Campbelle
+    - 10.5:
+        non_striker: HK Matthews
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: SA Campbelle
+    - 10.6:
+        non_striker: SA Campbelle
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.6'
+        batsman: HK Matthews
+    - 11.1:
+        non_striker: HK Matthews
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: SA Campbelle
+    - 11.2:
+        non_striker: SA Campbelle
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: HK Matthews
+    - 11.3:
+        non_striker: SA Campbelle
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: HK Matthews
+    - 11.4:
+        non_striker: HK Matthews
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: SA Campbelle
+    - 11.5:
+        non_striker: SA Campbelle
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: HK Matthews
+        wicket:
+          player_out: HK Matthews
+          fielders:
+          - ML Green
+          kind: caught
+    - 11.6:
+        non_striker: SA Campbelle
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: DJS Dottin
+    - 12.1:
+        non_striker: DJS Dottin
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.1'
+        batsman: SA Campbelle
+    - 12.2:
+        non_striker: DJS Dottin
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: SA Campbelle
+    - 12.3:
+        non_striker: DJS Dottin
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: SA Campbelle
+    - 12.4:
+        non_striker: DJS Dottin
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.4'
+        batsman: SA Campbelle
+    - 12.5:
+        non_striker: DJS Dottin
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: SA Campbelle
+    - 12.6:
+        non_striker: SA Campbelle
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: DJS Dottin
+    - 13.1:
+        non_striker: DJS Dottin
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.1'
+        batsman: SA Campbelle
+    - 13.2:
+        non_striker: DJS Dottin
+        bowler: AC Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '13.2'
+        batsman: SA Campbelle
+    - 13.3:
+        non_striker: SA Campbelle
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: DJS Dottin
+    - 13.4:
+        non_striker: DJS Dottin
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: SA Campbelle
+    - 13.5:
+        non_striker: SA Campbelle
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: DJS Dottin
+    - 13.6:
+        non_striker: DJS Dottin
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.6'
+        batsman: SA Campbelle
+    - 14.1:
+        non_striker: SA Campbelle
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: DJS Dottin
+    - 14.2:
+        non_striker: DJS Dottin
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.2'
+        batsman: SA Campbelle
+    - 14.3:
+        non_striker: DJS Dottin
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: SA Campbelle
+    - 14.4:
+        non_striker: DJS Dottin
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.4'
+        batsman: SA Campbelle
+    - 14.5:
+        non_striker: DJS Dottin
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.5'
+        batsman: SA Campbelle
+    - 14.6:
+        non_striker: DJS Dottin
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: SA Campbelle
+    - 15.1:
+        non_striker: DJS Dottin
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.1'
+        batsman: SA Campbelle
+    - 15.2:
+        non_striker: DJS Dottin
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: SA Campbelle
+    - 15.3:
+        non_striker: SA Campbelle
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: DJS Dottin
+    - 15.4:
+        non_striker: DJS Dottin
+        bowler: JM Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '15.4'
+        batsman: SA Campbelle
+    - 15.5:
+        non_striker: SA Campbelle
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.5'
+        batsman: DJS Dottin
+    - 15.6:
+        non_striker: SA Campbelle
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: DJS Dottin
+        wicket:
+          player_out: DJS Dottin
+          fielders:
+          - ML Green
+          kind: caught
+    - 16.1:
+        non_striker: JKC Claxton
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: SA Campbelle
+    - 16.2:
+        non_striker: SA Campbelle
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: JKC Claxton
+    - 16.3:
+        non_striker: JKC Claxton
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: SA Campbelle
+    - 16.4:
+        non_striker: SA Campbelle
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: JKC Claxton
+    - 16.5:
+        non_striker: JKC Claxton
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.5'
+        batsman: SA Campbelle
+    - 16.6:
+        non_striker: JKC Claxton
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.6'
+        batsman: SA Campbelle
+    - 17.1:
+        non_striker: SA Campbelle
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '17.1'
+        batsman: JKC Claxton
+    - 17.2:
+        non_striker: JKC Claxton
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.2'
+        batsman: SA Campbelle
+    - 17.3:
+        non_striker: JKC Claxton
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.3'
+        batsman: SA Campbelle
+    - 17.4:
+        non_striker: JKC Claxton
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: SA Campbelle
+    - 17.5:
+        non_striker: SA Campbelle
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: JKC Claxton
+    - 17.6:
+        non_striker: SA Campbelle
+        bowler: AC Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.6'
+        batsman: JKC Claxton
+    - 17.7:
+        non_striker: SA Campbelle
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: JKC Claxton
+    - 18.1:
+        non_striker: JKC Claxton
+        bowler: RA Mair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.1'
+        batsman: SA Campbelle
+    - 18.2:
+        non_striker: JKC Claxton
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: SA Campbelle
+    - 18.3:
+        non_striker: JKC Claxton
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.2'
+        batsman: SA Campbelle
+    - 18.4:
+        non_striker: JKC Claxton
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.3'
+        batsman: SA Campbelle
+    - 18.5:
+        non_striker: JKC Claxton
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: SA Campbelle
+    - 18.6:
+        non_striker: SA Campbelle
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: JKC Claxton
+    - 18.7:
+        non_striker: JKC Claxton
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: SA Campbelle
+    - 19.1:
+        non_striker: JKC Claxton
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.1'
+        batsman: SA Campbelle
+    - 19.2:
+        non_striker: JKC Claxton
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: SA Campbelle
+    - 19.3:
+        non_striker: JKC Claxton
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '19.3'
+        batsman: SA Campbelle
+    - 19.4:
+        non_striker: SA Campbelle
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: JKC Claxton
+    - 19.5:
+        non_striker: SA Campbelle
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '19.5'
+        batsman: JKC Claxton
+    target:
+      overs: 20
+      runs: 163

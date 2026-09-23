@@ -1,0 +1,1654 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Stockholm
+  dates:
+  - '2026-06-14'
+  gender: male
+  match_type: T20
+  match_type_number: 3954
+  outcome:
+    winner: Sweden
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - A Mundra
+  players:
+    Finland:
+    - A Pusthay
+    - VS Padhaal
+    - Faraaz Mehti Abbas
+    - NM Salonen
+    - Faheem Nellancheri
+    - Jordan O'Brien
+    - Amjad Sher
+    - Zahidullah Kamal
+    - PEA Karunarathna
+    - MB Tambe
+    - Junaid Khan
+    Sweden:
+    - A Mundra
+    - Saeed Ahmed
+    - Zaid Ahmad
+    - Abdul Naser Baluch
+    - Awais Ahmad
+    - Imal Zuwak
+    - Samiullah Rahmani
+    - W Boshoff
+    - YS Chauhan
+    - Zabiullah Zahid
+    - A Dhabe
+  registry:
+    people:
+      A Dhabe: 5a0dbdeb
+      A Mundra: 30ffaf85
+      A Pusthay: '0393fbdc'
+      Abdul Naser Baluch: 6a88d66d
+      Amjad Sher: 3b4a8cfb
+      Awais Ahmad: 518a21ed
+      Bilal Munir: c35c63b9
+      DB Lakhani: 03adc956
+      Faheem Nellancheri: 6513502f
+      Faraaz Mehti Abbas: 4233080d
+      Imal Zuwak: 1283e17b
+      Jordan O'Brien: c31d7da1
+      Junaid Khan: 670e6804
+      MB Tambe: 1c1bb0d5
+      NM Salonen: f5bd70f2
+      PEA Karunarathna: 98c13758
+      SB Ravindra: 394ba7a8
+      Saeed Ahmed: 63d6e16e
+      Samiullah Rahmani: d5c38041
+      VS Padhaal: c4fb0b39
+      W Boshoff: cad11a02
+      YS Chauhan: fb3233d4
+      Zabiullah Zahid: 6d024ce3
+      Zahidullah Kamal: e8550df5
+      Zaid Ahmad: '45828106'
+  team_type: international
+  teams:
+  - Finland
+  - Sweden
+  toss:
+    winner: Sweden
+    decision: field
+  umpires:
+  - Bilal Munir
+  - SB Ravindra
+  venue: Botkyrka Cricket Center, Stockholm
+innings:
+- 1st innings:
+    team: Finland
+    deliveries:
+    - 0.1:
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: VS Padhaal
+        actual_delivery: '0.1'
+        batsman: A Pusthay
+    - 0.2:
+        non_striker: A Pusthay
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.2'
+        batsman: VS Padhaal
+    - 0.3:
+        non_striker: A Pusthay
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: VS Padhaal
+    - 0.4:
+        non_striker: A Pusthay
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.4'
+        batsman: VS Padhaal
+    - 0.5:
+        non_striker: A Pusthay
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.5'
+        batsman: VS Padhaal
+    - 0.6:
+        non_striker: A Pusthay
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.6'
+        batsman: VS Padhaal
+    - 1.1:
+        non_striker: VS Padhaal
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: A Pusthay
+    - 1.2:
+        non_striker: A Pusthay
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: VS Padhaal
+    - 1.3:
+        non_striker: A Pusthay
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: VS Padhaal
+    - 1.4:
+        non_striker: VS Padhaal
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: A Pusthay
+        wicket:
+          player_out: A Pusthay
+          kind: bowled
+    - 1.5:
+        non_striker: VS Padhaal
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Faraaz Mehti Abbas
+    - 1.6:
+        non_striker: VS Padhaal
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '1.6'
+        batsman: Faraaz Mehti Abbas
+    - 2.1:
+        non_striker: VS Padhaal
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: Faraaz Mehti Abbas
+    - 2.2:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: VS Padhaal
+    - 2.3:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: VS Padhaal
+        wicket:
+          player_out: VS Padhaal
+          kind: bowled
+    - 2.4:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.4'
+        batsman: NM Salonen
+    - 2.5:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: NM Salonen
+    - 2.6:
+        non_striker: NM Salonen
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.5'
+        batsman: Faraaz Mehti Abbas
+    - 2.7:
+        non_striker: NM Salonen
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.6'
+        batsman: Faraaz Mehti Abbas
+    - 2.8:
+        non_striker: NM Salonen
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.6'
+        batsman: Faraaz Mehti Abbas
+    - 3.1:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: NM Salonen
+    - 3.2:
+        non_striker: NM Salonen
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Faraaz Mehti Abbas
+    - 3.3:
+        non_striker: NM Salonen
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: Faraaz Mehti Abbas
+    - 3.4:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: NM Salonen
+    - 3.5:
+        non_striker: NM Salonen
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: Faraaz Mehti Abbas
+    - 3.6:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: NM Salonen
+    - 4.1:
+        non_striker: NM Salonen
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.1'
+        batsman: Faraaz Mehti Abbas
+    - 4.2:
+        non_striker: NM Salonen
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: Faraaz Mehti Abbas
+    - 4.3:
+        non_striker: NM Salonen
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: Faraaz Mehti Abbas
+    - 4.4:
+        non_striker: Faraaz Mehti Abbas
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: NM Salonen
+    - 4.5:
+        non_striker: Faraaz Mehti Abbas
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: NM Salonen
+    - 4.6:
+        non_striker: NM Salonen
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: Faraaz Mehti Abbas
+    - 5.1:
+        non_striker: NM Salonen
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: Faraaz Mehti Abbas
+    - 5.2:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: NM Salonen
+    - 5.3:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: NM Salonen
+    - 5.4:
+        non_striker: NM Salonen
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: Faraaz Mehti Abbas
+    - 5.5:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: NM Salonen
+    - 5.6:
+        non_striker: NM Salonen
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: Faraaz Mehti Abbas
+    - 6.1:
+        non_striker: Faraaz Mehti Abbas
+        bowler: A Dhabe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.1'
+        batsman: NM Salonen
+    - 6.2:
+        non_striker: Faraaz Mehti Abbas
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: NM Salonen
+    - 6.3:
+        non_striker: NM Salonen
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '6.2'
+        batsman: Faraaz Mehti Abbas
+    - 6.4:
+        non_striker: NM Salonen
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.3'
+        batsman: Faraaz Mehti Abbas
+    - 6.5:
+        non_striker: NM Salonen
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: Faraaz Mehti Abbas
+    - 6.6:
+        non_striker: Faraaz Mehti Abbas
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.5'
+        batsman: NM Salonen
+    - 6.7:
+        non_striker: Faraaz Mehti Abbas
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: NM Salonen
+    - 7.1:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.1'
+        batsman: NM Salonen
+    - 7.2:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: NM Salonen
+    - 7.3:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.3'
+        batsman: NM Salonen
+    - 7.4:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: NM Salonen
+    - 7.5:
+        non_striker: NM Salonen
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: Faraaz Mehti Abbas
+    - 7.6:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: NM Salonen
+    - 8.1:
+        non_striker: NM Salonen
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: Faraaz Mehti Abbas
+    - 8.2:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.2'
+        batsman: NM Salonen
+    - 8.3:
+        non_striker: Faraaz Mehti Abbas
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: NM Salonen
+    - 8.4:
+        non_striker: NM Salonen
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: Faraaz Mehti Abbas
+    - 8.5:
+        non_striker: NM Salonen
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.5'
+        batsman: Faraaz Mehti Abbas
+    - 8.6:
+        non_striker: NM Salonen
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: Faraaz Mehti Abbas
+    - 9.1:
+        non_striker: NM Salonen
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.1'
+        batsman: Faraaz Mehti Abbas
+    - 9.2:
+        non_striker: NM Salonen
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Faraaz Mehti Abbas
+        wicket:
+          player_out: Faraaz Mehti Abbas
+          kind: caught and bowled
+    - 9.3:
+        non_striker: NM Salonen
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: Faheem Nellancheri
+    - 9.4:
+        non_striker: NM Salonen
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: Faheem Nellancheri
+    - 9.5:
+        non_striker: Faheem Nellancheri
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: NM Salonen
+    - 9.6:
+        non_striker: NM Salonen
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: Faheem Nellancheri
+    - 10.1:
+        non_striker: Faheem Nellancheri
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: NM Salonen
+    - 10.2:
+        non_striker: NM Salonen
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: Faheem Nellancheri
+    - 10.3:
+        non_striker: Faheem Nellancheri
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.3'
+        batsman: NM Salonen
+    - 10.4:
+        non_striker: Faheem Nellancheri
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.4'
+        batsman: NM Salonen
+    - 10.5:
+        non_striker: Faheem Nellancheri
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: NM Salonen
+        wicket:
+          player_out: NM Salonen
+          fielders:
+          - DB Lakhani (sub)
+          kind: caught
+    - 10.6:
+        non_striker: Faheem Nellancheri
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Jordan O'Brien
+    - 11.1:
+        non_striker: Jordan O'Brien
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: Faheem Nellancheri
+    - 11.2:
+        non_striker: Jordan O'Brien
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: Faheem Nellancheri
+    - 11.3:
+        non_striker: Faheem Nellancheri
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: Jordan O'Brien
+    - 11.4:
+        non_striker: Jordan O'Brien
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: Faheem Nellancheri
+    - 11.5:
+        non_striker: Jordan O'Brien
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Faheem Nellancheri
+        wicket:
+          player_out: Faheem Nellancheri
+          fielders:
+          - Awais Ahmad
+          kind: caught
+    - 11.6:
+        non_striker: Jordan O'Brien
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Amjad Sher
+    - 12.1:
+        non_striker: Jordan O'Brien
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.1'
+        batsman: Amjad Sher
+    - 12.2:
+        non_striker: Jordan O'Brien
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: Amjad Sher
+    - 12.3:
+        non_striker: Amjad Sher
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: Jordan O'Brien
+    - 12.4:
+        non_striker: Jordan O'Brien
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.3'
+        batsman: Amjad Sher
+    - 12.5:
+        non_striker: Jordan O'Brien
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.3'
+        batsman: Amjad Sher
+    - 12.6:
+        non_striker: Jordan O'Brien
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.4'
+        batsman: Amjad Sher
+    - 12.7:
+        non_striker: Jordan O'Brien
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Amjad Sher
+        wicket:
+          player_out: Amjad Sher
+          fielders:
+          - DB Lakhani (sub)
+          kind: caught
+    - 12.8:
+        non_striker: Jordan O'Brien
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: Zahidullah Kamal
+    - 13.1:
+        non_striker: Jordan O'Brien
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: Zahidullah Kamal
+    - 13.2:
+        non_striker: Zahidullah Kamal
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: Jordan O'Brien
+    - 13.3:
+        non_striker: Zahidullah Kamal
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Jordan O'Brien
+    - 13.4:
+        non_striker: Jordan O'Brien
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.4'
+        batsman: Zahidullah Kamal
+    - 13.5:
+        non_striker: Jordan O'Brien
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Zahidullah Kamal
+        wicket:
+          player_out: Zahidullah Kamal
+          fielders:
+          - Awais Ahmad
+          kind: caught
+    - 13.6:
+        non_striker: Jordan O'Brien
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: PEA Karunarathna
+    - 14.1:
+        non_striker: Jordan O'Brien
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: PEA Karunarathna
+        wicket:
+          player_out: PEA Karunarathna
+          kind: bowled
+    - 14.2:
+        non_striker: Jordan O'Brien
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: MB Tambe
+        wicket:
+          player_out: MB Tambe
+          kind: bowled
+    - 14.3:
+        non_striker: Jordan O'Brien
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: Junaid Khan
+    - 14.4:
+        non_striker: Junaid Khan
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: Jordan O'Brien
+    - 14.5:
+        non_striker: Junaid Khan
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: Jordan O'Brien
+        wicket:
+          player_out: Jordan O'Brien
+          kind: lbw
+- 2nd innings:
+    team: Sweden
+    deliveries:
+    - 0.1:
+        bowler: PEA Karunarathna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Saeed Ahmed
+        actual_delivery: '0.1'
+        batsman: A Mundra
+    - 0.2:
+        bowler: PEA Karunarathna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Saeed Ahmed
+        actual_delivery: '0.1'
+        batsman: A Mundra
+    - 0.3:
+        bowler: PEA Karunarathna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Saeed Ahmed
+        actual_delivery: '0.2'
+        batsman: A Mundra
+    - 0.4:
+        bowler: PEA Karunarathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Saeed Ahmed
+        actual_delivery: '0.3'
+        batsman: A Mundra
+    - 0.5:
+        bowler: PEA Karunarathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Saeed Ahmed
+        actual_delivery: '0.4'
+        batsman: A Mundra
+    - 0.6:
+        non_striker: A Mundra
+        bowler: PEA Karunarathna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.5'
+        batsman: Saeed Ahmed
+    - 0.7:
+        non_striker: A Mundra
+        bowler: PEA Karunarathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Saeed Ahmed
+    - 1.1:
+        non_striker: Saeed Ahmed
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: A Mundra
+    - 1.2:
+        non_striker: A Mundra
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: Saeed Ahmed
+    - 1.3:
+        non_striker: A Mundra
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.3'
+        batsman: Saeed Ahmed
+    - 1.4:
+        non_striker: A Mundra
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: Saeed Ahmed
+    - 1.5:
+        non_striker: Saeed Ahmed
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: A Mundra
+    - 1.6:
+        non_striker: A Mundra
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.6'
+        batsman: Saeed Ahmed
+    - 2.1:
+        non_striker: Saeed Ahmed
+        bowler: PEA Karunarathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: A Mundra
+    - 2.2:
+        non_striker: A Mundra
+        bowler: PEA Karunarathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: Saeed Ahmed
+    - 2.3:
+        non_striker: Saeed Ahmed
+        bowler: PEA Karunarathna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: A Mundra
+    - 2.4:
+        non_striker: Saeed Ahmed
+        bowler: PEA Karunarathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: A Mundra
+    - 2.5:
+        non_striker: A Mundra
+        bowler: PEA Karunarathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: Saeed Ahmed
+    - 2.6:
+        non_striker: A Mundra
+        bowler: PEA Karunarathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: Saeed Ahmed
+    - 3.1:
+        non_striker: A Mundra
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Saeed Ahmed
+    - 3.2:
+        non_striker: A Mundra
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.2'
+        batsman: Saeed Ahmed
+    - 3.3:
+        non_striker: A Mundra
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: Saeed Ahmed
+    - 3.4:
+        non_striker: Saeed Ahmed
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: A Mundra
+    - 3.5:
+        non_striker: Saeed Ahmed
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.5'
+        batsman: A Mundra
+    - 3.6:
+        non_striker: Saeed Ahmed
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: A Mundra
+    - 4.1:
+        non_striker: Saeed Ahmed
+        bowler: PEA Karunarathna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.1'
+        batsman: A Mundra
+    - 4.2:
+        non_striker: Saeed Ahmed
+        bowler: PEA Karunarathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: A Mundra
+    - 4.3:
+        non_striker: A Mundra
+        bowler: PEA Karunarathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: Saeed Ahmed
+    - 4.4:
+        non_striker: Saeed Ahmed
+        bowler: PEA Karunarathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: A Mundra
+    - 4.5:
+        non_striker: A Mundra
+        bowler: PEA Karunarathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: Saeed Ahmed
+    - 4.6:
+        non_striker: Saeed Ahmed
+        bowler: PEA Karunarathna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.6'
+        batsman: A Mundra
+    - 4.7:
+        non_striker: Saeed Ahmed
+        bowler: PEA Karunarathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: A Mundra
+    - 5.1:
+        non_striker: Saeed Ahmed
+        bowler: NM Salonen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.1'
+        batsman: A Mundra
+    - 5.2:
+        non_striker: Saeed Ahmed
+        bowler: NM Salonen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.2'
+        batsman: A Mundra
+    - 5.3:
+        non_striker: Saeed Ahmed
+        bowler: NM Salonen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: A Mundra
+    - 5.4:
+        non_striker: Saeed Ahmed
+        bowler: NM Salonen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: A Mundra
+    - 5.5:
+        non_striker: Saeed Ahmed
+        bowler: NM Salonen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.4'
+        batsman: A Mundra
+    - 5.6:
+        non_striker: Saeed Ahmed
+        bowler: NM Salonen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: A Mundra
+    - 5.7:
+        non_striker: A Mundra
+        bowler: NM Salonen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Saeed Ahmed
+    - 6.1:
+        non_striker: Saeed Ahmed
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: A Mundra
+    - 6.2:
+        non_striker: Saeed Ahmed
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '6.2'
+        batsman: A Mundra
+    - 6.3:
+        non_striker: Saeed Ahmed
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: A Mundra
+    - 6.4:
+        non_striker: A Mundra
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: Saeed Ahmed
+    - 6.5:
+        non_striker: Saeed Ahmed
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: A Mundra
+    - 6.6:
+        non_striker: A Mundra
+        bowler: Junaid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: Saeed Ahmed
+    - 7.1:
+        non_striker: A Mundra
+        bowler: NM Salonen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: Saeed Ahmed
+    - 7.2:
+        non_striker: A Mundra
+        bowler: NM Salonen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: Saeed Ahmed
+    - 7.3:
+        non_striker: Saeed Ahmed
+        bowler: NM Salonen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.3'
+        batsman: A Mundra
+    - 7.4:
+        non_striker: Saeed Ahmed
+        bowler: NM Salonen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: A Mundra
+    - 7.5:
+        non_striker: A Mundra
+        bowler: NM Salonen
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        actual_delivery: '7.5'
+        batsman: Saeed Ahmed
+    - 7.6:
+        non_striker: A Mundra
+        bowler: NM Salonen
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        actual_delivery: '7.5'
+        batsman: Saeed Ahmed
+    - 7.7:
+        non_striker: A Mundra
+        bowler: NM Salonen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: Saeed Ahmed
+    - 8.1:
+        non_striker: A Mundra
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: Saeed Ahmed
+    - 8.2:
+        non_striker: Saeed Ahmed
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.2'
+        batsman: A Mundra
+    - 8.3:
+        non_striker: Saeed Ahmed
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: A Mundra
+    - 8.4:
+        non_striker: A Mundra
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: Saeed Ahmed
+    - 8.5:
+        non_striker: A Mundra
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Saeed Ahmed
+    - 8.6:
+        non_striker: Saeed Ahmed
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: A Mundra
+    - 9.1:
+        non_striker: Saeed Ahmed
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.1'
+        batsman: A Mundra
+    - 9.2:
+        non_striker: Saeed Ahmed
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.2'
+        batsman: A Mundra
+    - 9.3:
+        non_striker: Saeed Ahmed
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: A Mundra
+    - 9.4:
+        non_striker: A Mundra
+        bowler: MB Tambe
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '9.4'
+        batsman: Saeed Ahmed
+    - 9.5:
+        non_striker: Saeed Ahmed
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: A Mundra
+    - 9.6:
+        non_striker: A Mundra
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: Saeed Ahmed
+    - 9.7:
+        non_striker: Saeed Ahmed
+        bowler: MB Tambe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: A Mundra
+    - 10.1:
+        non_striker: Saeed Ahmed
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: A Mundra
+    - 10.2:
+        non_striker: A Mundra
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: Saeed Ahmed
+    - 10.3:
+        non_striker: Saeed Ahmed
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: A Mundra
+        wicket:
+          player_out: Saeed Ahmed
+          fielders:
+          - Faraaz Mehti Abbas
+          kind: run out
+    - 10.4:
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zaid Ahmad
+        actual_delivery: '10.4'
+        batsman: A Mundra
+    - 10.5:
+        non_striker: A Mundra
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '10.5'
+        batsman: Zaid Ahmad
+    - 10.6:
+        non_striker: A Mundra
+        bowler: Amjad Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: Zaid Ahmad
+    - 11.1:
+        non_striker: A Mundra
+        bowler: Faraaz Mehti Abbas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.1'
+        batsman: Zaid Ahmad
+    target:
+      overs: 15
+      runs: 117

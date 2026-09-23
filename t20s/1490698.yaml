@@ -1,0 +1,2460 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: London
+  dates:
+  - '2026-06-24'
+  gender: female
+  match_type: T20
+  match_type_number: 2885
+  outcome:
+    winner: England
+    by:
+      runs: 38
+  overs: 20
+  player_of_match:
+  - DN Wyatt
+  players:
+    England:
+    - AE Jones
+    - DN Wyatt
+    - SIR Dunkley
+    - A Capsey
+    - HC Knight
+    - FG Kemp
+    - DR Gibson
+    - CE Dean
+    - S Ecclestone
+    - LCN Smith
+    - LK Bell
+    West Indies:
+    - HK Matthews
+    - DJS Dottin
+    - SA Campbelle
+    - J Glasgow
+    - JKC Claxton
+    - CA Henry
+    - AA Alleyne
+    - SR Taylor
+    - ASS Fletcher
+    - K Ramharack
+    - A Munisar
+  registry:
+    people:
+      A Capsey: 910dd54e
+      A Munisar: a811cb83
+      AA Alleyne: 4b0e3049
+      AE Jones: b05e45e4
+      ASS Fletcher: 42d9dd09
+      CA Henry: '75820733'
+      CE Dean: c6625a26
+      DJS Dottin: 53bee17f
+      DN Wyatt: a139c379
+      DR Gibson: d2763568
+      Eloise Sheridan: d8d43840
+      FG Kemp: abc9f8a4
+      HC Knight: 4ba0289e
+      HK Matthews: d32cf49a
+      J Glasgow: a2632c7c
+      JKC Claxton: e22f8ec1
+      K Klaaste: 6cc1d918
+      K Ramharack: 321c980e
+      LCN Smith: 340202b0
+      LK Bell: 38b4583c
+      N Janani: d06a665d
+      N Perera: 129709f9
+      S Ecclestone: cdb82f1c
+      SA Campbelle: a7cd72b2
+      SA Fritz: d15e60c8
+      SIR Dunkley: 3a9e9cb2
+      SR Taylor: 92cf79a8
+  team_type: international
+  teams:
+  - England
+  - West Indies
+  toss:
+    winner: West Indies
+    decision: field
+  umpires:
+  - Eloise Sheridan
+  - N Janani
+  venue: Lord's, London
+innings:
+- 1st innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: DN Wyatt
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: AE Jones
+    - 0.2:
+        non_striker: DN Wyatt
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.2'
+        batsman: AE Jones
+    - 0.3:
+        non_striker: DN Wyatt
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.3'
+        batsman: AE Jones
+    - 0.4:
+        non_striker: DN Wyatt
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: AE Jones
+    - 0.5:
+        non_striker: DN Wyatt
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: AE Jones
+        wicket:
+          player_out: AE Jones
+          fielders:
+          - ASS Fletcher
+          kind: caught
+    - 0.6:
+        non_striker: DN Wyatt
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: SIR Dunkley
+    - 1.1:
+        non_striker: SIR Dunkley
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: DN Wyatt
+    - 1.2:
+        non_striker: DN Wyatt
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: SIR Dunkley
+    - 1.3:
+        non_striker: DN Wyatt
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: SIR Dunkley
+    - 1.4:
+        non_striker: DN Wyatt
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: SIR Dunkley
+    - 1.5:
+        non_striker: DN Wyatt
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.5'
+        batsman: SIR Dunkley
+    - 1.6:
+        non_striker: DN Wyatt
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: SIR Dunkley
+    - 2.1:
+        non_striker: SIR Dunkley
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.1'
+        batsman: DN Wyatt
+    - 2.2:
+        non_striker: SIR Dunkley
+        bowler: CA Henry
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '2.2'
+        batsman: DN Wyatt
+    - 2.3:
+        non_striker: DN Wyatt
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: SIR Dunkley
+    - 2.4:
+        non_striker: SIR Dunkley
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: DN Wyatt
+    - 2.5:
+        non_striker: SIR Dunkley
+        bowler: CA Henry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.4'
+        batsman: DN Wyatt
+    - 2.6:
+        non_striker: SIR Dunkley
+        bowler: CA Henry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.4'
+        batsman: DN Wyatt
+    - 2.7:
+        non_striker: SIR Dunkley
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.4'
+        batsman: DN Wyatt
+    - 2.8:
+        non_striker: SIR Dunkley
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '2.5'
+        batsman: DN Wyatt
+    - 2.9:
+        non_striker: DN Wyatt
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: SIR Dunkley
+    - 3.1:
+        non_striker: DN Wyatt
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: SIR Dunkley
+    - 3.2:
+        non_striker: DN Wyatt
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: SIR Dunkley
+    - 3.3:
+        non_striker: DN Wyatt
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: SIR Dunkley
+        wicket:
+          player_out: SIR Dunkley
+          kind: lbw
+    - 3.4:
+        non_striker: DN Wyatt
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: A Capsey
+    - 3.5:
+        non_striker: A Capsey
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: DN Wyatt
+    - 3.6:
+        non_striker: A Capsey
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.6'
+        batsman: DN Wyatt
+    - 4.1:
+        non_striker: DN Wyatt
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: A Capsey
+    - 4.2:
+        non_striker: A Capsey
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: DN Wyatt
+    - 4.3:
+        non_striker: A Capsey
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: DN Wyatt
+    - 4.4:
+        non_striker: DN Wyatt
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: A Capsey
+    - 4.5:
+        non_striker: DN Wyatt
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: A Capsey
+    - 4.6:
+        non_striker: DN Wyatt
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: A Capsey
+    - 5.1:
+        non_striker: A Capsey
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: DN Wyatt
+    - 5.2:
+        non_striker: DN Wyatt
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: A Capsey
+    - 5.3:
+        non_striker: DN Wyatt
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: A Capsey
+    - 5.4:
+        non_striker: A Capsey
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.4'
+        batsman: DN Wyatt
+    - 5.5:
+        non_striker: A Capsey
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: DN Wyatt
+    - 5.6:
+        non_striker: A Capsey
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: DN Wyatt
+    - 6.1:
+        non_striker: DN Wyatt
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: A Capsey
+    - 6.2:
+        non_striker: A Capsey
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: DN Wyatt
+    - 6.3:
+        non_striker: A Capsey
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: DN Wyatt
+    - 6.4:
+        non_striker: A Capsey
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: DN Wyatt
+    - 6.5:
+        non_striker: DN Wyatt
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: A Capsey
+    - 6.6:
+        non_striker: A Capsey
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: DN Wyatt
+    - 7.1:
+        non_striker: A Capsey
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.1'
+        batsman: DN Wyatt
+    - 7.2:
+        non_striker: A Capsey
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: DN Wyatt
+    - 7.3:
+        non_striker: DN Wyatt
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: A Capsey
+    - 7.4:
+        non_striker: DN Wyatt
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: A Capsey
+    - 7.5:
+        non_striker: A Capsey
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: DN Wyatt
+    - 7.6:
+        non_striker: DN Wyatt
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: A Capsey
+    - 8.1:
+        non_striker: DN Wyatt
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.1'
+        batsman: A Capsey
+    - 8.2:
+        non_striker: DN Wyatt
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: A Capsey
+    - 8.3:
+        non_striker: A Capsey
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: DN Wyatt
+    - 8.4:
+        non_striker: DN Wyatt
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: A Capsey
+    - 8.5:
+        non_striker: A Capsey
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.5'
+        batsman: DN Wyatt
+    - 8.6:
+        non_striker: A Capsey
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: DN Wyatt
+    - 9.1:
+        non_striker: A Capsey
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: DN Wyatt
+    - 9.2:
+        non_striker: DN Wyatt
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: A Capsey
+    - 9.3:
+        non_striker: A Capsey
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: DN Wyatt
+    - 9.4:
+        non_striker: DN Wyatt
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.4'
+        batsman: A Capsey
+    - 9.5:
+        non_striker: DN Wyatt
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: A Capsey
+    - 9.6:
+        non_striker: A Capsey
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: DN Wyatt
+    - 10.1:
+        non_striker: A Capsey
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.1'
+        batsman: DN Wyatt
+    - 10.2:
+        non_striker: A Capsey
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.2'
+        batsman: DN Wyatt
+    - 10.3:
+        non_striker: A Capsey
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: DN Wyatt
+    - 10.4:
+        non_striker: DN Wyatt
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: A Capsey
+    - 10.5:
+        non_striker: DN Wyatt
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: A Capsey
+    - 10.6:
+        non_striker: A Capsey
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: DN Wyatt
+    - 11.1:
+        non_striker: A Capsey
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.1'
+        batsman: DN Wyatt
+    - 11.2:
+        non_striker: A Capsey
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: DN Wyatt
+    - 11.3:
+        non_striker: DN Wyatt
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.3'
+        batsman: A Capsey
+    - 11.4:
+        non_striker: DN Wyatt
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.4'
+        batsman: A Capsey
+    - 11.5:
+        non_striker: DN Wyatt
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: A Capsey
+        wicket:
+          player_out: A Capsey
+          fielders:
+          - CA Henry
+          kind: caught
+    - 11.6:
+        non_striker: DN Wyatt
+        bowler: K Ramharack
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.6'
+        batsman: HC Knight
+    - 11.7:
+        non_striker: DN Wyatt
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.6'
+        batsman: HC Knight
+    - 12.1:
+        non_striker: HC Knight
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: DN Wyatt
+    - 12.2:
+        non_striker: DN Wyatt
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: HC Knight
+    - 12.3:
+        non_striker: HC Knight
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: DN Wyatt
+    - 12.4:
+        non_striker: HC Knight
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: DN Wyatt
+    - 12.5:
+        non_striker: DN Wyatt
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.5'
+        batsman: HC Knight
+    - 12.6:
+        non_striker: DN Wyatt
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: HC Knight
+    - 13.1:
+        non_striker: HC Knight
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.1'
+        batsman: DN Wyatt
+    - 13.2:
+        non_striker: HC Knight
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: DN Wyatt
+    - 13.3:
+        non_striker: HC Knight
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: DN Wyatt
+    - 13.4:
+        non_striker: HC Knight
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: DN Wyatt
+    - 13.5:
+        non_striker: DN Wyatt
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: HC Knight
+    - 13.6:
+        non_striker: HC Knight
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.6'
+        batsman: DN Wyatt
+    - 14.1:
+        non_striker: DN Wyatt
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '14.1'
+        batsman: HC Knight
+    - 14.2:
+        non_striker: HC Knight
+        bowler: ASS Fletcher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.2'
+        batsman: DN Wyatt
+    - 14.3:
+        non_striker: HC Knight
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: DN Wyatt
+    - 14.4:
+        non_striker: DN Wyatt
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: HC Knight
+    - 14.5:
+        non_striker: HC Knight
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: DN Wyatt
+    - 14.6:
+        non_striker: DN Wyatt
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: HC Knight
+    - 14.7:
+        non_striker: DN Wyatt
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: HC Knight
+    - 15.1:
+        non_striker: DN Wyatt
+        bowler: HK Matthews
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        actual_delivery: '15.1'
+        batsman: HC Knight
+    - 15.2:
+        non_striker: DN Wyatt
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.2'
+        batsman: HC Knight
+    - 15.3:
+        non_striker: DN Wyatt
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.3'
+        batsman: HC Knight
+    - 15.4:
+        non_striker: DN Wyatt
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: HC Knight
+    - 15.5:
+        non_striker: DN Wyatt
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: HC Knight
+        wicket:
+          player_out: DN Wyatt
+          fielders:
+          - J Glasgow
+          - SA Campbelle
+          kind: run out
+    - 15.6:
+        non_striker: HC Knight
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: FG Kemp
+    - 16.1:
+        non_striker: HC Knight
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: FG Kemp
+    - 16.2:
+        non_striker: FG Kemp
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.2'
+        batsman: HC Knight
+    - 16.3:
+        non_striker: FG Kemp
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: HC Knight
+    - 16.4:
+        non_striker: HC Knight
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: FG Kemp
+    - 16.5:
+        non_striker: FG Kemp
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.5'
+        batsman: HC Knight
+    - 16.6:
+        non_striker: FG Kemp
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: HC Knight
+    - 17.1:
+        non_striker: HC Knight
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: FG Kemp
+    - 17.2:
+        non_striker: FG Kemp
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: HC Knight
+    - 17.3:
+        non_striker: HC Knight
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: FG Kemp
+        wicket:
+          player_out: FG Kemp
+          kind: bowled
+    - 17.4:
+        non_striker: HC Knight
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: DR Gibson
+    - 17.5:
+        non_striker: DR Gibson
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.5'
+        batsman: HC Knight
+    - 17.6:
+        non_striker: DR Gibson
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: HC Knight
+    - 18.1:
+        non_striker: DR Gibson
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.1'
+        batsman: HC Knight
+    - 18.2:
+        non_striker: DR Gibson
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: HC Knight
+    - 18.3:
+        non_striker: DR Gibson
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.3'
+        batsman: HC Knight
+    - 18.4:
+        non_striker: DR Gibson
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: HC Knight
+    - 18.5:
+        non_striker: HC Knight
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: DR Gibson
+    - 18.6:
+        non_striker: DR Gibson
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: HC Knight
+        wicket:
+          player_out: HC Knight
+          fielders:
+          - SA Campbelle
+          kind: run out
+    - 19.1:
+        non_striker: CE Dean
+        bowler: A Munisar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '19.1'
+        batsman: DR Gibson
+    - 19.2:
+        non_striker: DR Gibson
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.2'
+        batsman: CE Dean
+    - 19.3:
+        non_striker: DR Gibson
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.3'
+        batsman: CE Dean
+    - 19.4:
+        non_striker: DR Gibson
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: CE Dean
+    - 19.5:
+        non_striker: CE Dean
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: DR Gibson
+        wicket:
+          player_out: DR Gibson
+          fielders:
+          - AA Alleyne
+          kind: caught
+    - 19.6:
+        non_striker: CE Dean
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.6'
+        batsman: S Ecclestone
+- 2nd innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: DJS Dottin
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: HK Matthews
+    - 0.2:
+        non_striker: DJS Dottin
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.2'
+        batsman: HK Matthews
+    - 0.3:
+        non_striker: HK Matthews
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.3'
+        batsman: DJS Dottin
+    - 0.4:
+        non_striker: HK Matthews
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: DJS Dottin
+    - 0.5:
+        non_striker: DJS Dottin
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: HK Matthews
+    - 0.6:
+        non_striker: DJS Dottin
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: HK Matthews
+    - 0.7:
+        non_striker: DJS Dottin
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: HK Matthews
+    - 1.1:
+        non_striker: HK Matthews
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: DJS Dottin
+    - 1.2:
+        non_striker: DJS Dottin
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: HK Matthews
+    - 1.3:
+        non_striker: DJS Dottin
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.3'
+        batsman: HK Matthews
+    - 1.4:
+        non_striker: DJS Dottin
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: HK Matthews
+    - 1.5:
+        non_striker: HK Matthews
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: DJS Dottin
+    - 1.6:
+        non_striker: HK Matthews
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: DJS Dottin
+    - 2.1:
+        non_striker: DJS Dottin
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: HK Matthews
+    - 2.2:
+        non_striker: DJS Dottin
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.2'
+        batsman: HK Matthews
+    - 2.3:
+        non_striker: DJS Dottin
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: HK Matthews
+    - 2.4:
+        non_striker: DJS Dottin
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: HK Matthews
+    - 2.5:
+        non_striker: DJS Dottin
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.4'
+        batsman: HK Matthews
+    - 2.6:
+        non_striker: DJS Dottin
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.4'
+        batsman: HK Matthews
+    - 2.7:
+        non_striker: DJS Dottin
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '2.5'
+        batsman: HK Matthews
+    - 2.8:
+        non_striker: HK Matthews
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: DJS Dottin
+    - 3.1:
+        non_striker: DJS Dottin
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.1'
+        batsman: HK Matthews
+    - 3.2:
+        non_striker: DJS Dottin
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: HK Matthews
+    - 3.3:
+        non_striker: DJS Dottin
+        bowler: LCN Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.3'
+        batsman: HK Matthews
+    - 3.4:
+        non_striker: DJS Dottin
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: HK Matthews
+    - 3.5:
+        non_striker: DJS Dottin
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: HK Matthews
+        wicket:
+          player_out: HK Matthews
+          fielders:
+          - AE Jones
+          kind: caught
+    - 3.6:
+        non_striker: DJS Dottin
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: SA Campbelle
+    - 3.7:
+        non_striker: SA Campbelle
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.6'
+        batsman: DJS Dottin
+    - 4.1:
+        non_striker: DJS Dottin
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: SA Campbelle
+    - 4.2:
+        non_striker: DJS Dottin
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: SA Campbelle
+    - 4.3:
+        non_striker: DJS Dottin
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: SA Campbelle
+    - 4.4:
+        non_striker: DJS Dottin
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.4'
+        batsman: SA Campbelle
+    - 4.5:
+        non_striker: DJS Dottin
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: SA Campbelle
+    - 4.6:
+        non_striker: DJS Dottin
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: SA Campbelle
+    - 5.1:
+        non_striker: SA Campbelle
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.1'
+        batsman: DJS Dottin
+    - 5.2:
+        non_striker: SA Campbelle
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.2'
+        batsman: DJS Dottin
+    - 5.3:
+        non_striker: SA Campbelle
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.3'
+        batsman: DJS Dottin
+    - 5.4:
+        non_striker: SA Campbelle
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: DJS Dottin
+    - 5.5:
+        non_striker: DJS Dottin
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: SA Campbelle
+    - 5.6:
+        non_striker: SA Campbelle
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: DJS Dottin
+        wicket:
+          player_out: DJS Dottin
+          fielders:
+          - A Capsey
+          kind: caught
+    - 6.1:
+        non_striker: J Glasgow
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: SA Campbelle
+    - 6.2:
+        non_striker: J Glasgow
+        bowler: S Ecclestone
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        actual_delivery: '6.2'
+        batsman: SA Campbelle
+    - 6.3:
+        non_striker: J Glasgow
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: SA Campbelle
+    - 6.4:
+        non_striker: J Glasgow
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: SA Campbelle
+    - 6.5:
+        non_striker: SA Campbelle
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: J Glasgow
+    - 6.6:
+        non_striker: SA Campbelle
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: J Glasgow
+    - 7.1:
+        non_striker: SA Campbelle
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: J Glasgow
+    - 7.2:
+        non_striker: J Glasgow
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: SA Campbelle
+    - 7.3:
+        non_striker: SA Campbelle
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: J Glasgow
+    - 7.4:
+        non_striker: J Glasgow
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.4'
+        batsman: SA Campbelle
+    - 7.5:
+        non_striker: J Glasgow
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.5'
+        batsman: SA Campbelle
+    - 7.6:
+        non_striker: J Glasgow
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: SA Campbelle
+    - 8.1:
+        non_striker: J Glasgow
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: SA Campbelle
+    - 8.2:
+        non_striker: SA Campbelle
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: J Glasgow
+    - 8.3:
+        non_striker: J Glasgow
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: SA Campbelle
+        wicket:
+          player_out: SA Campbelle
+          kind: bowled
+    - 8.4:
+        non_striker: J Glasgow
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: JKC Claxton
+    - 8.5:
+        non_striker: J Glasgow
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: JKC Claxton
+    - 8.6:
+        non_striker: J Glasgow
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: JKC Claxton
+    - 9.1:
+        non_striker: J Glasgow
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: JKC Claxton
+    - 9.2:
+        non_striker: JKC Claxton
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: J Glasgow
+    - 9.3:
+        non_striker: JKC Claxton
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: J Glasgow
+    - 9.4:
+        non_striker: J Glasgow
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: JKC Claxton
+    - 9.5:
+        non_striker: J Glasgow
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: JKC Claxton
+    - 9.6:
+        non_striker: JKC Claxton
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: J Glasgow
+    - 10.1:
+        non_striker: JKC Claxton
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: J Glasgow
+        wicket:
+          player_out: J Glasgow
+          kind: bowled
+    - 10.2:
+        non_striker: JKC Claxton
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: CA Henry
+    - 10.3:
+        non_striker: CA Henry
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: JKC Claxton
+    - 10.4:
+        non_striker: CA Henry
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: JKC Claxton
+    - 10.5:
+        non_striker: CA Henry
+        bowler: CE Dean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.5'
+        batsman: JKC Claxton
+    - 10.6:
+        non_striker: CA Henry
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: JKC Claxton
+    - 10.7:
+        non_striker: CA Henry
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: JKC Claxton
+    - 11.1:
+        non_striker: JKC Claxton
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: CA Henry
+    - 11.2:
+        non_striker: JKC Claxton
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.2'
+        batsman: CA Henry
+    - 11.3:
+        non_striker: JKC Claxton
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: CA Henry
+    - 11.4:
+        non_striker: CA Henry
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: JKC Claxton
+    - 11.5:
+        non_striker: JKC Claxton
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.5'
+        batsman: CA Henry
+    - 11.6:
+        non_striker: JKC Claxton
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: CA Henry
+    - 12.1:
+        non_striker: CA Henry
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: JKC Claxton
+    - 12.2:
+        non_striker: CA Henry
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: JKC Claxton
+    - 12.3:
+        non_striker: CA Henry
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: JKC Claxton
+    - 12.4:
+        non_striker: CA Henry
+        bowler: CE Dean
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          byes: 4
+          noballs: 1
+        actual_delivery: '12.4'
+        batsman: JKC Claxton
+    - 12.5:
+        non_striker: CA Henry
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: JKC Claxton
+    - 12.6:
+        non_striker: JKC Claxton
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: CA Henry
+    - 12.7:
+        non_striker: JKC Claxton
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: CA Henry
+    - 13.1:
+        non_striker: JKC Claxton
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: CA Henry
+    - 13.2:
+        non_striker: CA Henry
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: JKC Claxton
+    - 13.3:
+        non_striker: CA Henry
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: JKC Claxton
+    - 13.4:
+        non_striker: CA Henry
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: JKC Claxton
+    - 13.5:
+        non_striker: CA Henry
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.5'
+        batsman: JKC Claxton
+    - 13.6:
+        non_striker: CA Henry
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: JKC Claxton
+    - 14.1:
+        non_striker: CA Henry
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: JKC Claxton
+    - 14.2:
+        non_striker: JKC Claxton
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: CA Henry
+    - 14.3:
+        non_striker: CA Henry
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: JKC Claxton
+    - 14.4:
+        non_striker: JKC Claxton
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: CA Henry
+    - 14.5:
+        non_striker: CA Henry
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: JKC Claxton
+    - 14.6:
+        non_striker: CA Henry
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: JKC Claxton
+    - 15.1:
+        non_striker: JKC Claxton
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.1'
+        batsman: CA Henry
+    - 15.2:
+        non_striker: JKC Claxton
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.2'
+        batsman: CA Henry
+    - 15.3:
+        non_striker: JKC Claxton
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: CA Henry
+    - 15.4:
+        non_striker: JKC Claxton
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.4'
+        batsman: CA Henry
+    - 15.5:
+        non_striker: JKC Claxton
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: CA Henry
+    - 15.6:
+        non_striker: CA Henry
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: JKC Claxton
+    - 16.1:
+        non_striker: JKC Claxton
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: CA Henry
+    - 16.2:
+        non_striker: CA Henry
+        bowler: S Ecclestone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.2'
+        batsman: JKC Claxton
+    - 16.3:
+        non_striker: CA Henry
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: JKC Claxton
+    - 16.4:
+        non_striker: JKC Claxton
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: CA Henry
+    - 16.5:
+        non_striker: JKC Claxton
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.4'
+        batsman: CA Henry
+    - 16.6:
+        non_striker: JKC Claxton
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.5'
+        batsman: CA Henry
+    - 16.7:
+        non_striker: JKC Claxton
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.6'
+        batsman: CA Henry
+    - 17.1:
+        non_striker: CA Henry
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.1'
+        batsman: JKC Claxton
+    - 17.2:
+        non_striker: CA Henry
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: JKC Claxton
+    - 17.3:
+        non_striker: CA Henry
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: JKC Claxton
+    - 17.4:
+        non_striker: JKC Claxton
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: CA Henry
+    - 17.5:
+        non_striker: CA Henry
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.5'
+        batsman: JKC Claxton
+    - 17.6:
+        non_striker: CA Henry
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: JKC Claxton
+    - 18.1:
+        non_striker: JKC Claxton
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: CA Henry
+    - 18.2:
+        non_striker: CA Henry
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: JKC Claxton
+    - 18.3:
+        non_striker: JKC Claxton
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.3'
+        batsman: CA Henry
+    - 18.4:
+        non_striker: JKC Claxton
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.3'
+        batsman: CA Henry
+    - 18.5:
+        non_striker: JKC Claxton
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: CA Henry
+    - 18.6:
+        non_striker: CA Henry
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: JKC Claxton
+        wicket:
+          player_out: JKC Claxton
+          fielders:
+          - LCN Smith
+          kind: caught
+    - 18.7:
+        non_striker: CA Henry
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: AA Alleyne
+    - 19.1:
+        non_striker: CA Henry
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: AA Alleyne
+    - 19.2:
+        non_striker: AA Alleyne
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.2'
+        batsman: CA Henry
+    - 19.3:
+        non_striker: AA Alleyne
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.3'
+        batsman: CA Henry
+    - 19.4:
+        non_striker: AA Alleyne
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: CA Henry
+    - 19.5:
+        non_striker: AA Alleyne
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.5'
+        batsman: CA Henry
+    - 19.6:
+        non_striker: AA Alleyne
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: CA Henry
+    target:
+      overs: 20
+      runs: 187

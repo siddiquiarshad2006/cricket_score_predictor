@@ -1,0 +1,2801 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Prague
+  dates:
+  - '2026-06-27'
+  gender: female
+  match_type: T20
+  match_type_number: 2898
+  outcome:
+    winner: Norway
+    by:
+      runs: 45
+  overs: 20
+  player_of_match:
+  - Bijeyata Kumari
+  players:
+    Norway:
+    - AS Gorad
+    - Bijeyata Kumari
+    - Ayesha Hasan
+    - Nayab Razwan
+    - VB Viyala
+    - S Raveendrakumar
+    - Mirab Razwan
+    - Alina Aslam
+    - Lopamudra
+    - Misbah Ifzal
+    - Nishka Kataria
+    Luxembourg:
+    - SH Lawlor
+    - E Gebhard
+    - PN Agarwal
+    - Khusboo Kandpal
+    - Aarti Priya
+    - Jagrat Dubey
+    - Shivani Sati
+    - Divya Kandpal
+    - Clea Bultot
+    - P Dhar
+    - Sanah Abbas
+  registry:
+    people:
+      AS Gorad: 2c8d0953
+      Aarti Priya: ec11ad0b
+      Alina Aslam: fbffb752
+      Ayesha Hasan: 6a3de477
+      Bijeyata Kumari: a5fc18a7
+      Clea Bultot: 885e8fd8
+      Divya Kandpal: 32b8d4fe
+      E Gebhard: 31d1f06d
+      Jagrat Dubey: a4051019
+      Khusboo Kandpal: 54a10889
+      Lopamudra: ff4509d5
+      Mirab Razwan: 498031f9
+      Misbah Ifzal: d5cd5d48
+      Nayab Razwan: f12e21a0
+      Nishka Kataria: 1a68a424
+      P Dhar: e1bb9d18
+      PN Agarwal: f34a3a74
+      S Raveendrakumar: 80713a84
+      SH Lawlor: 29342bbe
+      Sanah Abbas: 5eb15c19
+      Shivani Sati: b49ab82b
+      VB Viyala: 228a747d
+  team_type: international
+  teams:
+  - Norway
+  - Luxembourg
+  toss:
+    winner: Norway
+    decision: bat
+  venue: Banks Field, Vinor
+innings:
+- 1st innings:
+    team: Norway
+    deliveries:
+    - 0.1:
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Bijeyata Kumari
+        actual_delivery: '0.1'
+        batsman: AS Gorad
+    - 0.2:
+        non_striker: AS Gorad
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.2'
+        batsman: Bijeyata Kumari
+    - 0.3:
+        non_striker: Bijeyata Kumari
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: AS Gorad
+    - 0.4:
+        non_striker: AS Gorad
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Bijeyata Kumari
+    - 0.5:
+        non_striker: AS Gorad
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Bijeyata Kumari
+    - 0.6:
+        non_striker: AS Gorad
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Bijeyata Kumari
+    - 1.1:
+        non_striker: Bijeyata Kumari
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: AS Gorad
+    - 1.2:
+        non_striker: Bijeyata Kumari
+        bowler: Divya Kandpal
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '1.2'
+        batsman: AS Gorad
+    - 1.3:
+        non_striker: AS Gorad
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: Bijeyata Kumari
+    - 1.4:
+        non_striker: AS Gorad
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: Bijeyata Kumari
+    - 1.5:
+        non_striker: AS Gorad
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: Bijeyata Kumari
+    - 1.6:
+        non_striker: Bijeyata Kumari
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: AS Gorad
+    - 1.7:
+        non_striker: Bijeyata Kumari
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: AS Gorad
+    - 2.1:
+        non_striker: Bijeyata Kumari
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: AS Gorad
+    - 2.2:
+        non_striker: Bijeyata Kumari
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: AS Gorad
+    - 2.3:
+        non_striker: AS Gorad
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Bijeyata Kumari
+    - 2.4:
+        non_striker: AS Gorad
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.4'
+        batsman: Bijeyata Kumari
+    - 2.5:
+        non_striker: AS Gorad
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '2.5'
+        batsman: Bijeyata Kumari
+    - 2.6:
+        non_striker: Bijeyata Kumari
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        actual_delivery: '2.5'
+        batsman: AS Gorad
+    - 2.7:
+        non_striker: Bijeyata Kumari
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: AS Gorad
+    - 2.8:
+        non_striker: AS Gorad
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Bijeyata Kumari
+    - 3.1:
+        non_striker: Bijeyata Kumari
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.1'
+        batsman: AS Gorad
+    - 3.2:
+        non_striker: Bijeyata Kumari
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: AS Gorad
+    - 3.3:
+        non_striker: Bijeyata Kumari
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: AS Gorad
+    - 3.4:
+        non_striker: AS Gorad
+        bowler: Divya Kandpal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.4'
+        batsman: Bijeyata Kumari
+    - 3.5:
+        non_striker: AS Gorad
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Bijeyata Kumari
+    - 3.6:
+        non_striker: AS Gorad
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Bijeyata Kumari
+    - 3.7:
+        non_striker: AS Gorad
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Bijeyata Kumari
+    - 4.1:
+        non_striker: Bijeyata Kumari
+        bowler: Jagrat Dubey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.1'
+        batsman: AS Gorad
+    - 4.2:
+        non_striker: Bijeyata Kumari
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: AS Gorad
+    - 4.3:
+        non_striker: AS Gorad
+        bowler: Jagrat Dubey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '4.2'
+        batsman: Bijeyata Kumari
+    - 4.4:
+        non_striker: AS Gorad
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.2'
+        batsman: Bijeyata Kumari
+    - 4.5:
+        non_striker: AS Gorad
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: Bijeyata Kumari
+    - 4.6:
+        non_striker: Bijeyata Kumari
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: AS Gorad
+    - 4.7:
+        non_striker: Bijeyata Kumari
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: AS Gorad
+    - 4.8:
+        non_striker: AS Gorad
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: Bijeyata Kumari
+    - 4.9:
+        non_striker: Bijeyata Kumari
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.7'
+        batsman: AS Gorad
+    - 5.1:
+        non_striker: AS Gorad
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.1'
+        batsman: Bijeyata Kumari
+    - 5.2:
+        non_striker: AS Gorad
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '5.1'
+        batsman: Bijeyata Kumari
+    - 5.3:
+        non_striker: AS Gorad
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Bijeyata Kumari
+    - 5.4:
+        non_striker: AS Gorad
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.2'
+        batsman: Bijeyata Kumari
+    - 5.5:
+        non_striker: AS Gorad
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.3'
+        batsman: Bijeyata Kumari
+    - 5.6:
+        non_striker: AS Gorad
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: Bijeyata Kumari
+    - 5.7:
+        non_striker: Bijeyata Kumari
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: AS Gorad
+        wicket:
+          player_out: AS Gorad
+          fielders:
+          - PN Agarwal
+          kind: caught
+    - 5.8:
+        non_striker: Bijeyata Kumari
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Ayesha Hasan
+    - 5.9:
+        non_striker: Bijeyata Kumari
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Ayesha Hasan
+    - 6.1:
+        non_striker: Ayesha Hasan
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: Bijeyata Kumari
+    - 6.2:
+        non_striker: Ayesha Hasan
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.2'
+        batsman: Bijeyata Kumari
+    - 6.3:
+        non_striker: Ayesha Hasan
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Bijeyata Kumari
+    - 6.4:
+        non_striker: Ayesha Hasan
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Bijeyata Kumari
+    - 6.5:
+        non_striker: Ayesha Hasan
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Bijeyata Kumari
+    - 6.6:
+        non_striker: Ayesha Hasan
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.6'
+        batsman: Bijeyata Kumari
+    - 7.1:
+        non_striker: Bijeyata Kumari
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: Ayesha Hasan
+    - 7.2:
+        non_striker: Bijeyata Kumari
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: Ayesha Hasan
+    - 7.3:
+        non_striker: Bijeyata Kumari
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: Ayesha Hasan
+    - 7.4:
+        non_striker: Ayesha Hasan
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.4'
+        batsman: Bijeyata Kumari
+    - 7.5:
+        non_striker: Ayesha Hasan
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.5'
+        batsman: Bijeyata Kumari
+    - 7.6:
+        non_striker: Ayesha Hasan
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: Bijeyata Kumari
+    - 8.1:
+        non_striker: Ayesha Hasan
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Bijeyata Kumari
+    - 8.2:
+        non_striker: Ayesha Hasan
+        bowler: SH Lawlor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.2'
+        batsman: Bijeyata Kumari
+    - 8.3:
+        non_striker: Ayesha Hasan
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Bijeyata Kumari
+    - 8.4:
+        non_striker: Bijeyata Kumari
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: Ayesha Hasan
+    - 8.5:
+        non_striker: Ayesha Hasan
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: Bijeyata Kumari
+    - 8.6:
+        non_striker: Ayesha Hasan
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.5'
+        batsman: Bijeyata Kumari
+    - 8.7:
+        non_striker: Ayesha Hasan
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Bijeyata Kumari
+    - 9.1:
+        non_striker: Bijeyata Kumari
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.1'
+        batsman: Ayesha Hasan
+    - 9.2:
+        non_striker: Bijeyata Kumari
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: Ayesha Hasan
+    - 9.3:
+        non_striker: Bijeyata Kumari
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: Ayesha Hasan
+    - 9.4:
+        non_striker: Ayesha Hasan
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: Bijeyata Kumari
+    - 9.5:
+        non_striker: Ayesha Hasan
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: Bijeyata Kumari
+    - 9.6:
+        non_striker: Bijeyata Kumari
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.5'
+        batsman: Ayesha Hasan
+    - 9.7:
+        non_striker: Bijeyata Kumari
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: Ayesha Hasan
+    - 9.8:
+        non_striker: Ayesha Hasan
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.6'
+        batsman: Bijeyata Kumari
+    - 9.9:
+        non_striker: Ayesha Hasan
+        bowler: Khusboo Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: Bijeyata Kumari
+    - 10.1:
+        non_striker: Bijeyata Kumari
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: Ayesha Hasan
+    - 10.2:
+        non_striker: Bijeyata Kumari
+        bowler: SH Lawlor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.2'
+        batsman: Ayesha Hasan
+    - 10.3:
+        non_striker: Bijeyata Kumari
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.2'
+        batsman: Ayesha Hasan
+    - 10.4:
+        non_striker: Bijeyata Kumari
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.3'
+        batsman: Ayesha Hasan
+    - 10.5:
+        non_striker: Bijeyata Kumari
+        bowler: SH Lawlor
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '10.4'
+        batsman: Ayesha Hasan
+    - 10.6:
+        non_striker: Ayesha Hasan
+        bowler: SH Lawlor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.4'
+        batsman: Bijeyata Kumari
+    - 10.7:
+        non_striker: Ayesha Hasan
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: Bijeyata Kumari
+    - 10.8:
+        non_striker: Bijeyata Kumari
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: Ayesha Hasan
+    - 10.9:
+        non_striker: Ayesha Hasan
+        bowler: SH Lawlor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.6'
+        batsman: Bijeyata Kumari
+    - 11.1:
+        non_striker: Bijeyata Kumari
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: Ayesha Hasan
+    - 11.2:
+        non_striker: Bijeyata Kumari
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: Ayesha Hasan
+    - 11.3:
+        non_striker: Bijeyata Kumari
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: Ayesha Hasan
+    - 11.4:
+        non_striker: Ayesha Hasan
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: Bijeyata Kumari
+    - 11.5:
+        non_striker: Bijeyata Kumari
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.5'
+        batsman: Ayesha Hasan
+    - 11.6:
+        non_striker: Bijeyata Kumari
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Ayesha Hasan
+    - 11.7:
+        non_striker: Bijeyata Kumari
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.6'
+        batsman: Ayesha Hasan
+    - 12.1:
+        non_striker: Ayesha Hasan
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Bijeyata Kumari
+    - 12.2:
+        non_striker: Ayesha Hasan
+        bowler: Divya Kandpal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.2'
+        batsman: Bijeyata Kumari
+    - 12.3:
+        non_striker: Ayesha Hasan
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: Bijeyata Kumari
+    - 12.4:
+        non_striker: Ayesha Hasan
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.3'
+        batsman: Bijeyata Kumari
+    - 12.5:
+        non_striker: Ayesha Hasan
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: Bijeyata Kumari
+    - 12.6:
+        non_striker: Ayesha Hasan
+        bowler: Divya Kandpal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.5'
+        batsman: Bijeyata Kumari
+    - 12.7:
+        non_striker: Ayesha Hasan
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.5'
+        batsman: Bijeyata Kumari
+    - 12.8:
+        non_striker: Ayesha Hasan
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: Bijeyata Kumari
+    - 13.1:
+        non_striker: Ayesha Hasan
+        bowler: Shivani Sati
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '13.1'
+        batsman: Bijeyata Kumari
+    - 13.2:
+        non_striker: Bijeyata Kumari
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.1'
+        batsman: Ayesha Hasan
+    - 13.3:
+        non_striker: Bijeyata Kumari
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: Ayesha Hasan
+    - 13.4:
+        non_striker: Bijeyata Kumari
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.3'
+        batsman: Ayesha Hasan
+    - 13.5:
+        non_striker: Bijeyata Kumari
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.4'
+        batsman: Ayesha Hasan
+    - 13.6:
+        non_striker: Bijeyata Kumari
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Ayesha Hasan
+    - 13.7:
+        non_striker: Bijeyata Kumari
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Ayesha Hasan
+    - 14.1:
+        non_striker: Bijeyata Kumari
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: Ayesha Hasan
+    - 14.2:
+        non_striker: Ayesha Hasan
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: Bijeyata Kumari
+    - 14.3:
+        non_striker: Bijeyata Kumari
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: Ayesha Hasan
+    - 14.4:
+        non_striker: Ayesha Hasan
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.4'
+        batsman: Bijeyata Kumari
+    - 14.5:
+        non_striker: Ayesha Hasan
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: Bijeyata Kumari
+    - 14.6:
+        non_striker: Bijeyata Kumari
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.6'
+        batsman: Ayesha Hasan
+    - 15.1:
+        non_striker: Ayesha Hasan
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: Bijeyata Kumari
+    - 15.2:
+        non_striker: Bijeyata Kumari
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.2'
+        batsman: Ayesha Hasan
+    - 15.3:
+        non_striker: Bijeyata Kumari
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: Ayesha Hasan
+        wicket:
+          player_out: Ayesha Hasan
+          kind: bowled
+    - 15.4:
+        non_striker: Bijeyata Kumari
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.4'
+        batsman: Nayab Razwan
+    - 15.5:
+        non_striker: Bijeyata Kumari
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: Nayab Razwan
+    - 15.6:
+        non_striker: Bijeyata Kumari
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: Nayab Razwan
+    - 16.1:
+        non_striker: Nayab Razwan
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: Bijeyata Kumari
+    - 16.2:
+        non_striker: Bijeyata Kumari
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: Nayab Razwan
+    - 16.3:
+        non_striker: Nayab Razwan
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: Bijeyata Kumari
+    - 16.4:
+        non_striker: Nayab Razwan
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: Bijeyata Kumari
+    - 16.5:
+        non_striker: Bijeyata Kumari
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: Nayab Razwan
+    - 16.6:
+        non_striker: Nayab Razwan
+        bowler: Jagrat Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: Bijeyata Kumari
+    - 17.1:
+        non_striker: Nayab Razwan
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: Bijeyata Kumari
+    - 17.2:
+        non_striker: Bijeyata Kumari
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.2'
+        batsman: Nayab Razwan
+    - 17.3:
+        non_striker: Bijeyata Kumari
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: Nayab Razwan
+        wicket:
+          player_out: Nayab Razwan
+          kind: bowled
+    - 17.4:
+        non_striker: Bijeyata Kumari
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: VB Viyala
+    - 17.5:
+        non_striker: VB Viyala
+        bowler: Shivani Sati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.5'
+        batsman: Bijeyata Kumari
+    - 17.6:
+        non_striker: VB Viyala
+        bowler: Shivani Sati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.5'
+        batsman: Bijeyata Kumari
+    - 17.7:
+        non_striker: VB Viyala
+        bowler: Shivani Sati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '17.5'
+        batsman: Bijeyata Kumari
+    - 17.8:
+        non_striker: VB Viyala
+        bowler: Shivani Sati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.5'
+        batsman: Bijeyata Kumari
+    - 17.9:
+        non_striker: VB Viyala
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.5'
+        batsman: Bijeyata Kumari
+    - 17.10:
+        non_striker: VB Viyala
+        bowler: Shivani Sati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: Bijeyata Kumari
+    - 18.1:
+        non_striker: VB Viyala
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: Bijeyata Kumari
+    - 18.2:
+        non_striker: Bijeyata Kumari
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.2'
+        batsman: VB Viyala
+    - 18.3:
+        non_striker: Bijeyata Kumari
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: VB Viyala
+    - 18.4:
+        non_striker: VB Viyala
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: Bijeyata Kumari
+    - 18.5:
+        non_striker: Bijeyata Kumari
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.5'
+        batsman: VB Viyala
+    - 18.6:
+        non_striker: Bijeyata Kumari
+        bowler: Divya Kandpal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.6'
+        batsman: VB Viyala
+    - 19.1:
+        non_striker: VB Viyala
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        actual_delivery: '19.1'
+        batsman: Bijeyata Kumari
+    - 19.2:
+        non_striker: VB Viyala
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.1'
+        batsman: Bijeyata Kumari
+    - 19.3:
+        non_striker: VB Viyala
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.1'
+        batsman: Bijeyata Kumari
+    - 19.4:
+        non_striker: VB Viyala
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '19.2'
+        batsman: Bijeyata Kumari
+    - 19.5:
+        non_striker: Bijeyata Kumari
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: VB Viyala
+        wicket:
+          player_out: VB Viyala
+          fielders:
+          - Aarti Priya
+          - Jagrat Dubey
+          kind: run out
+    - 19.6:
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Raveendrakumar
+        actual_delivery: '19.4'
+        batsman: Bijeyata Kumari
+    - 19.7:
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Raveendrakumar
+        actual_delivery: '19.5'
+        batsman: Bijeyata Kumari
+    - 19.8:
+        non_striker: Bijeyata Kumari
+        bowler: Aarti Priya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.6'
+        batsman: S Raveendrakumar
+    - 19.9:
+        non_striker: Bijeyata Kumari
+        bowler: Aarti Priya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.6'
+        batsman: S Raveendrakumar
+- 2nd innings:
+    team: Luxembourg
+    deliveries:
+    - 0.1:
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: E Gebhard
+        actual_delivery: '0.1'
+        batsman: SH Lawlor
+    - 0.2:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Gebhard
+        actual_delivery: '0.1'
+        batsman: SH Lawlor
+    - 0.3:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Gebhard
+        actual_delivery: '0.2'
+        batsman: SH Lawlor
+    - 0.4:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: E Gebhard
+        actual_delivery: '0.3'
+        batsman: SH Lawlor
+    - 0.5:
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Gebhard
+        actual_delivery: '0.4'
+        batsman: SH Lawlor
+    - 0.6:
+        non_striker: SH Lawlor
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: E Gebhard
+    - 0.7:
+        non_striker: SH Lawlor
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.6'
+        batsman: E Gebhard
+    - 0.8:
+        non_striker: SH Lawlor
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: E Gebhard
+    - 1.1:
+        non_striker: E Gebhard
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: SH Lawlor
+    - 1.2:
+        non_striker: E Gebhard
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: SH Lawlor
+    - 1.3:
+        non_striker: E Gebhard
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: SH Lawlor
+    - 1.4:
+        non_striker: SH Lawlor
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: E Gebhard
+    - 1.5:
+        non_striker: SH Lawlor
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: E Gebhard
+    - 1.6:
+        non_striker: SH Lawlor
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: E Gebhard
+    - 2.1:
+        non_striker: E Gebhard
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: SH Lawlor
+    - 2.2:
+        non_striker: E Gebhard
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.2'
+        batsman: SH Lawlor
+    - 2.3:
+        non_striker: E Gebhard
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: SH Lawlor
+    - 2.4:
+        non_striker: E Gebhard
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: SH Lawlor
+    - 2.5:
+        non_striker: SH Lawlor
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.5'
+        batsman: E Gebhard
+    - 2.6:
+        non_striker: SH Lawlor
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: E Gebhard
+    - 3.1:
+        non_striker: SH Lawlor
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: E Gebhard
+    - 3.2:
+        non_striker: E Gebhard
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: SH Lawlor
+    - 3.3:
+        non_striker: E Gebhard
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: SH Lawlor
+    - 3.4:
+        non_striker: SH Lawlor
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: E Gebhard
+    - 3.5:
+        non_striker: SH Lawlor
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.5'
+        batsman: E Gebhard
+    - 3.6:
+        non_striker: SH Lawlor
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: E Gebhard
+    - 3.7:
+        non_striker: SH Lawlor
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: E Gebhard
+    - 4.1:
+        non_striker: E Gebhard
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: SH Lawlor
+    - 4.2:
+        non_striker: SH Lawlor
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: E Gebhard
+    - 4.3:
+        non_striker: E Gebhard
+        bowler: Nayab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.3'
+        batsman: SH Lawlor
+    - 4.4:
+        non_striker: E Gebhard
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: SH Lawlor
+    - 4.5:
+        non_striker: E Gebhard
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: SH Lawlor
+    - 4.6:
+        non_striker: SH Lawlor
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: E Gebhard
+    - 4.7:
+        non_striker: SH Lawlor
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: E Gebhard
+    - 5.1:
+        non_striker: E Gebhard
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: SH Lawlor
+    - 5.2:
+        non_striker: E Gebhard
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.2'
+        batsman: SH Lawlor
+    - 5.3:
+        non_striker: E Gebhard
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: SH Lawlor
+    - 5.4:
+        non_striker: SH Lawlor
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: E Gebhard
+    - 5.5:
+        non_striker: SH Lawlor
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: E Gebhard
+    - 5.6:
+        non_striker: E Gebhard
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: SH Lawlor
+    - 5.7:
+        non_striker: E Gebhard
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: SH Lawlor
+    - 6.1:
+        non_striker: SH Lawlor
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.1'
+        batsman: E Gebhard
+    - 6.2:
+        non_striker: SH Lawlor
+        bowler: Nayab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.2'
+        batsman: E Gebhard
+    - 6.3:
+        non_striker: SH Lawlor
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: E Gebhard
+    - 6.4:
+        non_striker: SH Lawlor
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.3'
+        batsman: E Gebhard
+    - 6.5:
+        non_striker: SH Lawlor
+        bowler: Nayab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.4'
+        batsman: E Gebhard
+    - 6.6:
+        non_striker: SH Lawlor
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: E Gebhard
+    - 6.7:
+        non_striker: SH Lawlor
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: E Gebhard
+    - 6.8:
+        non_striker: E Gebhard
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: SH Lawlor
+    - 7.1:
+        non_striker: E Gebhard
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '7.1'
+        batsman: SH Lawlor
+    - 7.2:
+        non_striker: SH Lawlor
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: E Gebhard
+    - 7.3:
+        non_striker: SH Lawlor
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: E Gebhard
+    - 7.4:
+        non_striker: SH Lawlor
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.3'
+        batsman: E Gebhard
+    - 7.5:
+        non_striker: SH Lawlor
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: E Gebhard
+    - 7.6:
+        non_striker: SH Lawlor
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: E Gebhard
+    - 7.7:
+        non_striker: E Gebhard
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '7.6'
+        batsman: SH Lawlor
+    - 8.1:
+        non_striker: E Gebhard
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: SH Lawlor
+    - 8.2:
+        non_striker: SH Lawlor
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: E Gebhard
+    - 8.3:
+        non_striker: SH Lawlor
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: E Gebhard
+    - 8.4:
+        non_striker: E Gebhard
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: SH Lawlor
+    - 8.5:
+        non_striker: E Gebhard
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.5'
+        batsman: SH Lawlor
+    - 8.6:
+        non_striker: E Gebhard
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: SH Lawlor
+    - 9.1:
+        non_striker: E Gebhard
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: SH Lawlor
+        wicket:
+          player_out: SH Lawlor
+          kind: caught and bowled
+    - 9.2:
+        non_striker: E Gebhard
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.2'
+        batsman: PN Agarwal
+    - 9.3:
+        non_striker: E Gebhard
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: PN Agarwal
+    - 9.4:
+        non_striker: E Gebhard
+        bowler: Mirab Razwan
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        actual_delivery: '9.4'
+        batsman: PN Agarwal
+    - 9.5:
+        non_striker: E Gebhard
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '9.4'
+        batsman: PN Agarwal
+    - 9.6:
+        non_striker: E Gebhard
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: PN Agarwal
+    - 9.7:
+        non_striker: PN Agarwal
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: E Gebhard
+    - 9.8:
+        non_striker: PN Agarwal
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: E Gebhard
+    - 10.1:
+        non_striker: E Gebhard
+        bowler: Lopamudra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.1'
+        batsman: PN Agarwal
+    - 10.2:
+        non_striker: E Gebhard
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: PN Agarwal
+    - 10.3:
+        non_striker: PN Agarwal
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: E Gebhard
+    - 10.4:
+        non_striker: PN Agarwal
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.3'
+        batsman: E Gebhard
+    - 10.5:
+        non_striker: PN Agarwal
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: E Gebhard
+    - 10.6:
+        non_striker: E Gebhard
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: PN Agarwal
+    - 10.7:
+        non_striker: PN Agarwal
+        bowler: Lopamudra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.6'
+        batsman: E Gebhard
+    - 10.8:
+        non_striker: PN Agarwal
+        bowler: Lopamudra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: E Gebhard
+    - 11.1:
+        non_striker: PN Agarwal
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: E Gebhard
+    - 11.2:
+        non_striker: PN Agarwal
+        bowler: Mirab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '11.2'
+        batsman: E Gebhard
+    - 11.3:
+        non_striker: PN Agarwal
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: E Gebhard
+    - 11.4:
+        non_striker: PN Agarwal
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: E Gebhard
+    - 11.5:
+        non_striker: E Gebhard
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: PN Agarwal
+    - 11.6:
+        non_striker: PN Agarwal
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: E Gebhard
+    - 11.7:
+        non_striker: PN Agarwal
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: E Gebhard
+    - 12.1:
+        non_striker: PN Agarwal
+        bowler: AS Gorad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: E Gebhard
+    - 12.2:
+        non_striker: PN Agarwal
+        bowler: AS Gorad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.2'
+        batsman: E Gebhard
+    - 12.3:
+        non_striker: PN Agarwal
+        bowler: AS Gorad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.3'
+        batsman: E Gebhard
+    - 12.4:
+        non_striker: PN Agarwal
+        bowler: AS Gorad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: E Gebhard
+    - 12.5:
+        non_striker: PN Agarwal
+        bowler: AS Gorad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: E Gebhard
+    - 12.6:
+        non_striker: E Gebhard
+        bowler: AS Gorad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: PN Agarwal
+    - 13.1:
+        non_striker: PN Agarwal
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: E Gebhard
+    - 13.2:
+        non_striker: PN Agarwal
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: E Gebhard
+    - 13.3:
+        non_striker: E Gebhard
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: PN Agarwal
+        wicket:
+          player_out: PN Agarwal
+          kind: bowled
+    - 13.4:
+        non_striker: E Gebhard
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Khusboo Kandpal
+    - 13.5:
+        non_striker: E Gebhard
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Khusboo Kandpal
+    - 13.6:
+        non_striker: E Gebhard
+        bowler: Mirab Razwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.6'
+        batsman: Khusboo Kandpal
+    - 14.1:
+        non_striker: Khusboo Kandpal
+        bowler: AS Gorad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.1'
+        batsman: E Gebhard
+    - 14.2:
+        non_striker: Khusboo Kandpal
+        bowler: AS Gorad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.1'
+        batsman: E Gebhard
+    - 14.3:
+        non_striker: Khusboo Kandpal
+        bowler: AS Gorad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.2'
+        batsman: E Gebhard
+    - 14.4:
+        non_striker: Khusboo Kandpal
+        bowler: AS Gorad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: E Gebhard
+    - 14.5:
+        non_striker: Khusboo Kandpal
+        bowler: AS Gorad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: E Gebhard
+    - 14.6:
+        non_striker: E Gebhard
+        bowler: AS Gorad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: Khusboo Kandpal
+    - 14.7:
+        non_striker: Khusboo Kandpal
+        bowler: AS Gorad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: E Gebhard
+    - 15.1:
+        non_striker: E Gebhard
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: Khusboo Kandpal
+    - 15.2:
+        non_striker: E Gebhard
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: Khusboo Kandpal
+    - 15.3:
+        non_striker: Khusboo Kandpal
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.3'
+        batsman: E Gebhard
+    - 15.4:
+        non_striker: Khusboo Kandpal
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: E Gebhard
+    - 15.5:
+        non_striker: E Gebhard
+        bowler: VB Viyala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.5'
+        batsman: Khusboo Kandpal
+    - 15.6:
+        non_striker: E Gebhard
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: Khusboo Kandpal
+    - 15.7:
+        non_striker: E Gebhard
+        bowler: VB Viyala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: Khusboo Kandpal
+    - 16.1:
+        non_striker: E Gebhard
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: Khusboo Kandpal
+    - 16.2:
+        non_striker: Khusboo Kandpal
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: E Gebhard
+    - 16.3:
+        non_striker: Khusboo Kandpal
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.3'
+        batsman: E Gebhard
+    - 16.4:
+        non_striker: Khusboo Kandpal
+        bowler: Nayab Razwan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.4'
+        batsman: E Gebhard
+    - 16.5:
+        non_striker: Khusboo Kandpal
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: E Gebhard
+    - 16.6:
+        non_striker: Khusboo Kandpal
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.5'
+        batsman: E Gebhard
+    - 16.7:
+        non_striker: Khusboo Kandpal
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.6'
+        batsman: E Gebhard
+        wicket:
+          player_out: Khusboo Kandpal
+          kind: retired hurt
+    - 17.1:
+        non_striker: E Gebhard
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: Aarti Priya
+    - 17.2:
+        non_striker: Aarti Priya
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: E Gebhard
+        wicket:
+          player_out: E Gebhard
+          kind: bowled
+    - 17.3:
+        non_striker: Aarti Priya
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: Jagrat Dubey
+    - 17.4:
+        non_striker: Jagrat Dubey
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.4'
+        batsman: Aarti Priya
+    - 17.5:
+        non_striker: Jagrat Dubey
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.5'
+        batsman: Aarti Priya
+    - 17.6:
+        non_striker: Jagrat Dubey
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.5'
+        batsman: Aarti Priya
+    - 17.7:
+        non_striker: Jagrat Dubey
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: Aarti Priya
+    - 18.1:
+        non_striker: Aarti Priya
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: Jagrat Dubey
+    - 18.2:
+        non_striker: Aarti Priya
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: Jagrat Dubey
+    - 18.3:
+        non_striker: Jagrat Dubey
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: Aarti Priya
+    - 18.4:
+        non_striker: Jagrat Dubey
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: Aarti Priya
+    - 18.5:
+        non_striker: Jagrat Dubey
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: Aarti Priya
+        wicket:
+          player_out: Aarti Priya
+          kind: caught and bowled
+    - 18.6:
+        non_striker: Jagrat Dubey
+        bowler: Nayab Razwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: Shivani Sati
+    - 19.1:
+        non_striker: Shivani Sati
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: Jagrat Dubey
+    - 19.2:
+        non_striker: Jagrat Dubey
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: Shivani Sati
+    - 19.3:
+        non_striker: Jagrat Dubey
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.3'
+        batsman: Shivani Sati
+    - 19.4:
+        non_striker: Jagrat Dubey
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: Shivani Sati
+    - 19.5:
+        non_striker: Jagrat Dubey
+        bowler: Alina Aslam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.4'
+        batsman: Shivani Sati
+    - 19.6:
+        non_striker: Jagrat Dubey
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: Shivani Sati
+    - 19.7:
+        non_striker: Shivani Sati
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.5'
+        batsman: Jagrat Dubey
+    - 19.8:
+        non_striker: Jagrat Dubey
+        bowler: Alina Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: Shivani Sati
+        wicket:
+          player_out: Shivani Sati
+          kind: bowled
+    target:
+      overs: 20
+      runs: 178

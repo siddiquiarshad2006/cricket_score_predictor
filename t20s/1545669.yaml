@@ -1,0 +1,2403 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-08-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Vantaa
+  dates:
+  - '2026-08-17'
+  gender: male
+  match_type: T20
+  match_type_number: 4083
+  outcome:
+    winner: Isle of Man
+    by:
+      runs: 89
+  overs: 20
+  player_of_match:
+  - D Jansen
+  players:
+    Isle of Man:
+    - A McAuley
+    - C Hartmann
+    - D Jansen
+    - C Webster
+    - N Knights
+    - J Clough
+    - JA Burrows
+    - G Newton
+    - CJ Langford
+    - C Liebenberg
+    - MJ Ansell
+    Bulgaria:
+    - Isa Zaroo
+    - H Lakov
+    - M Gogev
+    - K Krishnakumar
+    - Manan Bashir
+    - Jakob Gul
+    - Danyal Raja
+    - P Mishra
+    - A Dowling
+    - J Dowling
+    - O Duff
+  registry:
+    people:
+      A Dowling: ec064d97
+      A McAuley: 39e599c8
+      C Hartmann: 467c28f9
+      C Liebenberg: 83f0b848
+      C Webster: f7bf6004
+      CJ Langford: 3967b66f
+      D Jansen: c90346a0
+      Danyal Raja: 324e00a9
+      G Newton: '57618587'
+      H Lakov: 87a6f411
+      Isa Zaroo: 9822fb85
+      J Clough: 1f08084c
+      J Dowling: 9f16f7c8
+      JA Burrows: dba54d8e
+      Jakob Gul: a4696d64
+      K Krishnakumar: ff60c8ba
+      M Gogev: 995fd3b2
+      MJ Ansell: 6e60a792
+      Manan Bashir: 5c14bd52
+      N Knights: b0aadf4f
+      O Duff: 550c9b2c
+      P Mishra: 3fa5672e
+      Prakash Bhatt: f848ab0b
+      SB Ravindra: 394ba7a8
+      SG Chandiramani: 4fa795d2
+      Vinay Malhotra: 452837d1
+  team_type: international
+  teams:
+  - Isle of Man
+  - Bulgaria
+  toss:
+    winner: Bulgaria
+    decision: field
+  umpires:
+  - SB Ravindra
+  - Vinay Malhotra
+  venue: Tikkurila Cricket Ground
+innings:
+- 1st innings:
+    team: Isle of Man
+    deliveries:
+    - 0.1:
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: C Hartmann
+        actual_delivery: '0.1'
+        batsman: A McAuley
+    - 0.2:
+        bowler: Danyal Raja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: C Hartmann
+        actual_delivery: '0.2'
+        batsman: A McAuley
+    - 0.3:
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Hartmann
+        actual_delivery: '0.2'
+        batsman: A McAuley
+    - 0.4:
+        non_striker: A McAuley
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: C Hartmann
+    - 0.5:
+        non_striker: C Hartmann
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: A McAuley
+    - 0.6:
+        non_striker: A McAuley
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.5'
+        batsman: C Hartmann
+    - 0.7:
+        non_striker: A McAuley
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: C Hartmann
+    - 1.1:
+        non_striker: C Hartmann
+        bowler: H Lakov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.1'
+        batsman: A McAuley
+    - 1.2:
+        non_striker: C Hartmann
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: A McAuley
+    - 1.3:
+        non_striker: A McAuley
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.2'
+        batsman: C Hartmann
+    - 1.4:
+        non_striker: A McAuley
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: C Hartmann
+    - 1.5:
+        non_striker: C Hartmann
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: A McAuley
+    - 1.6:
+        non_striker: C Hartmann
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: A McAuley
+    - 1.7:
+        non_striker: C Hartmann
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: A McAuley
+    - 2.1:
+        non_striker: A McAuley
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: C Hartmann
+    - 2.2:
+        non_striker: A McAuley
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.2'
+        batsman: C Hartmann
+    - 2.3:
+        non_striker: A McAuley
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: C Hartmann
+    - 2.4:
+        non_striker: A McAuley
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: C Hartmann
+    - 2.5:
+        non_striker: A McAuley
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: C Hartmann
+    - 2.6:
+        non_striker: A McAuley
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: C Hartmann
+    - 3.1:
+        non_striker: A McAuley
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: C Hartmann
+    - 3.2:
+        non_striker: C Hartmann
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: A McAuley
+    - 3.3:
+        non_striker: C Hartmann
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: A McAuley
+    - 3.4:
+        non_striker: C Hartmann
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: A McAuley
+        wicket:
+          player_out: A McAuley
+          fielders:
+          - M Gogev
+          kind: caught
+    - 3.5:
+        non_striker: C Hartmann
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: D Jansen
+    - 3.6:
+        non_striker: C Hartmann
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: D Jansen
+    - 4.1:
+        non_striker: C Hartmann
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: D Jansen
+    - 4.2:
+        non_striker: C Hartmann
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: D Jansen
+    - 4.3:
+        non_striker: D Jansen
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: C Hartmann
+    - 4.4:
+        non_striker: D Jansen
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: C Hartmann
+    - 4.5:
+        non_striker: C Hartmann
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: D Jansen
+    - 4.6:
+        non_striker: C Hartmann
+        bowler: Danyal Raja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.6'
+        batsman: D Jansen
+    - 4.7:
+        non_striker: C Hartmann
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: D Jansen
+    - 5.1:
+        non_striker: C Hartmann
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.1'
+        batsman: D Jansen
+    - 5.2:
+        non_striker: C Hartmann
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.2'
+        batsman: D Jansen
+    - 5.3:
+        non_striker: C Hartmann
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: D Jansen
+    - 5.4:
+        non_striker: C Hartmann
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: D Jansen
+    - 5.5:
+        non_striker: C Hartmann
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: D Jansen
+    - 5.6:
+        non_striker: C Hartmann
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: D Jansen
+    - 6.1:
+        non_striker: D Jansen
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: C Hartmann
+    - 6.2:
+        non_striker: C Hartmann
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: D Jansen
+    - 6.3:
+        non_striker: D Jansen
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: C Hartmann
+    - 6.4:
+        non_striker: C Hartmann
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: D Jansen
+    - 6.5:
+        non_striker: D Jansen
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: C Hartmann
+    - 6.6:
+        non_striker: C Hartmann
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: D Jansen
+    - 7.1:
+        non_striker: D Jansen
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.1'
+        batsman: C Hartmann
+    - 7.2:
+        non_striker: D Jansen
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: C Hartmann
+        wicket:
+          player_out: C Hartmann
+          kind: bowled
+    - 7.3:
+        non_striker: D Jansen
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.3'
+        batsman: C Webster
+    - 7.4:
+        non_striker: D Jansen
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: C Webster
+    - 7.5:
+        non_striker: C Webster
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.5'
+        batsman: D Jansen
+    - 7.6:
+        non_striker: C Webster
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: D Jansen
+    - 8.1:
+        non_striker: D Jansen
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: C Webster
+    - 8.2:
+        non_striker: C Webster
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: D Jansen
+    - 8.3:
+        non_striker: C Webster
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: D Jansen
+    - 8.4:
+        non_striker: D Jansen
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: C Webster
+    - 8.5:
+        non_striker: D Jansen
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: C Webster
+    - 8.6:
+        non_striker: C Webster
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: D Jansen
+    - 9.1:
+        non_striker: D Jansen
+        bowler: P Mishra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.1'
+        batsman: C Webster
+    - 9.2:
+        non_striker: D Jansen
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: C Webster
+    - 9.3:
+        non_striker: C Webster
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: D Jansen
+    - 9.4:
+        non_striker: D Jansen
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '9.3'
+        batsman: C Webster
+    - 9.5:
+        non_striker: D Jansen
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: C Webster
+        wicket:
+          player_out: C Webster
+          fielders:
+          - Jakob Gul
+          kind: caught
+    - 9.6:
+        non_striker: D Jansen
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: N Knights
+    - 9.7:
+        non_striker: N Knights
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: D Jansen
+    - 10.1:
+        non_striker: N Knights
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '10.1'
+        batsman: D Jansen
+    - 10.2:
+        non_striker: N Knights
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: D Jansen
+    - 10.3:
+        non_striker: D Jansen
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: N Knights
+    - 10.4:
+        non_striker: D Jansen
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: N Knights
+    - 10.5:
+        non_striker: D Jansen
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: N Knights
+    - 10.6:
+        non_striker: N Knights
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: D Jansen
+    - 11.1:
+        non_striker: N Knights
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.1'
+        batsman: D Jansen
+    - 11.2:
+        non_striker: N Knights
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: D Jansen
+    - 11.3:
+        non_striker: D Jansen
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: N Knights
+    - 11.4:
+        non_striker: D Jansen
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: N Knights
+    - 11.5:
+        non_striker: D Jansen
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: N Knights
+    - 11.6:
+        non_striker: D Jansen
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: N Knights
+    - 12.1:
+        non_striker: D Jansen
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: N Knights
+    - 12.2:
+        non_striker: N Knights
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: D Jansen
+    - 12.3:
+        non_striker: D Jansen
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: N Knights
+        wicket:
+          player_out: N Knights
+          fielders:
+          - Isa Zaroo
+          kind: caught
+    - 12.4:
+        non_striker: D Jansen
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: J Clough
+    - 12.5:
+        non_striker: D Jansen
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: J Clough
+    - 12.6:
+        non_striker: D Jansen
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: J Clough
+    - 13.1:
+        non_striker: D Jansen
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: J Clough
+    - 13.2:
+        non_striker: J Clough
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: D Jansen
+    - 13.3:
+        non_striker: J Clough
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: D Jansen
+    - 13.4:
+        non_striker: J Clough
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: D Jansen
+    - 13.5:
+        non_striker: D Jansen
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: J Clough
+    - 13.6:
+        non_striker: D Jansen
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: J Clough
+    - 14.1:
+        non_striker: D Jansen
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.1'
+        batsman: J Clough
+    - 14.2:
+        non_striker: D Jansen
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: J Clough
+    - 14.3:
+        non_striker: J Clough
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '14.3'
+        batsman: D Jansen
+    - 14.4:
+        non_striker: J Clough
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.4'
+        batsman: D Jansen
+    - 14.5:
+        non_striker: J Clough
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '14.5'
+        batsman: D Jansen
+    - 14.6:
+        non_striker: J Clough
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: D Jansen
+    - 15.1:
+        non_striker: D Jansen
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.1'
+        batsman: J Clough
+    - 15.2:
+        non_striker: D Jansen
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: J Clough
+        wicket:
+          player_out: J Clough
+          fielders:
+          - J Dowling
+          kind: caught
+    - 15.3:
+        non_striker: D Jansen
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: JA Burrows
+    - 15.4:
+        non_striker: JA Burrows
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.4'
+        batsman: D Jansen
+    - 15.5:
+        non_striker: JA Burrows
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: D Jansen
+    - 15.6:
+        non_striker: D Jansen
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: JA Burrows
+    - 16.1:
+        non_striker: D Jansen
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: JA Burrows
+    - 16.2:
+        non_striker: D Jansen
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: JA Burrows
+    - 16.3:
+        non_striker: D Jansen
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: JA Burrows
+    - 16.4:
+        non_striker: D Jansen
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.4'
+        batsman: JA Burrows
+    - 16.5:
+        non_striker: D Jansen
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: JA Burrows
+        wicket:
+          player_out: JA Burrows
+          kind: bowled
+    - 16.6:
+        non_striker: D Jansen
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: G Newton
+    - 17.1:
+        non_striker: D Jansen
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: G Newton
+    - 17.2:
+        non_striker: G Newton
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.2'
+        batsman: D Jansen
+    - 17.3:
+        non_striker: G Newton
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: D Jansen
+    - 17.4:
+        non_striker: D Jansen
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.4'
+        batsman: G Newton
+    - 17.5:
+        non_striker: D Jansen
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: G Newton
+    - 17.6:
+        non_striker: G Newton
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: D Jansen
+    - 18.1:
+        non_striker: G Newton
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: D Jansen
+    - 18.2:
+        non_striker: D Jansen
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '18.2'
+        batsman: G Newton
+    - 18.3:
+        non_striker: G Newton
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: D Jansen
+    - 18.4:
+        non_striker: G Newton
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: D Jansen
+    - 18.5:
+        non_striker: D Jansen
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.5'
+        batsman: G Newton
+    - 18.6:
+        non_striker: D Jansen
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.6'
+        batsman: G Newton
+    - 19.1:
+        non_striker: G Newton
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.1'
+        batsman: D Jansen
+    - 19.2:
+        non_striker: G Newton
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.2'
+        batsman: D Jansen
+    - 19.3:
+        non_striker: G Newton
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.3'
+        batsman: D Jansen
+    - 19.4:
+        non_striker: G Newton
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.4'
+        batsman: D Jansen
+    - 19.5:
+        non_striker: G Newton
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: D Jansen
+        wicket:
+          player_out: D Jansen
+          kind: bowled
+    - 19.6:
+        non_striker: G Newton
+        bowler: H Lakov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.6'
+        batsman: CJ Langford
+- 2nd innings:
+    team: Bulgaria
+    deliveries:
+    - 0.1:
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Lakov
+        actual_delivery: '0.1'
+        batsman: Isa Zaroo
+    - 0.2:
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: H Lakov
+        actual_delivery: '0.2'
+        batsman: Isa Zaroo
+    - 0.3:
+        non_striker: Isa Zaroo
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: H Lakov
+    - 0.4:
+        non_striker: H Lakov
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: Isa Zaroo
+    - 0.5:
+        non_striker: Isa Zaroo
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: H Lakov
+    - 0.6:
+        non_striker: H Lakov
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Isa Zaroo
+    - 1.1:
+        non_striker: Isa Zaroo
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: H Lakov
+    - 1.2:
+        non_striker: H Lakov
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: Isa Zaroo
+    - 1.3:
+        non_striker: H Lakov
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: Isa Zaroo
+    - 1.4:
+        non_striker: H Lakov
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: Isa Zaroo
+    - 1.5:
+        non_striker: Isa Zaroo
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: H Lakov
+    - 1.6:
+        non_striker: H Lakov
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Isa Zaroo
+    - 2.1:
+        non_striker: Isa Zaroo
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: H Lakov
+        wicket:
+          player_out: H Lakov
+          fielders:
+          - D Jansen
+          kind: caught
+    - 2.2:
+        non_striker: Isa Zaroo
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: M Gogev
+    - 2.3:
+        non_striker: Isa Zaroo
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: M Gogev
+    - 2.4:
+        non_striker: M Gogev
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Isa Zaroo
+    - 2.5:
+        non_striker: M Gogev
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.5'
+        batsman: Isa Zaroo
+    - 2.6:
+        non_striker: M Gogev
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Isa Zaroo
+    - 3.1:
+        non_striker: Isa Zaroo
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: M Gogev
+    - 3.2:
+        non_striker: Isa Zaroo
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: M Gogev
+    - 3.3:
+        non_striker: Isa Zaroo
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: M Gogev
+    - 3.4:
+        non_striker: M Gogev
+        bowler: G Newton
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '3.4'
+        batsman: Isa Zaroo
+    - 3.5:
+        non_striker: Isa Zaroo
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.4'
+        batsman: M Gogev
+    - 3.6:
+        non_striker: Isa Zaroo
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: M Gogev
+    - 3.7:
+        non_striker: Isa Zaroo
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: M Gogev
+    - 4.1:
+        non_striker: M Gogev
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: Isa Zaroo
+    - 4.2:
+        non_striker: M Gogev
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: Isa Zaroo
+    - 4.3:
+        non_striker: Isa Zaroo
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: M Gogev
+        wicket:
+          player_out: M Gogev
+          kind: bowled
+    - 4.4:
+        non_striker: Isa Zaroo
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: K Krishnakumar
+    - 4.5:
+        non_striker: K Krishnakumar
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Isa Zaroo
+    - 4.6:
+        non_striker: K Krishnakumar
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Isa Zaroo
+    - 5.1:
+        non_striker: Isa Zaroo
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: K Krishnakumar
+    - 5.2:
+        non_striker: Isa Zaroo
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: K Krishnakumar
+    - 5.3:
+        non_striker: Isa Zaroo
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.3'
+        batsman: K Krishnakumar
+    - 5.4:
+        non_striker: Isa Zaroo
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: K Krishnakumar
+    - 5.5:
+        non_striker: Isa Zaroo
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: K Krishnakumar
+    - 5.6:
+        non_striker: Isa Zaroo
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: K Krishnakumar
+    - 6.1:
+        non_striker: K Krishnakumar
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: Isa Zaroo
+    - 6.2:
+        non_striker: K Krishnakumar
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: Isa Zaroo
+    - 6.3:
+        non_striker: Isa Zaroo
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: K Krishnakumar
+        wicket:
+          player_out: K Krishnakumar
+          kind: bowled
+    - 6.4:
+        non_striker: Isa Zaroo
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Manan Bashir
+        wicket:
+          player_out: Manan Bashir
+          fielders:
+          - A McAuley
+          kind: caught
+    - 6.5:
+        non_striker: Isa Zaroo
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Jakob Gul
+    - 6.6:
+        non_striker: Isa Zaroo
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: Jakob Gul
+    - 7.1:
+        non_striker: Jakob Gul
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.1'
+        batsman: Isa Zaroo
+    - 7.2:
+        non_striker: Jakob Gul
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: Isa Zaroo
+    - 7.3:
+        non_striker: Isa Zaroo
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: Jakob Gul
+    - 7.4:
+        non_striker: Isa Zaroo
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: Jakob Gul
+        wicket:
+          player_out: Jakob Gul
+          kind: caught and bowled
+    - 7.5:
+        non_striker: Isa Zaroo
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: Danyal Raja
+    - 7.6:
+        non_striker: Isa Zaroo
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: Danyal Raja
+    - 8.1:
+        non_striker: Danyal Raja
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Isa Zaroo
+    - 8.2:
+        non_striker: Danyal Raja
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Isa Zaroo
+    - 8.3:
+        non_striker: Isa Zaroo
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: Danyal Raja
+        wicket:
+          player_out: Danyal Raja
+          fielders:
+          - G Newton
+          kind: caught
+    - 8.4:
+        non_striker: Isa Zaroo
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: P Mishra
+    - 8.5:
+        non_striker: Isa Zaroo
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: P Mishra
+    - 8.6:
+        non_striker: Isa Zaroo
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: P Mishra
+    - 9.1:
+        non_striker: P Mishra
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: Isa Zaroo
+    - 9.2:
+        non_striker: Isa Zaroo
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: P Mishra
+    - 9.3:
+        non_striker: Isa Zaroo
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: P Mishra
+    - 9.4:
+        non_striker: Isa Zaroo
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: P Mishra
+    - 9.5:
+        non_striker: Isa Zaroo
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: P Mishra
+        wicket:
+          player_out: P Mishra
+          fielders:
+          - D Jansen
+          kind: caught
+    - 9.6:
+        non_striker: Isa Zaroo
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: A Dowling
+    - 10.1:
+        non_striker: A Dowling
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: Isa Zaroo
+    - 10.2:
+        non_striker: Isa Zaroo
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: A Dowling
+    - 10.3:
+        non_striker: Isa Zaroo
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: A Dowling
+    - 10.4:
+        non_striker: Isa Zaroo
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: A Dowling
+    - 10.5:
+        non_striker: A Dowling
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: Isa Zaroo
+    - 10.6:
+        non_striker: Isa Zaroo
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: A Dowling
+    - 11.1:
+        non_striker: A Dowling
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: Isa Zaroo
+    - 11.2:
+        non_striker: A Dowling
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: Isa Zaroo
+    - 11.3:
+        non_striker: Isa Zaroo
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: A Dowling
+    - 11.4:
+        non_striker: Isa Zaroo
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: A Dowling
+    - 11.5:
+        non_striker: Isa Zaroo
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: A Dowling
+    - 11.6:
+        non_striker: A Dowling
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Isa Zaroo
+    - 12.1:
+        non_striker: A Dowling
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Isa Zaroo
+    - 12.2:
+        non_striker: A Dowling
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: Isa Zaroo
+    - 12.3:
+        non_striker: Isa Zaroo
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: A Dowling
+    - 12.4:
+        non_striker: Isa Zaroo
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: A Dowling
+    - 12.5:
+        non_striker: Isa Zaroo
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: A Dowling
+    - 12.6:
+        non_striker: A Dowling
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: Isa Zaroo
+    - 13.1:
+        non_striker: A Dowling
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: Isa Zaroo
+    - 13.2:
+        non_striker: A Dowling
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: Isa Zaroo
+    - 13.3:
+        non_striker: A Dowling
+        bowler: G Newton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.3'
+        batsman: Isa Zaroo
+    - 13.4:
+        non_striker: A Dowling
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: Isa Zaroo
+    - 13.5:
+        non_striker: A Dowling
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.4'
+        batsman: Isa Zaroo
+    - 13.6:
+        non_striker: A Dowling
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: Isa Zaroo
+    - 13.7:
+        non_striker: Isa Zaroo
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: A Dowling
+    - 14.1:
+        non_striker: A Dowling
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: Isa Zaroo
+    - 14.2:
+        non_striker: Isa Zaroo
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: A Dowling
+    - 14.3:
+        non_striker: Isa Zaroo
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: A Dowling
+    - 14.4:
+        non_striker: A Dowling
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: Isa Zaroo
+    - 14.5:
+        non_striker: A Dowling
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: Isa Zaroo
+    - 14.6:
+        non_striker: Isa Zaroo
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: A Dowling
+    - 15.1:
+        non_striker: Isa Zaroo
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: A Dowling
+    - 15.2:
+        non_striker: A Dowling
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: Isa Zaroo
+    - 15.3:
+        non_striker: Isa Zaroo
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: A Dowling
+    - 15.4:
+        non_striker: A Dowling
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.4'
+        batsman: Isa Zaroo
+    - 15.5:
+        non_striker: A Dowling
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: Isa Zaroo
+    - 15.6:
+        non_striker: Isa Zaroo
+        bowler: JA Burrows
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.6'
+        batsman: A Dowling
+    - 15.7:
+        non_striker: Isa Zaroo
+        bowler: JA Burrows
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: A Dowling
+    - 16.1:
+        non_striker: A Dowling
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: Isa Zaroo
+    - 16.2:
+        non_striker: A Dowling
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: Isa Zaroo
+    - 16.3:
+        non_striker: A Dowling
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: Isa Zaroo
+    - 16.4:
+        non_striker: A Dowling
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: Isa Zaroo
+    - 16.5:
+        non_striker: Isa Zaroo
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: A Dowling
+    - 16.6:
+        non_striker: A Dowling
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: Isa Zaroo
+    - 17.1:
+        non_striker: A Dowling
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: Isa Zaroo
+    - 17.2:
+        non_striker: Isa Zaroo
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: A Dowling
+    - 17.3:
+        non_striker: A Dowling
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: Isa Zaroo
+    - 17.4:
+        non_striker: Isa Zaroo
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: A Dowling
+    - 17.5:
+        non_striker: Isa Zaroo
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: A Dowling
+    - 17.6:
+        non_striker: A Dowling
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: Isa Zaroo
+    - 18.1:
+        non_striker: A Dowling
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: Isa Zaroo
+    - 18.2:
+        non_striker: A Dowling
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: Isa Zaroo
+    - 18.3:
+        non_striker: Isa Zaroo
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: A Dowling
+    - 18.4:
+        non_striker: A Dowling
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.4'
+        batsman: Isa Zaroo
+    - 18.5:
+        non_striker: A Dowling
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: Isa Zaroo
+        wicket:
+          player_out: Isa Zaroo
+          kind: bowled
+    - 18.6:
+        non_striker: A Dowling
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: J Dowling
+    - 19.1:
+        non_striker: J Dowling
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.1'
+        batsman: A Dowling
+    - 19.2:
+        non_striker: J Dowling
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: A Dowling
+    - 19.3:
+        non_striker: J Dowling
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.3'
+        batsman: A Dowling
+    - 19.4:
+        non_striker: A Dowling
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: J Dowling
+    - 19.5:
+        non_striker: J Dowling
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.5'
+        batsman: A Dowling
+    - 19.6:
+        non_striker: J Dowling
+        bowler: D Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.6'
+        batsman: A Dowling
+    - 19.7:
+        non_striker: J Dowling
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: A Dowling
+    target:
+      overs: 20
+      runs: 178

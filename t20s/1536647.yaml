@@ -1,0 +1,2086 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangi
+  dates:
+  - '2026-06-10'
+  gender: female
+  match_type: T20
+  match_type_number: 2839
+  outcome:
+    winner: Indonesia
+    by:
+      runs: 113
+  overs: 20
+  player_of_match:
+  - NMP Suwandewi
+  players:
+    Indonesia:
+    - RD Pangestuti
+    - D Wulandari
+    - NLKWR Dewi
+    - NPAN Sakarini
+    - KS Kasse
+    - NKF Rada Rani
+    - NMP Suwandewi
+    - L Qiao
+    - SAN Maypriani
+    - NK Ariani
+    - DR Bangi
+    Oman:
+    - J Gunasekar
+    - N Joshi
+    - Fiza
+    - PE Mendonca
+    - A Dcosta
+    - Javed Hina
+    - SA Sathiya
+    - Sameera Khan
+    - Lujaina
+    - CM Saldanha
+    - Alifiya Sayed
+  registry:
+    people:
+      A Dcosta: 3a4d914f
+      AS Guha: c21b184d
+      Afia Amin: 7fc47de1
+      Alifiya Sayed: '81423620'
+      CM Saldanha: aee1bc06
+      D Wulandari: 8c0d904e
+      DR Bangi: 61bad8c9
+      Fiza: c7c60bc5
+      J Gunasekar: e50c13a5
+      Javed Hina: a487762e
+      KS Kasse: 007a3773
+      L Qiao: 2b0deff9
+      Lujaina: 76a3af9b
+      N Joshi: cfece11f
+      NK Ariani: 382377a4
+      NKF Rada Rani: 39f4084c
+      NLKWR Dewi: d04fc4a4
+      NMP Suwandewi: 52b57a65
+      NPAN Sakarini: 72b5decf
+      PE Mendonca: 70bab30b
+      RD Pangestuti: 63fc4b92
+      SA Sathiya: 1ba007d8
+      SAN Maypriani: ad135bde
+      Sameera Khan: 237baa2c
+      Shivani Mishra: 2982a0c7
+      Sun Meng Yao: 84a96566
+  team_type: international
+  teams:
+  - Indonesia
+  - Oman
+  toss:
+    winner: Indonesia
+    decision: bat
+  umpires:
+  - Afia Amin
+  - AS Guha
+  venue: YSD-UKM Cricket Oval, Bangi
+innings:
+- 1st innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Wulandari
+        actual_delivery: '0.1'
+        batsman: RD Pangestuti
+    - 0.2:
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Wulandari
+        actual_delivery: '0.2'
+        batsman: RD Pangestuti
+    - 0.3:
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Wulandari
+        actual_delivery: '0.3'
+        batsman: RD Pangestuti
+    - 0.4:
+        non_striker: RD Pangestuti
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: D Wulandari
+    - 0.5:
+        non_striker: RD Pangestuti
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: D Wulandari
+    - 0.6:
+        non_striker: D Wulandari
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: RD Pangestuti
+    - 1.1:
+        non_striker: RD Pangestuti
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: D Wulandari
+    - 1.2:
+        non_striker: D Wulandari
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: RD Pangestuti
+        wicket:
+          player_out: RD Pangestuti
+          fielders:
+          - Sameera Khan
+          kind: caught
+    - 1.3:
+        non_striker: D Wulandari
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: NLKWR Dewi
+    - 1.4:
+        non_striker: D Wulandari
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: NLKWR Dewi
+    - 1.5:
+        non_striker: NLKWR Dewi
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: D Wulandari
+        wicket:
+          player_out: D Wulandari
+          kind: bowled
+    - 1.6:
+        non_striker: NLKWR Dewi
+        bowler: PE Mendonca
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.6'
+        batsman: NPAN Sakarini
+    - 1.7:
+        non_striker: NLKWR Dewi
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: NPAN Sakarini
+    - 2.1:
+        non_striker: NLKWR Dewi
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: NPAN Sakarini
+    - 2.2:
+        non_striker: NLKWR Dewi
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: NPAN Sakarini
+    - 2.3:
+        non_striker: NPAN Sakarini
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: NLKWR Dewi
+    - 2.4:
+        non_striker: NPAN Sakarini
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: NLKWR Dewi
+    - 2.5:
+        non_striker: NPAN Sakarini
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: NLKWR Dewi
+    - 2.6:
+        non_striker: NLKWR Dewi
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.6'
+        batsman: NPAN Sakarini
+    - 3.1:
+        non_striker: NPAN Sakarini
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.1'
+        batsman: NLKWR Dewi
+    - 3.2:
+        non_striker: NPAN Sakarini
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: NLKWR Dewi
+    - 3.3:
+        non_striker: NPAN Sakarini
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: NLKWR Dewi
+    - 3.4:
+        non_striker: NPAN Sakarini
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: NLKWR Dewi
+    - 3.5:
+        non_striker: NPAN Sakarini
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.5'
+        batsman: NLKWR Dewi
+    - 3.6:
+        non_striker: NPAN Sakarini
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: NLKWR Dewi
+    - 4.1:
+        non_striker: NLKWR Dewi
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: NPAN Sakarini
+    - 4.2:
+        non_striker: NLKWR Dewi
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.2'
+        batsman: NPAN Sakarini
+    - 4.3:
+        non_striker: NLKWR Dewi
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: NPAN Sakarini
+        wicket:
+          player_out: NLKWR Dewi
+          fielders:
+          - J Gunasekar
+          kind: run out
+    - 4.4:
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KS Kasse
+        actual_delivery: '4.4'
+        batsman: NPAN Sakarini
+    - 4.5:
+        non_striker: NPAN Sakarini
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: KS Kasse
+    - 4.6:
+        non_striker: NPAN Sakarini
+        bowler: Alifiya Sayed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.6'
+        batsman: KS Kasse
+    - 4.7:
+        non_striker: NPAN Sakarini
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: KS Kasse
+    - 5.1:
+        non_striker: KS Kasse
+        bowler: A Dcosta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.1'
+        batsman: NPAN Sakarini
+    - 5.2:
+        non_striker: KS Kasse
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: NPAN Sakarini
+    - 5.3:
+        non_striker: KS Kasse
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: NPAN Sakarini
+    - 5.4:
+        non_striker: NPAN Sakarini
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: KS Kasse
+    - 5.5:
+        non_striker: NPAN Sakarini
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: KS Kasse
+    - 5.6:
+        non_striker: NPAN Sakarini
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: KS Kasse
+    - 5.7:
+        non_striker: NPAN Sakarini
+        bowler: A Dcosta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.6'
+        batsman: KS Kasse
+    - 5.8:
+        non_striker: NPAN Sakarini
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: KS Kasse
+    - 6.1:
+        non_striker: KS Kasse
+        bowler: SA Sathiya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.1'
+        batsman: NPAN Sakarini
+    - 6.2:
+        non_striker: KS Kasse
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: NPAN Sakarini
+    - 6.3:
+        non_striker: KS Kasse
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.2'
+        batsman: NPAN Sakarini
+    - 6.4:
+        non_striker: KS Kasse
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: NPAN Sakarini
+    - 6.5:
+        non_striker: NPAN Sakarini
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: KS Kasse
+    - 6.6:
+        non_striker: NPAN Sakarini
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: KS Kasse
+    - 6.7:
+        non_striker: NPAN Sakarini
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: KS Kasse
+    - 7.1:
+        non_striker: NPAN Sakarini
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: KS Kasse
+    - 7.2:
+        non_striker: KS Kasse
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '7.2'
+        batsman: NPAN Sakarini
+    - 7.3:
+        non_striker: NPAN Sakarini
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: KS Kasse
+    - 7.4:
+        non_striker: NPAN Sakarini
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: KS Kasse
+    - 7.5:
+        non_striker: NPAN Sakarini
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.5'
+        batsman: KS Kasse
+    - 7.6:
+        non_striker: NPAN Sakarini
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: KS Kasse
+    - 8.1:
+        non_striker: KS Kasse
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: NPAN Sakarini
+    - 8.2:
+        non_striker: KS Kasse
+        bowler: SA Sathiya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.2'
+        batsman: NPAN Sakarini
+    - 8.3:
+        non_striker: KS Kasse
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: NPAN Sakarini
+    - 8.4:
+        non_striker: NPAN Sakarini
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.3'
+        batsman: KS Kasse
+    - 8.5:
+        non_striker: NPAN Sakarini
+        bowler: SA Sathiya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.4'
+        batsman: KS Kasse
+    - 8.6:
+        non_striker: NPAN Sakarini
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: KS Kasse
+    - 8.7:
+        non_striker: KS Kasse
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: NPAN Sakarini
+    - 8.8:
+        non_striker: KS Kasse
+        bowler: SA Sathiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: NPAN Sakarini
+    - 9.1:
+        non_striker: NPAN Sakarini
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: KS Kasse
+    - 9.2:
+        non_striker: KS Kasse
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: NPAN Sakarini
+    - 9.3:
+        non_striker: KS Kasse
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: NPAN Sakarini
+    - 9.4:
+        non_striker: NPAN Sakarini
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: KS Kasse
+    - 9.5:
+        non_striker: KS Kasse
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: NPAN Sakarini
+    - 9.6:
+        non_striker: KS Kasse
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: NPAN Sakarini
+    - 10.1:
+        non_striker: KS Kasse
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: NPAN Sakarini
+    - 10.2:
+        non_striker: NPAN Sakarini
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: KS Kasse
+    - 10.3:
+        non_striker: KS Kasse
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.3'
+        batsman: NPAN Sakarini
+    - 10.4:
+        non_striker: KS Kasse
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: NPAN Sakarini
+    - 10.5:
+        non_striker: KS Kasse
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.5'
+        batsman: NPAN Sakarini
+    - 10.6:
+        non_striker: KS Kasse
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: NPAN Sakarini
+    - 11.1:
+        non_striker: NPAN Sakarini
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: KS Kasse
+    - 11.2:
+        non_striker: KS Kasse
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: NPAN Sakarini
+    - 11.3:
+        non_striker: NPAN Sakarini
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: KS Kasse
+    - 11.4:
+        non_striker: KS Kasse
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: NPAN Sakarini
+    - 11.5:
+        non_striker: NPAN Sakarini
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: KS Kasse
+        wicket:
+          player_out: KS Kasse
+          fielders:
+          - PE Mendonca
+          kind: caught
+    - 11.6:
+        non_striker: NPAN Sakarini
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: NKF Rada Rani
+    - 12.1:
+        non_striker: NPAN Sakarini
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: NKF Rada Rani
+    - 12.2:
+        non_striker: NPAN Sakarini
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: NKF Rada Rani
+    - 12.3:
+        non_striker: NKF Rada Rani
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: NPAN Sakarini
+    - 12.4:
+        non_striker: NKF Rada Rani
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: NPAN Sakarini
+    - 12.5:
+        non_striker: NPAN Sakarini
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: NKF Rada Rani
+    - 12.6:
+        non_striker: NPAN Sakarini
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.6'
+        batsman: NKF Rada Rani
+    - 13.1:
+        non_striker: NKF Rada Rani
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.1'
+        batsman: NPAN Sakarini
+    - 13.2:
+        non_striker: NKF Rada Rani
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: NPAN Sakarini
+    - 13.3:
+        non_striker: NPAN Sakarini
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: NKF Rada Rani
+    - 13.4:
+        non_striker: NKF Rada Rani
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: NPAN Sakarini
+    - 13.5:
+        non_striker: NKF Rada Rani
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.5'
+        batsman: NPAN Sakarini
+    - 13.6:
+        non_striker: NKF Rada Rani
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: NPAN Sakarini
+    - 14.1:
+        non_striker: NKF Rada Rani
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: NPAN Sakarini
+    - 14.2:
+        non_striker: NKF Rada Rani
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: NPAN Sakarini
+    - 14.3:
+        non_striker: NPAN Sakarini
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: NKF Rada Rani
+    - 14.4:
+        non_striker: NKF Rada Rani
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: NPAN Sakarini
+    - 14.5:
+        non_striker: NPAN Sakarini
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: NKF Rada Rani
+    - 14.6:
+        non_striker: NKF Rada Rani
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: NPAN Sakarini
+    - 15.1:
+        non_striker: NPAN Sakarini
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.1'
+        batsman: NKF Rada Rani
+    - 15.2:
+        non_striker: NPAN Sakarini
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: NKF Rada Rani
+    - 15.3:
+        non_striker: NKF Rada Rani
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.3'
+        batsman: NPAN Sakarini
+    - 15.4:
+        non_striker: NKF Rada Rani
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: NPAN Sakarini
+    - 15.5:
+        non_striker: NPAN Sakarini
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: NKF Rada Rani
+    - 15.6:
+        non_striker: NPAN Sakarini
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.6'
+        batsman: NKF Rada Rani
+    - 16.1:
+        non_striker: NKF Rada Rani
+        bowler: PE Mendonca
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '16.1'
+        batsman: NPAN Sakarini
+    - 16.2:
+        non_striker: NPAN Sakarini
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: NKF Rada Rani
+    - 16.3:
+        non_striker: NKF Rada Rani
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: NPAN Sakarini
+    - 16.4:
+        non_striker: NKF Rada Rani
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: NPAN Sakarini
+    - 16.5:
+        non_striker: NPAN Sakarini
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: NKF Rada Rani
+    - 16.6:
+        non_striker: NPAN Sakarini
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: NKF Rada Rani
+    - 16.7:
+        non_striker: NKF Rada Rani
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: NPAN Sakarini
+    - 17.1:
+        non_striker: NPAN Sakarini
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: NKF Rada Rani
+    - 17.2:
+        non_striker: NPAN Sakarini
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: NKF Rada Rani
+        wicket:
+          player_out: NKF Rada Rani
+          kind: lbw
+    - 17.3:
+        non_striker: NPAN Sakarini
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.3'
+        batsman: NMP Suwandewi
+    - 17.4:
+        non_striker: NPAN Sakarini
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.4'
+        batsman: NMP Suwandewi
+    - 17.5:
+        non_striker: NPAN Sakarini
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: NMP Suwandewi
+    - 17.6:
+        non_striker: NMP Suwandewi
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: NPAN Sakarini
+    - 18.1:
+        non_striker: NPAN Sakarini
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: NMP Suwandewi
+    - 18.2:
+        non_striker: NMP Suwandewi
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.2'
+        batsman: NPAN Sakarini
+    - 18.3:
+        non_striker: NMP Suwandewi
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: NPAN Sakarini
+    - 18.4:
+        non_striker: NPAN Sakarini
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: NMP Suwandewi
+        wicket:
+          player_out: NPAN Sakarini
+          fielders:
+          - J Gunasekar
+          kind: run out
+    - 18.5:
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Qiao
+        actual_delivery: '18.5'
+        batsman: NMP Suwandewi
+    - 18.6:
+        non_striker: L Qiao
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: NMP Suwandewi
+    - 19.1:
+        non_striker: L Qiao
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.1'
+        batsman: NMP Suwandewi
+    - 19.2:
+        non_striker: L Qiao
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: NMP Suwandewi
+        wicket:
+          player_out: L Qiao
+          fielders:
+          - Fiza
+          kind: run out
+    - 19.3:
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: SAN Maypriani
+        actual_delivery: '19.3'
+        batsman: NMP Suwandewi
+    - 19.4:
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: SAN Maypriani
+        actual_delivery: '19.4'
+        batsman: NMP Suwandewi
+    - 19.5:
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: SAN Maypriani
+        actual_delivery: '19.5'
+        batsman: NMP Suwandewi
+    - 19.6:
+        non_striker: SAN Maypriani
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.6'
+        batsman: NMP Suwandewi
+- 2nd innings:
+    team: Oman
+    deliveries:
+    - 0.1:
+        non_striker: N Joshi
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: J Gunasekar
+        wicket:
+          player_out: J Gunasekar
+          kind: bowled
+    - 0.2:
+        non_striker: N Joshi
+        bowler: NMP Suwandewi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '0.2'
+        batsman: Fiza
+    - 0.3:
+        non_striker: N Joshi
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: Fiza
+    - 0.4:
+        non_striker: N Joshi
+        bowler: NMP Suwandewi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.3'
+        batsman: Fiza
+    - 0.5:
+        non_striker: N Joshi
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: Fiza
+        wicket:
+          player_out: Fiza
+          kind: lbw
+    - 0.6:
+        non_striker: N Joshi
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: PE Mendonca
+    - 0.7:
+        non_striker: PE Mendonca
+        bowler: NMP Suwandewi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.5'
+        batsman: N Joshi
+    - 0.8:
+        non_striker: PE Mendonca
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: N Joshi
+        wicket:
+          player_out: N Joshi
+          fielders:
+          - L Qiao
+          kind: caught
+    - 0.9:
+        non_striker: PE Mendonca
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: A Dcosta
+    - 1.1:
+        non_striker: A Dcosta
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: PE Mendonca
+    - 1.2:
+        non_striker: A Dcosta
+        bowler: L Qiao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.2'
+        batsman: PE Mendonca
+    - 1.3:
+        non_striker: A Dcosta
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: PE Mendonca
+    - 1.4:
+        non_striker: A Dcosta
+        bowler: L Qiao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.3'
+        batsman: PE Mendonca
+    - 1.5:
+        non_striker: A Dcosta
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: PE Mendonca
+        wicket:
+          player_out: PE Mendonca
+          fielders:
+          - D Wulandari
+          kind: caught
+    - 1.6:
+        non_striker: A Dcosta
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: Javed Hina
+    - 1.7:
+        non_striker: A Dcosta
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Javed Hina
+    - 1.8:
+        non_striker: A Dcosta
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.6'
+        batsman: Javed Hina
+    - 2.1:
+        non_striker: Javed Hina
+        bowler: NMP Suwandewi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.1'
+        batsman: A Dcosta
+    - 2.2:
+        non_striker: Javed Hina
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.1'
+        batsman: A Dcosta
+    - 2.3:
+        non_striker: Javed Hina
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: A Dcosta
+    - 2.4:
+        non_striker: Javed Hina
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: A Dcosta
+        wicket:
+          player_out: A Dcosta
+          kind: lbw
+    - 2.5:
+        non_striker: Javed Hina
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: SA Sathiya
+    - 2.6:
+        non_striker: Javed Hina
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: SA Sathiya
+    - 2.7:
+        non_striker: Javed Hina
+        bowler: NMP Suwandewi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.6'
+        batsman: SA Sathiya
+    - 2.8:
+        non_striker: Javed Hina
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: SA Sathiya
+    - 3.1:
+        non_striker: Javed Hina
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: SA Sathiya
+        wicket:
+          player_out: SA Sathiya
+          fielders:
+          - NKF Rada Rani
+          kind: caught
+    - 3.2:
+        non_striker: Javed Hina
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Sameera Khan
+    - 3.3:
+        non_striker: Javed Hina
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Sameera Khan
+    - 3.4:
+        non_striker: Javed Hina
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Sameera Khan
+    - 3.5:
+        non_striker: Javed Hina
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: Sameera Khan
+    - 3.6:
+        non_striker: Sameera Khan
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: Javed Hina
+    - 4.1:
+        non_striker: Sameera Khan
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: Javed Hina
+    - 4.2:
+        non_striker: Sameera Khan
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: Javed Hina
+        wicket:
+          player_out: Javed Hina
+          fielders:
+          - NPAN Sakarini
+          kind: run out
+    - 4.3:
+        non_striker: Sameera Khan
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: Lujaina
+    - 4.4:
+        non_striker: Sameera Khan
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: Lujaina
+    - 4.5:
+        non_striker: Sameera Khan
+        bowler: NMP Suwandewi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.5'
+        batsman: Lujaina
+    - 4.6:
+        non_striker: Sameera Khan
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Lujaina
+    - 4.7:
+        non_striker: Sameera Khan
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Lujaina
+    - 5.1:
+        non_striker: Lujaina
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Sameera Khan
+    - 5.2:
+        non_striker: Lujaina
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: Sameera Khan
+    - 5.3:
+        non_striker: Lujaina
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: Sameera Khan
+    - 5.4:
+        non_striker: Lujaina
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Sameera Khan
+    - 5.5:
+        non_striker: Lujaina
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Sameera Khan
+    - 5.6:
+        non_striker: Lujaina
+        bowler: L Qiao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Sameera Khan
+    - 6.1:
+        non_striker: Sameera Khan
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: Lujaina
+    - 6.2:
+        non_striker: Sameera Khan
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: Lujaina
+    - 6.3:
+        non_striker: Sameera Khan
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Lujaina
+    - 6.4:
+        non_striker: Sameera Khan
+        bowler: NMP Suwandewi
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        actual_delivery: '6.4'
+        batsman: Lujaina
+    - 6.5:
+        non_striker: Sameera Khan
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Lujaina
+    - 6.6:
+        non_striker: Sameera Khan
+        bowler: NMP Suwandewi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: Lujaina
+    - 7.1:
+        non_striker: Lujaina
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: Sameera Khan
+        wicket:
+          player_out: Sameera Khan
+          fielders:
+          - NLKWR Dewi
+          kind: caught
+    - 7.2:
+        non_striker: Lujaina
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: CM Saldanha
+    - 7.3:
+        non_striker: Lujaina
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: CM Saldanha
+    - 7.4:
+        non_striker: Lujaina
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: CM Saldanha
+    - 7.5:
+        non_striker: Lujaina
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: CM Saldanha
+    - 7.6:
+        non_striker: Lujaina
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: CM Saldanha
+    - 8.1:
+        non_striker: CM Saldanha
+        bowler: DR Bangi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Lujaina
+    - 8.2:
+        non_striker: CM Saldanha
+        bowler: DR Bangi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.2'
+        batsman: Lujaina
+    - 8.3:
+        non_striker: CM Saldanha
+        bowler: DR Bangi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: Lujaina
+        wicket:
+          player_out: Lujaina
+          fielders:
+          - NKF Rada Rani
+          kind: caught
+    - 8.4:
+        non_striker: CM Saldanha
+        bowler: DR Bangi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: Alifiya Sayed
+    - 8.5:
+        non_striker: CM Saldanha
+        bowler: DR Bangi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: Alifiya Sayed
+    - 8.6:
+        non_striker: CM Saldanha
+        bowler: DR Bangi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: Alifiya Sayed
+    - 8.7:
+        non_striker: CM Saldanha
+        bowler: DR Bangi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Alifiya Sayed
+    - 9.1:
+        non_striker: Alifiya Sayed
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: CM Saldanha
+    - 9.2:
+        non_striker: Alifiya Sayed
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: CM Saldanha
+    - 9.3:
+        non_striker: Alifiya Sayed
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: CM Saldanha
+    - 9.4:
+        non_striker: Alifiya Sayed
+        bowler: SAN Maypriani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.4'
+        batsman: CM Saldanha
+    - 9.5:
+        non_striker: Alifiya Sayed
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: CM Saldanha
+    - 9.6:
+        non_striker: Alifiya Sayed
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: CM Saldanha
+    - 9.7:
+        non_striker: Alifiya Sayed
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: CM Saldanha
+    - 10.1:
+        non_striker: CM Saldanha
+        bowler: DR Bangi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: Alifiya Sayed
+    - 10.2:
+        non_striker: Alifiya Sayed
+        bowler: DR Bangi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: CM Saldanha
+    - 10.3:
+        non_striker: Alifiya Sayed
+        bowler: DR Bangi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: CM Saldanha
+    - 10.4:
+        non_striker: Alifiya Sayed
+        bowler: DR Bangi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: CM Saldanha
+    - 10.5:
+        non_striker: Alifiya Sayed
+        bowler: DR Bangi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: CM Saldanha
+    - 10.6:
+        non_striker: Alifiya Sayed
+        bowler: DR Bangi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: CM Saldanha
+    - 11.1:
+        non_striker: CM Saldanha
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: Alifiya Sayed
+    - 11.2:
+        non_striker: CM Saldanha
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: Alifiya Sayed
+    - 11.3:
+        non_striker: CM Saldanha
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: Alifiya Sayed
+    - 11.4:
+        non_striker: CM Saldanha
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: Alifiya Sayed
+    - 11.5:
+        non_striker: CM Saldanha
+        bowler: SAN Maypriani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Alifiya Sayed
+        wicket:
+          player_out: Alifiya Sayed
+          kind: bowled
+    target:
+      overs: 20
+      runs: 138

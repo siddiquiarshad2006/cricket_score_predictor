@@ -1,0 +1,2417 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-07-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Stockholm
+  dates:
+  - '2026-07-01'
+  gender: male
+  match_type: T20
+  match_type_number: 4005
+  outcome:
+    winner: Portugal
+    by:
+      runs: 12
+  overs: 20
+  player_of_match:
+  - C Nunes
+  players:
+    Portugal:
+    - D Norotam
+    - SP Gomes
+    - C Potgieter
+    - Natim Hassam
+    - JP Netto
+    - C Nunes
+    - Edward Fleming
+    - SC de Oliveira
+    - R Hashu
+    - Sirajullah Khadim
+    - U Shantu
+    Sweden:
+    - A Mundra
+    - Saeed Ahmed
+    - Awais Ahmad
+    - Imal Zuwak
+    - YS Chauhan
+    - W Boshoff
+    - Samiullah Rahmani
+    - Zaid Ahmad
+    - Zabiullah Zahid
+    - A Dhabe
+    - Zain Muzaffar
+  registry:
+    people:
+      A Dhabe: 5a0dbdeb
+      A Mundra: 30ffaf85
+      Awais Ahmad: 518a21ed
+      Bilal Munir: c35c63b9
+      C Nunes: 37ee5d23
+      C Potgieter: d3bdc89c
+      D Norotam: 90b73986
+      Edward Fleming: 2b43be58
+      Imal Zuwak: 1283e17b
+      JP Netto: 0f3e4716
+      Madhava Rao: 66ac328c
+      Natim Hassam: c802af1c
+      R Hashu: a53029a1
+      SC de Oliveira: 91ae10e1
+      SP Gomes: 30acd4b7
+      Saeed Ahmed: 63d6e16e
+      Samiullah Rahmani: d5c38041
+      Sirajullah Khadim: ff36e706
+      U Shantu: 0e80e47d
+      W Boshoff: cad11a02
+      YS Chauhan: fb3233d4
+      Zabiullah Zahid: 6d024ce3
+      Zaid Ahmad: '45828106'
+      Zain Muzaffar: 19b4fa25
+  team_type: international
+  teams:
+  - Portugal
+  - Sweden
+  toss:
+    winner: Sweden
+    decision: field
+  umpires:
+  - Bilal Munir
+  - Madhava Rao
+  venue: Botkyrka Cricket Center, Stockholm
+innings:
+- 1st innings:
+    team: Portugal
+    deliveries:
+    - 0.1:
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: SP Gomes
+        actual_delivery: '0.1'
+        batsman: D Norotam
+    - 0.2:
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: SP Gomes
+        actual_delivery: '0.2'
+        batsman: D Norotam
+    - 0.3:
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: SP Gomes
+        actual_delivery: '0.3'
+        batsman: D Norotam
+    - 0.4:
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SP Gomes
+        actual_delivery: '0.3'
+        batsman: D Norotam
+    - 0.5:
+        non_striker: D Norotam
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: SP Gomes
+    - 0.6:
+        non_striker: D Norotam
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.5'
+        batsman: SP Gomes
+    - 0.7:
+        non_striker: D Norotam
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: SP Gomes
+    - 0.8:
+        non_striker: D Norotam
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: SP Gomes
+    - 1.1:
+        non_striker: D Norotam
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: SP Gomes
+    - 1.2:
+        non_striker: SP Gomes
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: D Norotam
+    - 1.3:
+        non_striker: SP Gomes
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: D Norotam
+    - 1.4:
+        non_striker: SP Gomes
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: D Norotam
+    - 1.5:
+        non_striker: D Norotam
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: SP Gomes
+    - 1.6:
+        non_striker: D Norotam
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: SP Gomes
+    - 2.1:
+        non_striker: SP Gomes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: D Norotam
+    - 2.2:
+        non_striker: SP Gomes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: D Norotam
+    - 2.3:
+        non_striker: SP Gomes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: D Norotam
+    - 2.4:
+        non_striker: SP Gomes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: D Norotam
+    - 2.5:
+        non_striker: SP Gomes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: D Norotam
+    - 2.6:
+        non_striker: D Norotam
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.6'
+        batsman: SP Gomes
+    - 3.1:
+        non_striker: SP Gomes
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: D Norotam
+    - 3.2:
+        non_striker: SP Gomes
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: D Norotam
+    - 3.3:
+        non_striker: SP Gomes
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: D Norotam
+    - 3.4:
+        non_striker: SP Gomes
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: D Norotam
+    - 3.5:
+        non_striker: SP Gomes
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.5'
+        batsman: D Norotam
+    - 3.6:
+        non_striker: SP Gomes
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.6'
+        batsman: D Norotam
+    - 4.1:
+        non_striker: D Norotam
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.1'
+        batsman: SP Gomes
+    - 4.2:
+        non_striker: D Norotam
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: SP Gomes
+    - 4.3:
+        non_striker: D Norotam
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: SP Gomes
+    - 4.4:
+        non_striker: SP Gomes
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: D Norotam
+    - 4.5:
+        non_striker: SP Gomes
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: D Norotam
+    - 4.6:
+        non_striker: SP Gomes
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: D Norotam
+    - 5.1:
+        non_striker: D Norotam
+        bowler: Zain Muzaffar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '5.1'
+        batsman: SP Gomes
+    - 5.2:
+        non_striker: SP Gomes
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: D Norotam
+        wicket:
+          player_out: D Norotam
+          fielders:
+          - A Mundra
+          kind: caught
+    - 5.3:
+        non_striker: SP Gomes
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: C Potgieter
+    - 5.4:
+        non_striker: SP Gomes
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: C Potgieter
+    - 5.5:
+        non_striker: C Potgieter
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: SP Gomes
+    - 5.6:
+        non_striker: C Potgieter
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: SP Gomes
+    - 6.1:
+        non_striker: SP Gomes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: C Potgieter
+    - 6.2:
+        non_striker: SP Gomes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: C Potgieter
+    - 6.3:
+        non_striker: SP Gomes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: C Potgieter
+    - 6.4:
+        non_striker: SP Gomes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: C Potgieter
+    - 6.5:
+        non_striker: SP Gomes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: C Potgieter
+    - 6.6:
+        non_striker: SP Gomes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '6.6'
+        batsman: C Potgieter
+    - 7.1:
+        non_striker: C Potgieter
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: SP Gomes
+    - 7.2:
+        non_striker: SP Gomes
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: C Potgieter
+    - 7.3:
+        non_striker: C Potgieter
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: SP Gomes
+    - 7.4:
+        non_striker: SP Gomes
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: C Potgieter
+    - 7.5:
+        non_striker: SP Gomes
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: C Potgieter
+    - 7.6:
+        non_striker: C Potgieter
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.6'
+        batsman: SP Gomes
+    - 8.1:
+        non_striker: SP Gomes
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: C Potgieter
+    - 8.2:
+        non_striker: C Potgieter
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: SP Gomes
+    - 8.3:
+        non_striker: C Potgieter
+        bowler: Zaid Ahmad
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        actual_delivery: '8.3'
+        batsman: SP Gomes
+    - 8.4:
+        non_striker: C Potgieter
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: SP Gomes
+    - 8.5:
+        non_striker: C Potgieter
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: SP Gomes
+    - 8.6:
+        non_striker: SP Gomes
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: C Potgieter
+    - 9.1:
+        non_striker: C Potgieter
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: SP Gomes
+        wicket:
+          player_out: SP Gomes
+          fielders:
+          - Imal Zuwak
+          kind: caught
+    - 9.2:
+        non_striker: C Potgieter
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: Natim Hassam
+    - 9.3:
+        non_striker: Natim Hassam
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: C Potgieter
+        wicket:
+          player_out: C Potgieter
+          fielders:
+          - W Boshoff
+          kind: caught
+    - 9.4:
+        non_striker: Natim Hassam
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: JP Netto
+    - 9.5:
+        non_striker: Natim Hassam
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.5'
+        batsman: JP Netto
+    - 9.6:
+        non_striker: Natim Hassam
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '9.6'
+        batsman: JP Netto
+    - 10.1:
+        non_striker: Natim Hassam
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: JP Netto
+    - 10.2:
+        non_striker: Natim Hassam
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: JP Netto
+        wicket:
+          player_out: JP Netto
+          fielders:
+          - Saeed Ahmed
+          kind: caught
+    - 10.3:
+        non_striker: Natim Hassam
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: C Nunes
+    - 10.4:
+        non_striker: C Nunes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: Natim Hassam
+    - 10.5:
+        non_striker: Natim Hassam
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: C Nunes
+    - 10.6:
+        non_striker: C Nunes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Natim Hassam
+    - 11.1:
+        non_striker: Natim Hassam
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.1'
+        batsman: C Nunes
+    - 11.2:
+        non_striker: Natim Hassam
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: C Nunes
+    - 11.3:
+        non_striker: C Nunes
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: Natim Hassam
+    - 11.4:
+        non_striker: C Nunes
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: Natim Hassam
+    - 11.5:
+        non_striker: Natim Hassam
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: C Nunes
+    - 11.6:
+        non_striker: Natim Hassam
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.6'
+        batsman: C Nunes
+    - 12.1:
+        non_striker: C Nunes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Natim Hassam
+    - 12.2:
+        non_striker: C Nunes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: Natim Hassam
+    - 12.3:
+        non_striker: Natim Hassam
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.3'
+        batsman: C Nunes
+    - 12.4:
+        non_striker: Natim Hassam
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: C Nunes
+    - 12.5:
+        non_striker: C Nunes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.5'
+        batsman: Natim Hassam
+    - 12.6:
+        non_striker: C Nunes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Natim Hassam
+    - 13.1:
+        non_striker: Natim Hassam
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: C Nunes
+    - 13.2:
+        non_striker: C Nunes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: Natim Hassam
+    - 13.3:
+        non_striker: C Nunes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: Natim Hassam
+        wicket:
+          player_out: Natim Hassam
+          kind: bowled
+    - 13.4:
+        non_striker: C Nunes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Edward Fleming
+    - 13.5:
+        non_striker: C Nunes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Edward Fleming
+    - 13.6:
+        non_striker: C Nunes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: Edward Fleming
+    - 14.1:
+        non_striker: Edward Fleming
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.1'
+        batsman: C Nunes
+    - 14.2:
+        non_striker: Edward Fleming
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: C Nunes
+    - 14.3:
+        non_striker: Edward Fleming
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: C Nunes
+    - 14.4:
+        non_striker: C Nunes
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: Edward Fleming
+    - 14.5:
+        non_striker: C Nunes
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.5'
+        batsman: Edward Fleming
+    - 14.6:
+        non_striker: C Nunes
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: Edward Fleming
+    - 15.1:
+        non_striker: Edward Fleming
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: C Nunes
+    - 15.2:
+        non_striker: C Nunes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: Edward Fleming
+    - 15.3:
+        non_striker: Edward Fleming
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: C Nunes
+    - 15.4:
+        non_striker: C Nunes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: Edward Fleming
+    - 15.5:
+        non_striker: C Nunes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.5'
+        batsman: Edward Fleming
+    - 15.6:
+        non_striker: C Nunes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: Edward Fleming
+    - 16.1:
+        non_striker: C Nunes
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: Edward Fleming
+    - 16.2:
+        non_striker: Edward Fleming
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.2'
+        batsman: C Nunes
+    - 16.3:
+        non_striker: Edward Fleming
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.3'
+        batsman: C Nunes
+    - 16.4:
+        non_striker: Edward Fleming
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: C Nunes
+    - 16.5:
+        non_striker: Edward Fleming
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.5'
+        batsman: C Nunes
+    - 16.6:
+        non_striker: Edward Fleming
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.6'
+        batsman: C Nunes
+    - 17.1:
+        non_striker: C Nunes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.1'
+        batsman: Edward Fleming
+    - 17.2:
+        non_striker: C Nunes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.2'
+        batsman: Edward Fleming
+    - 17.3:
+        non_striker: C Nunes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: Edward Fleming
+    - 17.4:
+        non_striker: C Nunes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: Edward Fleming
+    - 17.5:
+        non_striker: C Nunes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: Edward Fleming
+        wicket:
+          player_out: Edward Fleming
+          fielders:
+          - Zabiullah Zahid
+          kind: run out
+    - 17.6:
+        non_striker: SC de Oliveira
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: C Nunes
+    - 18.1:
+        non_striker: SC de Oliveira
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.1'
+        batsman: C Nunes
+    - 18.2:
+        non_striker: SC de Oliveira
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.2'
+        batsman: C Nunes
+    - 18.3:
+        non_striker: SC de Oliveira
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.3'
+        batsman: C Nunes
+    - 18.4:
+        non_striker: SC de Oliveira
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.4'
+        batsman: C Nunes
+    - 18.5:
+        non_striker: SC de Oliveira
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: C Nunes
+    - 18.6:
+        non_striker: SC de Oliveira
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: C Nunes
+    - 19.1:
+        non_striker: SC de Oliveira
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.1'
+        batsman: C Nunes
+    - 19.2:
+        non_striker: SC de Oliveira
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.2'
+        batsman: C Nunes
+    - 19.3:
+        non_striker: SC de Oliveira
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.3'
+        batsman: C Nunes
+    - 19.4:
+        non_striker: SC de Oliveira
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: C Nunes
+        wicket:
+          player_out: C Nunes
+          fielders:
+          - Zaid Ahmad
+          - Zain Muzaffar
+          kind: run out
+    - 19.5:
+        non_striker: R Hashu
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: SC de Oliveira
+        wicket:
+          player_out: SC de Oliveira
+          kind: lbw
+    - 19.6:
+        non_striker: R Hashu
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.6'
+        batsman: Sirajullah Khadim
+- 2nd innings:
+    team: Sweden
+    deliveries:
+    - 0.1:
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Saeed Ahmed
+        actual_delivery: '0.1'
+        batsman: A Mundra
+    - 0.2:
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Saeed Ahmed
+        actual_delivery: '0.2'
+        batsman: A Mundra
+    - 0.3:
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Saeed Ahmed
+        actual_delivery: '0.3'
+        batsman: A Mundra
+    - 0.4:
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Saeed Ahmed
+        actual_delivery: '0.4'
+        batsman: A Mundra
+    - 0.5:
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Saeed Ahmed
+        actual_delivery: '0.5'
+        batsman: A Mundra
+    - 0.6:
+        non_striker: Saeed Ahmed
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: A Mundra
+    - 1.1:
+        non_striker: A Mundra
+        bowler: SC de Oliveira
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '1.1'
+        batsman: Saeed Ahmed
+    - 1.2:
+        non_striker: Saeed Ahmed
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: A Mundra
+    - 1.3:
+        non_striker: A Mundra
+        bowler: SC de Oliveira
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '1.3'
+        batsman: Saeed Ahmed
+    - 1.4:
+        non_striker: Saeed Ahmed
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: A Mundra
+    - 1.5:
+        non_striker: A Mundra
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.4'
+        batsman: Saeed Ahmed
+    - 1.6:
+        non_striker: A Mundra
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: Saeed Ahmed
+    - 1.7:
+        non_striker: Saeed Ahmed
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: A Mundra
+    - 2.1:
+        non_striker: A Mundra
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: Saeed Ahmed
+    - 2.2:
+        non_striker: Saeed Ahmed
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: A Mundra
+        wicket:
+          player_out: A Mundra
+          fielders:
+          - SC de Oliveira
+          kind: caught
+    - 2.3:
+        non_striker: Saeed Ahmed
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: Awais Ahmad
+    - 2.4:
+        non_striker: Saeed Ahmed
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Awais Ahmad
+    - 2.5:
+        non_striker: Saeed Ahmed
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.5'
+        batsman: Awais Ahmad
+    - 2.6:
+        non_striker: Saeed Ahmed
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Awais Ahmad
+    - 3.1:
+        non_striker: Awais Ahmad
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Saeed Ahmed
+    - 3.2:
+        non_striker: Awais Ahmad
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: Saeed Ahmed
+    - 3.3:
+        non_striker: Saeed Ahmed
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Awais Ahmad
+    - 3.4:
+        non_striker: Saeed Ahmed
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: Awais Ahmad
+    - 3.5:
+        non_striker: Awais Ahmad
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Saeed Ahmed
+    - 3.6:
+        non_striker: Awais Ahmad
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: Saeed Ahmed
+    - 4.1:
+        non_striker: Awais Ahmad
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.1'
+        batsman: Saeed Ahmed
+    - 4.2:
+        non_striker: Awais Ahmad
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: Saeed Ahmed
+    - 4.3:
+        non_striker: Saeed Ahmed
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.3'
+        batsman: Awais Ahmad
+    - 4.4:
+        non_striker: Saeed Ahmed
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: Awais Ahmad
+    - 4.5:
+        non_striker: Saeed Ahmed
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Awais Ahmad
+    - 4.6:
+        non_striker: Saeed Ahmed
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.6'
+        batsman: Awais Ahmad
+    - 5.1:
+        non_striker: Awais Ahmad
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: Saeed Ahmed
+    - 5.2:
+        non_striker: Saeed Ahmed
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: Awais Ahmad
+    - 5.3:
+        non_striker: Saeed Ahmed
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: Awais Ahmad
+    - 5.4:
+        non_striker: Awais Ahmad
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Saeed Ahmed
+    - 5.5:
+        non_striker: Awais Ahmad
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Saeed Ahmed
+    - 5.6:
+        non_striker: Awais Ahmad
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Saeed Ahmed
+    - 6.1:
+        non_striker: Saeed Ahmed
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: Awais Ahmad
+    - 6.2:
+        non_striker: Awais Ahmad
+        bowler: R Hashu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '6.2'
+        batsman: Saeed Ahmed
+    - 6.3:
+        non_striker: Awais Ahmad
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.2'
+        batsman: Saeed Ahmed
+    - 6.4:
+        non_striker: Awais Ahmad
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Saeed Ahmed
+        wicket:
+          player_out: Saeed Ahmed
+          fielders:
+          - C Nunes
+          kind: caught
+    - 6.5:
+        non_striker: Awais Ahmad
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Imal Zuwak
+    - 6.6:
+        non_striker: Awais Ahmad
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.5'
+        batsman: Imal Zuwak
+    - 6.7:
+        non_striker: Awais Ahmad
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: Imal Zuwak
+    - 7.1:
+        non_striker: Awais Ahmad
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: Imal Zuwak
+    - 7.2:
+        non_striker: Imal Zuwak
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: Awais Ahmad
+    - 7.3:
+        non_striker: Awais Ahmad
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: Imal Zuwak
+    - 7.4:
+        non_striker: Awais Ahmad
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: Imal Zuwak
+    - 7.5:
+        non_striker: Imal Zuwak
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: Awais Ahmad
+    - 7.6:
+        non_striker: Imal Zuwak
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: Awais Ahmad
+    - 8.1:
+        non_striker: Imal Zuwak
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: Awais Ahmad
+    - 8.2:
+        non_striker: Awais Ahmad
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Imal Zuwak
+    - 8.3:
+        non_striker: Imal Zuwak
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: Awais Ahmad
+    - 8.4:
+        non_striker: Awais Ahmad
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: Imal Zuwak
+    - 8.5:
+        non_striker: Imal Zuwak
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: Awais Ahmad
+    - 8.6:
+        non_striker: Imal Zuwak
+        bowler: R Hashu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.6'
+        batsman: Awais Ahmad
+    - 8.7:
+        non_striker: Imal Zuwak
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Awais Ahmad
+    - 9.1:
+        non_striker: Awais Ahmad
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: Imal Zuwak
+    - 9.2:
+        non_striker: Imal Zuwak
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Awais Ahmad
+        wicket:
+          player_out: Awais Ahmad
+          fielders:
+          - SC de Oliveira
+          kind: caught
+    - 9.3:
+        non_striker: Imal Zuwak
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: YS Chauhan
+    - 9.4:
+        non_striker: Imal Zuwak
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: YS Chauhan
+    - 9.5:
+        non_striker: YS Chauhan
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: Imal Zuwak
+    - 9.6:
+        non_striker: Imal Zuwak
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.6'
+        batsman: YS Chauhan
+    - 10.1:
+        non_striker: YS Chauhan
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: Imal Zuwak
+    - 10.2:
+        non_striker: Imal Zuwak
+        bowler: R Hashu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.2'
+        batsman: YS Chauhan
+    - 10.3:
+        non_striker: Imal Zuwak
+        bowler: R Hashu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '10.2'
+        batsman: YS Chauhan
+    - 10.4:
+        non_striker: YS Chauhan
+        bowler: R Hashu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '10.3'
+        batsman: Imal Zuwak
+    - 10.5:
+        non_striker: Imal Zuwak
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.4'
+        batsman: YS Chauhan
+    - 10.6:
+        non_striker: Imal Zuwak
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: YS Chauhan
+    - 10.7:
+        non_striker: Imal Zuwak
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: YS Chauhan
+    - 11.1:
+        non_striker: YS Chauhan
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: Imal Zuwak
+    - 11.2:
+        non_striker: Imal Zuwak
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.2'
+        batsman: YS Chauhan
+    - 11.3:
+        non_striker: Imal Zuwak
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.3'
+        batsman: YS Chauhan
+    - 11.4:
+        non_striker: Imal Zuwak
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: YS Chauhan
+    - 11.5:
+        non_striker: YS Chauhan
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: Imal Zuwak
+    - 11.6:
+        non_striker: Imal Zuwak
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: YS Chauhan
+        wicket:
+          player_out: YS Chauhan
+          fielders:
+          - D Norotam
+          kind: caught
+    - 12.1:
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: W Boshoff
+        actual_delivery: '12.1'
+        batsman: Imal Zuwak
+    - 12.2:
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: W Boshoff
+        actual_delivery: '12.2'
+        batsman: Imal Zuwak
+    - 12.3:
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: W Boshoff
+        actual_delivery: '12.3'
+        batsman: Imal Zuwak
+    - 12.4:
+        non_striker: Imal Zuwak
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '12.4'
+        batsman: W Boshoff
+    - 12.5:
+        non_striker: Imal Zuwak
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.5'
+        batsman: W Boshoff
+    - 12.6:
+        non_striker: Imal Zuwak
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: W Boshoff
+    - 13.1:
+        non_striker: Imal Zuwak
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: W Boshoff
+    - 13.2:
+        non_striker: W Boshoff
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: Imal Zuwak
+        wicket:
+          player_out: Imal Zuwak
+          fielders:
+          - C Nunes
+          - Edward Fleming
+          kind: run out
+    - 13.3:
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Samiullah Rahmani
+        actual_delivery: '13.3'
+        batsman: W Boshoff
+    - 13.4:
+        non_striker: W Boshoff
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.4'
+        batsman: Samiullah Rahmani
+    - 13.5:
+        non_striker: W Boshoff
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: Samiullah Rahmani
+    - 13.6:
+        non_striker: Samiullah Rahmani
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: W Boshoff
+    - 14.1:
+        non_striker: Samiullah Rahmani
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '14.1'
+        batsman: W Boshoff
+    - 14.2:
+        non_striker: Samiullah Rahmani
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.2'
+        batsman: W Boshoff
+    - 14.3:
+        non_striker: Samiullah Rahmani
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: W Boshoff
+    - 14.4:
+        non_striker: W Boshoff
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: Samiullah Rahmani
+    - 14.5:
+        non_striker: Samiullah Rahmani
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: W Boshoff
+    - 14.6:
+        non_striker: Samiullah Rahmani
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: W Boshoff
+    - 15.1:
+        non_striker: Samiullah Rahmani
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: W Boshoff
+    - 15.2:
+        non_striker: Samiullah Rahmani
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: W Boshoff
+    - 15.3:
+        non_striker: W Boshoff
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: Samiullah Rahmani
+    - 15.4:
+        non_striker: Samiullah Rahmani
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.4'
+        batsman: W Boshoff
+    - 15.5:
+        non_striker: Samiullah Rahmani
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: W Boshoff
+    - 15.6:
+        non_striker: W Boshoff
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: Samiullah Rahmani
+    - 16.1:
+        non_striker: W Boshoff
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: Samiullah Rahmani
+    - 16.2:
+        non_striker: Samiullah Rahmani
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: W Boshoff
+    - 16.3:
+        non_striker: W Boshoff
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: Samiullah Rahmani
+        wicket:
+          player_out: Samiullah Rahmani
+          fielders:
+          - JP Netto
+          kind: caught
+    - 16.4:
+        non_striker: W Boshoff
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: Zaid Ahmad
+        wicket:
+          player_out: Zaid Ahmad
+          kind: lbw
+    - 16.5:
+        non_striker: W Boshoff
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: Zabiullah Zahid
+    - 16.6:
+        non_striker: W Boshoff
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.6'
+        batsman: Zabiullah Zahid
+    - 17.1:
+        non_striker: Zabiullah Zahid
+        bowler: Natim Hassam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.1'
+        batsman: W Boshoff
+    - 17.2:
+        non_striker: Zabiullah Zahid
+        bowler: Natim Hassam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: W Boshoff
+    - 17.3:
+        non_striker: W Boshoff
+        bowler: Natim Hassam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.3'
+        batsman: Zabiullah Zahid
+    - 17.4:
+        non_striker: W Boshoff
+        bowler: Natim Hassam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.4'
+        batsman: Zabiullah Zahid
+    - 17.5:
+        non_striker: W Boshoff
+        bowler: Natim Hassam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: Zabiullah Zahid
+    - 17.6:
+        non_striker: W Boshoff
+        bowler: Natim Hassam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: Zabiullah Zahid
+        wicket:
+          player_out: Zabiullah Zahid
+          fielders:
+          - C Nunes
+          kind: stumped
+    - 18.1:
+        bowler: U Shantu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Dhabe
+        actual_delivery: '18.1'
+        batsman: W Boshoff
+    - 18.2:
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Dhabe
+        actual_delivery: '18.1'
+        batsman: W Boshoff
+    - 18.3:
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Dhabe
+        actual_delivery: '18.2'
+        batsman: W Boshoff
+    - 18.4:
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Dhabe
+        actual_delivery: '18.3'
+        batsman: W Boshoff
+    - 18.5:
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: A Dhabe
+        actual_delivery: '18.4'
+        batsman: W Boshoff
+    - 18.6:
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: A Dhabe
+        actual_delivery: '18.5'
+        batsman: W Boshoff
+    - 18.7:
+        non_striker: A Dhabe
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: W Boshoff
+    - 19.1:
+        non_striker: W Boshoff
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.1'
+        batsman: A Dhabe
+    - 19.2:
+        non_striker: W Boshoff
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: A Dhabe
+    - 19.3:
+        non_striker: W Boshoff
+        bowler: SC de Oliveira
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '19.3'
+        batsman: A Dhabe
+    - 19.4:
+        non_striker: A Dhabe
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: W Boshoff
+    - 19.5:
+        non_striker: A Dhabe
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: W Boshoff
+    - 19.6:
+        non_striker: A Dhabe
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: W Boshoff
+    target:
+      overs: 20
+      runs: 170

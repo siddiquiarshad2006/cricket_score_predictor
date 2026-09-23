@@ -1,0 +1,2478 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-05-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Krefeld
+  dates:
+  - '2026-05-03'
+  gender: male
+  match_type: T20
+  match_type_number: 3831
+  outcome:
+    winner: Germany
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - H Singh
+  players:
+    Austria:
+    - Karanbir Singh
+    - Bilal Zalmai
+    - A Randhawa
+    - Aqib Iqbal
+    - Amar Naeem
+    - Baseer Khan
+    - Nageebullah Sultanzai
+    - Irfan Safi
+    - Waqar Zalmai
+    - Umair Tariq
+    - KR Jha
+    Germany:
+    - B Kohler-Cadmore
+    - Musaddiq Ahmed
+    - Shahid Afridi
+    - H Singh
+    - Fayaz Khan
+    - JD Bhatt
+    - Ahmed Wardak
+    - Adil Khan
+    - Ahmad Ullah
+    - CG Campbell
+    - Sachin Mandy
+  registry:
+    people:
+      A Randhawa: 1798078c
+      Adil Khan: b4706200
+      Ahmad Ullah: 8a06bb55
+      Ahmed Wardak: 3daaabaa
+      Amar Naeem: f9dc404a
+      Aqib Iqbal: 14157abf
+      B Kohler-Cadmore: 209e91e6
+      Baseer Khan: 75ebfe19
+      Bilal Zalmai: 33b67317
+      CG Campbell: 62c4b38b
+      Fayaz Khan: 373954ca
+      H Singh: 8209da53
+      Irfan Safi: 6c53ffb2
+      JD Bhatt: 7c668529
+      KR Jha: 9bdb9aa9
+      Karanbir Singh: 6a97c7a4
+      M Jameson: bdf1ffe3
+      Musaddiq Ahmed: f8fb7e7b
+      Nageebullah Sultanzai: dcfad6eb
+      S Gowda: 52f6fb22
+      Sachin Mandy: 501fca0d
+      Shahid Afridi: 5b2acc3f
+      Umair Tariq: 67ec2b09
+      Vinay Malhotra: 452837d1
+      Waqar Zalmai: 74571ec4
+      Zeshan Arif: 6829b373
+  teams:
+  - Austria
+  - Germany
+  toss:
+    winner: Austria
+    decision: bat
+  umpires:
+  - S Gowda
+  - Vinay Malhotra
+  venue: Bayer Uerdingen Cricket Ground
+  team_type: international
+innings:
+- 1st innings:
+    team: Austria
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Bilal Zalmai
+        batsman: Karanbir Singh
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Bilal Zalmai
+        batsman: Karanbir Singh
+    - 0.3:
+        actual_delivery: '0.3'
+        bowler: JD Bhatt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Bilal Zalmai
+        batsman: Karanbir Singh
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: Karanbir Singh
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: Bilal Zalmai
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Karanbir Singh
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: Bilal Zalmai
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karanbir Singh
+        wicket:
+          player_out: Karanbir Singh
+          kind: bowled
+    - 1.1:
+        actual_delivery: '1.1'
+        bowler: CG Campbell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Randhawa
+        batsman: Bilal Zalmai
+    - 1.2:
+        actual_delivery: '1.1'
+        bowler: CG Campbell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Randhawa
+        batsman: Bilal Zalmai
+    - 1.3:
+        actual_delivery: '1.2'
+        non_striker: Bilal Zalmai
+        bowler: CG Campbell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 1.4:
+        actual_delivery: '1.3'
+        non_striker: Bilal Zalmai
+        bowler: CG Campbell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: Bilal Zalmai
+        bowler: CG Campbell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Randhawa
+    - 1.6:
+        actual_delivery: '1.4'
+        non_striker: Bilal Zalmai
+        bowler: CG Campbell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 1.7:
+        actual_delivery: '1.5'
+        non_striker: A Randhawa
+        bowler: CG Campbell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bilal Zalmai
+    - 1.8:
+        actual_delivery: '1.5'
+        non_striker: A Randhawa
+        bowler: CG Campbell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Bilal Zalmai
+    - 1.9:
+        actual_delivery: '1.6'
+        non_striker: A Randhawa
+        bowler: CG Campbell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Bilal Zalmai
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: A Randhawa
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: Bilal Zalmai
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: A Randhawa
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Bilal Zalmai
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: A Randhawa
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: Bilal Zalmai
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Bilal Zalmai
+        bowler: CG Campbell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Randhawa
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Bilal Zalmai
+        bowler: CG Campbell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Randhawa
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: Bilal Zalmai
+        bowler: CG Campbell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Randhawa
+    - 3.4:
+        actual_delivery: '3.3'
+        non_striker: Bilal Zalmai
+        bowler: CG Campbell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Randhawa
+    - 3.5:
+        actual_delivery: '3.3'
+        non_striker: Bilal Zalmai
+        bowler: CG Campbell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 3.6:
+        actual_delivery: '3.4'
+        non_striker: A Randhawa
+        bowler: CG Campbell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 3.7:
+        actual_delivery: '3.5'
+        non_striker: A Randhawa
+        bowler: CG Campbell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 3.8:
+        actual_delivery: '3.6'
+        non_striker: A Randhawa
+        bowler: CG Campbell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bilal Zalmai
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Bilal Zalmai
+        bowler: Adil Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Randhawa
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: A Randhawa
+        bowler: Adil Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Bilal Zalmai
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: A Randhawa
+        bowler: Adil Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Bilal Zalmai
+        bowler: Adil Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: Bilal Zalmai
+        bowler: Adil Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: A Randhawa
+        bowler: Adil Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bilal Zalmai
+    - 4.7:
+        actual_delivery: '4.6'
+        non_striker: A Randhawa
+        bowler: Adil Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bilal Zalmai
+    - 4.8:
+        actual_delivery: '4.6'
+        non_striker: A Randhawa
+        bowler: Adil Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Bilal Zalmai
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Randhawa
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Bilal Zalmai
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Randhawa
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Bilal Zalmai
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: A Randhawa
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bilal Zalmai
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: A Randhawa
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: Bilal Zalmai
+        bowler: Fayaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: Bilal Zalmai
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: A Randhawa
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bilal Zalmai
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: A Randhawa
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: A Randhawa
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bilal Zalmai
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: A Randhawa
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: Bilal Zalmai
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Bilal Zalmai
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: A Randhawa
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: Bilal Zalmai
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: Bilal Zalmai
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: A Randhawa
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: Bilal Zalmai
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: A Randhawa
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bilal Zalmai
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: A Randhawa
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Bilal Zalmai
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: A Randhawa
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Bilal Zalmai
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: A Randhawa
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: A Randhawa
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bilal Zalmai
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: A Randhawa
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bilal Zalmai
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: Bilal Zalmai
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: A Randhawa
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bilal Zalmai
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: A Randhawa
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bilal Zalmai
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: A Randhawa
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bilal Zalmai
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: A Randhawa
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: A Randhawa
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: Aqib Iqbal
+            out: Bilal Zalmai
+            reason: injury
+            role: batter
+        batsman: Aqib Iqbal
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: A Randhawa
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Aqib Iqbal
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: A Randhawa
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: Aqib Iqbal
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: Aqib Iqbal
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Randhawa
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: Aqib Iqbal
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Aqib Iqbal
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Aqib Iqbal
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: A Randhawa
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: A Randhawa
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: Aqib Iqbal
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: A Randhawa
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: A Randhawa
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Aqib Iqbal
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Randhawa
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Aqib Iqbal
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Aqib Iqbal
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Randhawa
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Aqib Iqbal
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Randhawa
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: Aqib Iqbal
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Aqib Iqbal
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+        wicket:
+          player_out: A Randhawa
+          kind: bowled
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Aqib Iqbal
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amar Naeem
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Amar Naeem
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Aqib Iqbal
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amar Naeem
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: Aqib Iqbal
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amar Naeem
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: Amar Naeem
+        bowler: Ahmed Wardak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aqib Iqbal
+    - 13.7:
+        actual_delivery: '13.6'
+        non_striker: Amar Naeem
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Amar Naeem
+        bowler: Adil Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Aqib Iqbal
+        bowler: Adil Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Amar Naeem
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Amar Naeem
+        bowler: Adil Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aqib Iqbal
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: Amar Naeem
+        bowler: Adil Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aqib Iqbal
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: Amar Naeem
+        bowler: Adil Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aqib Iqbal
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Amar Naeem
+        bowler: Adil Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aqib Iqbal
+    - 14.7:
+        actual_delivery: '14.6'
+        non_striker: Amar Naeem
+        bowler: Adil Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Amar Naeem
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: Aqib Iqbal
+        bowler: JD Bhatt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amar Naeem
+    - 15.3:
+        actual_delivery: '15.2'
+        non_striker: Aqib Iqbal
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Naeem
+    - 15.4:
+        actual_delivery: '15.3'
+        non_striker: Aqib Iqbal
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Naeem
+        wicket:
+          player_out: Amar Naeem
+          fielders:
+          - CG Campbell
+          kind: caught
+    - 15.5:
+        actual_delivery: '15.4'
+        non_striker: Aqib Iqbal
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Baseer Khan
+    - 15.6:
+        actual_delivery: '15.5'
+        non_striker: Baseer Khan
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 15.7:
+        actual_delivery: '15.6'
+        non_striker: Aqib Iqbal
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Baseer Khan
+        wicket:
+          player_out: Baseer Khan
+          fielders:
+          - Shahid Afridi
+          kind: caught
+    - 16.1:
+        actual_delivery: '16.1'
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Nageebullah Sultanzai
+        batsman: Aqib Iqbal
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Nageebullah Sultanzai
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+        wicket:
+          player_out: Aqib Iqbal
+          kind: bowled
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: Nageebullah Sultanzai
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Safi
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: Nageebullah Sultanzai
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Irfan Safi
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: Nageebullah Sultanzai
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Safi
+        wicket:
+          player_out: Irfan Safi
+          fielders:
+          - Sachin Mandy
+          kind: caught
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: Nageebullah Sultanzai
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Zalmai
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: Nageebullah Sultanzai
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waqar Zalmai
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: Nageebullah Sultanzai
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waqar Zalmai
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: Nageebullah Sultanzai
+        bowler: JD Bhatt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Waqar Zalmai
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: Waqar Zalmai
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nageebullah Sultanzai
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: Waqar Zalmai
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nageebullah Sultanzai
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: Waqar Zalmai
+        bowler: JD Bhatt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nageebullah Sultanzai
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: Nageebullah Sultanzai
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Zalmai
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: Waqar Zalmai
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nageebullah Sultanzai
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: Nageebullah Sultanzai
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Zalmai
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: Waqar Zalmai
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nageebullah Sultanzai
+        wicket:
+          player_out: Nageebullah Sultanzai
+          fielders:
+          - Fayaz Khan
+          kind: caught
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: Waqar Zalmai
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Tariq
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: Waqar Zalmai
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Tariq
+        wicket:
+          player_out: Umair Tariq
+          fielders:
+          - Fayaz Khan
+          kind: caught
+    - 19.1:
+        actual_delivery: '19.1'
+        bowler: CG Campbell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KR Jha
+        batsman: Waqar Zalmai
+    - 19.2:
+        actual_delivery: '19.2'
+        bowler: CG Campbell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KR Jha
+        batsman: Waqar Zalmai
+    - 19.3:
+        actual_delivery: '19.3'
+        bowler: CG Campbell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: KR Jha
+        batsman: Waqar Zalmai
+        wicket:
+          player_out: Waqar Zalmai
+          fielders:
+          - Sachin Mandy
+          kind: run out
+    - 19.4:
+        actual_delivery: '19.4'
+        bowler: CG Campbell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: KR Jha
+        batsman: Bilal Zalmai
+    - 19.5:
+        actual_delivery: '19.5'
+        bowler: CG Campbell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: KR Jha
+        batsman: Bilal Zalmai
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: KR Jha
+        bowler: CG Campbell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bilal Zalmai
+- 2nd innings:
+    team: Germany
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Musaddiq Ahmed
+        batsman: B Kohler-Cadmore
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Musaddiq Ahmed
+        batsman: B Kohler-Cadmore
+    - 0.3:
+        actual_delivery: '0.3'
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Musaddiq Ahmed
+        batsman: B Kohler-Cadmore
+    - 0.4:
+        actual_delivery: '0.4'
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Musaddiq Ahmed
+        batsman: B Kohler-Cadmore
+    - 0.5:
+        actual_delivery: '0.5'
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Musaddiq Ahmed
+        batsman: B Kohler-Cadmore
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: B Kohler-Cadmore
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musaddiq Ahmed
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Musaddiq Ahmed
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Kohler-Cadmore
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Musaddiq Ahmed
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Kohler-Cadmore
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: Musaddiq Ahmed
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kohler-Cadmore
+        wicket:
+          player_out: B Kohler-Cadmore
+          kind: bowled
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: Musaddiq Ahmed
+        bowler: Umair Tariq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shahid Afridi
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: Musaddiq Ahmed
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+    - 1.6:
+        actual_delivery: '1.5'
+        non_striker: Musaddiq Ahmed
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shahid Afridi
+    - 1.7:
+        actual_delivery: '1.6'
+        non_striker: Musaddiq Ahmed
+        bowler: Umair Tariq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shahid Afridi
+    - 1.8:
+        actual_delivery: '1.6'
+        non_striker: Musaddiq Ahmed
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Shahid Afridi
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Musaddiq Ahmed
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Shahid Afridi
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musaddiq Ahmed
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: Shahid Afridi
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Musaddiq Ahmed
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: Shahid Afridi
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musaddiq Ahmed
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: Shahid Afridi
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musaddiq Ahmed
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: Shahid Afridi
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Musaddiq Ahmed
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Musaddiq Ahmed
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shahid Afridi
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Musaddiq Ahmed
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+        wicket:
+          player_out: Shahid Afridi
+          fielders:
+          - Baseer Khan
+          kind: caught
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: Musaddiq Ahmed
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Singh
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: Musaddiq Ahmed
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: H Singh
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Musaddiq Ahmed
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: H Singh
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Musaddiq Ahmed
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Musaddiq Ahmed
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: H Singh
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musaddiq Ahmed
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: Musaddiq Ahmed
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Musaddiq Ahmed
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: Musaddiq Ahmed
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: Musaddiq Ahmed
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Singh
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: H Singh
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musaddiq Ahmed
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Musaddiq Ahmed
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Singh
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Musaddiq Ahmed
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: H Singh
+        bowler: Baseer Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Musaddiq Ahmed
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: Musaddiq Ahmed
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Singh
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: Musaddiq Ahmed
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: H Singh
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Musaddiq Ahmed
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: H Singh
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Musaddiq Ahmed
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: H Singh
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Musaddiq Ahmed
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: H Singh
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musaddiq Ahmed
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Musaddiq Ahmed
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Singh
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: Musaddiq Ahmed
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Musaddiq Ahmed
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Singh
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: Musaddiq Ahmed
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: H Singh
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musaddiq Ahmed
+        wicket:
+          player_out: Musaddiq Ahmed
+          fielders:
+          - Bilal Zalmai
+          kind: caught
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: H Singh
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fayaz Khan
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: H Singh
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayaz Khan
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: Fayaz Khan
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: Fayaz Khan
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: H Singh
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayaz Khan
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: Fayaz Khan
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Singh
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: Fayaz Khan
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: Fayaz Khan
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: Fayaz Khan
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: Fayaz Khan
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: H Singh
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayaz Khan
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: Fayaz Khan
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Singh
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: Fayaz Khan
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: H Singh
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayaz Khan
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: Fayaz Khan
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Fayaz Khan
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: H Singh
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayaz Khan
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: H Singh
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayaz Khan
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: H Singh
+        bowler: Waqar Zalmai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fayaz Khan
+    - 10.5:
+        actual_delivery: '10.4'
+        non_striker: H Singh
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayaz Khan
+    - 10.6:
+        actual_delivery: '10.5'
+        non_striker: Fayaz Khan
+        bowler: Waqar Zalmai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Singh
+    - 10.7:
+        actual_delivery: '10.5'
+        non_striker: Fayaz Khan
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 10.8:
+        actual_delivery: '10.6'
+        non_striker: H Singh
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayaz Khan
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Fayaz Khan
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Singh
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Fayaz Khan
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: H Singh
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayaz Khan
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: Fayaz Khan
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: H Singh
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayaz Khan
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: Fayaz Khan
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: H Singh
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fayaz Khan
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: H Singh
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayaz Khan
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Fayaz Khan
+        bowler: Waqar Zalmai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Singh
+    - 12.4:
+        actual_delivery: '12.3'
+        non_striker: Fayaz Khan
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 12.5:
+        actual_delivery: '12.4'
+        non_striker: H Singh
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fayaz Khan
+    - 12.6:
+        actual_delivery: '12.5'
+        non_striker: H Singh
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayaz Khan
+    - 12.7:
+        actual_delivery: '12.6'
+        non_striker: Fayaz Khan
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Singh
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: H Singh
+        bowler: Umair Tariq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fayaz Khan
+    - 13.2:
+        actual_delivery: '13.1'
+        non_striker: H Singh
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayaz Khan
+    - 13.3:
+        actual_delivery: '13.2'
+        non_striker: Fayaz Khan
+        bowler: Umair Tariq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Singh
+    - 13.4:
+        actual_delivery: '13.2'
+        non_striker: Fayaz Khan
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 13.5:
+        actual_delivery: '13.3'
+        non_striker: H Singh
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fayaz Khan
+    - 13.6:
+        actual_delivery: '13.4'
+        non_striker: H Singh
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayaz Khan
+        wicket:
+          player_out: Fayaz Khan
+          fielders:
+          - Bilal Zalmai
+          kind: caught
+    - 13.7:
+        actual_delivery: '13.5'
+        non_striker: H Singh
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Bhatt
+    - 13.8:
+        actual_delivery: '13.6'
+        non_striker: H Singh
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Bhatt
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: H Singh
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Bhatt
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: JD Bhatt
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: H Singh
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Bhatt
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: H Singh
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JD Bhatt
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: H Singh
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Bhatt
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: JD Bhatt
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Singh
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: H Singh
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Bhatt
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: H Singh
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JD Bhatt
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: H Singh
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Bhatt
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: JD Bhatt
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Singh
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: JD Bhatt
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Singh
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: JD Bhatt
+        bowler: Umair Tariq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Singh
+    - 15.7:
+        actual_delivery: '15.6'
+        non_striker: JD Bhatt
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Singh
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: H Singh
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Bhatt
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: H Singh
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Bhatt
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: H Singh
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Bhatt
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: H Singh
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Bhatt
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: JD Bhatt
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Singh
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: JD Bhatt
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Singh
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: H Singh
+        bowler: KR Jha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Bhatt
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: H Singh
+        bowler: KR Jha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Bhatt
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: JD Bhatt
+        bowler: KR Jha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Singh
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: H Singh
+        bowler: KR Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Bhatt
+        wicket:
+          player_out: JD Bhatt
+          fielders:
+          - Zeshan Arif (sub)
+          kind: caught
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: H Singh
+        bowler: KR Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Wardak
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: H Singh
+        bowler: KR Jha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Wardak
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: H Singh
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Wardak
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: H Singh
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Wardak
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: H Singh
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Wardak
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: Ahmed Wardak
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Singh
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: Ahmed Wardak
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Singh
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: Ahmed Wardak
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Singh
+    target:
+      overs: 20
+      runs: 214

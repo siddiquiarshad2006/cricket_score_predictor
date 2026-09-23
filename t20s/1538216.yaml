@@ -1,0 +1,2453 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Malkerns
+  dates:
+  - '2026-06-06'
+  gender: male
+  match_type: T20
+  match_type_number: 3937
+  outcome:
+    winner: Eswatini
+    by:
+      wickets: 3
+  overs: 20
+  player_of_match:
+  - Adil Butt
+  players:
+    Mozambique:
+    - JJ Huo
+    - LI Salomone
+    - CB Roposo
+    - FFZ Nhaduate
+    - J Bulele
+    - VE Tembo
+    - JM Joao
+    - AA Navicha
+    - MA Algi
+    - N Ndzeute
+    - CM Mbebe
+    Eswatini:
+    - Adil Butt
+    - Muhammad Farooq
+    - Sufyan Naseeb
+    - T Sandeep
+    - Umair Qasim
+    - M Khojbariya
+    - Mohammed Alamgir
+    - Saqib Anwar
+    - S Kubheka
+    - Faizalmahmed Patel
+    - M Jele
+  registry:
+    people:
+      AA Navicha: 5c805a60
+      Adil Butt: fde53ec1
+      CB Roposo: 31f01815
+      CM Mbebe: e7db2a56
+      FFZ Nhaduate: a82e0db7
+      Faizalmahmed Patel: f3e4494a
+      J Bulele: 2dde3e62
+      JJ Huo: d816fc1c
+      JM Joao: 2ef6c852
+      LI Salomone: a7b67d5d
+      M Jele: 1a8cedc8
+      M Khojbariya: e1631e47
+      MA Algi: 17f507e7
+      Mohammed Alamgir: e0f12392
+      Muhammad Farooq: 81416a78
+      N Ndzeute: 63b1093f
+      S Kubheka: d0178c53
+      Saqib Anwar: 3847f098
+      Sufyan Naseeb: 505c2a60
+      T Sandeep: b794a78d
+      Umair Qasim: e086735b
+      VE Tembo: 1439a13c
+  teams:
+  - Mozambique
+  - Eswatini
+  toss:
+    winner: Mozambique
+    decision: bat
+  venue: Malkerns Country Club oval
+  team_type: international
+innings:
+- 1st innings:
+    team: Mozambique
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: LI Salomone
+        batsman: JJ Huo
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LI Salomone
+        batsman: JJ Huo
+    - 0.3:
+        actual_delivery: '0.3'
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LI Salomone
+        batsman: JJ Huo
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: JJ Huo
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LI Salomone
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: JJ Huo
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LI Salomone
+        wicket:
+          player_out: LI Salomone
+          fielders:
+          - Sufyan Naseeb
+          kind: caught
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: JJ Huo
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Roposo
+        wicket:
+          player_out: CB Roposo
+          kind: caught and bowled
+    - 1.1:
+        actual_delivery: '1.1'
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: FFZ Nhaduate
+        batsman: JJ Huo
+    - 1.2:
+        actual_delivery: '1.2'
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: FFZ Nhaduate
+        batsman: JJ Huo
+    - 1.3:
+        actual_delivery: '1.3'
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: FFZ Nhaduate
+        batsman: JJ Huo
+    - 1.4:
+        actual_delivery: '1.4'
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: FFZ Nhaduate
+        batsman: JJ Huo
+    - 1.5:
+        actual_delivery: '1.5'
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: FFZ Nhaduate
+        batsman: JJ Huo
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: FFZ Nhaduate
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: JJ Huo
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FFZ Nhaduate
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: JJ Huo
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FFZ Nhaduate
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: JJ Huo
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FFZ Nhaduate
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: JJ Huo
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FFZ Nhaduate
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: JJ Huo
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FFZ Nhaduate
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: JJ Huo
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FFZ Nhaduate
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: FFZ Nhaduate
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Huo
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: FFZ Nhaduate
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Huo
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: FFZ Nhaduate
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Huo
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: FFZ Nhaduate
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Huo
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: FFZ Nhaduate
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: FFZ Nhaduate
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Huo
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: JJ Huo
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FFZ Nhaduate
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: JJ Huo
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FFZ Nhaduate
+        wicket:
+          player_out: FFZ Nhaduate
+          fielders:
+          - M Jele
+          kind: caught
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: JJ Huo
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: JJ Huo
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: JJ Huo
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: JJ Huo
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bulele
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: JJ Huo
+        bowler: Umair Qasim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Bulele
+    - 5.2:
+        actual_delivery: '5.1'
+        non_striker: JJ Huo
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 5.3:
+        actual_delivery: '5.2'
+        non_striker: JJ Huo
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 5.4:
+        actual_delivery: '5.3'
+        non_striker: JJ Huo
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 5.5:
+        actual_delivery: '5.4'
+        non_striker: JJ Huo
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 5.6:
+        actual_delivery: '5.5'
+        non_striker: JJ Huo
+        bowler: Umair Qasim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: J Bulele
+    - 5.7:
+        actual_delivery: '5.5'
+        non_striker: JJ Huo
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bulele
+    - 5.8:
+        actual_delivery: '5.6'
+        non_striker: J Bulele
+        bowler: Umair Qasim
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: JJ Huo
+    - 5.9:
+        actual_delivery: '5.6'
+        non_striker: J Bulele
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Huo
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: JJ Huo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: JJ Huo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: JJ Huo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bulele
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: J Bulele
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: J Bulele
+        bowler: M Khojbariya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: JJ Huo
+    - 6.6:
+        actual_delivery: '6.5'
+        non_striker: J Bulele
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Huo
+    - 6.7:
+        actual_delivery: '6.6'
+        non_striker: J Bulele
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: JJ Huo
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: JJ Huo
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: JJ Huo
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: JJ Huo
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: JJ Huo
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bulele
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: J Bulele
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Huo
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: J Bulele
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Huo
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: JJ Huo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Bulele
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: JJ Huo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Bulele
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: JJ Huo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: JJ Huo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: JJ Huo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: J Bulele
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: J Bulele
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Huo
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: J Bulele
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Huo
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: JJ Huo
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bulele
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: J Bulele
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: J Bulele
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Huo
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: J Bulele
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Huo
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: J Bulele
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Huo
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: J Bulele
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+        wicket:
+          player_out: JJ Huo
+          fielders:
+          - Sufyan Naseeb
+          kind: caught
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: J Bulele
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VE Tembo
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: J Bulele
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VE Tembo
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: J Bulele
+        bowler: M Khojbariya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VE Tembo
+    - 10.7:
+        actual_delivery: '10.6'
+        non_striker: J Bulele
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VE Tembo
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: VE Tembo
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: VE Tembo
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bulele
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: J Bulele
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VE Tembo
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: J Bulele
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VE Tembo
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: J Bulele
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VE Tembo
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: J Bulele
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VE Tembo
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: VE Tembo
+        bowler: Faizalmahmed Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Bulele
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: VE Tembo
+        bowler: Faizalmahmed Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Bulele
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: VE Tembo
+        bowler: Faizalmahmed Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Bulele
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: VE Tembo
+        bowler: Faizalmahmed Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: VE Tembo
+        bowler: Faizalmahmed Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bulele
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: J Bulele
+        bowler: Faizalmahmed Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VE Tembo
+    - 12.7:
+        actual_delivery: '12.6'
+        non_striker: J Bulele
+        bowler: Faizalmahmed Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VE Tembo
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: VE Tembo
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: VE Tembo
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bulele
+        wicket:
+          player_out: J Bulele
+          fielders:
+          - T Sandeep
+          kind: caught
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: VE Tembo
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: VE Tembo
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Joao
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: VE Tembo
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: VE Tembo
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: JM Joao
+        bowler: Umair Qasim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: VE Tembo
+    - 14.2:
+        actual_delivery: '14.1'
+        non_striker: JM Joao
+        bowler: Umair Qasim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VE Tembo
+    - 14.3:
+        actual_delivery: '14.1'
+        non_striker: JM Joao
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VE Tembo
+    - 14.4:
+        actual_delivery: '14.2'
+        non_striker: VE Tembo
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Joao
+    - 14.5:
+        actual_delivery: '14.3'
+        non_striker: VE Tembo
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Joao
+    - 14.6:
+        actual_delivery: '14.4'
+        non_striker: JM Joao
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VE Tembo
+    - 14.7:
+        actual_delivery: '14.5'
+        non_striker: JM Joao
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VE Tembo
+    - 14.8:
+        actual_delivery: '14.6'
+        non_striker: JM Joao
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VE Tembo
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: VE Tembo
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: VE Tembo
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: VE Tembo
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: VE Tembo
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Joao
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: VE Tembo
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: VE Tembo
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Joao
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: JM Joao
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VE Tembo
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: JM Joao
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VE Tembo
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: JM Joao
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VE Tembo
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: VE Tembo
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+        wicket:
+          player_out: JM Joao
+          kind: caught and bowled
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: VE Tembo
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AA Navicha
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: AA Navicha
+        bowler: Umair Qasim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: VE Tembo
+    - 16.7:
+        actual_delivery: '16.6'
+        non_striker: AA Navicha
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VE Tembo
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: VE Tembo
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AA Navicha
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: VE Tembo
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AA Navicha
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: VE Tembo
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Navicha
+        wicket:
+          player_out: AA Navicha
+          fielders:
+          - Saqib Anwar
+          kind: caught
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: VE Tembo
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Algi
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: VE Tembo
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Algi
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: VE Tembo
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Algi
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: MA Algi
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VE Tembo
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: MA Algi
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VE Tembo
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: MA Algi
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VE Tembo
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: MA Algi
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VE Tembo
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: MA Algi
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VE Tembo
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: MA Algi
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VE Tembo
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: MA Algi
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VE Tembo
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: MA Algi
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VE Tembo
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: MA Algi
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VE Tembo
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: MA Algi
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VE Tembo
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: MA Algi
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VE Tembo
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: MA Algi
+        bowler: M Jele
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: VE Tembo
+- 2nd innings:
+    team: Eswatini
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Farooq
+        batsman: Adil Butt
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Farooq
+        batsman: Adil Butt
+    - 0.3:
+        actual_delivery: '0.3'
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Muhammad Farooq
+        batsman: Adil Butt
+    - 0.4:
+        actual_delivery: '0.4'
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Farooq
+        batsman: Adil Butt
+    - 0.5:
+        actual_delivery: '0.5'
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Muhammad Farooq
+        batsman: Adil Butt
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: Muhammad Farooq
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adil Butt
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Muhammad Farooq
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Adil Butt
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Muhammad Farooq
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Adil Butt
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: Muhammad Farooq
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: Muhammad Farooq
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Adil Butt
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: Muhammad Farooq
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Adil Butt
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: Muhammad Farooq
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Adil Butt
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Adil Butt
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Farooq
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Adil Butt
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Farooq
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: Adil Butt
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Farooq
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: Adil Butt
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Farooq
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: Adil Butt
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Farooq
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: Adil Butt
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Farooq
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Muhammad Farooq
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adil Butt
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Adil Butt
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Farooq
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: Adil Butt
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Farooq
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: Adil Butt
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Farooq
+        wicket:
+          player_out: Muhammad Farooq
+          fielders:
+          - AA Navicha
+          kind: caught
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: Adil Butt
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Naseeb
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: Adil Butt
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Naseeb
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Sufyan Naseeb
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adil Butt
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: Adil Butt
+        bowler: CM Mbebe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sufyan Naseeb
+    - 4.3:
+        actual_delivery: '4.2'
+        non_striker: Adil Butt
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Naseeb
+    - 4.4:
+        actual_delivery: '4.3'
+        non_striker: Adil Butt
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Naseeb
+    - 4.5:
+        actual_delivery: '4.4'
+        non_striker: Sufyan Naseeb
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+    - 4.6:
+        actual_delivery: '4.5'
+        non_striker: Sufyan Naseeb
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+    - 4.7:
+        actual_delivery: '4.6'
+        non_striker: Sufyan Naseeb
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Adil Butt
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Naseeb
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Sufyan Naseeb
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Sufyan Naseeb
+        bowler: CB Roposo
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Adil Butt
+    - 5.4:
+        actual_delivery: '5.3'
+        non_striker: Sufyan Naseeb
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Adil Butt
+    - 5.5:
+        actual_delivery: '5.4'
+        non_striker: Sufyan Naseeb
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Adil Butt
+    - 5.6:
+        actual_delivery: '5.5'
+        non_striker: Sufyan Naseeb
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+    - 5.7:
+        actual_delivery: '5.6'
+        non_striker: Sufyan Naseeb
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adil Butt
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: Sufyan Naseeb
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: Sufyan Naseeb
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adil Butt
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: Adil Butt
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Naseeb
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Adil Butt
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Naseeb
+        wicket:
+          player_out: Sufyan Naseeb
+          fielders:
+          - JJ Huo
+          kind: caught
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Adil Butt
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: T Sandeep
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Adil Butt
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Adil Butt
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: T Sandeep
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: T Sandeep
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adil Butt
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: Adil Butt
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Sandeep
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: Adil Butt
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: T Sandeep
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Adil Butt
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: Adil Butt
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Sandeep
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: Adil Butt
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: T Sandeep
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+        wicket:
+          player_out: Adil Butt
+          fielders:
+          - CB Roposo
+          kind: caught
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: T Sandeep
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: T Sandeep
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: T Sandeep
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: Umair Qasim
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: T Sandeep
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Qasim
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: Umair Qasim
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: T Sandeep
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Umair Qasim
+    - 9.5:
+        actual_delivery: '9.4'
+        non_striker: T Sandeep
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 9.6:
+        actual_delivery: '9.5'
+        non_striker: T Sandeep
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 9.7:
+        actual_delivery: '9.6'
+        non_striker: T Sandeep
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Umair Qasim
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: T Sandeep
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Umair Qasim
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: T Sandeep
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: T Sandeep
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: T Sandeep
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Qasim
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: Umair Qasim
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sandeep
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Umair Qasim
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sandeep
+        wicket:
+          player_out: T Sandeep
+          fielders:
+          - VE Tembo
+          kind: caught
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Umair Qasim
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Khojbariya
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: M Khojbariya
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Umair Qasim
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: M Khojbariya
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Umair Qasim
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: M Khojbariya
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Umair Qasim
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: M Khojbariya
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: Umair Qasim
+        bowler: AA Navicha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Khojbariya
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Umair Qasim
+        bowler: AA Navicha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Khojbariya
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Umair Qasim
+        bowler: AA Navicha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Khojbariya
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: M Khojbariya
+        bowler: AA Navicha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Qasim
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Umair Qasim
+        bowler: AA Navicha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Khojbariya
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: M Khojbariya
+        bowler: AA Navicha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Qasim
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: M Khojbariya
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Umair Qasim
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: M Khojbariya
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Qasim
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Umair Qasim
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Khojbariya
+        wicket:
+          player_out: M Khojbariya
+          fielders:
+          - J Bulele
+          kind: caught
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Umair Qasim
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Alamgir
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: Mohammed Alamgir
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Qasim
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: Umair Qasim
+        bowler: FFZ Nhaduate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Mohammed Alamgir
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Qasim
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Umair Qasim
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammed Alamgir
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Umair Qasim
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: Umair Qasim
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: Umair Qasim
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammed Alamgir
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Umair Qasim
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Mohammed Alamgir
+        bowler: AA Navicha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Umair Qasim
+    - 15.2:
+        actual_delivery: '15.1'
+        non_striker: Mohammed Alamgir
+        bowler: AA Navicha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Umair Qasim
+    - 15.3:
+        actual_delivery: '15.1'
+        non_striker: Mohammed Alamgir
+        bowler: AA Navicha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Umair Qasim
+    - 15.4:
+        actual_delivery: '15.2'
+        non_striker: Mohammed Alamgir
+        bowler: AA Navicha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 15.5:
+        actual_delivery: '15.3'
+        non_striker: Mohammed Alamgir
+        bowler: AA Navicha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Umair Qasim
+    - 15.6:
+        actual_delivery: '15.4'
+        non_striker: Mohammed Alamgir
+        bowler: AA Navicha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 15.7:
+        actual_delivery: '15.5'
+        non_striker: Mohammed Alamgir
+        bowler: AA Navicha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 15.8:
+        actual_delivery: '15.6'
+        non_striker: Mohammed Alamgir
+        bowler: AA Navicha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Umair Qasim
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: Umair Qasim
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Umair Qasim
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammed Alamgir
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: Umair Qasim
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammed Alamgir
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: Umair Qasim
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: Umair Qasim
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: Umair Qasim
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Alamgir
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: Umair Qasim
+        bowler: AA Navicha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+        wicket:
+          player_out: Mohammed Alamgir
+          fielders:
+          - FFZ Nhaduate
+          kind: caught
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: Umair Qasim
+        bowler: AA Navicha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saqib Anwar
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: Umair Qasim
+        bowler: AA Navicha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Anwar
+        wicket:
+          player_out: Saqib Anwar
+          fielders:
+          - CB Roposo
+          kind: caught
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: Umair Qasim
+        bowler: AA Navicha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kubheka
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: S Kubheka
+        bowler: AA Navicha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Qasim
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: Umair Qasim
+        bowler: AA Navicha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kubheka
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: S Kubheka
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: S Kubheka
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: S Kubheka
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Umair Qasim
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: S Kubheka
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Umair Qasim
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: Umair Qasim
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kubheka
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: Umair Qasim
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Kubheka
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: S Kubheka
+        bowler: AA Navicha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: S Kubheka
+        bowler: AA Navicha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Qasim
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: Umair Qasim
+        bowler: AA Navicha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kubheka
+    - 19.4:
+        actual_delivery: '19.3'
+        non_striker: Umair Qasim
+        bowler: AA Navicha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kubheka
+    target:
+      overs: 20
+      runs: 191

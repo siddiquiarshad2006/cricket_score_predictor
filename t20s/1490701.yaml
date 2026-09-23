@@ -1,0 +1,2433 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Manchester
+  dates:
+  - '2026-06-26'
+  gender: female
+  match_type: T20
+  match_type_number: 2891
+  outcome:
+    winner: Sri Lanka
+    by:
+      wickets: 3
+  overs: 20
+  player_of_match:
+  - NND de Silva
+  players:
+    Scotland:
+    - DEM Carter
+    - K Fraser
+    - KE Bryce
+    - SJ Bryce
+    - A Lister
+    - PA Chatterji
+    - PN Sproul
+    - M McColl
+    - R Slater
+    - KL Gordon
+    - G Fontenla
+    Sri Lanka:
+    - AC Jayangani
+    - I Dulani
+    - GWHM Perera
+    - H Madavi
+    - H Karunaratne
+    - WK Dilhari
+    - NND de Silva
+    - EMKNH Senavirathna
+    - BMSM Kumari
+    - NM Meepage
+    - M Ayodhya
+  registry:
+    people:
+      A Lister: '090c0213'
+      AC Jayangani: ac56b5a7
+      AY Harris: 90d95b82
+      BMSM Kumari: b55fb828
+      C La Borde: 32157f67
+      DEM Carter: c3394c16
+      EMKNH Senavirathna: ec691a5b
+      Eloise Sheridan: d8d43840
+      G Fontenla: 581eec7e
+      GWHM Perera: 53068b45
+      H Karunaratne: f8e27d4a
+      H Madavi: 85021bcd
+      I Dulani: a2c23f31
+      K Fraser: a0a65375
+      KE Bryce: f13d3eba
+      KL Gordon: '00823a96'
+      Kim Cotton: 67a7c2ee
+      M Ayodhya: 843e067e
+      M McColl: d5fa2ab3
+      NM Meepage: 420d4d31
+      NND de Silva: f0b4294e
+      PA Chatterji: 8e7be59c
+      PN Sproul: 789fe152
+      R Slater: 8a452195
+      SJ Bryce: 2ca65aee
+      TL Anderson: f52ddf8d
+      WK Dilhari: c34a15e6
+  team_type: international
+  teams:
+  - Scotland
+  - Sri Lanka
+  toss:
+    winner: Sri Lanka
+    decision: field
+  umpires:
+  - AY Harris
+  - C La Borde
+  venue: Old Trafford, Manchester
+innings:
+- 1st innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        non_striker: K Fraser
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.1'
+        batsman: DEM Carter
+    - 0.2:
+        non_striker: DEM Carter
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.2'
+        batsman: K Fraser
+    - 0.3:
+        non_striker: K Fraser
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: DEM Carter
+    - 0.4:
+        non_striker: K Fraser
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: DEM Carter
+    - 0.5:
+        non_striker: K Fraser
+        bowler: M Ayodhya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.5'
+        batsman: DEM Carter
+    - 0.6:
+        non_striker: K Fraser
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.5'
+        batsman: DEM Carter
+    - 0.7:
+        non_striker: K Fraser
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: DEM Carter
+    - 1.1:
+        non_striker: DEM Carter
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: K Fraser
+    - 1.2:
+        non_striker: K Fraser
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: DEM Carter
+    - 1.3:
+        non_striker: K Fraser
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: DEM Carter
+    - 1.4:
+        non_striker: K Fraser
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: DEM Carter
+    - 1.5:
+        non_striker: DEM Carter
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: K Fraser
+    - 1.6:
+        non_striker: DEM Carter
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.6'
+        batsman: K Fraser
+    - 2.1:
+        non_striker: K Fraser
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: DEM Carter
+    - 2.2:
+        non_striker: K Fraser
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.2'
+        batsman: DEM Carter
+    - 2.3:
+        non_striker: K Fraser
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: DEM Carter
+    - 2.4:
+        non_striker: K Fraser
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: DEM Carter
+    - 2.5:
+        non_striker: K Fraser
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: DEM Carter
+    - 2.6:
+        non_striker: K Fraser
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: DEM Carter
+    - 3.1:
+        non_striker: DEM Carter
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: K Fraser
+    - 3.2:
+        non_striker: DEM Carter
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: K Fraser
+    - 3.3:
+        non_striker: K Fraser
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: DEM Carter
+    - 3.4:
+        non_striker: K Fraser
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: DEM Carter
+    - 3.5:
+        non_striker: DEM Carter
+        bowler: NM Meepage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.5'
+        batsman: K Fraser
+    - 3.6:
+        non_striker: DEM Carter
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: K Fraser
+    - 3.7:
+        non_striker: K Fraser
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: DEM Carter
+    - 4.1:
+        non_striker: DEM Carter
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.1'
+        batsman: K Fraser
+    - 4.2:
+        non_striker: DEM Carter
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: K Fraser
+        wicket:
+          player_out: K Fraser
+          fielders:
+          - NND de Silva
+          kind: caught
+    - 4.3:
+        non_striker: DEM Carter
+        bowler: M Ayodhya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.3'
+        batsman: KE Bryce
+    - 4.4:
+        non_striker: DEM Carter
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: KE Bryce
+    - 4.5:
+        non_striker: DEM Carter
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: KE Bryce
+    - 4.6:
+        non_striker: DEM Carter
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: KE Bryce
+    - 4.7:
+        non_striker: DEM Carter
+        bowler: M Ayodhya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.6'
+        batsman: KE Bryce
+    - 4.8:
+        non_striker: DEM Carter
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.6'
+        batsman: KE Bryce
+    - 5.1:
+        non_striker: KE Bryce
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: DEM Carter
+    - 5.2:
+        non_striker: DEM Carter
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: KE Bryce
+    - 5.3:
+        non_striker: DEM Carter
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.3'
+        batsman: KE Bryce
+    - 5.4:
+        non_striker: DEM Carter
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: KE Bryce
+    - 5.5:
+        non_striker: DEM Carter
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: KE Bryce
+    - 5.6:
+        non_striker: DEM Carter
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: KE Bryce
+    - 6.1:
+        non_striker: DEM Carter
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: KE Bryce
+    - 6.2:
+        non_striker: KE Bryce
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: DEM Carter
+    - 6.3:
+        non_striker: DEM Carter
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: KE Bryce
+    - 6.4:
+        non_striker: KE Bryce
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: DEM Carter
+    - 6.5:
+        non_striker: DEM Carter
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: KE Bryce
+    - 6.6:
+        non_striker: KE Bryce
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: DEM Carter
+    - 7.1:
+        non_striker: KE Bryce
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: DEM Carter
+    - 7.2:
+        non_striker: KE Bryce
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: DEM Carter
+    - 7.3:
+        non_striker: DEM Carter
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: KE Bryce
+    - 7.4:
+        non_striker: DEM Carter
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: KE Bryce
+    - 7.5:
+        non_striker: KE Bryce
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: DEM Carter
+    - 7.6:
+        non_striker: DEM Carter
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: KE Bryce
+    - 8.1:
+        non_striker: KE Bryce
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: DEM Carter
+    - 8.2:
+        non_striker: DEM Carter
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: KE Bryce
+    - 8.3:
+        non_striker: DEM Carter
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.3'
+        batsman: KE Bryce
+    - 8.4:
+        non_striker: DEM Carter
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.4'
+        batsman: KE Bryce
+    - 8.5:
+        non_striker: DEM Carter
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: KE Bryce
+    - 8.6:
+        non_striker: DEM Carter
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: KE Bryce
+    - 9.1:
+        non_striker: KE Bryce
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: DEM Carter
+    - 9.2:
+        non_striker: KE Bryce
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: DEM Carter
+    - 9.3:
+        non_striker: DEM Carter
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: KE Bryce
+    - 9.4:
+        non_striker: DEM Carter
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: KE Bryce
+    - 9.5:
+        non_striker: DEM Carter
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: KE Bryce
+        wicket:
+          player_out: KE Bryce
+          kind: caught and bowled
+    - 9.6:
+        non_striker: DEM Carter
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: SJ Bryce
+    - 10.1:
+        non_striker: DEM Carter
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: SJ Bryce
+    - 10.2:
+        non_striker: SJ Bryce
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: DEM Carter
+    - 10.3:
+        non_striker: SJ Bryce
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: DEM Carter
+    - 10.4:
+        non_striker: DEM Carter
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: SJ Bryce
+    - 10.5:
+        non_striker: SJ Bryce
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: DEM Carter
+    - 10.6:
+        non_striker: SJ Bryce
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.6'
+        batsman: DEM Carter
+    - 11.1:
+        non_striker: DEM Carter
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: SJ Bryce
+    - 11.2:
+        non_striker: DEM Carter
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: SJ Bryce
+    - 11.3:
+        non_striker: SJ Bryce
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: DEM Carter
+    - 11.4:
+        non_striker: DEM Carter
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: SJ Bryce
+    - 11.5:
+        non_striker: SJ Bryce
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: DEM Carter
+    - 11.6:
+        non_striker: SJ Bryce
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: DEM Carter
+    - 12.1:
+        non_striker: DEM Carter
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: SJ Bryce
+    - 12.2:
+        non_striker: SJ Bryce
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: DEM Carter
+    - 12.3:
+        non_striker: DEM Carter
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: SJ Bryce
+    - 12.4:
+        non_striker: DEM Carter
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.4'
+        batsman: SJ Bryce
+    - 12.5:
+        non_striker: DEM Carter
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: SJ Bryce
+    - 12.6:
+        non_striker: DEM Carter
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: SJ Bryce
+    - 13.1:
+        non_striker: DEM Carter
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: SJ Bryce
+    - 13.2:
+        non_striker: DEM Carter
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: SJ Bryce
+    - 13.3:
+        non_striker: SJ Bryce
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: DEM Carter
+        wicket:
+          player_out: DEM Carter
+          fielders:
+          - EMKNH Senavirathna
+          kind: caught
+    - 13.4:
+        non_striker: SJ Bryce
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: A Lister
+    - 13.5:
+        non_striker: A Lister
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: SJ Bryce
+    - 13.6:
+        non_striker: SJ Bryce
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: A Lister
+    - 14.1:
+        non_striker: SJ Bryce
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: A Lister
+    - 14.2:
+        non_striker: A Lister
+        bowler: AC Jayangani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.2'
+        batsman: SJ Bryce
+    - 14.3:
+        non_striker: A Lister
+        bowler: AC Jayangani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.2'
+        batsman: SJ Bryce
+    - 14.4:
+        non_striker: A Lister
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: SJ Bryce
+    - 14.5:
+        non_striker: SJ Bryce
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: A Lister
+    - 14.6:
+        non_striker: A Lister
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: SJ Bryce
+    - 14.7:
+        non_striker: SJ Bryce
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.5'
+        batsman: A Lister
+    - 14.8:
+        non_striker: SJ Bryce
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.6'
+        batsman: A Lister
+    - 15.1:
+        non_striker: A Lister
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.1'
+        batsman: SJ Bryce
+    - 15.2:
+        non_striker: A Lister
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: SJ Bryce
+    - 15.3:
+        non_striker: SJ Bryce
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: A Lister
+    - 15.4:
+        non_striker: SJ Bryce
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: A Lister
+    - 15.5:
+        non_striker: A Lister
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: SJ Bryce
+    - 15.6:
+        non_striker: SJ Bryce
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.6'
+        batsman: A Lister
+    - 16.1:
+        non_striker: A Lister
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: SJ Bryce
+    - 16.2:
+        non_striker: A Lister
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: SJ Bryce
+    - 16.3:
+        non_striker: SJ Bryce
+        bowler: NND de Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '16.3'
+        batsman: A Lister
+    - 16.4:
+        non_striker: A Lister
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: SJ Bryce
+    - 16.5:
+        non_striker: SJ Bryce
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: A Lister
+    - 16.6:
+        non_striker: A Lister
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: SJ Bryce
+    - 17.1:
+        non_striker: A Lister
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: SJ Bryce
+    - 17.2:
+        non_striker: SJ Bryce
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.2'
+        batsman: A Lister
+    - 17.3:
+        non_striker: SJ Bryce
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: A Lister
+    - 17.4:
+        non_striker: SJ Bryce
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: A Lister
+    - 17.5:
+        non_striker: A Lister
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.5'
+        batsman: SJ Bryce
+    - 17.6:
+        non_striker: A Lister
+        bowler: NM Meepage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.6'
+        batsman: SJ Bryce
+    - 18.1:
+        non_striker: SJ Bryce
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: A Lister
+    - 18.2:
+        non_striker: A Lister
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.2'
+        batsman: SJ Bryce
+    - 18.3:
+        non_striker: A Lister
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: SJ Bryce
+    - 18.4:
+        non_striker: SJ Bryce
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.4'
+        batsman: A Lister
+    - 18.5:
+        non_striker: SJ Bryce
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: A Lister
+        wicket:
+          player_out: A Lister
+          fielders:
+          - NND de Silva
+          kind: run out
+    - 18.6:
+        non_striker: PA Chatterji
+        bowler: NND de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: SJ Bryce
+        wicket:
+          player_out: PA Chatterji
+          fielders:
+          - H Madavi
+          - EMKNH Senavirathna
+          kind: run out
+    - 19.1:
+        non_striker: PN Sproul
+        bowler: M Ayodhya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.1'
+        batsman: SJ Bryce
+    - 19.2:
+        non_striker: PN Sproul
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.1'
+        batsman: SJ Bryce
+    - 19.3:
+        non_striker: PN Sproul
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.2'
+        batsman: SJ Bryce
+    - 19.4:
+        non_striker: PN Sproul
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.3'
+        batsman: SJ Bryce
+    - 19.5:
+        non_striker: SJ Bryce
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: PN Sproul
+        wicket:
+          player_out: PN Sproul
+          kind: bowled
+    - 19.6:
+        non_striker: SJ Bryce
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.5'
+        batsman: M McColl
+    - 19.7:
+        non_striker: M McColl
+        bowler: M Ayodhya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.6'
+        batsman: SJ Bryce
+- 2nd innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: I Dulani
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: AC Jayangani
+    - 0.2:
+        non_striker: I Dulani
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: AC Jayangani
+    - 0.3:
+        non_striker: I Dulani
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.3'
+        batsman: AC Jayangani
+    - 0.4:
+        non_striker: I Dulani
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: AC Jayangani
+    - 0.5:
+        non_striker: I Dulani
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.5'
+        batsman: AC Jayangani
+    - 0.6:
+        non_striker: I Dulani
+        bowler: KE Bryce
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '0.6'
+        batsman: AC Jayangani
+    - 0.7:
+        non_striker: AC Jayangani
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: I Dulani
+    - 1.1:
+        non_striker: I Dulani
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: AC Jayangani
+    - 1.2:
+        non_striker: I Dulani
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: AC Jayangani
+    - 1.3:
+        non_striker: I Dulani
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: AC Jayangani
+    - 1.4:
+        non_striker: I Dulani
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.4'
+        batsman: AC Jayangani
+    - 1.5:
+        non_striker: I Dulani
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.5'
+        batsman: AC Jayangani
+    - 1.6:
+        non_striker: I Dulani
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.6'
+        batsman: AC Jayangani
+    - 2.1:
+        non_striker: AC Jayangani
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: I Dulani
+    - 2.2:
+        non_striker: AC Jayangani
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: I Dulani
+    - 2.3:
+        non_striker: AC Jayangani
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: I Dulani
+    - 2.4:
+        non_striker: AC Jayangani
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.4'
+        batsman: I Dulani
+    - 2.5:
+        non_striker: AC Jayangani
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: I Dulani
+        wicket:
+          player_out: I Dulani
+          fielders:
+          - G Fontenla
+          kind: caught
+    - 2.6:
+        non_striker: AC Jayangani
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: GWHM Perera
+    - 3.1:
+        non_striker: AC Jayangani
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: GWHM Perera
+    - 3.2:
+        non_striker: AC Jayangani
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: GWHM Perera
+    - 3.3:
+        non_striker: AC Jayangani
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.3'
+        batsman: GWHM Perera
+    - 3.4:
+        non_striker: AC Jayangani
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.4'
+        batsman: GWHM Perera
+    - 3.5:
+        non_striker: AC Jayangani
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.5'
+        batsman: GWHM Perera
+    - 3.6:
+        non_striker: AC Jayangani
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: GWHM Perera
+    - 4.1:
+        non_striker: GWHM Perera
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: AC Jayangani
+    - 4.2:
+        non_striker: GWHM Perera
+        bowler: R Slater
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.2'
+        batsman: AC Jayangani
+    - 4.3:
+        non_striker: GWHM Perera
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.2'
+        batsman: AC Jayangani
+    - 4.4:
+        non_striker: GWHM Perera
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: AC Jayangani
+    - 4.5:
+        non_striker: AC Jayangani
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: GWHM Perera
+    - 4.6:
+        non_striker: AC Jayangani
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.5'
+        batsman: GWHM Perera
+    - 4.7:
+        non_striker: AC Jayangani
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: GWHM Perera
+    - 5.1:
+        non_striker: GWHM Perera
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.1'
+        batsman: AC Jayangani
+    - 5.2:
+        non_striker: GWHM Perera
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: AC Jayangani
+        wicket:
+          player_out: AC Jayangani
+          kind: bowled
+    - 5.3:
+        non_striker: GWHM Perera
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.3'
+        batsman: H Madavi
+    - 5.4:
+        non_striker: GWHM Perera
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: H Madavi
+    - 5.5:
+        non_striker: GWHM Perera
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: H Madavi
+    - 5.6:
+        non_striker: GWHM Perera
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: H Madavi
+    - 6.1:
+        non_striker: H Madavi
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: GWHM Perera
+    - 6.2:
+        non_striker: H Madavi
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: GWHM Perera
+    - 6.3:
+        non_striker: GWHM Perera
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: H Madavi
+    - 6.4:
+        non_striker: GWHM Perera
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: H Madavi
+    - 6.5:
+        non_striker: H Madavi
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: GWHM Perera
+    - 6.6:
+        non_striker: GWHM Perera
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: H Madavi
+    - 7.1:
+        non_striker: GWHM Perera
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: H Madavi
+    - 7.2:
+        non_striker: H Madavi
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '7.2'
+        batsman: GWHM Perera
+    - 7.3:
+        non_striker: GWHM Perera
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: H Madavi
+    - 7.4:
+        non_striker: H Madavi
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: GWHM Perera
+    - 7.5:
+        non_striker: GWHM Perera
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: H Madavi
+    - 7.6:
+        non_striker: GWHM Perera
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: H Madavi
+    - 8.1:
+        non_striker: GWHM Perera
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: H Madavi
+    - 8.2:
+        non_striker: H Madavi
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: GWHM Perera
+    - 8.3:
+        non_striker: H Madavi
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: GWHM Perera
+        wicket:
+          player_out: GWHM Perera
+          fielders:
+          - KL Gordon
+          kind: caught
+    - 8.4:
+        non_striker: H Madavi
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: H Karunaratne
+    - 8.5:
+        non_striker: H Karunaratne
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: H Madavi
+    - 8.6:
+        non_striker: H Karunaratne
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: H Madavi
+    - 9.1:
+        non_striker: H Madavi
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: H Karunaratne
+    - 9.2:
+        non_striker: H Madavi
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: H Karunaratne
+    - 9.3:
+        non_striker: H Madavi
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: H Karunaratne
+        wicket:
+          player_out: H Karunaratne
+          kind: lbw
+    - 9.4:
+        non_striker: H Madavi
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: WK Dilhari
+    - 9.5:
+        non_striker: H Madavi
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: WK Dilhari
+    - 9.6:
+        non_striker: WK Dilhari
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.6'
+        batsman: H Madavi
+    - 10.1:
+        non_striker: H Madavi
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: WK Dilhari
+    - 10.2:
+        non_striker: WK Dilhari
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: H Madavi
+    - 10.3:
+        non_striker: H Madavi
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.3'
+        batsman: WK Dilhari
+    - 10.4:
+        non_striker: H Madavi
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: WK Dilhari
+    - 10.5:
+        non_striker: WK Dilhari
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: H Madavi
+    - 10.6:
+        non_striker: H Madavi
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.6'
+        batsman: WK Dilhari
+    - 11.1:
+        non_striker: WK Dilhari
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.1'
+        batsman: H Madavi
+    - 11.2:
+        non_striker: WK Dilhari
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.2'
+        batsman: H Madavi
+    - 11.3:
+        non_striker: WK Dilhari
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: H Madavi
+    - 11.4:
+        non_striker: H Madavi
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: WK Dilhari
+    - 11.5:
+        non_striker: WK Dilhari
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: H Madavi
+    - 11.6:
+        non_striker: H Madavi
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: WK Dilhari
+    - 12.1:
+        non_striker: WK Dilhari
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: H Madavi
+    - 12.2:
+        non_striker: H Madavi
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: WK Dilhari
+    - 12.3:
+        non_striker: WK Dilhari
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: H Madavi
+        wicket:
+          player_out: H Madavi
+          fielders:
+          - PA Chatterji
+          kind: caught
+    - 12.4:
+        non_striker: WK Dilhari
+        bowler: KE Bryce
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        actual_delivery: '12.4'
+        batsman: NND de Silva
+    - 12.5:
+        non_striker: WK Dilhari
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: NND de Silva
+    - 12.6:
+        non_striker: WK Dilhari
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: NND de Silva
+    - 12.7:
+        non_striker: NND de Silva
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: WK Dilhari
+    - 13.1:
+        non_striker: WK Dilhari
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: NND de Silva
+    - 13.2:
+        non_striker: NND de Silva
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: WK Dilhari
+    - 13.3:
+        non_striker: NND de Silva
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.3'
+        batsman: WK Dilhari
+    - 13.4:
+        non_striker: NND de Silva
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: WK Dilhari
+    - 13.5:
+        non_striker: NND de Silva
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: WK Dilhari
+    - 13.6:
+        non_striker: NND de Silva
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.6'
+        batsman: WK Dilhari
+    - 14.1:
+        non_striker: WK Dilhari
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: NND de Silva
+    - 14.2:
+        non_striker: NND de Silva
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: WK Dilhari
+    - 14.3:
+        non_striker: WK Dilhari
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: NND de Silva
+    - 14.4:
+        non_striker: WK Dilhari
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.4'
+        batsman: NND de Silva
+    - 14.5:
+        non_striker: WK Dilhari
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: NND de Silva
+    - 14.6:
+        non_striker: NND de Silva
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: WK Dilhari
+        wicket:
+          player_out: WK Dilhari
+          fielders:
+          - KE Bryce
+          kind: caught
+    - 15.1:
+        non_striker: EMKNH Senavirathna
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: NND de Silva
+    - 15.2:
+        non_striker: EMKNH Senavirathna
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: NND de Silva
+    - 15.3:
+        non_striker: NND de Silva
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: EMKNH Senavirathna
+    - 15.4:
+        non_striker: NND de Silva
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: EMKNH Senavirathna
+    - 15.5:
+        non_striker: NND de Silva
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: EMKNH Senavirathna
+    - 15.6:
+        non_striker: EMKNH Senavirathna
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: NND de Silva
+    - 16.1:
+        non_striker: NND de Silva
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: EMKNH Senavirathna
+    - 16.2:
+        non_striker: EMKNH Senavirathna
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: NND de Silva
+    - 16.3:
+        non_striker: EMKNH Senavirathna
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.3'
+        batsman: NND de Silva
+    - 16.4:
+        non_striker: EMKNH Senavirathna
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: NND de Silva
+    - 16.5:
+        non_striker: NND de Silva
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: EMKNH Senavirathna
+    - 16.6:
+        non_striker: EMKNH Senavirathna
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: NND de Silva
+    - 17.1:
+        non_striker: NND de Silva
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: EMKNH Senavirathna
+    - 17.2:
+        non_striker: NND de Silva
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: EMKNH Senavirathna
+    - 17.3:
+        non_striker: EMKNH Senavirathna
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: NND de Silva
+    - 17.4:
+        non_striker: NND de Silva
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.4'
+        batsman: EMKNH Senavirathna
+    - 17.5:
+        non_striker: NND de Silva
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.5'
+        batsman: EMKNH Senavirathna
+    - 17.6:
+        non_striker: NND de Silva
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: EMKNH Senavirathna
+        wicket:
+          player_out: EMKNH Senavirathna
+          fielders:
+          - A Lister
+          kind: caught
+    - 18.1:
+        non_striker: BMSM Kumari
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: NND de Silva
+    - 18.2:
+        non_striker: NND de Silva
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: BMSM Kumari
+    - 18.3:
+        non_striker: BMSM Kumari
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.3'
+        batsman: NND de Silva
+    - 18.4:
+        non_striker: BMSM Kumari
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '18.4'
+        batsman: NND de Silva
+    - 18.5:
+        non_striker: NND de Silva
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: BMSM Kumari
+    - 18.6:
+        non_striker: BMSM Kumari
+        bowler: KE Bryce
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '18.6'
+        batsman: NND de Silva
+    - 18.7:
+        non_striker: NND de Silva
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: BMSM Kumari
+    - 19.1:
+        non_striker: BMSM Kumari
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: NND de Silva
+    - 19.2:
+        non_striker: NND de Silva
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: BMSM Kumari
+    - 19.3:
+        non_striker: BMSM Kumari
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.3'
+        batsman: NND de Silva
+    - 19.4:
+        non_striker: BMSM Kumari
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: PA Chatterji
+            out: R Slater
+            reason: injury
+            role: bowler
+        actual_delivery: '19.4'
+        batsman: NND de Silva
+    - 19.5:
+        non_striker: NND de Silva
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.5'
+        batsman: BMSM Kumari
+    target:
+      overs: 20
+      runs: 152

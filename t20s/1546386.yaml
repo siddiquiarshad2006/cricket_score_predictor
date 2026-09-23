@@ -1,0 +1,2276 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-07-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ilfov County
+  dates:
+  - '2026-07-29'
+  gender: male
+  match_type: T20
+  match_type_number: 4051
+  outcome:
+    winner: France
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - Jamshid Nasiri
+  players:
+    Israel:
+    - BJ Lazarus
+    - L Dirmeik
+    - Niv Nagavkar
+    - JS Bangera
+    - JE Marks
+    - G Schachat
+    - GJ Hilkowitz
+    - Idan Varsulkar
+    - Elan Talker
+    - IY Levy
+    - R Bangera
+    France:
+    - Faisal Safi
+    - Jamshid Nasiri
+    - Rahmatullah Mangal
+    - Mustafa Omer
+    - L Canessane
+    - Noman Amjad
+    - Dawood Ahmadzai
+    - Usman Khan
+    - Kamran Ahmadzai
+    - Rahimgul Naseri
+    - Hussnain Afzal
+  registry:
+    people:
+      A Elliott: f48d5563
+      Asad Ali: fd0758b9
+      BJ Lazarus: 2d7b09ce
+      Dawood Ahmadzai: 951686f5
+      Elan Talker: bb939fa3
+      Faisal Safi: 5eba6319
+      G Schachat: ff92e604
+      GJ Hilkowitz: 45d794b0
+      Hussnain Afzal: dd3cfda4
+      IY Levy: 63b156c1
+      Idan Varsulkar: '65026426'
+      JE Marks: f1aa94c3
+      JS Bangera: 6a6037c8
+      Jamshid Nasiri: 2bc636df
+      Kamran Ahmadzai: afa2ebba
+      L Canessane: 72a4c3b2
+      L Dirmeik: 9393ac1b
+      Mustafa Omer: 3bd52be1
+      Niv Nagavkar: e2abcf16
+      Noman Amjad: c079c66a
+      R Bangera: c5376f3d
+      Rahimgul Naseri: bf07cc63
+      Rahmatullah Mangal: ec106638
+      Suleman Saeed: 60018b15
+      Usman Khan: e8a552ef
+  team_type: international
+  teams:
+  - Israel
+  - France
+  toss:
+    winner: Israel
+    decision: bat
+  umpires:
+  - A Elliott
+  - Suleman Saeed
+  venue: Moara Vlasiei Cricket Ground, Ilfov County
+innings:
+- 1st innings:
+    team: Israel
+    deliveries:
+    - 0.1:
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: L Dirmeik
+        actual_delivery: '0.1'
+        batsman: BJ Lazarus
+    - 0.2:
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Dirmeik
+        actual_delivery: '0.1'
+        batsman: BJ Lazarus
+    - 0.3:
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        non_striker: L Dirmeik
+        actual_delivery: '0.2'
+        batsman: BJ Lazarus
+    - 0.4:
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: L Dirmeik
+        actual_delivery: '0.3'
+        batsman: BJ Lazarus
+    - 0.5:
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Dirmeik
+        actual_delivery: '0.3'
+        batsman: BJ Lazarus
+    - 0.6:
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Dirmeik
+        actual_delivery: '0.4'
+        batsman: BJ Lazarus
+    - 0.7:
+        non_striker: BJ Lazarus
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: L Dirmeik
+    - 0.8:
+        non_striker: BJ Lazarus
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: L Dirmeik
+    - 1.1:
+        non_striker: L Dirmeik
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.1'
+        batsman: BJ Lazarus
+    - 1.2:
+        non_striker: L Dirmeik
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.1'
+        batsman: BJ Lazarus
+    - 1.3:
+        non_striker: L Dirmeik
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: BJ Lazarus
+    - 1.4:
+        non_striker: L Dirmeik
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.3'
+        batsman: BJ Lazarus
+    - 1.5:
+        non_striker: L Dirmeik
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.4'
+        batsman: BJ Lazarus
+    - 1.6:
+        non_striker: L Dirmeik
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: BJ Lazarus
+    - 1.7:
+        non_striker: L Dirmeik
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: BJ Lazarus
+    - 2.1:
+        non_striker: L Dirmeik
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: BJ Lazarus
+    - 2.2:
+        non_striker: L Dirmeik
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.2'
+        batsman: BJ Lazarus
+    - 2.3:
+        non_striker: L Dirmeik
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.2'
+        batsman: BJ Lazarus
+    - 2.4:
+        non_striker: L Dirmeik
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: BJ Lazarus
+    - 2.5:
+        non_striker: L Dirmeik
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: BJ Lazarus
+    - 2.6:
+        non_striker: L Dirmeik
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: BJ Lazarus
+    - 2.7:
+        non_striker: L Dirmeik
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: BJ Lazarus
+    - 3.1:
+        non_striker: BJ Lazarus
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: L Dirmeik
+    - 3.2:
+        non_striker: BJ Lazarus
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: L Dirmeik
+    - 3.3:
+        non_striker: BJ Lazarus
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: L Dirmeik
+    - 3.4:
+        non_striker: BJ Lazarus
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: L Dirmeik
+    - 3.5:
+        non_striker: L Dirmeik
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.5'
+        batsman: BJ Lazarus
+    - 3.6:
+        non_striker: L Dirmeik
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: BJ Lazarus
+    - 4.1:
+        non_striker: L Dirmeik
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: BJ Lazarus
+    - 4.2:
+        non_striker: L Dirmeik
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.2'
+        batsman: BJ Lazarus
+    - 4.3:
+        non_striker: L Dirmeik
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: BJ Lazarus
+    - 4.4:
+        non_striker: BJ Lazarus
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: L Dirmeik
+    - 4.5:
+        non_striker: BJ Lazarus
+        bowler: Noman Amjad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.5'
+        batsman: L Dirmeik
+    - 4.6:
+        non_striker: BJ Lazarus
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: L Dirmeik
+    - 4.7:
+        non_striker: BJ Lazarus
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: L Dirmeik
+    - 5.1:
+        non_striker: L Dirmeik
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '5.1'
+        batsman: BJ Lazarus
+    - 5.2:
+        non_striker: BJ Lazarus
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: L Dirmeik
+    - 5.3:
+        non_striker: BJ Lazarus
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: L Dirmeik
+    - 5.4:
+        non_striker: L Dirmeik
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: BJ Lazarus
+    - 5.5:
+        non_striker: BJ Lazarus
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        actual_delivery: '5.5'
+        batsman: L Dirmeik
+    - 5.6:
+        non_striker: BJ Lazarus
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: L Dirmeik
+    - 6.1:
+        non_striker: BJ Lazarus
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: L Dirmeik
+    - 6.2:
+        non_striker: BJ Lazarus
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: L Dirmeik
+    - 6.3:
+        non_striker: L Dirmeik
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: BJ Lazarus
+    - 6.4:
+        non_striker: L Dirmeik
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: BJ Lazarus
+    - 6.5:
+        non_striker: L Dirmeik
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: BJ Lazarus
+    - 6.6:
+        non_striker: BJ Lazarus
+        bowler: Noman Amjad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.6'
+        batsman: L Dirmeik
+    - 6.7:
+        non_striker: BJ Lazarus
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: L Dirmeik
+    - 7.1:
+        non_striker: BJ Lazarus
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: L Dirmeik
+    - 7.2:
+        non_striker: L Dirmeik
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: BJ Lazarus
+    - 7.3:
+        non_striker: BJ Lazarus
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: L Dirmeik
+    - 7.4:
+        non_striker: BJ Lazarus
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.4'
+        batsman: L Dirmeik
+    - 7.5:
+        non_striker: BJ Lazarus
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: L Dirmeik
+    - 7.6:
+        non_striker: BJ Lazarus
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.6'
+        batsman: L Dirmeik
+    - 8.1:
+        non_striker: L Dirmeik
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: BJ Lazarus
+    - 8.2:
+        non_striker: L Dirmeik
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        actual_delivery: '8.2'
+        batsman: BJ Lazarus
+    - 8.3:
+        non_striker: L Dirmeik
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.3'
+        batsman: BJ Lazarus
+    - 8.4:
+        non_striker: L Dirmeik
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: BJ Lazarus
+    - 8.5:
+        non_striker: L Dirmeik
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: BJ Lazarus
+    - 8.6:
+        non_striker: L Dirmeik
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: BJ Lazarus
+    - 8.7:
+        non_striker: BJ Lazarus
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: L Dirmeik
+    - 9.1:
+        non_striker: L Dirmeik
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: BJ Lazarus
+    - 9.2:
+        non_striker: L Dirmeik
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: BJ Lazarus
+    - 9.3:
+        non_striker: BJ Lazarus
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: L Dirmeik
+    - 9.4:
+        non_striker: L Dirmeik
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: BJ Lazarus
+    - 9.5:
+        non_striker: BJ Lazarus
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: L Dirmeik
+    - 9.6:
+        non_striker: L Dirmeik
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: BJ Lazarus
+        wicket:
+          player_out: BJ Lazarus
+          fielders:
+          - Rahmatullah Mangal
+          kind: caught
+    - 10.1:
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Niv Nagavkar
+        actual_delivery: '10.1'
+        batsman: L Dirmeik
+    - 10.2:
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Niv Nagavkar
+        actual_delivery: '10.2'
+        batsman: L Dirmeik
+    - 10.3:
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Niv Nagavkar
+        actual_delivery: '10.3'
+        batsman: L Dirmeik
+    - 10.4:
+        non_striker: L Dirmeik
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: Niv Nagavkar
+    - 10.5:
+        non_striker: Niv Nagavkar
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: L Dirmeik
+    - 10.6:
+        non_striker: L Dirmeik
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Niv Nagavkar
+    - 11.1:
+        non_striker: Niv Nagavkar
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.1'
+        batsman: L Dirmeik
+    - 11.2:
+        non_striker: Niv Nagavkar
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.2'
+        batsman: L Dirmeik
+    - 11.3:
+        non_striker: Niv Nagavkar
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: L Dirmeik
+    - 11.4:
+        non_striker: L Dirmeik
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: Niv Nagavkar
+    - 11.5:
+        non_striker: L Dirmeik
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Niv Nagavkar
+        wicket:
+          player_out: Niv Nagavkar
+          fielders:
+          - Kamran Ahmadzai
+          kind: caught
+    - 11.6:
+        non_striker: L Dirmeik
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: JS Bangera
+    - 12.1:
+        non_striker: L Dirmeik
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: JS Bangera
+        wicket:
+          player_out: L Dirmeik
+          fielders:
+          - Rahimgul Naseri
+          kind: run out
+    - 12.2:
+        non_striker: JS Bangera
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: JE Marks
+    - 12.3:
+        non_striker: JS Bangera
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: JE Marks
+    - 12.4:
+        non_striker: JE Marks
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.4'
+        batsman: JS Bangera
+    - 12.5:
+        non_striker: JE Marks
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: JS Bangera
+    - 12.6:
+        non_striker: JS Bangera
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.6'
+        batsman: JE Marks
+    - 12.7:
+        non_striker: JS Bangera
+        bowler: Kamran Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.6'
+        batsman: JE Marks
+    - 13.1:
+        non_striker: JE Marks
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: JS Bangera
+    - 13.2:
+        non_striker: JE Marks
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: JS Bangera
+    - 13.3:
+        non_striker: JS Bangera
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: JE Marks
+    - 13.4:
+        non_striker: JE Marks
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: JS Bangera
+    - 13.5:
+        non_striker: JS Bangera
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: JE Marks
+    - 13.6:
+        non_striker: JS Bangera
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: JE Marks
+    - 14.1:
+        non_striker: JS Bangera
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: JE Marks
+    - 14.2:
+        non_striker: JS Bangera
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: JE Marks
+    - 14.3:
+        non_striker: JE Marks
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: JS Bangera
+        wicket:
+          player_out: JE Marks
+          fielders:
+          - Dawood Ahmadzai
+          kind: run out
+    - 14.4:
+        non_striker: JS Bangera
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: G Schachat
+    - 14.5:
+        non_striker: G Schachat
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: JS Bangera
+    - 14.6:
+        non_striker: G Schachat
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: JS Bangera
+    - 15.1:
+        non_striker: G Schachat
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: JS Bangera
+    - 15.2:
+        non_striker: G Schachat
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: JS Bangera
+    - 15.3:
+        non_striker: JS Bangera
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: G Schachat
+    - 15.4:
+        non_striker: JS Bangera
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: G Schachat
+    - 15.5:
+        non_striker: G Schachat
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: JS Bangera
+    - 15.6:
+        non_striker: JS Bangera
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: G Schachat
+    - 16.1:
+        non_striker: JS Bangera
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: G Schachat
+    - 16.2:
+        non_striker: JS Bangera
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.2'
+        batsman: G Schachat
+    - 16.3:
+        non_striker: JS Bangera
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: G Schachat
+    - 16.4:
+        non_striker: G Schachat
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: JS Bangera
+    - 16.5:
+        non_striker: G Schachat
+        bowler: Noman Amjad
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        actual_delivery: '16.5'
+        batsman: JS Bangera
+    - 16.6:
+        non_striker: G Schachat
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: JS Bangera
+        wicket:
+          player_out: JS Bangera
+          kind: bowled
+    - 17.1:
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GJ Hilkowitz
+        actual_delivery: '17.1'
+        batsman: G Schachat
+    - 17.2:
+        non_striker: G Schachat
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: GJ Hilkowitz
+    - 17.3:
+        non_striker: G Schachat
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: GJ Hilkowitz
+    - 17.4:
+        non_striker: G Schachat
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: GJ Hilkowitz
+        wicket:
+          player_out: GJ Hilkowitz
+          fielders:
+          - Faisal Safi
+          kind: caught
+    - 17.5:
+        non_striker: G Schachat
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: Idan Varsulkar
+    - 17.6:
+        non_striker: Idan Varsulkar
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: G Schachat
+    - 18.1:
+        non_striker: Idan Varsulkar
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: G Schachat
+    - 18.2:
+        non_striker: Idan Varsulkar
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: G Schachat
+    - 18.3:
+        non_striker: G Schachat
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: Idan Varsulkar
+    - 18.4:
+        non_striker: Idan Varsulkar
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.4'
+        batsman: G Schachat
+    - 18.5:
+        non_striker: Idan Varsulkar
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.5'
+        batsman: G Schachat
+    - 18.6:
+        non_striker: Idan Varsulkar
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: G Schachat
+    - 19.1:
+        non_striker: G Schachat
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.1'
+        batsman: Idan Varsulkar
+    - 19.2:
+        non_striker: G Schachat
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: Idan Varsulkar
+    - 19.3:
+        non_striker: G Schachat
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: Idan Varsulkar
+    - 19.4:
+        non_striker: G Schachat
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.4'
+        batsman: Idan Varsulkar
+    - 19.5:
+        non_striker: G Schachat
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: Idan Varsulkar
+    - 19.6:
+        non_striker: G Schachat
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: Idan Varsulkar
+- 2nd innings:
+    team: France
+    deliveries:
+    - 0.1:
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jamshid Nasiri
+        actual_delivery: '0.1'
+        batsman: Faisal Safi
+    - 0.2:
+        bowler: Niv Nagavkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Jamshid Nasiri
+        actual_delivery: '0.2'
+        batsman: Faisal Safi
+    - 0.3:
+        bowler: Niv Nagavkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Jamshid Nasiri
+        actual_delivery: '0.2'
+        batsman: Faisal Safi
+    - 0.4:
+        bowler: Niv Nagavkar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: Jamshid Nasiri
+        actual_delivery: '0.2'
+        batsman: Faisal Safi
+    - 0.5:
+        non_striker: Faisal Safi
+        bowler: Niv Nagavkar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '0.2'
+        batsman: Jamshid Nasiri
+    - 0.6:
+        non_striker: Jamshid Nasiri
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: Faisal Safi
+    - 0.7:
+        non_striker: Jamshid Nasiri
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '0.3'
+        batsman: Faisal Safi
+    - 0.8:
+        non_striker: Faisal Safi
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Jamshid Nasiri
+    - 0.9:
+        non_striker: Faisal Safi
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '0.5'
+        batsman: Jamshid Nasiri
+    - 0.10:
+        non_striker: Faisal Safi
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.6'
+        batsman: Jamshid Nasiri
+    - 1.1:
+        non_striker: Jamshid Nasiri
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: Faisal Safi
+    - 1.2:
+        non_striker: Jamshid Nasiri
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.2'
+        batsman: Faisal Safi
+    - 1.3:
+        non_striker: Jamshid Nasiri
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: Faisal Safi
+    - 1.4:
+        non_striker: Faisal Safi
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: Jamshid Nasiri
+    - 1.5:
+        non_striker: Faisal Safi
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Jamshid Nasiri
+    - 1.6:
+        non_striker: Faisal Safi
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Jamshid Nasiri
+    - 2.1:
+        non_striker: Jamshid Nasiri
+        bowler: IY Levy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: Faisal Safi
+        wicket:
+          player_out: Faisal Safi
+          kind: lbw
+    - 2.2:
+        non_striker: Jamshid Nasiri
+        bowler: IY Levy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: Rahmatullah Mangal
+    - 2.3:
+        non_striker: Jamshid Nasiri
+        bowler: IY Levy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Rahmatullah Mangal
+        wicket:
+          player_out: Rahmatullah Mangal
+          fielders:
+          - Idan Varsulkar
+          kind: caught
+    - 2.4:
+        non_striker: Jamshid Nasiri
+        bowler: IY Levy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: Mustafa Omer
+    - 2.5:
+        non_striker: Mustafa Omer
+        bowler: IY Levy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: Jamshid Nasiri
+    - 2.6:
+        non_striker: Jamshid Nasiri
+        bowler: IY Levy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Mustafa Omer
+    - 3.1:
+        non_striker: Mustafa Omer
+        bowler: Elan Talker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.1'
+        batsman: Jamshid Nasiri
+    - 3.2:
+        non_striker: Mustafa Omer
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: Jamshid Nasiri
+    - 3.3:
+        non_striker: Jamshid Nasiri
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: Mustafa Omer
+    - 3.4:
+        non_striker: Mustafa Omer
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.3'
+        batsman: Jamshid Nasiri
+    - 3.5:
+        non_striker: Mustafa Omer
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Jamshid Nasiri
+    - 3.6:
+        non_striker: Mustafa Omer
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: Jamshid Nasiri
+    - 3.7:
+        non_striker: Jamshid Nasiri
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: Mustafa Omer
+    - 4.1:
+        non_striker: Jamshid Nasiri
+        bowler: IY Levy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: Mustafa Omer
+    - 4.2:
+        non_striker: Mustafa Omer
+        bowler: IY Levy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: Jamshid Nasiri
+    - 4.3:
+        non_striker: Mustafa Omer
+        bowler: IY Levy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.3'
+        batsman: Jamshid Nasiri
+    - 4.4:
+        non_striker: Mustafa Omer
+        bowler: IY Levy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.3'
+        batsman: Jamshid Nasiri
+    - 4.5:
+        non_striker: Mustafa Omer
+        bowler: IY Levy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: Jamshid Nasiri
+    - 4.6:
+        non_striker: Jamshid Nasiri
+        bowler: IY Levy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.4'
+        batsman: Mustafa Omer
+    - 4.7:
+        non_striker: Jamshid Nasiri
+        bowler: IY Levy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: Mustafa Omer
+    - 4.8:
+        non_striker: Jamshid Nasiri
+        bowler: IY Levy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: Mustafa Omer
+    - 4.9:
+        non_striker: Jamshid Nasiri
+        bowler: IY Levy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: Mustafa Omer
+    - 5.1:
+        non_striker: Jamshid Nasiri
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Mustafa Omer
+    - 5.2:
+        non_striker: Jamshid Nasiri
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.2'
+        batsman: Mustafa Omer
+    - 5.3:
+        non_striker: Jamshid Nasiri
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: Mustafa Omer
+    - 5.4:
+        non_striker: Mustafa Omer
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Jamshid Nasiri
+    - 5.5:
+        non_striker: Mustafa Omer
+        bowler: Elan Talker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.5'
+        batsman: Jamshid Nasiri
+    - 5.6:
+        non_striker: Mustafa Omer
+        bowler: Elan Talker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.5'
+        batsman: Jamshid Nasiri
+    - 5.7:
+        non_striker: Mustafa Omer
+        bowler: Elan Talker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.5'
+        batsman: Jamshid Nasiri
+    - 5.8:
+        non_striker: Mustafa Omer
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Jamshid Nasiri
+    - 5.9:
+        non_striker: Mustafa Omer
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: Jamshid Nasiri
+    - 6.1:
+        non_striker: Mustafa Omer
+        bowler: GJ Hilkowitz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: Jamshid Nasiri
+        wicket:
+          player_out: Jamshid Nasiri
+          fielders:
+          - Elan Talker
+          kind: caught
+    - 6.2:
+        non_striker: Mustafa Omer
+        bowler: GJ Hilkowitz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: L Canessane
+    - 6.3:
+        non_striker: L Canessane
+        bowler: GJ Hilkowitz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Mustafa Omer
+    - 6.4:
+        non_striker: L Canessane
+        bowler: GJ Hilkowitz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Mustafa Omer
+    - 6.5:
+        non_striker: L Canessane
+        bowler: GJ Hilkowitz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Mustafa Omer
+    - 6.6:
+        non_striker: L Canessane
+        bowler: GJ Hilkowitz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: Mustafa Omer
+    - 7.1:
+        non_striker: L Canessane
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '7.1'
+        batsman: Mustafa Omer
+    - 7.2:
+        non_striker: Mustafa Omer
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: L Canessane
+    - 7.3:
+        non_striker: L Canessane
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: Mustafa Omer
+    - 7.4:
+        non_striker: L Canessane
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: Mustafa Omer
+    - 7.5:
+        non_striker: Mustafa Omer
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: L Canessane
+    - 7.6:
+        non_striker: Mustafa Omer
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.6'
+        batsman: L Canessane
+    - 8.1:
+        non_striker: L Canessane
+        bowler: GJ Hilkowitz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Mustafa Omer
+    - 8.2:
+        non_striker: L Canessane
+        bowler: GJ Hilkowitz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Mustafa Omer
+    - 8.3:
+        non_striker: Mustafa Omer
+        bowler: GJ Hilkowitz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.3'
+        batsman: L Canessane
+    - 8.4:
+        non_striker: Mustafa Omer
+        bowler: GJ Hilkowitz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: L Canessane
+    - 8.5:
+        non_striker: L Canessane
+        bowler: GJ Hilkowitz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: Mustafa Omer
+    - 8.6:
+        non_striker: L Canessane
+        bowler: GJ Hilkowitz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Mustafa Omer
+    - 9.1:
+        non_striker: Mustafa Omer
+        bowler: JE Marks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.1'
+        batsman: L Canessane
+    - 9.2:
+        non_striker: Mustafa Omer
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: L Canessane
+    - 9.3:
+        non_striker: L Canessane
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Mustafa Omer
+    - 9.4:
+        non_striker: L Canessane
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: Mustafa Omer
+        wicket:
+          player_out: Mustafa Omer
+          kind: bowled
+    - 9.5:
+        non_striker: L Canessane
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: Noman Amjad
+    - 9.6:
+        non_striker: Noman Amjad
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: L Canessane
+    - 9.7:
+        non_striker: Noman Amjad
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: L Canessane
+    - 10.1:
+        non_striker: L Canessane
+        bowler: GJ Hilkowitz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: Noman Amjad
+    - 10.2:
+        non_striker: L Canessane
+        bowler: GJ Hilkowitz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: Noman Amjad
+    - 10.3:
+        non_striker: Noman Amjad
+        bowler: GJ Hilkowitz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.3'
+        batsman: L Canessane
+    - 10.4:
+        non_striker: Noman Amjad
+        bowler: GJ Hilkowitz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.3'
+        batsman: L Canessane
+    - 10.5:
+        non_striker: Noman Amjad
+        bowler: GJ Hilkowitz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: L Canessane
+    - 10.6:
+        non_striker: Noman Amjad
+        bowler: GJ Hilkowitz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.5'
+        batsman: L Canessane
+    - 10.7:
+        non_striker: Noman Amjad
+        bowler: GJ Hilkowitz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.6'
+        batsman: L Canessane
+    - 11.1:
+        non_striker: L Canessane
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.1'
+        batsman: Noman Amjad
+    - 11.2:
+        non_striker: L Canessane
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.2'
+        batsman: Noman Amjad
+    - 11.3:
+        non_striker: L Canessane
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.3'
+        batsman: Noman Amjad
+    - 11.4:
+        non_striker: L Canessane
+        bowler: JE Marks
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        actual_delivery: '11.4'
+        batsman: Noman Amjad
+    - 11.5:
+        non_striker: L Canessane
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Noman Amjad
+    - 11.6:
+        non_striker: L Canessane
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Noman Amjad
+    - 12.1:
+        non_striker: L Canessane
+        bowler: IY Levy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.1'
+        batsman: Noman Amjad
+    - 12.2:
+        non_striker: L Canessane
+        bowler: IY Levy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Noman Amjad
+    - 12.3:
+        non_striker: L Canessane
+        bowler: IY Levy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.2'
+        batsman: Noman Amjad
+    - 12.4:
+        non_striker: L Canessane
+        bowler: IY Levy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: Noman Amjad
+    - 12.5:
+        non_striker: Noman Amjad
+        bowler: IY Levy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '12.4'
+        batsman: L Canessane
+    - 12.6:
+        non_striker: Noman Amjad
+        bowler: IY Levy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '12.5'
+        batsman: L Canessane
+    - 12.7:
+        non_striker: Noman Amjad
+        bowler: IY Levy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.5'
+        batsman: L Canessane
+    - 12.8:
+        non_striker: Noman Amjad
+        bowler: IY Levy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.6'
+        batsman: L Canessane
+    - 13.1:
+        non_striker: L Canessane
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.1'
+        batsman: Noman Amjad
+    - 13.2:
+        non_striker: L Canessane
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: Noman Amjad
+    - 13.3:
+        non_striker: L Canessane
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Noman Amjad
+    - 13.4:
+        non_striker: Noman Amjad
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.4'
+        batsman: L Canessane
+    - 13.5:
+        non_striker: Noman Amjad
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: L Canessane
+    - 13.6:
+        non_striker: Noman Amjad
+        bowler: Niv Nagavkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.6'
+        batsman: L Canessane
+    - 13.7:
+        non_striker: Noman Amjad
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.6'
+        batsman: L Canessane
+    - 14.1:
+        non_striker: L Canessane
+        bowler: Idan Varsulkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.1'
+        batsman: Noman Amjad
+    - 14.2:
+        non_striker: L Canessane
+        bowler: Idan Varsulkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.2'
+        batsman: Noman Amjad
+    - 14.3:
+        non_striker: L Canessane
+        bowler: Idan Varsulkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: Noman Amjad
+    target:
+      overs: 20
+      runs: 131

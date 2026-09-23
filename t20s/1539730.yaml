@@ -1,0 +1,244 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hamilton
+  dates:
+  - '2026-06-21'
+  gender: male
+  match_type: T20
+  match_type_number: 3976
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    Bahamas:
+    - GT Taylor
+    - Festus Benn
+    - J Jemison
+    - A Gulati
+    - S Fowler
+    - D Wheatley
+    - G Irvin
+    - JR Barry
+    - K Burrows
+    - R Patten
+    - O Howell
+    Bermuda:
+    - Amari Ebbin
+    - DMW Rawlins
+    - L Horan
+    - S Smith
+    - Z Burgess
+    - Isaiah O'Brien
+    - C Trott
+    - D Sabir
+    - J Proctor
+    - OGL Bascome
+    - T Manders
+  registry:
+    people:
+      A Gajjar: 37db06ef
+      A Gulati: 82903f3a
+      Amari Ebbin: 140ac7ad
+      C Trott: ae624b05
+      D Sabir: 04bc296f
+      D Wheatley: '04539335'
+      DMW Rawlins: f1eb3c73
+      Festus Benn: de6b3760
+      G Irvin: 17530fd9
+      GT Taylor: c674f722
+      Isaiah O'Brien: 967801f4
+      J Jemison: ce1abd25
+      J Proctor: 01b0d0a4
+      JR Barry: 9bc324b5
+      K Burrows: f11f5a92
+      L Horan: 16d43e12
+      O Howell: d62811d2
+      OGL Bascome: 94a1827c
+      P Manning: f06b5585
+      R Patten: 4437df8c
+      Reon King: 20fbf68c
+      S Fowler: 78df631a
+      S Smith: 18a0ba24
+      T Manders: 6d2b9724
+      Z Burgess: d0042e16
+      Zahid Bassarath: ca6bf044
+  team_type: international
+  teams:
+  - Bahamas
+  - Bermuda
+  toss:
+    winner: Bahamas
+    decision: bat
+  umpires:
+  - A Gajjar
+  - P Manning
+  venue: White Hill Field, Sandys Parish
+innings:
+- 1st innings:
+    team: Bahamas
+    deliveries:
+    - 0.1:
+        bowler: J Proctor
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        non_striker: Festus Benn
+        actual_delivery: '0.1'
+        batsman: GT Taylor
+    - 0.2:
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Festus Benn
+        actual_delivery: '0.1'
+        batsman: GT Taylor
+    - 0.3:
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Festus Benn
+        actual_delivery: '0.2'
+        batsman: GT Taylor
+    - 0.4:
+        non_striker: GT Taylor
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: Festus Benn
+    - 0.5:
+        non_striker: GT Taylor
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Festus Benn
+    - 0.6:
+        non_striker: GT Taylor
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Festus Benn
+    - 0.7:
+        non_striker: GT Taylor
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Festus Benn
+    - 1.1:
+        non_striker: Festus Benn
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.1'
+        batsman: GT Taylor
+    - 1.2:
+        non_striker: Festus Benn
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: GT Taylor
+    - 1.3:
+        non_striker: Festus Benn
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: GT Taylor
+    - 1.4:
+        non_striker: GT Taylor
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: Festus Benn
+    - 1.5:
+        non_striker: GT Taylor
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Festus Benn
+    - 1.6:
+        non_striker: GT Taylor
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Festus Benn
+    - 2.1:
+        non_striker: Festus Benn
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: GT Taylor
+    - 2.2:
+        non_striker: GT Taylor
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: Festus Benn
+        wicket:
+          player_out: Festus Benn
+          kind: lbw
+    - 2.3:
+        non_striker: GT Taylor
+        bowler: J Proctor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.3'
+        batsman: J Jemison
+    - 2.4:
+        non_striker: GT Taylor
+        bowler: J Proctor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.3'
+        batsman: J Jemison

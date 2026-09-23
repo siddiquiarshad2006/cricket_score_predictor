@@ -1,0 +1,2294 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Birmingham
+  dates:
+  - '2026-06-14'
+  gender: female
+  match_type: T20
+  match_type_number: 2857
+  outcome:
+    winner: India
+    by:
+      runs: 64
+  overs: 20
+  player_of_match:
+  - DB Sharma
+  players:
+    India:
+    - Shafali Verma
+    - S Mandhana
+    - JI Rodrigues
+    - H Kaur
+    - BS Fulmali
+    - RM Ghosh
+    - DB Sharma
+    - SR Patil
+    - A Reddy
+    - N Shree Charani
+    - K Goud
+    Pakistan:
+    - Muneeba Ali
+    - Gull Feroza
+    - Ayesha Zafar
+    - Saira Jabeen
+    - Natalia Pervaiz
+    - Fatima Sana
+    - Aliya Riaz
+    - Rameen Shamim
+    - Nashra Sandhu
+    - Tasmia Rubab
+    - Sadia Iqbal
+  registry:
+    people:
+      A Reddy: eadc8924
+      Aliya Riaz: 2904b4b6
+      Ayesha Zafar: e15f4fa4
+      BS Fulmali: bd8689b0
+      CA Polosak: 26a360d2
+      DB Sharma: 201fef33
+      Eloise Sheridan: d8d43840
+      Fatima Sana: ea9c54de
+      Gull Feroza: 9ff1e91e
+      H Kaur: 53cd8da6
+      JI Rodrigues: cb08b611
+      JM Williams: b61d9d70
+      K Goud: 4d622fee
+      Muneeba Ali: 86fdf668
+      N Shree Charani: 583ce32c
+      Nashra Sandhu: c981d3c2
+      Natalia Pervaiz: fa8a3eb0
+      RM Ghosh: 721e0199
+      Rameen Shamim: 0b78b7c1
+      S Mandhana: 5d2eda89
+      S Redfern: 5b038989
+      SR Patil: 33946d69
+      Sadia Iqbal: 53bb50f0
+      Saira Jabeen: e4ff6a62
+      Shafali Verma: d8f59089
+      TL Anderson: f52ddf8d
+      Tasmia Rubab: bf350134
+  team_type: international
+  teams:
+  - India
+  - Pakistan
+  toss:
+    winner: India
+    decision: bat
+  umpires:
+  - CA Polosak
+  - JM Williams
+  venue: Edgbaston, Birmingham
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: S Mandhana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '0.1'
+        batsman: Shafali Verma
+    - 0.2:
+        non_striker: S Mandhana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: Shafali Verma
+    - 0.3:
+        non_striker: S Mandhana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: Shafali Verma
+    - 0.4:
+        non_striker: S Mandhana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Shafali Verma
+    - 0.5:
+        non_striker: S Mandhana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Shafali Verma
+        wicket:
+          player_out: Shafali Verma
+          fielders:
+          - Muneeba Ali
+          kind: caught
+    - 0.6:
+        non_striker: S Mandhana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.6'
+        batsman: JI Rodrigues
+    - 0.7:
+        non_striker: S Mandhana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: JI Rodrigues
+    - 1.1:
+        non_striker: JI Rodrigues
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: S Mandhana
+    - 1.2:
+        non_striker: S Mandhana
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: JI Rodrigues
+    - 1.3:
+        non_striker: S Mandhana
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: JI Rodrigues
+    - 1.4:
+        non_striker: S Mandhana
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: JI Rodrigues
+    - 1.5:
+        non_striker: S Mandhana
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: JI Rodrigues
+    - 1.6:
+        non_striker: JI Rodrigues
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: S Mandhana
+    - 2.1:
+        non_striker: JI Rodrigues
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: S Mandhana
+    - 2.2:
+        non_striker: JI Rodrigues
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.2'
+        batsman: S Mandhana
+    - 2.3:
+        non_striker: JI Rodrigues
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: S Mandhana
+    - 2.4:
+        non_striker: JI Rodrigues
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.4'
+        batsman: S Mandhana
+    - 2.5:
+        non_striker: JI Rodrigues
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: S Mandhana
+    - 2.6:
+        non_striker: JI Rodrigues
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: S Mandhana
+    - 3.1:
+        non_striker: S Mandhana
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: JI Rodrigues
+    - 3.2:
+        non_striker: S Mandhana
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: JI Rodrigues
+        wicket:
+          player_out: JI Rodrigues
+          fielders:
+          - Natalia Pervaiz
+          kind: caught
+    - 3.3:
+        non_striker: S Mandhana
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: H Kaur
+    - 3.4:
+        non_striker: H Kaur
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: S Mandhana
+    - 3.5:
+        non_striker: H Kaur
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: S Mandhana
+    - 3.6:
+        non_striker: S Mandhana
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: H Kaur
+    - 4.1:
+        non_striker: H Kaur
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: S Mandhana
+    - 4.2:
+        non_striker: H Kaur
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.2'
+        batsman: S Mandhana
+    - 4.3:
+        non_striker: H Kaur
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.3'
+        batsman: S Mandhana
+    - 4.4:
+        non_striker: H Kaur
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: S Mandhana
+    - 4.5:
+        non_striker: S Mandhana
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: H Kaur
+    - 4.6:
+        non_striker: H Kaur
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: S Mandhana
+    - 5.1:
+        non_striker: S Mandhana
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '5.1'
+        batsman: H Kaur
+    - 5.2:
+        non_striker: S Mandhana
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: H Kaur
+    - 5.3:
+        non_striker: H Kaur
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: S Mandhana
+    - 5.4:
+        non_striker: S Mandhana
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: H Kaur
+    - 5.5:
+        non_striker: H Kaur
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: S Mandhana
+    - 5.6:
+        non_striker: H Kaur
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: S Mandhana
+    - 5.7:
+        non_striker: H Kaur
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: S Mandhana
+    - 6.1:
+        non_striker: S Mandhana
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: H Kaur
+    - 6.2:
+        non_striker: H Kaur
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: S Mandhana
+    - 6.3:
+        non_striker: H Kaur
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: S Mandhana
+    - 6.4:
+        non_striker: S Mandhana
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: H Kaur
+    - 6.5:
+        non_striker: S Mandhana
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: H Kaur
+    - 6.6:
+        non_striker: S Mandhana
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: H Kaur
+    - 7.1:
+        non_striker: S Mandhana
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: H Kaur
+    - 7.2:
+        non_striker: H Kaur
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: S Mandhana
+    - 7.3:
+        non_striker: S Mandhana
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: H Kaur
+    - 7.4:
+        non_striker: H Kaur
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: S Mandhana
+    - 7.5:
+        non_striker: H Kaur
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: S Mandhana
+    - 7.6:
+        non_striker: S Mandhana
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: H Kaur
+    - 8.1:
+        non_striker: S Mandhana
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: H Kaur
+    - 8.2:
+        non_striker: S Mandhana
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.2'
+        batsman: H Kaur
+    - 8.3:
+        non_striker: S Mandhana
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: H Kaur
+    - 8.4:
+        non_striker: S Mandhana
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: H Kaur
+    - 8.5:
+        non_striker: S Mandhana
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.5'
+        batsman: H Kaur
+    - 8.6:
+        non_striker: S Mandhana
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: H Kaur
+    - 9.1:
+        non_striker: H Kaur
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '9.1'
+        batsman: S Mandhana
+    - 9.2:
+        non_striker: H Kaur
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: S Mandhana
+    - 9.3:
+        non_striker: S Mandhana
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.3'
+        batsman: H Kaur
+    - 9.4:
+        non_striker: S Mandhana
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: H Kaur
+    - 9.5:
+        non_striker: H Kaur
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: S Mandhana
+    - 9.6:
+        non_striker: S Mandhana
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: H Kaur
+    - 10.1:
+        non_striker: H Kaur
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: S Mandhana
+    - 10.2:
+        non_striker: S Mandhana
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: H Kaur
+    - 10.3:
+        non_striker: H Kaur
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: S Mandhana
+    - 10.4:
+        non_striker: H Kaur
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.4'
+        batsman: S Mandhana
+    - 10.5:
+        non_striker: H Kaur
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.5'
+        batsman: S Mandhana
+    - 10.6:
+        non_striker: H Kaur
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: S Mandhana
+    - 11.1:
+        non_striker: H Kaur
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.1'
+        batsman: S Mandhana
+    - 11.2:
+        non_striker: H Kaur
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.2'
+        batsman: S Mandhana
+    - 11.3:
+        non_striker: H Kaur
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.3'
+        batsman: S Mandhana
+    - 11.4:
+        non_striker: H Kaur
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: S Mandhana
+    - 11.5:
+        non_striker: H Kaur
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: S Mandhana
+    - 11.6:
+        non_striker: H Kaur
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: S Mandhana
+    - 12.1:
+        non_striker: H Kaur
+        bowler: Sadia Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.1'
+        batsman: S Mandhana
+    - 12.2:
+        non_striker: H Kaur
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '12.1'
+        batsman: S Mandhana
+    - 12.3:
+        non_striker: H Kaur
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: S Mandhana
+    - 12.4:
+        non_striker: S Mandhana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.3'
+        batsman: H Kaur
+    - 12.5:
+        non_striker: S Mandhana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.4'
+        batsman: H Kaur
+    - 12.6:
+        non_striker: S Mandhana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: H Kaur
+    - 12.7:
+        non_striker: H Kaur
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.6'
+        batsman: S Mandhana
+    - 13.1:
+        non_striker: S Mandhana
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: H Kaur
+    - 13.2:
+        non_striker: S Mandhana
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: H Kaur
+    - 13.3:
+        non_striker: H Kaur
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: S Mandhana
+    - 13.4:
+        non_striker: H Kaur
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.4'
+        batsman: S Mandhana
+    - 13.5:
+        non_striker: H Kaur
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: S Mandhana
+        wicket:
+          player_out: S Mandhana
+          fielders:
+          - Fatima Sana
+          kind: caught
+    - 13.6:
+        non_striker: H Kaur
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: BS Fulmali
+    - 14.1:
+        non_striker: H Kaur
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: BS Fulmali
+    - 14.2:
+        non_striker: H Kaur
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: BS Fulmali
+        wicket:
+          player_out: BS Fulmali
+          fielders:
+          - Muneeba Ali
+          kind: stumped
+    - 14.3:
+        non_striker: H Kaur
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.3'
+        batsman: RM Ghosh
+    - 14.4:
+        non_striker: H Kaur
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: RM Ghosh
+    - 14.5:
+        non_striker: RM Ghosh
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: H Kaur
+    - 14.6:
+        non_striker: H Kaur
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: RM Ghosh
+    - 15.1:
+        non_striker: H Kaur
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: RM Ghosh
+    - 15.2:
+        non_striker: RM Ghosh
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: H Kaur
+    - 15.3:
+        non_striker: RM Ghosh
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: H Kaur
+    - 15.4:
+        non_striker: RM Ghosh
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.4'
+        batsman: H Kaur
+    - 15.5:
+        non_striker: RM Ghosh
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: H Kaur
+    - 15.6:
+        non_striker: RM Ghosh
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.6'
+        batsman: H Kaur
+    - 16.1:
+        non_striker: H Kaur
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: RM Ghosh
+    - 16.2:
+        non_striker: RM Ghosh
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: H Kaur
+        wicket:
+          player_out: H Kaur
+          fielders:
+          - Natalia Pervaiz
+          kind: caught
+    - 16.3:
+        non_striker: RM Ghosh
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.3'
+        batsman: DB Sharma
+    - 16.4:
+        non_striker: RM Ghosh
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: DB Sharma
+    - 16.5:
+        non_striker: RM Ghosh
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: DB Sharma
+    - 16.6:
+        non_striker: DB Sharma
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.6'
+        batsman: RM Ghosh
+    - 16.7:
+        non_striker: DB Sharma
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.6'
+        batsman: RM Ghosh
+    - 17.1:
+        non_striker: RM Ghosh
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.1'
+        batsman: DB Sharma
+    - 17.2:
+        non_striker: RM Ghosh
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: DB Sharma
+    - 17.3:
+        non_striker: RM Ghosh
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: DB Sharma
+    - 17.4:
+        non_striker: DB Sharma
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: RM Ghosh
+    - 17.5:
+        non_striker: DB Sharma
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: RM Ghosh
+    - 17.6:
+        non_striker: DB Sharma
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: RM Ghosh
+    - 18.1:
+        non_striker: RM Ghosh
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.1'
+        batsman: DB Sharma
+    - 18.2:
+        non_striker: RM Ghosh
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: DB Sharma
+    - 18.3:
+        non_striker: DB Sharma
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.3'
+        batsman: RM Ghosh
+    - 18.4:
+        non_striker: DB Sharma
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.4'
+        batsman: RM Ghosh
+    - 18.5:
+        non_striker: DB Sharma
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.5'
+        batsman: RM Ghosh
+    - 18.6:
+        non_striker: DB Sharma
+        bowler: Tasmia Rubab
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.6'
+        batsman: RM Ghosh
+    - 19.1:
+        non_striker: RM Ghosh
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: DB Sharma
+    - 19.2:
+        non_striker: DB Sharma
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.2'
+        batsman: RM Ghosh
+    - 19.3:
+        non_striker: DB Sharma
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: RM Ghosh
+    - 19.4:
+        non_striker: DB Sharma
+        bowler: Fatima Sana
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        actual_delivery: '19.4'
+        batsman: RM Ghosh
+    - 19.5:
+        non_striker: DB Sharma
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.4'
+        batsman: RM Ghosh
+    - 19.6:
+        non_striker: DB Sharma
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.4'
+        batsman: RM Ghosh
+    - 19.7:
+        non_striker: DB Sharma
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: RM Ghosh
+        wicket:
+          player_out: RM Ghosh
+          kind: bowled
+    - 19.8:
+        non_striker: DB Sharma
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.6'
+        batsman: SR Patil
+    - 19.9:
+        non_striker: DB Sharma
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: SR Patil
+- 2nd innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Gull Feroza
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.1'
+        batsman: Muneeba Ali
+    - 0.2:
+        non_striker: Gull Feroza
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.2'
+        batsman: Muneeba Ali
+    - 0.3:
+        non_striker: Muneeba Ali
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: Gull Feroza
+    - 0.4:
+        non_striker: Gull Feroza
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: Muneeba Ali
+    - 0.5:
+        non_striker: Muneeba Ali
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Gull Feroza
+    - 0.6:
+        non_striker: Muneeba Ali
+        bowler: A Reddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.6'
+        batsman: Gull Feroza
+    - 0.7:
+        non_striker: Muneeba Ali
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Gull Feroza
+    - 1.1:
+        non_striker: Gull Feroza
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: Muneeba Ali
+    - 1.2:
+        non_striker: Gull Feroza
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: Muneeba Ali
+    - 1.3:
+        non_striker: Gull Feroza
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: Muneeba Ali
+    - 1.4:
+        non_striker: Muneeba Ali
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: Gull Feroza
+    - 1.5:
+        non_striker: Gull Feroza
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Muneeba Ali
+    - 1.6:
+        non_striker: Gull Feroza
+        bowler: SR Patil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '1.6'
+        batsman: Muneeba Ali
+    - 2.1:
+        non_striker: Gull Feroza
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.1'
+        batsman: Muneeba Ali
+    - 2.2:
+        non_striker: Gull Feroza
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: Muneeba Ali
+    - 2.3:
+        non_striker: Muneeba Ali
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: Gull Feroza
+    - 2.4:
+        non_striker: Muneeba Ali
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: Gull Feroza
+    - 2.5:
+        non_striker: Gull Feroza
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.5'
+        batsman: Muneeba Ali
+    - 2.6:
+        non_striker: Gull Feroza
+        bowler: K Goud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Muneeba Ali
+    - 3.1:
+        non_striker: Muneeba Ali
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.1'
+        batsman: Gull Feroza
+    - 3.2:
+        non_striker: Muneeba Ali
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: Gull Feroza
+    - 3.3:
+        non_striker: Gull Feroza
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: Muneeba Ali
+    - 3.4:
+        non_striker: Gull Feroza
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Muneeba Ali
+    - 3.5:
+        non_striker: Gull Feroza
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.5'
+        batsman: Muneeba Ali
+    - 3.6:
+        non_striker: Gull Feroza
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: Muneeba Ali
+    - 4.1:
+        non_striker: Gull Feroza
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: Muneeba Ali
+    - 4.2:
+        non_striker: Gull Feroza
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: Muneeba Ali
+    - 4.3:
+        non_striker: Gull Feroza
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: Muneeba Ali
+    - 4.4:
+        non_striker: Gull Feroza
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: Muneeba Ali
+    - 4.5:
+        non_striker: Muneeba Ali
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Gull Feroza
+        wicket:
+          player_out: Gull Feroza
+          fielders:
+          - BS Fulmali
+          kind: caught
+    - 4.6:
+        non_striker: Muneeba Ali
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: Ayesha Zafar
+    - 5.1:
+        non_striker: Muneeba Ali
+        bowler: A Reddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.1'
+        batsman: Ayesha Zafar
+    - 5.2:
+        non_striker: Muneeba Ali
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Ayesha Zafar
+    - 5.3:
+        non_striker: Muneeba Ali
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.2'
+        batsman: Ayesha Zafar
+    - 5.4:
+        non_striker: Muneeba Ali
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.3'
+        batsman: Ayesha Zafar
+    - 5.5:
+        non_striker: Muneeba Ali
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: Ayesha Zafar
+    - 5.6:
+        non_striker: Ayesha Zafar
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: Muneeba Ali
+    - 5.7:
+        non_striker: Muneeba Ali
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.6'
+        batsman: Ayesha Zafar
+    - 6.1:
+        non_striker: Ayesha Zafar
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: Muneeba Ali
+    - 6.2:
+        non_striker: Muneeba Ali
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: Ayesha Zafar
+    - 6.3:
+        non_striker: Muneeba Ali
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Ayesha Zafar
+        wicket:
+          player_out: Ayesha Zafar
+          fielders:
+          - S Mandhana
+          kind: caught
+    - 6.4:
+        non_striker: Muneeba Ali
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: Saira Jabeen
+    - 6.5:
+        non_striker: Saira Jabeen
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Muneeba Ali
+    - 6.6:
+        non_striker: Saira Jabeen
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: Muneeba Ali
+    - 7.1:
+        non_striker: Saira Jabeen
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: Muneeba Ali
+    - 7.2:
+        non_striker: Muneeba Ali
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: Saira Jabeen
+    - 7.3:
+        non_striker: Saira Jabeen
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: Muneeba Ali
+    - 7.4:
+        non_striker: Muneeba Ali
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: Saira Jabeen
+        wicket:
+          player_out: Saira Jabeen
+          fielders:
+          - H Kaur
+          kind: caught
+    - 7.5:
+        non_striker: Muneeba Ali
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: Natalia Pervaiz
+    - 7.6:
+        non_striker: Natalia Pervaiz
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: Muneeba Ali
+    - 8.1:
+        non_striker: Muneeba Ali
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Natalia Pervaiz
+    - 8.2:
+        non_striker: Muneeba Ali
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: Natalia Pervaiz
+    - 8.3:
+        non_striker: Muneeba Ali
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: Natalia Pervaiz
+    - 8.4:
+        non_striker: Natalia Pervaiz
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: Muneeba Ali
+    - 8.5:
+        non_striker: Muneeba Ali
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Natalia Pervaiz
+    - 8.6:
+        non_striker: Natalia Pervaiz
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Muneeba Ali
+    - 9.1:
+        non_striker: Muneeba Ali
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: Natalia Pervaiz
+    - 9.2:
+        non_striker: Muneeba Ali
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: Natalia Pervaiz
+    - 9.3:
+        non_striker: Natalia Pervaiz
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.3'
+        batsman: Muneeba Ali
+    - 9.4:
+        non_striker: Natalia Pervaiz
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.4'
+        batsman: Muneeba Ali
+    - 9.5:
+        non_striker: Natalia Pervaiz
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.5'
+        batsman: Muneeba Ali
+    - 9.6:
+        non_striker: Natalia Pervaiz
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: Muneeba Ali
+    - 10.1:
+        non_striker: Natalia Pervaiz
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: Muneeba Ali
+    - 10.2:
+        non_striker: Muneeba Ali
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: Natalia Pervaiz
+    - 10.3:
+        non_striker: Natalia Pervaiz
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Muneeba Ali
+    - 10.4:
+        non_striker: Muneeba Ali
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: Natalia Pervaiz
+    - 10.5:
+        non_striker: Muneeba Ali
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: Natalia Pervaiz
+        wicket:
+          player_out: Muneeba Ali
+          fielders:
+          - DB Sharma
+          kind: run out
+    - 10.6:
+        non_striker: Natalia Pervaiz
+        bowler: SR Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Fatima Sana
+    - 11.1:
+        non_striker: Fatima Sana
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: Natalia Pervaiz
+    - 11.2:
+        non_striker: Natalia Pervaiz
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: Fatima Sana
+    - 11.3:
+        non_striker: Natalia Pervaiz
+        bowler: Shafali Verma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.3'
+        batsman: Fatima Sana
+    - 11.4:
+        non_striker: Natalia Pervaiz
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: Fatima Sana
+        wicket:
+          player_out: Fatima Sana
+          fielders:
+          - S Mandhana
+          kind: caught
+    - 11.5:
+        non_striker: Natalia Pervaiz
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: Aliya Riaz
+    - 11.6:
+        non_striker: Natalia Pervaiz
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: Aliya Riaz
+    - 11.7:
+        non_striker: Aliya Riaz
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Natalia Pervaiz
+    - 12.1:
+        non_striker: Aliya Riaz
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Natalia Pervaiz
+        wicket:
+          player_out: Natalia Pervaiz
+          fielders:
+          - H Kaur
+          kind: caught
+    - 12.2:
+        non_striker: Aliya Riaz
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: Rameen Shamim
+    - 12.3:
+        non_striker: Rameen Shamim
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.3'
+        batsman: Aliya Riaz
+    - 12.4:
+        non_striker: Rameen Shamim
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: Aliya Riaz
+    - 12.5:
+        non_striker: Rameen Shamim
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Aliya Riaz
+    - 12.6:
+        non_striker: Rameen Shamim
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: Aliya Riaz
+    - 13.1:
+        non_striker: Rameen Shamim
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: Aliya Riaz
+    - 13.2:
+        non_striker: Aliya Riaz
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: Rameen Shamim
+    - 13.3:
+        non_striker: Rameen Shamim
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.3'
+        batsman: Aliya Riaz
+    - 13.4:
+        non_striker: Rameen Shamim
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Aliya Riaz
+    - 13.5:
+        non_striker: Rameen Shamim
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: Aliya Riaz
+    - 13.6:
+        non_striker: Aliya Riaz
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Rameen Shamim
+    - 14.1:
+        non_striker: Aliya Riaz
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: Rameen Shamim
+    - 14.2:
+        non_striker: Rameen Shamim
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: Aliya Riaz
+    - 14.3:
+        non_striker: Aliya Riaz
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: Rameen Shamim
+    - 14.4:
+        non_striker: Aliya Riaz
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: Rameen Shamim
+        wicket:
+          player_out: Rameen Shamim
+          fielders:
+          - SR Patil
+          kind: caught
+    - 14.5:
+        non_striker: Aliya Riaz
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: Nashra Sandhu
+    - 14.6:
+        non_striker: Nashra Sandhu
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: Aliya Riaz
+    - 15.1:
+        non_striker: Aliya Riaz
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: Nashra Sandhu
+    - 15.2:
+        non_striker: Nashra Sandhu
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '15.2'
+        batsman: Aliya Riaz
+    - 15.3:
+        non_striker: Aliya Riaz
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: Nashra Sandhu
+    - 15.4:
+        non_striker: Nashra Sandhu
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: Aliya Riaz
+    - 15.5:
+        non_striker: Nashra Sandhu
+        bowler: Shafali Verma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.5'
+        batsman: Aliya Riaz
+    - 15.6:
+        non_striker: Nashra Sandhu
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.5'
+        batsman: Aliya Riaz
+    - 15.7:
+        non_striker: Nashra Sandhu
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.6'
+        batsman: Aliya Riaz
+    - 16.1:
+        non_striker: Aliya Riaz
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: Nashra Sandhu
+    - 16.2:
+        non_striker: Nashra Sandhu
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: Aliya Riaz
+        wicket:
+          player_out: Aliya Riaz
+          fielders:
+          - JI Rodrigues
+          kind: caught
+    - 16.3:
+        non_striker: Nashra Sandhu
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: Tasmia Rubab
+    - 16.4:
+        non_striker: Nashra Sandhu
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: Tasmia Rubab
+        wicket:
+          player_out: Tasmia Rubab
+          fielders:
+          - JI Rodrigues
+          kind: caught
+    - 16.5:
+        non_striker: Nashra Sandhu
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: Sadia Iqbal
+    - 16.6:
+        non_striker: Sadia Iqbal
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: Nashra Sandhu
+        wicket:
+          player_out: Nashra Sandhu
+          fielders:
+          - H Kaur
+          kind: caught
+    target:
+      overs: 20
+      runs: 171

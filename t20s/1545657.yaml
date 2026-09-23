@@ -1,0 +1,2243 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-08-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bogota
+  dates:
+  - '2026-08-08'
+  gender: male
+  match_type: T20
+  match_type_number: 4060
+  outcome:
+    winner: Brazil
+    by:
+      runs: 44
+  overs: 20
+  player_of_match:
+  - Yasar Haroon
+  players:
+    Brazil:
+    - W Maximo
+    - LH Rodrigues
+    - CC Machado
+    - MFI Assuncao
+    - Yasar Haroon
+    - LG Moras
+    - Rejaul Karim
+    - L Maximo
+    - G Oliveira
+    - RV Nascimento
+    - KM Silva
+    Mexico:
+    - J Byrappa
+    - Shashikant Laxman
+    - SS Tallapragada
+    - Mohit Sharma
+    - M Noble
+    - Waseem Tabrez
+    - D Panda
+    - Y Jasti
+    - Pratik Singh Bais
+    - Bhargav Narasimha
+    - GE Gutierrez Chavez
+  registry:
+    people:
+      Bhargav Narasimha: e60e8014
+      CC Machado: 5992ef03
+      D Panda: bad1af65
+      G Oliveira: b4c52f5f
+      GE Gutierrez Chavez: 6ecd3d7b
+      J Byrappa: 860f7b67
+      KM Silva: 0b9b3eb6
+      L Maximo: 58c0c30c
+      LG Moras: d5dea4e7
+      LH Rodrigues: 57c95c3c
+      M Noble: d8141f01
+      MFI Assuncao: d8e48e1b
+      Mohit Sharma: cd9f6505
+      Pratik Singh Bais: 5b351aff
+      RV Nascimento: d9ba93c0
+      Rejaul Karim: c767d8ed
+      SS Tallapragada: 24ff9539
+      Shashikant Laxman: 8cf61570
+      W Maximo: e41dee27
+      Waseem Tabrez: d9dcca57
+      Y Jasti: 3377f988
+      Yasar Haroon: 5a8dc41e
+  team_type: international
+  teams:
+  - Brazil
+  - Mexico
+  toss:
+    winner: Mexico
+    decision: field
+  venue: Los Pinos Polo Club 1, Cundinamarca
+innings:
+- 1st innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        actual_delivery: '0.1'
+        batsman: W Maximo
+    - 0.2:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        actual_delivery: '0.2'
+        batsman: W Maximo
+    - 0.3:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LH Rodrigues
+        actual_delivery: '0.3'
+        batsman: W Maximo
+    - 0.4:
+        non_striker: W Maximo
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.4'
+        batsman: LH Rodrigues
+    - 0.5:
+        non_striker: W Maximo
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: LH Rodrigues
+    - 0.6:
+        non_striker: W Maximo
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: LH Rodrigues
+    - 1.1:
+        non_striker: W Maximo
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: LH Rodrigues
+    - 1.2:
+        non_striker: W Maximo
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: LH Rodrigues
+    - 1.3:
+        non_striker: W Maximo
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: LH Rodrigues
+    - 1.4:
+        non_striker: LH Rodrigues
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: W Maximo
+    - 1.5:
+        non_striker: LH Rodrigues
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: W Maximo
+    - 1.6:
+        non_striker: W Maximo
+        bowler: Y Jasti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.6'
+        batsman: LH Rodrigues
+    - 1.7:
+        non_striker: W Maximo
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.6'
+        batsman: LH Rodrigues
+    - 2.1:
+        non_striker: LH Rodrigues
+        bowler: Mohit Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.1'
+        batsman: W Maximo
+    - 2.2:
+        non_striker: LH Rodrigues
+        bowler: Mohit Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: W Maximo
+        wicket:
+          player_out: W Maximo
+          kind: bowled
+    - 2.3:
+        non_striker: LH Rodrigues
+        bowler: Mohit Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: CC Machado
+    - 2.4:
+        non_striker: CC Machado
+        bowler: Mohit Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: LH Rodrigues
+    - 2.5:
+        non_striker: LH Rodrigues
+        bowler: Mohit Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: CC Machado
+    - 2.6:
+        non_striker: CC Machado
+        bowler: Mohit Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: LH Rodrigues
+    - 2.7:
+        non_striker: LH Rodrigues
+        bowler: Mohit Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: CC Machado
+    - 3.1:
+        non_striker: CC Machado
+        bowler: Y Jasti
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '3.1'
+        batsman: LH Rodrigues
+    - 3.2:
+        non_striker: LH Rodrigues
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.1'
+        batsman: CC Machado
+    - 3.3:
+        non_striker: LH Rodrigues
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: CC Machado
+    - 3.4:
+        non_striker: LH Rodrigues
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: CC Machado
+    - 3.5:
+        non_striker: CC Machado
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: LH Rodrigues
+        wicket:
+          player_out: LH Rodrigues
+          kind: bowled
+    - 3.6:
+        non_striker: CC Machado
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: MFI Assuncao
+    - 3.7:
+        non_striker: MFI Assuncao
+        bowler: Y Jasti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.6'
+        batsman: CC Machado
+    - 3.8:
+        non_striker: MFI Assuncao
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: CC Machado
+    - 4.1:
+        non_striker: MFI Assuncao
+        bowler: Mohit Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: CC Machado
+    - 4.2:
+        non_striker: MFI Assuncao
+        bowler: Mohit Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: CC Machado
+    - 4.3:
+        non_striker: CC Machado
+        bowler: Mohit Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: MFI Assuncao
+    - 4.4:
+        non_striker: MFI Assuncao
+        bowler: Mohit Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: CC Machado
+    - 4.5:
+        non_striker: CC Machado
+        bowler: Mohit Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: MFI Assuncao
+    - 4.6:
+        non_striker: CC Machado
+        bowler: Mohit Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: MFI Assuncao
+    - 5.1:
+        non_striker: CC Machado
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.1'
+        batsman: MFI Assuncao
+    - 5.2:
+        non_striker: CC Machado
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: MFI Assuncao
+    - 5.3:
+        non_striker: CC Machado
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.3'
+        batsman: MFI Assuncao
+    - 5.4:
+        non_striker: CC Machado
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: MFI Assuncao
+    - 5.5:
+        non_striker: CC Machado
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: MFI Assuncao
+    - 5.6:
+        non_striker: MFI Assuncao
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: CC Machado
+    - 6.1:
+        non_striker: CC Machado
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: MFI Assuncao
+    - 6.2:
+        non_striker: CC Machado
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: MFI Assuncao
+    - 6.3:
+        non_striker: CC Machado
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.3'
+        batsman: MFI Assuncao
+    - 6.4:
+        non_striker: CC Machado
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.4'
+        batsman: MFI Assuncao
+    - 6.5:
+        non_striker: CC Machado
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: MFI Assuncao
+        wicket:
+          player_out: MFI Assuncao
+          kind: lbw
+    - 6.6:
+        non_striker: CC Machado
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: Yasar Haroon
+    - 7.1:
+        non_striker: Yasar Haroon
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: CC Machado
+    - 7.2:
+        non_striker: CC Machado
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.2'
+        batsman: Yasar Haroon
+    - 7.3:
+        non_striker: CC Machado
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: Yasar Haroon
+    - 7.4:
+        non_striker: CC Machado
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.4'
+        batsman: Yasar Haroon
+    - 7.5:
+        non_striker: CC Machado
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: Yasar Haroon
+    - 7.6:
+        non_striker: Yasar Haroon
+        bowler: D Panda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.6'
+        batsman: CC Machado
+    - 7.7:
+        non_striker: Yasar Haroon
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: CC Machado
+    - 8.1:
+        non_striker: CC Machado
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Yasar Haroon
+    - 8.2:
+        non_striker: CC Machado
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Yasar Haroon
+    - 8.3:
+        non_striker: Yasar Haroon
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: CC Machado
+    - 8.4:
+        non_striker: Yasar Haroon
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: CC Machado
+    - 8.5:
+        non_striker: Yasar Haroon
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: CC Machado
+    - 8.6:
+        non_striker: CC Machado
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Yasar Haroon
+    - 9.1:
+        non_striker: Yasar Haroon
+        bowler: D Panda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '9.1'
+        batsman: CC Machado
+    - 9.2:
+        non_striker: CC Machado
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: Yasar Haroon
+    - 9.3:
+        non_striker: Yasar Haroon
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: CC Machado
+    - 9.4:
+        non_striker: Yasar Haroon
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: CC Machado
+    - 9.5:
+        non_striker: Yasar Haroon
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: CC Machado
+    - 9.6:
+        non_striker: CC Machado
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.6'
+        batsman: Yasar Haroon
+    - 10.1:
+        non_striker: Yasar Haroon
+        bowler: Shashikant Laxman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.1'
+        batsman: CC Machado
+    - 10.2:
+        non_striker: Yasar Haroon
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: CC Machado
+    - 10.3:
+        non_striker: CC Machado
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.2'
+        batsman: Yasar Haroon
+    - 10.4:
+        non_striker: CC Machado
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Yasar Haroon
+    - 10.5:
+        non_striker: Yasar Haroon
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: CC Machado
+    - 10.6:
+        non_striker: CC Machado
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: Yasar Haroon
+    - 10.7:
+        non_striker: Yasar Haroon
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: CC Machado
+    - 11.1:
+        non_striker: CC Machado
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: Yasar Haroon
+    - 11.2:
+        non_striker: CC Machado
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: Yasar Haroon
+    - 11.3:
+        non_striker: Yasar Haroon
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: CC Machado
+    - 11.4:
+        non_striker: CC Machado
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: Yasar Haroon
+    - 11.5:
+        non_striker: Yasar Haroon
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: CC Machado
+    - 11.6:
+        non_striker: Yasar Haroon
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: CC Machado
+    - 12.1:
+        non_striker: CC Machado
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Yasar Haroon
+    - 12.2:
+        non_striker: CC Machado
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: Yasar Haroon
+    - 12.3:
+        non_striker: Yasar Haroon
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: CC Machado
+    - 12.4:
+        non_striker: Yasar Haroon
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: CC Machado
+    - 12.5:
+        non_striker: Yasar Haroon
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: CC Machado
+    - 12.6:
+        non_striker: Yasar Haroon
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: CC Machado
+    - 13.1:
+        non_striker: Yasar Haroon
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: CC Machado
+    - 13.2:
+        non_striker: CC Machado
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.2'
+        batsman: Yasar Haroon
+    - 13.3:
+        non_striker: CC Machado
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.3'
+        batsman: Yasar Haroon
+    - 13.4:
+        non_striker: CC Machado
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.4'
+        batsman: Yasar Haroon
+    - 13.5:
+        non_striker: CC Machado
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: Yasar Haroon
+    - 13.6:
+        non_striker: Yasar Haroon
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.6'
+        batsman: CC Machado
+    - 13.7:
+        non_striker: Yasar Haroon
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: CC Machado
+    - 14.1:
+        non_striker: CC Machado
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: Yasar Haroon
+    - 14.2:
+        non_striker: CC Machado
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: Yasar Haroon
+    - 14.3:
+        non_striker: CC Machado
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: Yasar Haroon
+    - 14.4:
+        non_striker: Yasar Haroon
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: CC Machado
+        wicket:
+          player_out: CC Machado
+          kind: caught and bowled
+    - 14.5:
+        non_striker: Yasar Haroon
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: LG Moras
+    - 14.6:
+        non_striker: Yasar Haroon
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: LG Moras
+    - 15.1:
+        non_striker: LG Moras
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: Yasar Haroon
+    - 15.2:
+        non_striker: LG Moras
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: Yasar Haroon
+    - 15.3:
+        non_striker: LG Moras
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: Yasar Haroon
+    - 15.4:
+        non_striker: Yasar Haroon
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: LG Moras
+    - 15.5:
+        non_striker: Yasar Haroon
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: LG Moras
+    - 15.6:
+        non_striker: Yasar Haroon
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: LG Moras
+    - 16.1:
+        non_striker: LG Moras
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: Yasar Haroon
+    - 16.2:
+        non_striker: Yasar Haroon
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: LG Moras
+    - 16.3:
+        non_striker: LG Moras
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.3'
+        batsman: Yasar Haroon
+    - 16.4:
+        non_striker: LG Moras
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: Yasar Haroon
+    - 16.5:
+        non_striker: LG Moras
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: Yasar Haroon
+    - 16.6:
+        non_striker: LG Moras
+        bowler: Shashikant Laxman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.6'
+        batsman: Yasar Haroon
+    - 17.1:
+        non_striker: Yasar Haroon
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: LG Moras
+    - 17.2:
+        non_striker: LG Moras
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: Yasar Haroon
+    - 17.3:
+        non_striker: LG Moras
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.3'
+        batsman: Yasar Haroon
+    - 17.4:
+        non_striker: LG Moras
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.4'
+        batsman: Yasar Haroon
+    - 17.5:
+        non_striker: LG Moras
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: Yasar Haroon
+        wicket:
+          player_out: Yasar Haroon
+          kind: lbw
+    - 17.6:
+        non_striker: LG Moras
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: Rejaul Karim
+    - 17.7:
+        non_striker: Rejaul Karim
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: LG Moras
+    - 18.1:
+        non_striker: Rejaul Karim
+        bowler: Y Jasti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.1'
+        batsman: LG Moras
+    - 18.2:
+        non_striker: Rejaul Karim
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: LG Moras
+    - 18.3:
+        non_striker: Rejaul Karim
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: LG Moras
+    - 18.4:
+        non_striker: Rejaul Karim
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: LG Moras
+    - 18.5:
+        non_striker: LG Moras
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: Rejaul Karim
+        wicket:
+          player_out: Rejaul Karim
+          kind: bowled
+    - 18.6:
+        non_striker: LG Moras
+        bowler: Y Jasti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '18.5'
+        batsman: L Maximo
+    - 18.7:
+        non_striker: L Maximo
+        bowler: Y Jasti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: LG Moras
+    - 19.1:
+        non_striker: LG Moras
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.1'
+        batsman: L Maximo
+    - 19.2:
+        non_striker: LG Moras
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: L Maximo
+        wicket:
+          player_out: L Maximo
+          kind: bowled
+    - 19.3:
+        non_striker: LG Moras
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: G Oliveira
+    - 19.4:
+        non_striker: LG Moras
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: G Oliveira
+    - 19.5:
+        non_striker: LG Moras
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: G Oliveira
+    - 19.6:
+        non_striker: LG Moras
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.6'
+        batsman: G Oliveira
+- 2nd innings:
+    team: Mexico
+    deliveries:
+    - 0.1:
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Shashikant Laxman
+        actual_delivery: '0.1'
+        batsman: J Byrappa
+    - 0.2:
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Shashikant Laxman
+        actual_delivery: '0.1'
+        batsman: J Byrappa
+    - 0.3:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shashikant Laxman
+        actual_delivery: '0.1'
+        batsman: J Byrappa
+    - 0.4:
+        non_striker: J Byrappa
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.2'
+        batsman: Shashikant Laxman
+    - 0.5:
+        non_striker: Shashikant Laxman
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: J Byrappa
+    - 0.6:
+        non_striker: J Byrappa
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Shashikant Laxman
+    - 0.7:
+        non_striker: J Byrappa
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Shashikant Laxman
+        wicket:
+          player_out: Shashikant Laxman
+          kind: lbw
+    - 0.8:
+        non_striker: J Byrappa
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: SS Tallapragada
+    - 1.1:
+        non_striker: J Byrappa
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: SS Tallapragada
+    - 1.2:
+        non_striker: J Byrappa
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: SS Tallapragada
+    - 1.3:
+        non_striker: J Byrappa
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: SS Tallapragada
+    - 1.4:
+        non_striker: SS Tallapragada
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: J Byrappa
+    - 1.5:
+        non_striker: J Byrappa
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: SS Tallapragada
+    - 1.6:
+        non_striker: J Byrappa
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: SS Tallapragada
+        wicket:
+          player_out: SS Tallapragada
+          kind: bowled
+    - 2.1:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohit Sharma
+        actual_delivery: '2.1'
+        batsman: J Byrappa
+    - 2.2:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Mohit Sharma
+        actual_delivery: '2.2'
+        batsman: J Byrappa
+    - 2.3:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohit Sharma
+        actual_delivery: '2.3'
+        batsman: J Byrappa
+    - 2.4:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mohit Sharma
+        actual_delivery: '2.4'
+        batsman: J Byrappa
+    - 2.5:
+        non_striker: J Byrappa
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: Mohit Sharma
+    - 2.6:
+        non_striker: Mohit Sharma
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: J Byrappa
+    - 3.1:
+        non_striker: J Byrappa
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Mohit Sharma
+    - 3.2:
+        non_striker: J Byrappa
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Mohit Sharma
+        wicket:
+          player_out: Mohit Sharma
+          fielders:
+          - Yasar Haroon
+          kind: caught
+    - 3.3:
+        non_striker: J Byrappa
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: M Noble
+        wicket:
+          player_out: M Noble
+          kind: bowled
+    - 3.4:
+        non_striker: J Byrappa
+        bowler: LG Moras
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.4'
+        batsman: Waseem Tabrez
+    - 3.5:
+        non_striker: J Byrappa
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Waseem Tabrez
+    - 3.6:
+        non_striker: J Byrappa
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Waseem Tabrez
+    - 3.7:
+        non_striker: J Byrappa
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Waseem Tabrez
+    - 4.1:
+        non_striker: Waseem Tabrez
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: J Byrappa
+    - 4.2:
+        non_striker: J Byrappa
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: Waseem Tabrez
+    - 4.3:
+        non_striker: J Byrappa
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: Waseem Tabrez
+    - 4.4:
+        non_striker: J Byrappa
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: Waseem Tabrez
+    - 4.5:
+        non_striker: J Byrappa
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Waseem Tabrez
+    - 4.6:
+        non_striker: J Byrappa
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Waseem Tabrez
+    - 5.1:
+        non_striker: Waseem Tabrez
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: J Byrappa
+    - 5.2:
+        non_striker: Waseem Tabrez
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: J Byrappa
+    - 5.3:
+        non_striker: Waseem Tabrez
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: J Byrappa
+    - 5.4:
+        non_striker: Waseem Tabrez
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: J Byrappa
+    - 5.5:
+        non_striker: J Byrappa
+        bowler: LG Moras
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '5.5'
+        batsman: Waseem Tabrez
+    - 5.6:
+        non_striker: Waseem Tabrez
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: J Byrappa
+    - 6.1:
+        non_striker: Waseem Tabrez
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.1'
+        batsman: J Byrappa
+    - 6.2:
+        non_striker: Waseem Tabrez
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: J Byrappa
+    - 6.3:
+        non_striker: J Byrappa
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Waseem Tabrez
+        wicket:
+          player_out: Waseem Tabrez
+          fielders:
+          - RV Nascimento
+          kind: caught
+    - 6.4:
+        non_striker: J Byrappa
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: D Panda
+    - 6.5:
+        non_striker: J Byrappa
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: D Panda
+    - 6.6:
+        non_striker: J Byrappa
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: D Panda
+    - 7.1:
+        non_striker: D Panda
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.1'
+        batsman: J Byrappa
+    - 7.2:
+        non_striker: D Panda
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: J Byrappa
+    - 7.3:
+        non_striker: D Panda
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.3'
+        batsman: J Byrappa
+    - 7.4:
+        non_striker: D Panda
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: J Byrappa
+    - 7.5:
+        non_striker: D Panda
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: J Byrappa
+    - 7.6:
+        non_striker: D Panda
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: J Byrappa
+    - 8.1:
+        non_striker: J Byrappa
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: D Panda
+    - 8.2:
+        non_striker: J Byrappa
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: D Panda
+    - 8.3:
+        non_striker: J Byrappa
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: D Panda
+    - 8.4:
+        non_striker: J Byrappa
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: D Panda
+    - 8.5:
+        non_striker: D Panda
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: J Byrappa
+    - 8.6:
+        non_striker: J Byrappa
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: D Panda
+    - 9.1:
+        non_striker: D Panda
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: J Byrappa
+    - 9.2:
+        non_striker: D Panda
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: J Byrappa
+    - 9.3:
+        non_striker: D Panda
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '9.3'
+        batsman: J Byrappa
+    - 9.4:
+        non_striker: D Panda
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: J Byrappa
+    - 9.5:
+        non_striker: J Byrappa
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: D Panda
+    - 9.6:
+        non_striker: J Byrappa
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: D Panda
+    - 10.1:
+        non_striker: D Panda
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: J Byrappa
+    - 10.2:
+        non_striker: D Panda
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: J Byrappa
+    - 10.3:
+        non_striker: D Panda
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: J Byrappa
+    - 10.4:
+        non_striker: D Panda
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: J Byrappa
+    - 10.5:
+        non_striker: D Panda
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.5'
+        batsman: J Byrappa
+    - 10.6:
+        non_striker: D Panda
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '10.6'
+        batsman: J Byrappa
+    - 11.1:
+        non_striker: J Byrappa
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: D Panda
+    - 11.2:
+        non_striker: D Panda
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: J Byrappa
+    - 11.3:
+        non_striker: D Panda
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: J Byrappa
+    - 11.4:
+        non_striker: D Panda
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: J Byrappa
+    - 11.5:
+        non_striker: D Panda
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: J Byrappa
+        wicket:
+          player_out: J Byrappa
+          kind: lbw
+    - 11.6:
+        non_striker: D Panda
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: Y Jasti
+        wicket:
+          player_out: Y Jasti
+          fielders:
+          - RV Nascimento
+          kind: caught
+    - 12.1:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Pratik Singh Bais
+        actual_delivery: '12.1'
+        batsman: D Panda
+    - 12.2:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Pratik Singh Bais
+        actual_delivery: '12.2'
+        batsman: D Panda
+    - 12.3:
+        non_striker: Pratik Singh Bais
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: D Panda
+        wicket:
+          player_out: D Panda
+          kind: lbw
+    - 12.4:
+        non_striker: Pratik Singh Bais
+        bowler: LH Rodrigues
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        actual_delivery: '12.4'
+        batsman: Bhargav Narasimha
+    - 12.5:
+        non_striker: Pratik Singh Bais
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.5'
+        batsman: Bhargav Narasimha
+    - 12.6:
+        non_striker: Pratik Singh Bais
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.5'
+        batsman: Bhargav Narasimha
+    - 12.7:
+        non_striker: Pratik Singh Bais
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: Bhargav Narasimha
+    - 12.8:
+        non_striker: Bhargav Narasimha
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Pratik Singh Bais
+    - 13.1:
+        non_striker: Pratik Singh Bais
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: Bhargav Narasimha
+    - 13.2:
+        non_striker: Pratik Singh Bais
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: Bhargav Narasimha
+    - 13.3:
+        non_striker: Pratik Singh Bais
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: Bhargav Narasimha
+    - 13.4:
+        non_striker: Pratik Singh Bais
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Bhargav Narasimha
+    - 13.5:
+        non_striker: Pratik Singh Bais
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: Bhargav Narasimha
+    - 13.6:
+        non_striker: Bhargav Narasimha
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: Pratik Singh Bais
+    - 14.1:
+        non_striker: Pratik Singh Bais
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: Bhargav Narasimha
+    - 14.2:
+        non_striker: Pratik Singh Bais
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: Bhargav Narasimha
+    - 14.3:
+        non_striker: Pratik Singh Bais
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: Bhargav Narasimha
+    - 14.4:
+        non_striker: Pratik Singh Bais
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: Bhargav Narasimha
+    - 14.5:
+        non_striker: Pratik Singh Bais
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: Bhargav Narasimha
+    - 14.6:
+        non_striker: Bhargav Narasimha
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: Pratik Singh Bais
+        wicket:
+          player_out: Pratik Singh Bais
+          fielders:
+          - Yasar Haroon
+          kind: caught
+    - 15.1:
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: GE Gutierrez Chavez
+        actual_delivery: '15.1'
+        batsman: Bhargav Narasimha
+    - 15.2:
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GE Gutierrez Chavez
+        actual_delivery: '15.2'
+        batsman: Bhargav Narasimha
+    - 15.3:
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GE Gutierrez Chavez
+        actual_delivery: '15.3'
+        batsman: Bhargav Narasimha
+    - 15.4:
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: GE Gutierrez Chavez
+        actual_delivery: '15.4'
+        batsman: Bhargav Narasimha
+    - 15.5:
+        non_striker: GE Gutierrez Chavez
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: Bhargav Narasimha
+        wicket:
+          player_out: Bhargav Narasimha
+          kind: lbw
+    target:
+      overs: 20
+      runs: 114

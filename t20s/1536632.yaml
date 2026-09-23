@@ -1,0 +1,2244 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2026-06-06'
+  gender: female
+  match_type: T20
+  match_type_number: 2824
+  outcome:
+    winner: Mongolia
+    by:
+      wickets: 3
+  overs: 20
+  player_of_match:
+  - M Batnasan
+  players:
+    Bahrain:
+    - TI Gajanayake
+    - Reema Naseer
+    - HMD Rasangika
+    - Abeera Waris
+    - Saee Parkhi
+    - Sweeta Corda
+    - Sara Vivek
+    - Sana Butt
+    - RL D'Souza
+    - Disna Jayasooriya
+    - Shruti Yadav
+    Mongolia:
+    - N Erdenebat
+    - B Ichinkhorloo
+    - O Amarjargal
+    - G Anujin
+    - J Tugsjargal
+    - U Bayarjavkhlan
+    - M Batnasan
+    - Sunjidmaa Phillips
+    - E Khaliunaa
+    - D Enkhtsetseg
+    - B Unenchtseceg
+  registry:
+    people:
+      Abeera Waris: '01396dc6'
+      B Ichinkhorloo: 3cc55f88
+      B Unenchtseceg: 93b40209
+      D Enkhtsetseg: babd401e
+      Disna Jayasooriya: 70c36d4d
+      E Khaliunaa: 1349b940
+      G Anujin: e749f016
+      HMD Rasangika: d6f9dfd6
+      J Tugsjargal: e7af8a61
+      M Batnasan: 0e01e881
+      Mathan Kumar: da596754
+      N Erdenebat: 9e1e821f
+      O Amarjargal: c054cf6f
+      RL D'Souza: 2d0b7057
+      Reema Naseer: 6b999fbe
+      Saee Parkhi: b60682f2
+      Saleema Imtiaz: d17d21d5
+      Sana Butt: 0f49b970
+      Sara Vivek: 8ff4ef0e
+      Shivani Mishra: 2982a0c7
+      Shruti Yadav: c63fd74d
+      Sun Meng Yao: 84a96566
+      Sunjidmaa Phillips: d5b6cb2e
+      Sweeta Corda: 3ab9a451
+      TI Gajanayake: d577d45a
+      U Bayarjavkhlan: 92c81a4f
+  teams:
+  - Bahrain
+  - Mongolia
+  toss:
+    winner: Bahrain
+    decision: bat
+  umpires:
+  - Saleema Imtiaz
+  - Sun Meng Yao
+  venue: Bayuemas Oval, Kuala Lumpur
+  team_type: international
+innings:
+- 1st innings:
+    team: Bahrain
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: O Amarjargal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Reema Naseer
+        batsman: TI Gajanayake
+    - 0.2:
+        actual_delivery: '0.1'
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Reema Naseer
+        batsman: TI Gajanayake
+    - 0.3:
+        actual_delivery: '0.2'
+        non_striker: Reema Naseer
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+        wicket:
+          player_out: TI Gajanayake
+          kind: bowled
+    - 0.4:
+        actual_delivery: '0.3'
+        non_striker: Reema Naseer
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 0.5:
+        actual_delivery: '0.4'
+        non_striker: Reema Naseer
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 0.6:
+        actual_delivery: '0.5'
+        non_striker: Reema Naseer
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 0.7:
+        actual_delivery: '0.6'
+        non_striker: HMD Rasangika
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Reema Naseer
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Reema Naseer
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Reema Naseer
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HMD Rasangika
+    - 1.3:
+        actual_delivery: '1.2'
+        non_striker: Reema Naseer
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 1.4:
+        actual_delivery: '1.3'
+        non_striker: HMD Rasangika
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reema Naseer
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: HMD Rasangika
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Reema Naseer
+    - 1.6:
+        actual_delivery: '1.5'
+        non_striker: HMD Rasangika
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reema Naseer
+    - 1.7:
+        actual_delivery: '1.6'
+        non_striker: HMD Rasangika
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Reema Naseer
+    - 1.8:
+        actual_delivery: '1.6'
+        non_striker: HMD Rasangika
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reema Naseer
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Reema Naseer
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Reema Naseer
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: Reema Naseer
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: Reema Naseer
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: Reema Naseer
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: Reema Naseer
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: HMD Rasangika
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reema Naseer
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: HMD Rasangika
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Reema Naseer
+    - 3.3:
+        actual_delivery: '3.2'
+        non_striker: HMD Rasangika
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reema Naseer
+    - 3.4:
+        actual_delivery: '3.3'
+        non_striker: HMD Rasangika
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reema Naseer
+    - 3.5:
+        actual_delivery: '3.4'
+        non_striker: HMD Rasangika
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reema Naseer
+        wicket:
+          player_out: Reema Naseer
+          kind: lbw
+    - 3.6:
+        actual_delivery: '3.5'
+        non_striker: HMD Rasangika
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 3.7:
+        actual_delivery: '3.6'
+        non_striker: HMD Rasangika
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Abeera Waris
+        bowler: D Enkhtsetseg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: Abeera Waris
+        bowler: D Enkhtsetseg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: Abeera Waris
+        bowler: D Enkhtsetseg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Abeera Waris
+        bowler: D Enkhtsetseg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: HMD Rasangika
+        bowler: D Enkhtsetseg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abeera Waris
+    - 4.6:
+        actual_delivery: '4.5'
+        non_striker: HMD Rasangika
+        bowler: D Enkhtsetseg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 4.7:
+        actual_delivery: '4.6'
+        non_striker: HMD Rasangika
+        bowler: D Enkhtsetseg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abeera Waris
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Abeera Waris
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Abeera Waris
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HMD Rasangika
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Abeera Waris
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Abeera Waris
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: Abeera Waris
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: Abeera Waris
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+        wicket:
+          player_out: HMD Rasangika
+          fielders:
+          - B Ichinkhorloo
+          kind: caught
+    - 6.1:
+        actual_delivery: '6.1'
+        bowler: D Enkhtsetseg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Saee Parkhi
+        batsman: Abeera Waris
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: Abeera Waris
+        bowler: D Enkhtsetseg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: Abeera Waris
+        bowler: D Enkhtsetseg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saee Parkhi
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Saee Parkhi
+        bowler: D Enkhtsetseg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abeera Waris
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Saee Parkhi
+        bowler: D Enkhtsetseg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: Saee Parkhi
+        bowler: D Enkhtsetseg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Abeera Waris
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: Abeera Waris
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: Abeera Waris
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: Abeera Waris
+        bowler: M Batnasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saee Parkhi
+    - 7.5:
+        actual_delivery: '7.4'
+        non_striker: Abeera Waris
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saee Parkhi
+    - 7.6:
+        actual_delivery: '7.5'
+        non_striker: Abeera Waris
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saee Parkhi
+    - 7.7:
+        actual_delivery: '7.6'
+        non_striker: Saee Parkhi
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: Saee Parkhi
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: Abeera Waris
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: Abeera Waris
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saee Parkhi
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: Saee Parkhi
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: Abeera Waris
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saee Parkhi
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: Saee Parkhi
+        bowler: B Unenchtseceg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abeera Waris
+    - 8.7:
+        actual_delivery: '8.6'
+        non_striker: Saee Parkhi
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: Saee Parkhi
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: Saee Parkhi
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+        wicket:
+          player_out: Abeera Waris
+          kind: bowled
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: Saee Parkhi
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: Saee Parkhi
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sweeta Corda
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: Saee Parkhi
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: Sweeta Corda
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Saee Parkhi
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Saee Parkhi
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: Sweeta Corda
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: Sweeta Corda
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saee Parkhi
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: Saee Parkhi
+        bowler: B Unenchtseceg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sweeta Corda
+    - 10.6:
+        actual_delivery: '10.5'
+        non_striker: Saee Parkhi
+        bowler: B Unenchtseceg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sweeta Corda
+    - 10.7:
+        actual_delivery: '10.5'
+        non_striker: Saee Parkhi
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 10.8:
+        actual_delivery: '10.6'
+        non_striker: Saee Parkhi
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Saee Parkhi
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sweeta Corda
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Saee Parkhi
+        bowler: J Tugsjargal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Sweeta Corda
+    - 11.3:
+        actual_delivery: '11.2'
+        non_striker: Saee Parkhi
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 11.4:
+        actual_delivery: '11.3'
+        non_striker: Saee Parkhi
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 11.5:
+        actual_delivery: '11.4'
+        non_striker: Saee Parkhi
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 11.6:
+        actual_delivery: '11.5'
+        non_striker: Sweeta Corda
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saee Parkhi
+    - 11.7:
+        actual_delivery: '11.6'
+        non_striker: Saee Parkhi
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: Sweeta Corda
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Sweeta Corda
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Sweeta Corda
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Sweeta Corda
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saee Parkhi
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Saee Parkhi
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+        wicket:
+          player_out: Sweeta Corda
+          kind: bowled
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: Saee Parkhi
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sara Vivek
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Sara Vivek
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+        wicket:
+          player_out: Saee Parkhi
+          kind: bowled
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Sara Vivek
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sana Butt
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Sana Butt
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sara Vivek
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Sana Butt
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sara Vivek
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: Sana Butt
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sara Vivek
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: Sana Butt
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sara Vivek
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Sara Vivek
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Sara Vivek
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Sara Vivek
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: Sara Vivek
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sana Butt
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: Sana Butt
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sara Vivek
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Sana Butt
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sara Vivek
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Sara Vivek
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sana Butt
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: Sara Vivek
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: Sara Vivek
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: Sara Vivek
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: Sara Vivek
+        bowler: M Batnasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Sana Butt
+    - 15.6:
+        actual_delivery: '15.5'
+        non_striker: Sara Vivek
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sana Butt
+    - 15.7:
+        actual_delivery: '15.6'
+        non_striker: Sana Butt
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sara Vivek
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: Sara Vivek
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Sara Vivek
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: Sara Vivek
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+        wicket:
+          player_out: Sana Butt
+          kind: bowled
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: Sara Vivek
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL D'Souza
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: Sara Vivek
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL D'Souza
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: Sara Vivek
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL D'Souza
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: Sara Vivek
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL D'Souza
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: Sara Vivek
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL D'Souza
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: Sara Vivek
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL D'Souza
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: Sara Vivek
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL D'Souza
+        wicket:
+          player_out: RL D'Souza
+          fielders:
+          - G Anujin
+          kind: caught
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: Sara Vivek
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Disna Jayasooriya
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: Sara Vivek
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Disna Jayasooriya
+        wicket:
+          player_out: Disna Jayasooriya
+          kind: bowled
+    - 18.1:
+        actual_delivery: '18.1'
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shruti Yadav
+        batsman: Sara Vivek
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: Sara Vivek
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shruti Yadav
+        wicket:
+          player_out: Shruti Yadav
+          kind: lbw
+- 2nd innings:
+    team: Mongolia
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Sara Vivek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: B Ichinkhorloo
+        batsman: N Erdenebat
+    - 0.2:
+        actual_delivery: '0.1'
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Ichinkhorloo
+        batsman: N Erdenebat
+    - 0.3:
+        actual_delivery: '0.2'
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Ichinkhorloo
+        batsman: N Erdenebat
+    - 0.4:
+        actual_delivery: '0.3'
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: B Ichinkhorloo
+        batsman: N Erdenebat
+    - 0.5:
+        actual_delivery: '0.4'
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Ichinkhorloo
+        batsman: N Erdenebat
+    - 0.6:
+        actual_delivery: '0.5'
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Ichinkhorloo
+        batsman: N Erdenebat
+    - 0.7:
+        actual_delivery: '0.6'
+        bowler: Sara Vivek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: B Ichinkhorloo
+        batsman: N Erdenebat
+    - 0.8:
+        actual_delivery: '0.6'
+        non_striker: B Ichinkhorloo
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Erdenebat
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: B Ichinkhorloo
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Erdenebat
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: N Erdenebat
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: B Ichinkhorloo
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: B Ichinkhorloo
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Erdenebat
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: N Erdenebat
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: N Erdenebat
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: N Erdenebat
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Ichinkhorloo
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: B Ichinkhorloo
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Erdenebat
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: N Erdenebat
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: N Erdenebat
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: N Erdenebat
+        bowler: Sara Vivek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Ichinkhorloo
+    - 2.5:
+        actual_delivery: '2.4'
+        non_striker: N Erdenebat
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ichinkhorloo
+    - 2.6:
+        actual_delivery: '2.5'
+        non_striker: B Ichinkhorloo
+        bowler: Sara Vivek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Erdenebat
+    - 2.7:
+        actual_delivery: '2.5'
+        non_striker: B Ichinkhorloo
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Erdenebat
+    - 2.8:
+        actual_delivery: '2.6'
+        non_striker: B Ichinkhorloo
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Erdenebat
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: N Erdenebat
+        bowler: TI Gajanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Ichinkhorloo
+    - 3.2:
+        actual_delivery: '3.1'
+        non_striker: N Erdenebat
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ichinkhorloo
+    - 3.3:
+        actual_delivery: '3.2'
+        non_striker: B Ichinkhorloo
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Erdenebat
+    - 3.4:
+        actual_delivery: '3.3'
+        non_striker: B Ichinkhorloo
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Erdenebat
+    - 3.5:
+        actual_delivery: '3.4'
+        non_striker: B Ichinkhorloo
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Erdenebat
+    - 3.6:
+        actual_delivery: '3.5'
+        non_striker: B Ichinkhorloo
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Erdenebat
+    - 3.7:
+        actual_delivery: '3.6'
+        non_striker: B Ichinkhorloo
+        bowler: TI Gajanayake
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: N Erdenebat
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: N Erdenebat
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ichinkhorloo
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: B Ichinkhorloo
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Erdenebat
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: B Ichinkhorloo
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Erdenebat
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: B Ichinkhorloo
+        bowler: RL D'Souza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Erdenebat
+    - 4.5:
+        actual_delivery: '4.4'
+        non_striker: B Ichinkhorloo
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Erdenebat
+    - 4.6:
+        actual_delivery: '4.5'
+        non_striker: N Erdenebat
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+        wicket:
+          player_out: B Ichinkhorloo
+          kind: bowled
+    - 4.7:
+        actual_delivery: '4.6'
+        non_striker: N Erdenebat
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: O Amarjargal
+        bowler: Shruti Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Erdenebat
+    - 5.2:
+        actual_delivery: '5.1'
+        non_striker: O Amarjargal
+        bowler: Shruti Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Erdenebat
+    - 5.3:
+        actual_delivery: '5.2'
+        non_striker: O Amarjargal
+        bowler: Shruti Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Erdenebat
+    - 5.4:
+        actual_delivery: '5.3'
+        non_striker: N Erdenebat
+        bowler: Shruti Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Amarjargal
+    - 5.5:
+        actual_delivery: '5.4'
+        non_striker: O Amarjargal
+        bowler: Shruti Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Erdenebat
+    - 5.6:
+        actual_delivery: '5.4'
+        non_striker: O Amarjargal
+        bowler: Shruti Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Erdenebat
+    - 5.7:
+        actual_delivery: '5.5'
+        non_striker: N Erdenebat
+        bowler: Shruti Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+        wicket:
+          player_out: O Amarjargal
+          fielders:
+          - Sana Butt
+          kind: stumped
+    - 5.8:
+        actual_delivery: '5.6'
+        non_striker: N Erdenebat
+        bowler: Shruti Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Anujin
+    - 5.9:
+        actual_delivery: '5.6'
+        non_striker: N Erdenebat
+        bowler: Shruti Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Anujin
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: G Anujin
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Erdenebat
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: N Erdenebat
+        bowler: RL D'Souza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Anujin
+    - 6.3:
+        actual_delivery: '6.2'
+        non_striker: N Erdenebat
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Anujin
+    - 6.4:
+        actual_delivery: '6.3'
+        non_striker: N Erdenebat
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Anujin
+    - 6.5:
+        actual_delivery: '6.4'
+        non_striker: N Erdenebat
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Anujin
+    - 6.6:
+        actual_delivery: '6.5'
+        non_striker: N Erdenebat
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Anujin
+    - 6.7:
+        actual_delivery: '6.6'
+        non_striker: N Erdenebat
+        bowler: RL D'Souza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Anujin
+    - 6.8:
+        actual_delivery: '6.6'
+        non_striker: N Erdenebat
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Anujin
+        wicket:
+          player_out: G Anujin
+          kind: bowled
+    - 7.1:
+        actual_delivery: '7.1'
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Tugsjargal
+        batsman: N Erdenebat
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: N Erdenebat
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tugsjargal
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: J Tugsjargal
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Erdenebat
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: N Erdenebat
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tugsjargal
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: N Erdenebat
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tugsjargal
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: N Erdenebat
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tugsjargal
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: J Tugsjargal
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Erdenebat
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: J Tugsjargal
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Erdenebat
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: N Erdenebat
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Tugsjargal
+    - 8.4:
+        actual_delivery: '8.3'
+        non_striker: N Erdenebat
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tugsjargal
+        wicket:
+          player_out: J Tugsjargal
+          fielders:
+          - HMD Rasangika
+          kind: caught
+    - 8.5:
+        actual_delivery: '8.4'
+        non_striker: N Erdenebat
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: U Bayarjavkhlan
+    - 8.6:
+        actual_delivery: '8.5'
+        non_striker: U Bayarjavkhlan
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Erdenebat
+    - 8.7:
+        actual_delivery: '8.6'
+        non_striker: U Bayarjavkhlan
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: N Erdenebat
+    - 8.8:
+        actual_delivery: '8.6'
+        non_striker: N Erdenebat
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Bayarjavkhlan
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: U Bayarjavkhlan
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Erdenebat
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: U Bayarjavkhlan
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Erdenebat
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: U Bayarjavkhlan
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Erdenebat
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: U Bayarjavkhlan
+        bowler: Abeera Waris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: N Erdenebat
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: N Erdenebat
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: U Bayarjavkhlan
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: U Bayarjavkhlan
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Erdenebat
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: U Bayarjavkhlan
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Erdenebat
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: U Bayarjavkhlan
+        bowler: HMD Rasangika
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: N Erdenebat
+    - 10.3:
+        actual_delivery: '10.2'
+        non_striker: U Bayarjavkhlan
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Erdenebat
+    - 10.4:
+        actual_delivery: '10.3'
+        non_striker: U Bayarjavkhlan
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Erdenebat
+    - 10.5:
+        actual_delivery: '10.4'
+        non_striker: U Bayarjavkhlan
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Erdenebat
+        wicket:
+          player_out: N Erdenebat
+          kind: bowled
+    - 10.6:
+        actual_delivery: '10.5'
+        non_striker: U Bayarjavkhlan
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Batnasan
+    - 10.7:
+        actual_delivery: '10.6'
+        non_striker: U Bayarjavkhlan
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Batnasan
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: M Batnasan
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: U Bayarjavkhlan
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: M Batnasan
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: U Bayarjavkhlan
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: M Batnasan
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: U Bayarjavkhlan
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: U Bayarjavkhlan
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Batnasan
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: M Batnasan
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Bayarjavkhlan
+        wicket:
+          player_out: U Bayarjavkhlan
+          fielders:
+          - Saee Parkhi
+          kind: caught
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: M Batnasan
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunjidmaa Phillips
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: Sunjidmaa Phillips
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Batnasan
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: M Batnasan
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunjidmaa Phillips
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: M Batnasan
+        bowler: HMD Rasangika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Sunjidmaa Phillips
+    - 12.4:
+        actual_delivery: '12.3'
+        non_striker: M Batnasan
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunjidmaa Phillips
+    - 12.5:
+        actual_delivery: '12.4'
+        non_striker: M Batnasan
+        bowler: HMD Rasangika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Sunjidmaa Phillips
+    - 12.6:
+        actual_delivery: '12.4'
+        non_striker: M Batnasan
+        bowler: HMD Rasangika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Sunjidmaa Phillips
+    - 12.7:
+        actual_delivery: '12.4'
+        non_striker: M Batnasan
+        bowler: HMD Rasangika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Sunjidmaa Phillips
+    - 12.8:
+        actual_delivery: '12.5'
+        non_striker: Sunjidmaa Phillips
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Batnasan
+    - 12.9:
+        actual_delivery: '12.6'
+        non_striker: M Batnasan
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunjidmaa Phillips
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Sunjidmaa Phillips
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Batnasan
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: M Batnasan
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunjidmaa Phillips
+        wicket:
+          player_out: Sunjidmaa Phillips
+          fielders:
+          - Sana Butt
+          kind: stumped
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: M Batnasan
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Khaliunaa
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: M Batnasan
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Khaliunaa
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: M Batnasan
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Khaliunaa
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: E Khaliunaa
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Batnasan
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: E Khaliunaa
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Batnasan
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: M Batnasan
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Khaliunaa
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: M Batnasan
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Khaliunaa
+    target:
+      overs: 20
+      runs: 98

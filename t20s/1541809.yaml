@@ -1,0 +1,2671 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Singapore
+  dates:
+  - '2026-06-26'
+  gender: male
+  match_type: T20
+  match_type_number: 3990
+  outcome:
+    winner: Indonesia
+    by:
+      runs: 97
+  overs: 20
+  player_of_match:
+  - Rohit Sharma
+  players:
+    Indonesia:
+    - GA Priandana
+    - Rohit Sharma
+    - KN Chaddha
+    - D Nanda
+    - AA Rahayu
+    - DJ Hawoe
+    - Anjar Tadarus
+    - KD Kesuma
+    - GD Arta
+    - F Banunaek
+    - R Jeyakumar
+    Uzbekistan:
+    - Luqman Hussan
+    - Zain Amir
+    - S Shermatov
+    - Saif Ullah
+    - Syed Ahzamul Haq
+    - A Musaev
+    - O Qudratov
+    - Nikhil
+    - I Mustafoev
+    - A Khasanov
+    - K Xolmuradov
+  registry:
+    people:
+      A Khasanov: c266599c
+      A Musaev: 19a51d59
+      A Natarajan: a2b73ae0
+      AA Rahayu: 2327fdc7
+      Anjar Tadarus: '72275237'
+      D Nanda: '22651574'
+      DJ Hawoe: a62f55ba
+      F Banunaek: 3c8faed4
+      GA Priandana: 2af0e3b1
+      GD Arta: e969e580
+      I Mustafoev: eb45b187
+      K Xolmuradov: 78b18572
+      KD Kesuma: 4b349dc0
+      KK Ghosh: eea3fd8e
+      KN Chaddha: a88e4013
+      Luqman Hussan: d33fce1b
+      Nikhil: f4e3d407
+      O Qudratov: 41e04234
+      R Jeyakumar: 2bb515cb
+      Rohit Sharma: a1cbdeeb
+      S Shermatov: a6941f24
+      Saif Ullah: '44756879'
+      Sathish Balasubramaniam: b4794f2a
+      Syed Ahzamul Haq: 7c05b23d
+      VL Sinha: 93cfdc7e
+      Zain Amir: 25f430aa
+  team_type: international
+  teams:
+  - Indonesia
+  - Uzbekistan
+  toss:
+    winner: Indonesia
+    decision: bat
+  umpires:
+  - Sathish Balasubramaniam
+  - VL Sinha
+  venue: Singapore National Cricket Ground
+innings:
+- 1st innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        bowler: A Khasanov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: Rohit Sharma
+        actual_delivery: '0.1'
+        batsman: GA Priandana
+    - 0.2:
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Rohit Sharma
+        actual_delivery: '0.1'
+        batsman: GA Priandana
+    - 0.3:
+        bowler: A Khasanov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Rohit Sharma
+        actual_delivery: '0.2'
+        batsman: GA Priandana
+    - 0.4:
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Rohit Sharma
+        actual_delivery: '0.2'
+        batsman: GA Priandana
+    - 0.5:
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Rohit Sharma
+        actual_delivery: '0.3'
+        batsman: GA Priandana
+    - 0.6:
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Rohit Sharma
+        actual_delivery: '0.4'
+        batsman: GA Priandana
+    - 0.7:
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Rohit Sharma
+        actual_delivery: '0.5'
+        batsman: GA Priandana
+    - 0.8:
+        non_striker: GA Priandana
+        bowler: A Khasanov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.6'
+        batsman: Rohit Sharma
+    - 0.9:
+        non_striker: GA Priandana
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Rohit Sharma
+    - 1.1:
+        non_striker: Rohit Sharma
+        bowler: Syed Ahzamul Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.1'
+        batsman: GA Priandana
+    - 1.2:
+        non_striker: Rohit Sharma
+        bowler: Syed Ahzamul Haq
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        actual_delivery: '1.2'
+        batsman: GA Priandana
+    - 1.3:
+        non_striker: Rohit Sharma
+        bowler: Syed Ahzamul Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: GA Priandana
+    - 1.4:
+        non_striker: Rohit Sharma
+        bowler: Syed Ahzamul Haq
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        actual_delivery: '1.3'
+        batsman: GA Priandana
+    - 1.5:
+        non_striker: Rohit Sharma
+        bowler: Syed Ahzamul Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: GA Priandana
+    - 1.6:
+        non_striker: Rohit Sharma
+        bowler: Syed Ahzamul Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: GA Priandana
+    - 1.7:
+        non_striker: Rohit Sharma
+        bowler: Syed Ahzamul Haq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.5'
+        batsman: GA Priandana
+    - 1.8:
+        non_striker: Rohit Sharma
+        bowler: Syed Ahzamul Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: GA Priandana
+    - 1.9:
+        non_striker: Rohit Sharma
+        bowler: Syed Ahzamul Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: GA Priandana
+    - 2.1:
+        non_striker: GA Priandana
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: Rohit Sharma
+    - 2.2:
+        non_striker: Rohit Sharma
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: GA Priandana
+    - 2.3:
+        non_striker: Rohit Sharma
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: GA Priandana
+    - 2.4:
+        non_striker: Rohit Sharma
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: GA Priandana
+    - 2.5:
+        non_striker: Rohit Sharma
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.5'
+        batsman: GA Priandana
+    - 2.6:
+        non_striker: Rohit Sharma
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: GA Priandana
+    - 3.1:
+        non_striker: GA Priandana
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        actual_delivery: '3.1'
+        batsman: Rohit Sharma
+    - 3.2:
+        non_striker: Rohit Sharma
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: GA Priandana
+    - 3.3:
+        non_striker: Rohit Sharma
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: GA Priandana
+    - 3.4:
+        non_striker: Rohit Sharma
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: GA Priandana
+    - 3.5:
+        non_striker: Rohit Sharma
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: GA Priandana
+    - 3.6:
+        non_striker: Rohit Sharma
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: GA Priandana
+    - 4.1:
+        non_striker: GA Priandana
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: Rohit Sharma
+    - 4.2:
+        non_striker: GA Priandana
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.2'
+        batsman: Rohit Sharma
+    - 4.3:
+        non_striker: GA Priandana
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: Rohit Sharma
+    - 4.4:
+        non_striker: Rohit Sharma
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.4'
+        batsman: GA Priandana
+    - 4.5:
+        non_striker: Rohit Sharma
+        bowler: Luqman Hussan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        actual_delivery: '4.5'
+        batsman: GA Priandana
+    - 4.6:
+        non_striker: Rohit Sharma
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: GA Priandana
+    - 5.1:
+        non_striker: GA Priandana
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Rohit Sharma
+    - 5.2:
+        non_striker: GA Priandana
+        bowler: A Musaev
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        actual_delivery: '5.2'
+        batsman: Rohit Sharma
+    - 5.3:
+        non_striker: GA Priandana
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: Rohit Sharma
+    - 5.4:
+        non_striker: Rohit Sharma
+        bowler: A Musaev
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.4'
+        batsman: GA Priandana
+    - 5.5:
+        non_striker: Rohit Sharma
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.4'
+        batsman: GA Priandana
+    - 5.6:
+        non_striker: Rohit Sharma
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: GA Priandana
+    - 5.7:
+        non_striker: Rohit Sharma
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: GA Priandana
+    - 6.1:
+        non_striker: GA Priandana
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: Rohit Sharma
+    - 6.2:
+        non_striker: Rohit Sharma
+        bowler: I Mustafoev
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.2'
+        batsman: GA Priandana
+    - 6.3:
+        non_striker: Rohit Sharma
+        bowler: I Mustafoev
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.2'
+        batsman: GA Priandana
+    - 6.4:
+        non_striker: Rohit Sharma
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: GA Priandana
+    - 6.5:
+        non_striker: GA Priandana
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Rohit Sharma
+    - 6.6:
+        non_striker: GA Priandana
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: Rohit Sharma
+    - 6.7:
+        non_striker: Rohit Sharma
+        bowler: I Mustafoev
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.5'
+        batsman: GA Priandana
+    - 6.8:
+        non_striker: Rohit Sharma
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: GA Priandana
+    - 6.9:
+        non_striker: Rohit Sharma
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: GA Priandana
+    - 7.1:
+        non_striker: Rohit Sharma
+        bowler: K Xolmuradov
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.1'
+        batsman: GA Priandana
+    - 7.2:
+        non_striker: Rohit Sharma
+        bowler: K Xolmuradov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: GA Priandana
+    - 7.3:
+        non_striker: GA Priandana
+        bowler: K Xolmuradov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: Rohit Sharma
+    - 7.4:
+        non_striker: Rohit Sharma
+        bowler: K Xolmuradov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: GA Priandana
+    - 7.5:
+        non_striker: GA Priandana
+        bowler: K Xolmuradov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: Rohit Sharma
+    - 7.6:
+        non_striker: GA Priandana
+        bowler: K Xolmuradov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: Rohit Sharma
+    - 8.1:
+        non_striker: GA Priandana
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: Rohit Sharma
+    - 8.2:
+        non_striker: Rohit Sharma
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.2'
+        batsman: GA Priandana
+    - 8.3:
+        non_striker: Rohit Sharma
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: GA Priandana
+    - 8.4:
+        non_striker: GA Priandana
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.4'
+        batsman: Rohit Sharma
+    - 8.5:
+        non_striker: GA Priandana
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.5'
+        batsman: Rohit Sharma
+    - 8.6:
+        non_striker: GA Priandana
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Rohit Sharma
+    - 9.1:
+        non_striker: Rohit Sharma
+        bowler: K Xolmuradov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: GA Priandana
+    - 9.2:
+        non_striker: GA Priandana
+        bowler: K Xolmuradov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Rohit Sharma
+    - 9.3:
+        non_striker: GA Priandana
+        bowler: K Xolmuradov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.3'
+        batsman: Rohit Sharma
+    - 9.4:
+        non_striker: GA Priandana
+        bowler: K Xolmuradov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: Rohit Sharma
+    - 9.5:
+        non_striker: GA Priandana
+        bowler: K Xolmuradov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.5'
+        batsman: Rohit Sharma
+    - 9.6:
+        non_striker: GA Priandana
+        bowler: K Xolmuradov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.6'
+        batsman: Rohit Sharma
+    - 9.7:
+        non_striker: GA Priandana
+        bowler: K Xolmuradov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.6'
+        batsman: Rohit Sharma
+    - 10.1:
+        non_striker: Rohit Sharma
+        bowler: O Qudratov
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        actual_delivery: '10.1'
+        batsman: GA Priandana
+    - 10.2:
+        non_striker: Rohit Sharma
+        bowler: O Qudratov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.1'
+        batsman: GA Priandana
+    - 10.3:
+        non_striker: Rohit Sharma
+        bowler: O Qudratov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: GA Priandana
+    - 10.4:
+        non_striker: GA Priandana
+        bowler: O Qudratov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Rohit Sharma
+    - 10.5:
+        non_striker: Rohit Sharma
+        bowler: O Qudratov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.4'
+        batsman: GA Priandana
+    - 10.6:
+        non_striker: Rohit Sharma
+        bowler: O Qudratov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.5'
+        batsman: GA Priandana
+    - 10.7:
+        non_striker: Rohit Sharma
+        bowler: O Qudratov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: GA Priandana
+        wicket:
+          player_out: GA Priandana
+          fielders:
+          - Saif Ullah
+          kind: caught
+    - 11.1:
+        bowler: Syed Ahzamul Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KN Chaddha
+        actual_delivery: '11.1'
+        batsman: Rohit Sharma
+    - 11.2:
+        non_striker: Rohit Sharma
+        bowler: Syed Ahzamul Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: KN Chaddha
+    - 11.3:
+        non_striker: KN Chaddha
+        bowler: Syed Ahzamul Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: Rohit Sharma
+    - 11.4:
+        non_striker: KN Chaddha
+        bowler: Syed Ahzamul Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: Rohit Sharma
+    - 11.5:
+        non_striker: Rohit Sharma
+        bowler: Syed Ahzamul Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: KN Chaddha
+    - 11.6:
+        non_striker: KN Chaddha
+        bowler: Syed Ahzamul Haq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '11.6'
+        batsman: Rohit Sharma
+    - 12.1:
+        non_striker: Rohit Sharma
+        bowler: O Qudratov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.1'
+        batsman: KN Chaddha
+    - 12.2:
+        non_striker: Rohit Sharma
+        bowler: O Qudratov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: KN Chaddha
+        wicket:
+          player_out: KN Chaddha
+          fielders:
+          - Luqman Hussan
+          kind: caught
+    - 12.3:
+        non_striker: Rohit Sharma
+        bowler: O Qudratov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: D Nanda
+    - 12.4:
+        non_striker: Rohit Sharma
+        bowler: O Qudratov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: D Nanda
+    - 12.5:
+        non_striker: D Nanda
+        bowler: O Qudratov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Rohit Sharma
+    - 12.6:
+        non_striker: D Nanda
+        bowler: O Qudratov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: Rohit Sharma
+    - 13.1:
+        non_striker: D Nanda
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: Rohit Sharma
+    - 13.2:
+        non_striker: Rohit Sharma
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: D Nanda
+    - 13.3:
+        non_striker: Rohit Sharma
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: D Nanda
+    - 13.4:
+        non_striker: Rohit Sharma
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.4'
+        batsman: D Nanda
+    - 13.5:
+        non_striker: Rohit Sharma
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: D Nanda
+    - 13.6:
+        non_striker: D Nanda
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Rohit Sharma
+    - 14.1:
+        non_striker: D Nanda
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: Rohit Sharma
+    - 14.2:
+        non_striker: Rohit Sharma
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.2'
+        batsman: D Nanda
+    - 14.3:
+        non_striker: Rohit Sharma
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: D Nanda
+    - 14.4:
+        non_striker: D Nanda
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: Rohit Sharma
+    - 14.5:
+        non_striker: D Nanda
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: Rohit Sharma
+    - 14.6:
+        non_striker: D Nanda
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.6'
+        batsman: Rohit Sharma
+    - 15.1:
+        non_striker: Rohit Sharma
+        bowler: Syed Ahzamul Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: D Nanda
+    - 15.2:
+        non_striker: Rohit Sharma
+        bowler: Syed Ahzamul Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: D Nanda
+    - 15.3:
+        non_striker: Rohit Sharma
+        bowler: Syed Ahzamul Haq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: D Nanda
+        wicket:
+          player_out: D Nanda
+          kind: caught and bowled
+    - 15.4:
+        non_striker: Rohit Sharma
+        bowler: Syed Ahzamul Haq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: AA Rahayu
+    - 15.5:
+        non_striker: AA Rahayu
+        bowler: Syed Ahzamul Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.5'
+        batsman: Rohit Sharma
+    - 15.6:
+        non_striker: AA Rahayu
+        bowler: Syed Ahzamul Haq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.6'
+        batsman: Rohit Sharma
+    - 16.1:
+        non_striker: Rohit Sharma
+        bowler: O Qudratov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: AA Rahayu
+    - 16.2:
+        non_striker: AA Rahayu
+        bowler: O Qudratov
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.2'
+        batsman: Rohit Sharma
+    - 16.3:
+        non_striker: AA Rahayu
+        bowler: O Qudratov
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.3'
+        batsman: Rohit Sharma
+    - 16.4:
+        non_striker: AA Rahayu
+        bowler: O Qudratov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.4'
+        batsman: Rohit Sharma
+    - 16.5:
+        non_striker: AA Rahayu
+        bowler: O Qudratov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.5'
+        batsman: Rohit Sharma
+    - 16.6:
+        non_striker: AA Rahayu
+        bowler: O Qudratov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: Rohit Sharma
+        wicket:
+          player_out: Rohit Sharma
+          kind: lbw
+    - 16.7:
+        non_striker: AA Rahayu
+        bowler: O Qudratov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: DJ Hawoe
+    - 17.1:
+        non_striker: DJ Hawoe
+        bowler: I Mustafoev
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.1'
+        batsman: AA Rahayu
+    - 17.2:
+        non_striker: DJ Hawoe
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.1'
+        batsman: AA Rahayu
+    - 17.3:
+        non_striker: DJ Hawoe
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: AA Rahayu
+    - 17.4:
+        non_striker: AA Rahayu
+        bowler: I Mustafoev
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '17.3'
+        batsman: DJ Hawoe
+    - 17.5:
+        non_striker: DJ Hawoe
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: AA Rahayu
+        wicket:
+          player_out: AA Rahayu
+          fielders:
+          - A Khasanov
+          kind: caught
+    - 17.6:
+        non_striker: DJ Hawoe
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: Anjar Tadarus
+    - 17.7:
+        non_striker: Anjar Tadarus
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: DJ Hawoe
+    - 17.8:
+        non_striker: DJ Hawoe
+        bowler: I Mustafoev
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.6'
+        batsman: Anjar Tadarus
+    - 17.9:
+        non_striker: DJ Hawoe
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: Anjar Tadarus
+        wicket:
+          player_out: Anjar Tadarus
+          fielders:
+          - Syed Ahzamul Haq
+          kind: caught
+    - 18.1:
+        bowler: A Khasanov
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        non_striker: KD Kesuma
+        actual_delivery: '18.1'
+        batsman: DJ Hawoe
+    - 18.2:
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: KD Kesuma
+        actual_delivery: '18.1'
+        batsman: DJ Hawoe
+    - 18.3:
+        bowler: A Khasanov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: KD Kesuma
+        actual_delivery: '18.2'
+        batsman: DJ Hawoe
+    - 18.4:
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KD Kesuma
+        actual_delivery: '18.2'
+        batsman: DJ Hawoe
+    - 18.5:
+        non_striker: DJ Hawoe
+        bowler: A Khasanov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.3'
+        batsman: KD Kesuma
+    - 18.6:
+        non_striker: DJ Hawoe
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: KD Kesuma
+    - 18.7:
+        non_striker: DJ Hawoe
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: KD Kesuma
+    - 18.8:
+        non_striker: KD Kesuma
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: DJ Hawoe
+    - 18.9:
+        non_striker: KD Kesuma
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: DJ Hawoe
+    - 19.1:
+        non_striker: DJ Hawoe
+        bowler: A Musaev
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '19.1'
+        batsman: KD Kesuma
+    - 19.2:
+        non_striker: DJ Hawoe
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.1'
+        batsman: KD Kesuma
+    - 19.3:
+        non_striker: DJ Hawoe
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: KD Kesuma
+    - 19.4:
+        non_striker: DJ Hawoe
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.3'
+        batsman: KD Kesuma
+    - 19.5:
+        non_striker: KD Kesuma
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: DJ Hawoe
+    - 19.6:
+        non_striker: KD Kesuma
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.5'
+        batsman: DJ Hawoe
+    - 19.7:
+        non_striker: DJ Hawoe
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.6'
+        batsman: KD Kesuma
+- 2nd innings:
+    team: Uzbekistan
+    deliveries:
+    - 0.1:
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zain Amir
+        actual_delivery: '0.1'
+        batsman: Luqman Hussan
+    - 0.2:
+        non_striker: Luqman Hussan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: Zain Amir
+    - 0.3:
+        non_striker: Luqman Hussan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: Zain Amir
+        wicket:
+          player_out: Zain Amir
+          kind: lbw
+    - 0.4:
+        non_striker: Luqman Hussan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: S Shermatov
+    - 0.5:
+        non_striker: Luqman Hussan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: S Shermatov
+        wicket:
+          player_out: S Shermatov
+          kind: bowled
+    - 0.6:
+        non_striker: Luqman Hussan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.6'
+        batsman: Saif Ullah
+    - 1.1:
+        non_striker: Saif Ullah
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: Luqman Hussan
+    - 1.2:
+        non_striker: Saif Ullah
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: Luqman Hussan
+    - 1.3:
+        non_striker: Luqman Hussan
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: Saif Ullah
+    - 1.4:
+        non_striker: Luqman Hussan
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.4'
+        batsman: Saif Ullah
+    - 1.5:
+        non_striker: Luqman Hussan
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Saif Ullah
+    - 1.6:
+        non_striker: Luqman Hussan
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Saif Ullah
+    - 2.1:
+        non_striker: Saif Ullah
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '2.1'
+        batsman: Luqman Hussan
+    - 2.2:
+        non_striker: Luqman Hussan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: Saif Ullah
+    - 2.3:
+        non_striker: Luqman Hussan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Saif Ullah
+        wicket:
+          player_out: Saif Ullah
+          kind: bowled
+    - 2.4:
+        non_striker: Luqman Hussan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Syed Ahzamul Haq
+    - 2.5:
+        non_striker: Luqman Hussan
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.5'
+        batsman: Syed Ahzamul Haq
+    - 2.6:
+        non_striker: Luqman Hussan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: Syed Ahzamul Haq
+    - 2.7:
+        non_striker: Luqman Hussan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Syed Ahzamul Haq
+    - 3.1:
+        non_striker: Syed Ahzamul Haq
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Luqman Hussan
+    - 3.2:
+        non_striker: Syed Ahzamul Haq
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Luqman Hussan
+    - 3.3:
+        non_striker: Syed Ahzamul Haq
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Luqman Hussan
+    - 3.4:
+        non_striker: Syed Ahzamul Haq
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Luqman Hussan
+    - 3.5:
+        non_striker: Syed Ahzamul Haq
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Luqman Hussan
+    - 3.6:
+        non_striker: Syed Ahzamul Haq
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Luqman Hussan
+    - 4.1:
+        non_striker: Luqman Hussan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: Syed Ahzamul Haq
+    - 4.2:
+        non_striker: Luqman Hussan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.2'
+        batsman: Syed Ahzamul Haq
+    - 4.3:
+        non_striker: Luqman Hussan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: Syed Ahzamul Haq
+    - 4.4:
+        non_striker: Luqman Hussan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: Syed Ahzamul Haq
+    - 4.5:
+        non_striker: Luqman Hussan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: Syed Ahzamul Haq
+    - 4.6:
+        non_striker: Syed Ahzamul Haq
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Luqman Hussan
+    - 5.1:
+        non_striker: Luqman Hussan
+        bowler: R Jeyakumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.1'
+        batsman: Syed Ahzamul Haq
+    - 5.2:
+        non_striker: Luqman Hussan
+        bowler: R Jeyakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: Syed Ahzamul Haq
+    - 5.3:
+        non_striker: Syed Ahzamul Haq
+        bowler: R Jeyakumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.2'
+        batsman: Luqman Hussan
+    - 5.4:
+        non_striker: Syed Ahzamul Haq
+        bowler: R Jeyakumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.2'
+        batsman: Luqman Hussan
+    - 5.5:
+        non_striker: Syed Ahzamul Haq
+        bowler: R Jeyakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: Luqman Hussan
+    - 5.6:
+        non_striker: Syed Ahzamul Haq
+        bowler: R Jeyakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: Luqman Hussan
+    - 5.7:
+        non_striker: Luqman Hussan
+        bowler: R Jeyakumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.4'
+        batsman: Syed Ahzamul Haq
+    - 5.8:
+        non_striker: Luqman Hussan
+        bowler: R Jeyakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Syed Ahzamul Haq
+    - 5.9:
+        non_striker: Luqman Hussan
+        bowler: R Jeyakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Syed Ahzamul Haq
+    - 5.10:
+        non_striker: Luqman Hussan
+        bowler: R Jeyakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Syed Ahzamul Haq
+    - 6.1:
+        non_striker: Syed Ahzamul Haq
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: Luqman Hussan
+    - 6.2:
+        non_striker: Syed Ahzamul Haq
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: Luqman Hussan
+    - 6.3:
+        non_striker: Luqman Hussan
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: Syed Ahzamul Haq
+    - 6.4:
+        non_striker: Syed Ahzamul Haq
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Luqman Hussan
+    - 6.5:
+        non_striker: Syed Ahzamul Haq
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Luqman Hussan
+    - 6.6:
+        non_striker: Syed Ahzamul Haq
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: Luqman Hussan
+    - 7.1:
+        non_striker: Luqman Hussan
+        bowler: R Jeyakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: Syed Ahzamul Haq
+    - 7.2:
+        non_striker: Luqman Hussan
+        bowler: R Jeyakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: Syed Ahzamul Haq
+    - 7.3:
+        non_striker: Syed Ahzamul Haq
+        bowler: R Jeyakumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.3'
+        batsman: Luqman Hussan
+    - 7.4:
+        non_striker: Syed Ahzamul Haq
+        bowler: R Jeyakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: Luqman Hussan
+    - 7.5:
+        non_striker: Syed Ahzamul Haq
+        bowler: R Jeyakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: Luqman Hussan
+    - 7.6:
+        non_striker: Luqman Hussan
+        bowler: R Jeyakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: Syed Ahzamul Haq
+    - 8.1:
+        non_striker: Syed Ahzamul Haq
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Luqman Hussan
+    - 8.2:
+        non_striker: Syed Ahzamul Haq
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: Luqman Hussan
+    - 8.3:
+        non_striker: Syed Ahzamul Haq
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: Luqman Hussan
+        wicket:
+          player_out: Luqman Hussan
+          fielders:
+          - F Banunaek
+          kind: caught
+    - 8.4:
+        non_striker: Syed Ahzamul Haq
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: A Musaev
+    - 8.5:
+        non_striker: A Musaev
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Syed Ahzamul Haq
+    - 8.6:
+        non_striker: Syed Ahzamul Haq
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: A Musaev
+        wicket:
+          player_out: A Musaev
+          kind: lbw
+    - 9.1:
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Qudratov
+        actual_delivery: '9.1'
+        batsman: Syed Ahzamul Haq
+    - 9.2:
+        bowler: KN Chaddha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: O Qudratov
+        actual_delivery: '9.2'
+        batsman: Syed Ahzamul Haq
+    - 9.3:
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Qudratov
+        actual_delivery: '9.2'
+        batsman: Syed Ahzamul Haq
+    - 9.4:
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Qudratov
+        actual_delivery: '9.3'
+        batsman: Syed Ahzamul Haq
+    - 9.5:
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: O Qudratov
+        actual_delivery: '9.4'
+        batsman: Syed Ahzamul Haq
+    - 9.6:
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Qudratov
+        actual_delivery: '9.5'
+        batsman: Syed Ahzamul Haq
+    - 9.7:
+        non_striker: O Qudratov
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.6'
+        batsman: Syed Ahzamul Haq
+    - 10.1:
+        non_striker: Syed Ahzamul Haq
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: O Qudratov
+        wicket:
+          player_out: O Qudratov
+          kind: bowled
+    - 10.2:
+        non_striker: Syed Ahzamul Haq
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.2'
+        batsman: Nikhil
+    - 10.3:
+        non_striker: Syed Ahzamul Haq
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: Nikhil
+    - 10.4:
+        non_striker: Syed Ahzamul Haq
+        bowler: GD Arta
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        actual_delivery: '10.4'
+        batsman: Nikhil
+    - 10.5:
+        non_striker: Syed Ahzamul Haq
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '10.5'
+        batsman: Nikhil
+    - 10.6:
+        non_striker: Syed Ahzamul Haq
+        bowler: GD Arta
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        actual_delivery: '10.6'
+        batsman: Nikhil
+    - 10.7:
+        non_striker: Syed Ahzamul Haq
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: Nikhil
+    - 11.1:
+        non_striker: Syed Ahzamul Haq
+        bowler: D Nanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.1'
+        batsman: Nikhil
+    - 11.2:
+        non_striker: Syed Ahzamul Haq
+        bowler: D Nanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.1'
+        batsman: Nikhil
+    - 11.3:
+        non_striker: Syed Ahzamul Haq
+        bowler: D Nanda
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '11.1'
+        batsman: Nikhil
+    - 11.4:
+        non_striker: Syed Ahzamul Haq
+        bowler: D Nanda
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        actual_delivery: '11.2'
+        batsman: Nikhil
+    - 11.5:
+        non_striker: Syed Ahzamul Haq
+        bowler: D Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: Nikhil
+    - 11.6:
+        non_striker: Syed Ahzamul Haq
+        bowler: D Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: Nikhil
+    - 11.7:
+        non_striker: Syed Ahzamul Haq
+        bowler: D Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: Nikhil
+    - 11.8:
+        non_striker: Syed Ahzamul Haq
+        bowler: D Nanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.5'
+        batsman: Nikhil
+    - 11.9:
+        non_striker: Syed Ahzamul Haq
+        bowler: D Nanda
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '11.5'
+        batsman: Nikhil
+    - 11.10:
+        non_striker: Syed Ahzamul Haq
+        bowler: D Nanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Nikhil
+    - 12.1:
+        non_striker: Syed Ahzamul Haq
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: Nikhil
+    - 12.2:
+        non_striker: Nikhil
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: Syed Ahzamul Haq
+    - 12.3:
+        non_striker: Nikhil
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: Syed Ahzamul Haq
+    - 12.4:
+        non_striker: Nikhil
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: Syed Ahzamul Haq
+    - 12.5:
+        non_striker: Nikhil
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: Syed Ahzamul Haq
+    - 12.6:
+        non_striker: Syed Ahzamul Haq
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: Nikhil
+    - 13.1:
+        non_striker: Syed Ahzamul Haq
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: Nikhil
+    - 13.2:
+        non_striker: Syed Ahzamul Haq
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: Nikhil
+    - 13.3:
+        non_striker: Nikhil
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Syed Ahzamul Haq
+    - 13.4:
+        non_striker: Syed Ahzamul Haq
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Nikhil
+    - 13.5:
+        non_striker: Syed Ahzamul Haq
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Nikhil
+    - 13.6:
+        non_striker: Syed Ahzamul Haq
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Nikhil
+    - 14.1:
+        non_striker: Syed Ahzamul Haq
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: Nikhil
+    - 14.2:
+        non_striker: Syed Ahzamul Haq
+        bowler: Anjar Tadarus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.2'
+        batsman: Nikhil
+    - 14.3:
+        non_striker: Syed Ahzamul Haq
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: Nikhil
+    - 14.4:
+        non_striker: Syed Ahzamul Haq
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: Nikhil
+    - 14.5:
+        non_striker: Syed Ahzamul Haq
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: Nikhil
+    - 14.6:
+        non_striker: Syed Ahzamul Haq
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: Nikhil
+    - 14.7:
+        non_striker: Nikhil
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: Syed Ahzamul Haq
+    - 15.1:
+        non_striker: Nikhil
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: Syed Ahzamul Haq
+    - 15.2:
+        non_striker: Syed Ahzamul Haq
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: Nikhil
+    - 15.3:
+        non_striker: Syed Ahzamul Haq
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: Nikhil
+    - 15.4:
+        non_striker: Nikhil
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: Syed Ahzamul Haq
+    - 15.5:
+        non_striker: Nikhil
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: Syed Ahzamul Haq
+    - 15.6:
+        non_striker: Nikhil
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: Syed Ahzamul Haq
+    - 16.1:
+        non_striker: Nikhil
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: Syed Ahzamul Haq
+    - 16.2:
+        non_striker: Nikhil
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: Syed Ahzamul Haq
+    - 16.3:
+        non_striker: Nikhil
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: Syed Ahzamul Haq
+    - 16.4:
+        non_striker: Nikhil
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: Syed Ahzamul Haq
+    - 16.5:
+        non_striker: Nikhil
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.5'
+        batsman: Syed Ahzamul Haq
+    - 16.6:
+        non_striker: Nikhil
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.6'
+        batsman: Syed Ahzamul Haq
+    - 17.1:
+        non_striker: Syed Ahzamul Haq
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: Nikhil
+    - 17.2:
+        non_striker: Nikhil
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: Syed Ahzamul Haq
+    - 17.3:
+        non_striker: Syed Ahzamul Haq
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: Nikhil
+    - 17.4:
+        non_striker: Syed Ahzamul Haq
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: Nikhil
+    - 17.5:
+        non_striker: Nikhil
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: Syed Ahzamul Haq
+    - 17.6:
+        non_striker: Syed Ahzamul Haq
+        bowler: GA Priandana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.6'
+        batsman: Nikhil
+    - 17.7:
+        non_striker: Syed Ahzamul Haq
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: Nikhil
+    - 18.1:
+        non_striker: Nikhil
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.1'
+        batsman: Syed Ahzamul Haq
+    - 18.2:
+        non_striker: Nikhil
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: Syed Ahzamul Haq
+    - 18.3:
+        non_striker: Syed Ahzamul Haq
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: Nikhil
+    - 18.4:
+        non_striker: Nikhil
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: Syed Ahzamul Haq
+    - 18.5:
+        non_striker: Nikhil
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: Syed Ahzamul Haq
+    - 18.6:
+        non_striker: Syed Ahzamul Haq
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: Nikhil
+    - 19.1:
+        non_striker: Syed Ahzamul Haq
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: Nikhil
+    - 19.2:
+        non_striker: Nikhil
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: Syed Ahzamul Haq
+    - 19.3:
+        non_striker: Nikhil
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.3'
+        batsman: Syed Ahzamul Haq
+    - 19.4:
+        non_striker: Nikhil
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.4'
+        batsman: Syed Ahzamul Haq
+    - 19.5:
+        non_striker: Nikhil
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.5'
+        batsman: Syed Ahzamul Haq
+    - 19.6:
+        non_striker: Syed Ahzamul Haq
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: Nikhil
+    target:
+      overs: 20
+      runs: 228

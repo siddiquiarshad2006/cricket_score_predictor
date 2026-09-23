@@ -1,0 +1,2267 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Southampton
+  dates:
+  - '2026-06-16'
+  gender: female
+  match_type: T20
+  match_type_number: 2862
+  outcome:
+    winner: England
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - S Ecclestone
+  players:
+    Ireland:
+    - A Hunter
+    - A Dalzell
+    - GH Lewis
+    - O Prendergast
+    - R Stokell
+    - L Paul
+    - A Tector
+    - L Little
+    - AN Kelly
+    - C Murray
+    - AK Maguire
+    England:
+    - AE Jones
+    - DN Wyatt
+    - NR Sciver-Brunt
+    - A Capsey
+    - HC Knight
+    - FG Kemp
+    - DR Gibson
+    - CE Dean
+    - S Ecclestone
+    - LCN Smith
+    - LK Bell
+  registry:
+    people:
+      A Capsey: 910dd54e
+      A Dalzell: '66498395'
+      A Hunter: e8fa03ed
+      A Tector: d58e9bfb
+      AE Jones: b05e45e4
+      AK Maguire: f888a374
+      AN Kelly: 397369e0
+      C Murray: 5a50471c
+      CE Dean: c6625a26
+      DN Wyatt: a139c379
+      DR Gibson: d2763568
+      FG Kemp: abc9f8a4
+      GH Lewis: 1b9d1579
+      Gayathri Venugopal: 20e3ae99
+      HC Knight: 4ba0289e
+      JM Pereira: f9a4a039
+      K Klaaste: 6cc1d918
+      L Little: 4f86926b
+      L Paul: '07248d8e'
+      LCN Smith: 340202b0
+      LK Bell: 38b4583c
+      N Janani: d06a665d
+      NR Sciver-Brunt: f3a18a0c
+      O Prendergast: d8f20ba5
+      R Stokell: def7b1bb
+      S Ecclestone: cdb82f1c
+      VG Rathi: 144e5b16
+  team_type: international
+  teams:
+  - Ireland
+  - England
+  toss:
+    winner: England
+    decision: field
+  umpires:
+  - N Janani
+  - VG Rathi
+  venue: The Rose Bowl, Southampton
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: A Dalzell
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.1'
+        batsman: A Hunter
+    - 0.2:
+        non_striker: A Dalzell
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.2'
+        batsman: A Hunter
+    - 0.3:
+        non_striker: A Hunter
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.3'
+        batsman: A Dalzell
+    - 0.4:
+        non_striker: A Hunter
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: A Dalzell
+    - 0.5:
+        non_striker: A Hunter
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: A Dalzell
+    - 0.6:
+        non_striker: A Hunter
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: A Dalzell
+    - 0.7:
+        non_striker: A Hunter
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: A Dalzell
+    - 1.1:
+        non_striker: A Dalzell
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: A Hunter
+    - 1.2:
+        non_striker: A Dalzell
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: A Hunter
+    - 1.3:
+        non_striker: A Hunter
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: A Dalzell
+    - 1.4:
+        non_striker: A Hunter
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: A Dalzell
+    - 1.5:
+        non_striker: A Hunter
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: A Dalzell
+    - 1.6:
+        non_striker: A Dalzell
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: A Hunter
+        wicket:
+          player_out: A Hunter
+          kind: bowled
+    - 2.1:
+        non_striker: GH Lewis
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.1'
+        batsman: A Dalzell
+    - 2.2:
+        non_striker: GH Lewis
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.2'
+        batsman: A Dalzell
+    - 2.3:
+        non_striker: GH Lewis
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: A Dalzell
+    - 2.4:
+        non_striker: GH Lewis
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.4'
+        batsman: A Dalzell
+    - 2.5:
+        non_striker: GH Lewis
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: A Dalzell
+    - 2.6:
+        non_striker: A Dalzell
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: GH Lewis
+        wicket:
+          player_out: GH Lewis
+          fielders:
+          - HC Knight
+          kind: caught
+    - 2.7:
+        non_striker: A Dalzell
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: O Prendergast
+    - 3.1:
+        non_striker: A Dalzell
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: O Prendergast
+    - 3.2:
+        non_striker: O Prendergast
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: A Dalzell
+    - 3.3:
+        non_striker: O Prendergast
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: A Dalzell
+    - 3.4:
+        non_striker: A Dalzell
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: O Prendergast
+    - 3.5:
+        non_striker: O Prendergast
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.5'
+        batsman: A Dalzell
+    - 3.6:
+        non_striker: O Prendergast
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: A Dalzell
+    - 4.1:
+        non_striker: O Prendergast
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: A Dalzell
+    - 4.2:
+        non_striker: O Prendergast
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: A Dalzell
+    - 4.3:
+        non_striker: O Prendergast
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: A Dalzell
+        wicket:
+          player_out: A Dalzell
+          fielders:
+          - FG Kemp
+          kind: caught
+    - 4.4:
+        non_striker: O Prendergast
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: R Stokell
+    - 4.5:
+        non_striker: O Prendergast
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: R Stokell
+    - 4.6:
+        non_striker: O Prendergast
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: R Stokell
+    - 5.1:
+        non_striker: R Stokell
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.1'
+        batsman: O Prendergast
+    - 5.2:
+        non_striker: R Stokell
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.2'
+        batsman: O Prendergast
+    - 5.3:
+        non_striker: R Stokell
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.3'
+        batsman: O Prendergast
+    - 5.4:
+        non_striker: R Stokell
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: O Prendergast
+    - 5.5:
+        non_striker: R Stokell
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: O Prendergast
+    - 5.6:
+        non_striker: O Prendergast
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.6'
+        batsman: R Stokell
+    - 6.1:
+        non_striker: R Stokell
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.1'
+        batsman: O Prendergast
+    - 6.2:
+        non_striker: R Stokell
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: O Prendergast
+    - 6.3:
+        non_striker: R Stokell
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: O Prendergast
+    - 6.4:
+        non_striker: O Prendergast
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: R Stokell
+    - 6.5:
+        non_striker: O Prendergast
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: R Stokell
+    - 6.6:
+        non_striker: O Prendergast
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: R Stokell
+    - 7.1:
+        non_striker: R Stokell
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: O Prendergast
+    - 7.2:
+        non_striker: O Prendergast
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: R Stokell
+    - 7.3:
+        non_striker: O Prendergast
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: R Stokell
+    - 7.4:
+        non_striker: O Prendergast
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: R Stokell
+    - 7.5:
+        non_striker: O Prendergast
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.5'
+        batsman: R Stokell
+    - 7.6:
+        non_striker: O Prendergast
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.6'
+        batsman: R Stokell
+    - 8.1:
+        non_striker: R Stokell
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: O Prendergast
+    - 8.2:
+        non_striker: O Prendergast
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: R Stokell
+    - 8.3:
+        non_striker: R Stokell
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: O Prendergast
+    - 8.4:
+        non_striker: R Stokell
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: O Prendergast
+    - 8.5:
+        non_striker: O Prendergast
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: R Stokell
+        wicket:
+          player_out: R Stokell
+          fielders:
+          - AE Jones
+          kind: stumped
+    - 8.6:
+        non_striker: O Prendergast
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: L Paul
+    - 9.1:
+        non_striker: L Paul
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.1'
+        batsman: O Prendergast
+    - 9.2:
+        non_striker: L Paul
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: O Prendergast
+    - 9.3:
+        non_striker: L Paul
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: O Prendergast
+        wicket:
+          player_out: O Prendergast
+          kind: bowled
+    - 9.4:
+        non_striker: L Paul
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: A Tector
+    - 9.5:
+        non_striker: L Paul
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: A Tector
+    - 9.6:
+        non_striker: L Paul
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: A Tector
+    - 10.1:
+        non_striker: A Tector
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: L Paul
+    - 10.2:
+        non_striker: A Tector
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: L Paul
+    - 10.3:
+        non_striker: L Paul
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: A Tector
+    - 10.4:
+        non_striker: L Paul
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: A Tector
+    - 10.5:
+        non_striker: L Paul
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: A Tector
+    - 10.6:
+        non_striker: L Paul
+        bowler: CE Dean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.6'
+        batsman: A Tector
+    - 10.7:
+        non_striker: L Paul
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: A Tector
+    - 11.1:
+        non_striker: A Tector
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: L Paul
+    - 11.2:
+        non_striker: A Tector
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: L Paul
+    - 11.3:
+        non_striker: L Paul
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: A Tector
+    - 11.4:
+        non_striker: A Tector
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: L Paul
+    - 11.5:
+        non_striker: A Tector
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: L Paul
+    - 11.6:
+        non_striker: L Paul
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: A Tector
+    - 12.1:
+        non_striker: L Paul
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: A Tector
+    - 12.2:
+        non_striker: A Tector
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: L Paul
+    - 12.3:
+        non_striker: A Tector
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: L Paul
+    - 12.4:
+        non_striker: L Paul
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: A Tector
+    - 12.5:
+        non_striker: A Tector
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: L Paul
+    - 12.6:
+        non_striker: L Paul
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: A Tector
+    - 13.1:
+        non_striker: L Paul
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: A Tector
+    - 13.2:
+        non_striker: A Tector
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: L Paul
+    - 13.3:
+        non_striker: A Tector
+        bowler: DR Gibson
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        actual_delivery: '13.3'
+        batsman: L Paul
+    - 13.4:
+        non_striker: A Tector
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: L Paul
+    - 13.5:
+        non_striker: L Paul
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.5'
+        batsman: A Tector
+    - 13.6:
+        non_striker: L Paul
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: A Tector
+        wicket:
+          player_out: A Tector
+          fielders:
+          - NR Sciver-Brunt
+          kind: caught
+    - 14.1:
+        non_striker: L Little
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: L Paul
+    - 14.2:
+        non_striker: L Little
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.2'
+        batsman: L Paul
+    - 14.3:
+        non_striker: L Little
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: L Paul
+    - 14.4:
+        non_striker: L Little
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: L Paul
+    - 14.5:
+        non_striker: L Little
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: L Paul
+    - 14.6:
+        non_striker: L Little
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: L Paul
+        wicket:
+          player_out: L Paul
+          kind: lbw
+    - 15.1:
+        non_striker: AN Kelly
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.1'
+        batsman: L Little
+    - 15.2:
+        non_striker: AN Kelly
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: L Little
+    - 15.3:
+        non_striker: L Little
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: AN Kelly
+    - 15.4:
+        non_striker: L Little
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: AN Kelly
+    - 15.5:
+        non_striker: L Little
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.5'
+        batsman: AN Kelly
+    - 15.6:
+        non_striker: L Little
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: AN Kelly
+    - 16.1:
+        non_striker: AN Kelly
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: L Little
+    - 16.2:
+        non_striker: L Little
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: AN Kelly
+    - 16.3:
+        non_striker: L Little
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: AN Kelly
+    - 16.4:
+        non_striker: AN Kelly
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: L Little
+    - 16.5:
+        non_striker: L Little
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: AN Kelly
+    - 16.6:
+        non_striker: AN Kelly
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: L Little
+    - 17.1:
+        non_striker: L Little
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: AN Kelly
+    - 17.2:
+        non_striker: AN Kelly
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: L Little
+    - 17.3:
+        non_striker: L Little
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: AN Kelly
+    - 17.4:
+        non_striker: AN Kelly
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: L Little
+    - 17.5:
+        non_striker: AN Kelly
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: L Little
+    - 17.6:
+        non_striker: L Little
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: AN Kelly
+    - 18.1:
+        non_striker: L Little
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: AN Kelly
+        wicket:
+          player_out: AN Kelly
+          fielders:
+          - HC Knight
+          kind: caught
+    - 18.2:
+        non_striker: L Little
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: C Murray
+    - 18.3:
+        non_striker: C Murray
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: L Little
+    - 18.4:
+        non_striker: L Little
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: C Murray
+        wicket:
+          player_out: C Murray
+          fielders:
+          - A Capsey
+          kind: caught
+    - 18.5:
+        non_striker: L Little
+        bowler: S Ecclestone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '18.5'
+        batsman: AK Maguire
+    - 18.6:
+        non_striker: AK Maguire
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: L Little
+    - 19.1:
+        non_striker: L Little
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: AK Maguire
+    - 19.2:
+        non_striker: AK Maguire
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.2'
+        batsman: L Little
+    - 19.3:
+        non_striker: AK Maguire
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.3'
+        batsman: L Little
+    - 19.4:
+        non_striker: AK Maguire
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: L Little
+    - 19.5:
+        non_striker: AK Maguire
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.5'
+        batsman: L Little
+    - 19.6:
+        non_striker: AK Maguire
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.6'
+        batsman: L Little
+- 2nd innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: DN Wyatt
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.1'
+        batsman: AE Jones
+    - 0.2:
+        non_striker: AE Jones
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: DN Wyatt
+    - 0.3:
+        non_striker: AE Jones
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: DN Wyatt
+    - 0.4:
+        non_striker: AE Jones
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: DN Wyatt
+    - 0.5:
+        non_striker: AE Jones
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.5'
+        batsman: DN Wyatt
+    - 0.6:
+        non_striker: AE Jones
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: DN Wyatt
+    - 1.1:
+        non_striker: AE Jones
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: DN Wyatt
+    - 1.2:
+        non_striker: AE Jones
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: DN Wyatt
+    - 1.3:
+        non_striker: AE Jones
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: DN Wyatt
+    - 1.4:
+        non_striker: AE Jones
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.4'
+        batsman: DN Wyatt
+    - 1.5:
+        non_striker: AE Jones
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: DN Wyatt
+    - 1.6:
+        non_striker: AE Jones
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: DN Wyatt
+    - 1.7:
+        non_striker: DN Wyatt
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: AE Jones
+    - 2.1:
+        non_striker: AE Jones
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: DN Wyatt
+    - 2.2:
+        non_striker: DN Wyatt
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.2'
+        batsman: AE Jones
+    - 2.3:
+        non_striker: DN Wyatt
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: AE Jones
+    - 2.4:
+        non_striker: AE Jones
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.4'
+        batsman: DN Wyatt
+    - 2.5:
+        non_striker: AE Jones
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.5'
+        batsman: DN Wyatt
+    - 2.6:
+        non_striker: AE Jones
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: DN Wyatt
+    - 3.1:
+        non_striker: DN Wyatt
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: AE Jones
+    - 3.2:
+        non_striker: AE Jones
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: DN Wyatt
+    - 3.3:
+        non_striker: DN Wyatt
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: AE Jones
+    - 3.4:
+        non_striker: DN Wyatt
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: AE Jones
+    - 3.5:
+        non_striker: DN Wyatt
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: AE Jones
+    - 3.6:
+        non_striker: DN Wyatt
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '3.6'
+        batsman: AE Jones
+    - 4.1:
+        non_striker: DN Wyatt
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: AE Jones
+        wicket:
+          player_out: AE Jones
+          fielders:
+          - GH Lewis
+          kind: caught
+    - 4.2:
+        non_striker: DN Wyatt
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: NR Sciver-Brunt
+    - 4.3:
+        non_striker: NR Sciver-Brunt
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: DN Wyatt
+        wicket:
+          player_out: DN Wyatt
+          fielders:
+          - GH Lewis
+          kind: caught
+    - 4.4:
+        non_striker: NR Sciver-Brunt
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: A Capsey
+    - 4.5:
+        non_striker: A Capsey
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: NR Sciver-Brunt
+    - 4.6:
+        non_striker: A Capsey
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: NR Sciver-Brunt
+    - 5.1:
+        non_striker: A Capsey
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: NR Sciver-Brunt
+    - 5.2:
+        non_striker: NR Sciver-Brunt
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: A Capsey
+    - 5.3:
+        non_striker: NR Sciver-Brunt
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.3'
+        batsman: A Capsey
+    - 5.4:
+        non_striker: NR Sciver-Brunt
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: A Capsey
+        wicket:
+          player_out: A Capsey
+          kind: bowled
+    - 5.5:
+        non_striker: NR Sciver-Brunt
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: HC Knight
+    - 5.6:
+        non_striker: NR Sciver-Brunt
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: HC Knight
+    - 6.1:
+        non_striker: HC Knight
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.1'
+        batsman: NR Sciver-Brunt
+    - 6.2:
+        non_striker: HC Knight
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: NR Sciver-Brunt
+    - 6.3:
+        non_striker: HC Knight
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: NR Sciver-Brunt
+    - 6.4:
+        non_striker: NR Sciver-Brunt
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: HC Knight
+    - 6.5:
+        non_striker: NR Sciver-Brunt
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: HC Knight
+    - 6.6:
+        non_striker: HC Knight
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '6.6'
+        batsman: NR Sciver-Brunt
+    - 7.1:
+        non_striker: HC Knight
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.1'
+        batsman: NR Sciver-Brunt
+    - 7.2:
+        non_striker: HC Knight
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: NR Sciver-Brunt
+    - 7.3:
+        non_striker: NR Sciver-Brunt
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: HC Knight
+    - 7.4:
+        non_striker: HC Knight
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: NR Sciver-Brunt
+    - 7.5:
+        non_striker: NR Sciver-Brunt
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: HC Knight
+    - 7.6:
+        non_striker: HC Knight
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.6'
+        batsman: NR Sciver-Brunt
+    - 8.1:
+        non_striker: NR Sciver-Brunt
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.1'
+        batsman: HC Knight
+    - 8.2:
+        non_striker: NR Sciver-Brunt
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: HC Knight
+    - 8.3:
+        non_striker: HC Knight
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: NR Sciver-Brunt
+    - 8.4:
+        non_striker: HC Knight
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.4'
+        batsman: NR Sciver-Brunt
+    - 8.5:
+        non_striker: HC Knight
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: NR Sciver-Brunt
+    - 8.6:
+        non_striker: NR Sciver-Brunt
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: HC Knight
+    - 9.1:
+        non_striker: HC Knight
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: NR Sciver-Brunt
+    - 9.2:
+        non_striker: HC Knight
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.2'
+        batsman: NR Sciver-Brunt
+    - 9.3:
+        non_striker: HC Knight
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: NR Sciver-Brunt
+    - 9.4:
+        non_striker: NR Sciver-Brunt
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.4'
+        batsman: HC Knight
+    - 9.5:
+        non_striker: NR Sciver-Brunt
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: HC Knight
+    - 9.6:
+        non_striker: HC Knight
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: NR Sciver-Brunt
+    - 10.1:
+        non_striker: HC Knight
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: NR Sciver-Brunt
+    - 10.2:
+        non_striker: HC Knight
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: NR Sciver-Brunt
+    - 10.3:
+        non_striker: NR Sciver-Brunt
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: HC Knight
+    - 10.4:
+        non_striker: HC Knight
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: NR Sciver-Brunt
+    - 10.5:
+        non_striker: NR Sciver-Brunt
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.5'
+        batsman: HC Knight
+    - 10.6:
+        non_striker: NR Sciver-Brunt
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: HC Knight
+    - 11.1:
+        non_striker: NR Sciver-Brunt
+        bowler: A Tector
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.1'
+        batsman: HC Knight
+    - 11.2:
+        non_striker: NR Sciver-Brunt
+        bowler: A Tector
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.1'
+        batsman: HC Knight
+    - 11.3:
+        non_striker: NR Sciver-Brunt
+        bowler: A Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: HC Knight
+    - 11.4:
+        non_striker: HC Knight
+        bowler: A Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: NR Sciver-Brunt
+    - 11.5:
+        non_striker: HC Knight
+        bowler: A Tector
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.4'
+        batsman: NR Sciver-Brunt
+    - 11.6:
+        non_striker: HC Knight
+        bowler: A Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: NR Sciver-Brunt
+    - 11.7:
+        non_striker: NR Sciver-Brunt
+        bowler: A Tector
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.6'
+        batsman: HC Knight
+    - 11.8:
+        non_striker: NR Sciver-Brunt
+        bowler: A Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: HC Knight
+    - 12.1:
+        non_striker: NR Sciver-Brunt
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: HC Knight
+    - 12.2:
+        non_striker: HC Knight
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.2'
+        batsman: NR Sciver-Brunt
+    - 12.3:
+        non_striker: HC Knight
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: NR Sciver-Brunt
+    - 12.4:
+        non_striker: NR Sciver-Brunt
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: HC Knight
+    - 12.5:
+        non_striker: NR Sciver-Brunt
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.5'
+        batsman: HC Knight
+    - 12.6:
+        non_striker: NR Sciver-Brunt
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: HC Knight
+    - 13.1:
+        non_striker: NR Sciver-Brunt
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: HC Knight
+    - 13.2:
+        non_striker: HC Knight
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.2'
+        batsman: NR Sciver-Brunt
+    - 13.3:
+        non_striker: HC Knight
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: NR Sciver-Brunt
+    - 13.4:
+        non_striker: HC Knight
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: NR Sciver-Brunt
+    - 13.5:
+        non_striker: NR Sciver-Brunt
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: HC Knight
+        wicket:
+          player_out: HC Knight
+          kind: lbw
+    - 13.6:
+        non_striker: NR Sciver-Brunt
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: FG Kemp
+    - 14.1:
+        non_striker: FG Kemp
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: NR Sciver-Brunt
+    - 14.2:
+        non_striker: NR Sciver-Brunt
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: FG Kemp
+    - 14.3:
+        non_striker: NR Sciver-Brunt
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: FG Kemp
+    - 14.4:
+        non_striker: FG Kemp
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.4'
+        batsman: NR Sciver-Brunt
+    - 14.5:
+        non_striker: FG Kemp
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: NR Sciver-Brunt
+    - 14.6:
+        non_striker: NR Sciver-Brunt
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: FG Kemp
+    - 15.1:
+        non_striker: FG Kemp
+        bowler: A Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: NR Sciver-Brunt
+    - 15.2:
+        non_striker: FG Kemp
+        bowler: A Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: NR Sciver-Brunt
+    - 15.3:
+        non_striker: NR Sciver-Brunt
+        bowler: A Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: FG Kemp
+    - 15.4:
+        non_striker: FG Kemp
+        bowler: A Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: NR Sciver-Brunt
+    - 15.5:
+        non_striker: FG Kemp
+        bowler: A Tector
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.5'
+        batsman: NR Sciver-Brunt
+        wicket:
+          player_out: NR Sciver-Brunt
+          kind: retired out
+    - 15.6:
+        non_striker: FG Kemp
+        bowler: A Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: DR Gibson
+    - 16.1:
+        non_striker: FG Kemp
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: DR Gibson
+    - 16.2:
+        non_striker: FG Kemp
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: DR Gibson
+    - 16.3:
+        non_striker: FG Kemp
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: DR Gibson
+        wicket:
+          player_out: FG Kemp
+          fielders:
+          - A Hunter
+          - AK Maguire
+          kind: run out
+    - 16.4:
+        non_striker: DR Gibson
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: CE Dean
+    - 16.5:
+        non_striker: DR Gibson
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: CE Dean
+    - 16.6:
+        non_striker: DR Gibson
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.6'
+        batsman: CE Dean
+    - 17.1:
+        non_striker: CE Dean
+        bowler: A Tector
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.1'
+        batsman: DR Gibson
+    - 17.2:
+        non_striker: CE Dean
+        bowler: A Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: DR Gibson
+    - 17.3:
+        non_striker: CE Dean
+        bowler: A Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: DR Gibson
+    - 17.4:
+        non_striker: DR Gibson
+        bowler: A Tector
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.4'
+        batsman: CE Dean
+    target:
+      overs: 20
+      runs: 119

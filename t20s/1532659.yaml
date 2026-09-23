@@ -1,0 +1,1920 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-05-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sano
+  dates:
+  - '2026-05-17'
+  gender: male
+  match_type: T20
+  match_type_number: 3875
+  outcome:
+    winner: Cook Islands
+    by:
+      runs: 50
+  overs: 20
+  player_of_match:
+  - MTMMJ Ave
+  players:
+    Cook Islands:
+    - HB Dickson
+    - T Parima
+    - MTMMJ Ave
+    - C Dickson
+    - A Parima
+    - L Grace
+    - OE Taylor
+    - Q Stephens
+    - J Pickering
+    - JL Tutty
+    - P Cummings
+    Indonesia:
+    - S Jegannathan
+    - S Kharvi
+    - KN Chaddha
+    - GA Priandana
+    - DJ Hawoe
+    - KD Kesuma
+    - Anjar Tadarus
+    - IKEG Artawan
+    - GD Arta
+    - AA Rahayu
+    - F Banunaek
+  registry:
+    people:
+      A Parima: 866d3ac8
+      AA Rahayu: 2327fdc7
+      Anjar Tadarus: '72275237'
+      C Dickson: 26b59073
+      DJ Hawoe: a62f55ba
+      DM Koch: 6d10c034
+      F Banunaek: 3c8faed4
+      GA Priandana: 2af0e3b1
+      GD Arta: e969e580
+      HB Dickson: e8c95491
+      IKEG Artawan: 190957d2
+      J Pickering: 1ac8edcf
+      JL Tutty: 11b37b2a
+      KD Kesuma: 4b349dc0
+      KN Chaddha: a88e4013
+      Kent Hannam: 8cc171e7
+      L Grace: de16fed9
+      MTMMJ Ave: '00863408'
+      OE Taylor: 24a93558
+      P Cummings: 4c6a4195
+      PJ Gillespie: 3e253a50
+      Q Stephens: 9f0ab09b
+      S Jegannathan: 866e9f3d
+      S Kharvi: 41a61623
+      Suresh Subramanian: 4e869e23
+      T Parima: ecd51f8e
+  teams:
+  - Cook Islands
+  - Indonesia
+  toss:
+    winner: Indonesia
+    decision: field
+  umpires:
+  - DM Koch
+  - PJ Gillespie
+  venue: Sano International Cricket Ground
+  team_type: international
+innings:
+- 1st innings:
+    team: Cook Islands
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: T Parima
+        batsman: HB Dickson
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Parima
+        batsman: HB Dickson
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: HB Dickson
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Parima
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: T Parima
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Dickson
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: T Parima
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: T Parima
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HB Dickson
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: HB Dickson
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: HB Dickson
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: HB Dickson
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: HB Dickson
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+        wicket:
+          player_out: T Parima
+          kind: bowled
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: HB Dickson
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: HB Dickson
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: MTMMJ Ave
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: MTMMJ Ave
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: HB Dickson
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MTMMJ Ave
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: HB Dickson
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MTMMJ Ave
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: HB Dickson
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: HB Dickson
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: MTMMJ Ave
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: HB Dickson
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MTMMJ Ave
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: HB Dickson
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MTMMJ Ave
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: HB Dickson
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: HB Dickson
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: HB Dickson
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: HB Dickson
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: MTMMJ Ave
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: MTMMJ Ave
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Dickson
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: MTMMJ Ave
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HB Dickson
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: MTMMJ Ave
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HB Dickson
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: MTMMJ Ave
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: MTMMJ Ave
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: MTMMJ Ave
+        bowler: S Jegannathan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: HB Dickson
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: MTMMJ Ave
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: MTMMJ Ave
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: MTMMJ Ave
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: MTMMJ Ave
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HB Dickson
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: HB Dickson
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MTMMJ Ave
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: HB Dickson
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MTMMJ Ave
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: HB Dickson
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: MTMMJ Ave
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: HB Dickson
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: MTMMJ Ave
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: MTMMJ Ave
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: MTMMJ Ave
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: MTMMJ Ave
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: MTMMJ Ave
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: HB Dickson
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: MTMMJ Ave
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+        wicket:
+          player_out: HB Dickson
+          fielders:
+          - KD Kesuma
+          kind: stumped
+    - 8.1:
+        actual_delivery: '8.1'
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Dickson
+        batsman: MTMMJ Ave
+    - 8.2:
+        actual_delivery: '8.2'
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Dickson
+        batsman: MTMMJ Ave
+    - 8.3:
+        actual_delivery: '8.3'
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Dickson
+        batsman: MTMMJ Ave
+    - 8.4:
+        actual_delivery: '8.4'
+        bowler: IKEG Artawan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: C Dickson
+        batsman: MTMMJ Ave
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: MTMMJ Ave
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Dickson
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: MTMMJ Ave
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: C Dickson
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: MTMMJ Ave
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: C Dickson
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: MTMMJ Ave
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Dickson
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: MTMMJ Ave
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: C Dickson
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MTMMJ Ave
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: MTMMJ Ave
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: C Dickson
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: MTMMJ Ave
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: C Dickson
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MTMMJ Ave
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: C Dickson
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MTMMJ Ave
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: C Dickson
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MTMMJ Ave
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: MTMMJ Ave
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: C Dickson
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MTMMJ Ave
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: C Dickson
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MTMMJ Ave
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: C Dickson
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: MTMMJ Ave
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: MTMMJ Ave
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Dickson
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: C Dickson
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: MTMMJ Ave
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: C Dickson
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MTMMJ Ave
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: C Dickson
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+        wicket:
+          player_out: MTMMJ Ave
+          fielders:
+          - AA Rahayu
+          kind: caught
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: C Dickson
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: A Parima
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Dickson
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: C Dickson
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: A Parima
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: C Dickson
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+        wicket:
+          player_out: A Parima
+          fielders:
+          - Anjar Tadarus
+          kind: caught
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: C Dickson
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Grace
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: L Grace
+        bowler: S Jegannathan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Dickson
+    - 13.6:
+        actual_delivery: '13.5'
+        non_striker: L Grace
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 13.7:
+        actual_delivery: '13.6'
+        non_striker: C Dickson
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Grace
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: L Grace
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Dickson
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: L Grace
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+        wicket:
+          player_out: C Dickson
+          fielders:
+          - S Jegannathan
+          kind: caught
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: L Grace
+        bowler: GD Arta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: OE Taylor
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: OE Taylor
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Grace
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: OE Taylor
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Grace
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: OE Taylor
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Grace
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: L Grace
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OE Taylor
+        wicket:
+          player_out: OE Taylor
+          kind: bowled
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: L Grace
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q Stephens
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: Q Stephens
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Grace
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: L Grace
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Stephens
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: L Grace
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q Stephens
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: Q Stephens
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Grace
+- 2nd innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: HB Dickson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: S Kharvi
+        batsman: S Jegannathan
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: S Jegannathan
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kharvi
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: S Jegannathan
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kharvi
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: S Jegannathan
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kharvi
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: S Kharvi
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: S Kharvi
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: S Kharvi
+        bowler: JL Tutty
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Jegannathan
+    - 1.2:
+        actual_delivery: '1.1'
+        non_striker: S Kharvi
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jegannathan
+    - 1.3:
+        actual_delivery: '1.2'
+        non_striker: S Kharvi
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 1.4:
+        actual_delivery: '1.3'
+        non_striker: S Kharvi
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+        wicket:
+          player_out: S Jegannathan
+          kind: bowled
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: S Kharvi
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 1.6:
+        actual_delivery: '1.5'
+        non_striker: S Kharvi
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 1.7:
+        actual_delivery: '1.6'
+        non_striker: S Kharvi
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: S Kharvi
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: S Kharvi
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: S Kharvi
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: KN Chaddha
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kharvi
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: KN Chaddha
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kharvi
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: KN Chaddha
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kharvi
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: S Kharvi
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: S Kharvi
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KN Chaddha
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: S Kharvi
+        bowler: JL Tutty
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KN Chaddha
+    - 3.4:
+        actual_delivery: '3.3'
+        non_striker: S Kharvi
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KN Chaddha
+    - 3.5:
+        actual_delivery: '3.4'
+        non_striker: S Kharvi
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 3.6:
+        actual_delivery: '3.5'
+        non_striker: KN Chaddha
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kharvi
+    - 3.7:
+        actual_delivery: '3.6'
+        non_striker: KN Chaddha
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kharvi
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: S Kharvi
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: S Kharvi
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: S Kharvi
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KN Chaddha
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: S Kharvi
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: S Kharvi
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: S Kharvi
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: KN Chaddha
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kharvi
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: KN Chaddha
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kharvi
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: S Kharvi
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: S Kharvi
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: KN Chaddha
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kharvi
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: KN Chaddha
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kharvi
+        wicket:
+          player_out: S Kharvi
+          kind: bowled
+    - 6.1:
+        actual_delivery: '6.1'
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GA Priandana
+        batsman: KN Chaddha
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: KN Chaddha
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: GA Priandana
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: GA Priandana
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: KN Chaddha
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: GA Priandana
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KN Chaddha
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: KN Chaddha
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GA Priandana
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: KN Chaddha
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: KN Chaddha
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: GA Priandana
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: GA Priandana
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: GA Priandana
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: GA Priandana
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: GA Priandana
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: KN Chaddha
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: GA Priandana
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: GA Priandana
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: KN Chaddha
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: GA Priandana
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: GA Priandana
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KN Chaddha
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: GA Priandana
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: GA Priandana
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: KN Chaddha
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GA Priandana
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: KN Chaddha
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: KN Chaddha
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+        wicket:
+          player_out: GA Priandana
+          kind: bowled
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: KN Chaddha
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: KN Chaddha
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: KN Chaddha
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+        wicket:
+          player_out: DJ Hawoe
+          kind: bowled
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: KN Chaddha
+        bowler: C Dickson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KD Kesuma
+    - 10.6:
+        actual_delivery: '10.5'
+        non_striker: KN Chaddha
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Kesuma
+    - 10.7:
+        actual_delivery: '10.6'
+        non_striker: KD Kesuma
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: KD Kesuma
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: KN Chaddha
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Kesuma
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: KD Kesuma
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: KD Kesuma
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: KN Chaddha
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Kesuma
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: KD Kesuma
+        bowler: MTMMJ Ave
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: KD Kesuma
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: KN Chaddha
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Kesuma
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: KD Kesuma
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: KN Chaddha
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: KN Chaddha
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+        wicket:
+          player_out: KD Kesuma
+          fielders:
+          - J Pickering
+          kind: stumped
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: KN Chaddha
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: KN Chaddha
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Anjar Tadarus
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KN Chaddha
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Anjar Tadarus
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Anjar Tadarus
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: KN Chaddha
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: Anjar Tadarus
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KN Chaddha
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: KN Chaddha
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Anjar Tadarus
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Anjar Tadarus
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: KN Chaddha
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: KN Chaddha
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Anjar Tadarus
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Anjar Tadarus
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: Anjar Tadarus
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KN Chaddha
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: Anjar Tadarus
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: Anjar Tadarus
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KN Chaddha
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: Anjar Tadarus
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+        wicket:
+          player_out: KN Chaddha
+          kind: bowled
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: Anjar Tadarus
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    target:
+      overs: 16
+      runs: 129

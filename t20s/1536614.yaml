@@ -1,0 +1,821 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2026-06-03'
+  gender: female
+  match_type: T20
+  match_type_number: 2803
+  outcome:
+    winner: Thailand
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - T Putthawong
+  players:
+    Mongolia:
+    - N Erdenebat
+    - B Ichinkhorloo
+    - O Amarjargal
+    - G Anujin
+    - M Batnasan
+    - U Bayarjavkhlan
+    - E Khaliunaa
+    - Sunjidmaa Phillips
+    - G Urjindulam
+    - D Enkhtsetseg
+    - B Unenchtseceg
+    Thailand:
+    - N Chantam
+    - P Maya
+    - S Chaturongrattana
+    - N Chaiwai
+    - N Koncharoenkai
+    - O Kamchomphu
+    - S Laomi
+    - T Putthawong
+    - A Suwanchonrathi
+    - N Chaihan
+    - Chayanisa Phengpaen
+  registry:
+    people:
+      A Suwanchonrathi: 43a2244f
+      AS Guha: c21b184d
+      B Ichinkhorloo: 3cc55f88
+      B Unenchtseceg: 93b40209
+      Chayanisa Phengpaen: ab45cae8
+      D Enkhtsetseg: babd401e
+      E Khaliunaa: 1349b940
+      Edwin Seah: be24f868
+      G Anujin: e749f016
+      G Urjindulam: a51e7c73
+      Humaira Farah: 6b6d6623
+      L Poobalan: 93cc9718
+      M Batnasan: 0e01e881
+      N Chaihan: 61b60bb3
+      N Chaiwai: '0825e4b3'
+      N Chantam: b5626ff7
+      N Erdenebat: 9e1e821f
+      N Koncharoenkai: 82c78412
+      O Amarjargal: c054cf6f
+      O Kamchomphu: 519b872a
+      P Maya: 72eada4c
+      S Chaturongrattana: bd36bc39
+      S Laomi: 4b15618c
+      Sunjidmaa Phillips: d5b6cb2e
+      T Putthawong: 23e3f2d6
+      U Bayarjavkhlan: 92c81a4f
+  teams:
+  - Mongolia
+  - Thailand
+  toss:
+    winner: Mongolia
+    decision: bat
+  umpires:
+  - AS Guha
+  - Humaira Farah
+  venue: Selangor Turf Club, Kuala Lumpur
+  team_type: international
+innings:
+- 1st innings:
+    team: Mongolia
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: B Ichinkhorloo
+        batsman: N Erdenebat
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: N Erdenebat
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+        wicket:
+          player_out: B Ichinkhorloo
+          kind: lbw
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: N Erdenebat
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Amarjargal
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: O Amarjargal
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Erdenebat
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: O Amarjargal
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Erdenebat
+        wicket:
+          player_out: N Erdenebat
+          fielders:
+          - N Koncharoenkai
+          kind: run out
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: O Amarjargal
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Anujin
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: G Anujin
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: G Anujin
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: G Anujin
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: G Anujin
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Amarjargal
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: O Amarjargal
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Anujin
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: G Anujin
+        bowler: T Putthawong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Amarjargal
+    - 1.7:
+        actual_delivery: '1.6'
+        non_striker: G Anujin
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: O Amarjargal
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Anujin
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: G Anujin
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: G Anujin
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: G Anujin
+        bowler: P Maya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Amarjargal
+    - 2.5:
+        actual_delivery: '2.4'
+        non_striker: G Anujin
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 2.6:
+        actual_delivery: '2.5'
+        non_striker: G Anujin
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 2.7:
+        actual_delivery: '2.6'
+        non_striker: G Anujin
+        bowler: P Maya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: O Amarjargal
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Anujin
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: O Amarjargal
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Anujin
+        wicket:
+          player_out: G Anujin
+          kind: bowled
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: O Amarjargal
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Batnasan
+        wicket:
+          player_out: M Batnasan
+          fielders:
+          - N Koncharoenkai
+          kind: stumped
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: O Amarjargal
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Bayarjavkhlan
+        wicket:
+          player_out: U Bayarjavkhlan
+          kind: caught and bowled
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: O Amarjargal
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Khaliunaa
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: O Amarjargal
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Khaliunaa
+        wicket:
+          player_out: E Khaliunaa
+          kind: bowled
+    - 4.1:
+        actual_delivery: '4.1'
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sunjidmaa Phillips
+        batsman: O Amarjargal
+    - 4.2:
+        actual_delivery: '4.2'
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sunjidmaa Phillips
+        batsman: O Amarjargal
+    - 4.3:
+        actual_delivery: '4.3'
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sunjidmaa Phillips
+        batsman: O Amarjargal
+    - 4.4:
+        actual_delivery: '4.4'
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sunjidmaa Phillips
+        batsman: O Amarjargal
+    - 4.5:
+        actual_delivery: '4.5'
+        bowler: S Chaturongrattana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: Sunjidmaa Phillips
+        batsman: O Amarjargal
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: O Amarjargal
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunjidmaa Phillips
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Sunjidmaa Phillips
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Sunjidmaa Phillips
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Sunjidmaa Phillips
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Sunjidmaa Phillips
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: Sunjidmaa Phillips
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: Sunjidmaa Phillips
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: O Amarjargal
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sunjidmaa Phillips
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: Sunjidmaa Phillips
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: Sunjidmaa Phillips
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+        wicket:
+          player_out: O Amarjargal
+          kind: lbw
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Sunjidmaa Phillips
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Urjindulam
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Sunjidmaa Phillips
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Urjindulam
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: Sunjidmaa Phillips
+        bowler: S Chaturongrattana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Urjindulam
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: G Urjindulam
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunjidmaa Phillips
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: G Urjindulam
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunjidmaa Phillips
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: G Urjindulam
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunjidmaa Phillips
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: G Urjindulam
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunjidmaa Phillips
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: G Urjindulam
+        bowler: T Putthawong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Sunjidmaa Phillips
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: Sunjidmaa Phillips
+        bowler: T Putthawong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Urjindulam
+        wicket:
+          player_out: G Urjindulam
+          fielders:
+          - Chayanisa Phengpaen
+          kind: caught
+    - 8.1:
+        actual_delivery: '8.1'
+        bowler: Chayanisa Phengpaen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: D Enkhtsetseg
+        batsman: Sunjidmaa Phillips
+    - 8.2:
+        actual_delivery: '8.1'
+        bowler: Chayanisa Phengpaen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: D Enkhtsetseg
+        batsman: Sunjidmaa Phillips
+    - 8.3:
+        actual_delivery: '8.1'
+        bowler: Chayanisa Phengpaen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Enkhtsetseg
+        batsman: Sunjidmaa Phillips
+    - 8.4:
+        actual_delivery: '8.2'
+        non_striker: D Enkhtsetseg
+        bowler: Chayanisa Phengpaen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunjidmaa Phillips
+        wicket:
+          player_out: Sunjidmaa Phillips
+          fielders:
+          - N Koncharoenkai
+          kind: caught
+    - 8.5:
+        actual_delivery: '8.3'
+        non_striker: D Enkhtsetseg
+        bowler: Chayanisa Phengpaen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: B Unenchtseceg
+    - 8.6:
+        actual_delivery: '8.3'
+        non_striker: D Enkhtsetseg
+        bowler: Chayanisa Phengpaen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Unenchtseceg
+    - 8.7:
+        actual_delivery: '8.4'
+        non_striker: D Enkhtsetseg
+        bowler: Chayanisa Phengpaen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Unenchtseceg
+    - 8.8:
+        actual_delivery: '8.5'
+        non_striker: D Enkhtsetseg
+        bowler: Chayanisa Phengpaen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Unenchtseceg
+    - 8.9:
+        actual_delivery: '8.6'
+        non_striker: D Enkhtsetseg
+        bowler: Chayanisa Phengpaen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Unenchtseceg
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: B Unenchtseceg
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Enkhtsetseg
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: B Unenchtseceg
+        bowler: S Laomi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Enkhtsetseg
+        wicket:
+          player_out: D Enkhtsetseg
+          kind: bowled
+- 2nd innings:
+    team: Thailand
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Maya
+        batsman: N Chantam
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Maya
+        batsman: N Chantam
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: N Chantam
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maya
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: N Chantam
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maya
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: N Chantam
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Maya
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: N Chantam
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Maya
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: P Maya
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chantam
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: P Maya
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chantam
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: N Chantam
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Maya
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: N Chantam
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maya
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: N Chantam
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Maya
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: N Chantam
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Maya
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: N Chantam
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Maya
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: N Chantam
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Maya
+    target:
+      overs: 20
+      runs: 20

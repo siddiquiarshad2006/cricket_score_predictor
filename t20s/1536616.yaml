@@ -1,0 +1,2095 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2026-06-03'
+  gender: female
+  match_type: T20
+  match_type_number: 2805
+  outcome:
+    winner: Myanmar
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - LL Htun
+  players:
+    Bahrain:
+    - TI Gajanayake
+    - Abeera Waris
+    - HMD Rasangika
+    - Sweeta Corda
+    - Saee Parkhi
+    - Sara Vivek
+    - Reema Naseer
+    - Sana Butt
+    - Nipuni Nadeera
+    - RL D'Souza
+    - Ashwini Govinda
+    Myanmar:
+    - KM Myat
+    - TT Aung
+    - TT Soe
+    - LL Htun
+    - HH Aung
+    - Wa Thone Nadi
+    - Zon Lin
+    - MPP San
+    - ZL Win
+    - Pan Ei Phyu
+    - Moe Ei Phyu
+  registry:
+    people:
+      AK Rana: 562d74d0
+      Abeera Waris: '01396dc6'
+      Ashwini Govinda: 5581a471
+      HH Aung: 860042f6
+      HMD Rasangika: d6f9dfd6
+      KM Myat: c1b4e25c
+      LDVV Silva: 6e226c31
+      LL Htun: ec687c3a
+      MPP San: 5bc290a2
+      Moe Ei Phyu: 34f0c9ad
+      Nipuni Nadeera: 9e193ebd
+      Pan Ei Phyu: 9fcaeb60
+      RL D'Souza: 2d0b7057
+      Reema Naseer: 6b999fbe
+      SR Das: f4e52218
+      Saee Parkhi: b60682f2
+      Sana Butt: 0f49b970
+      Sara Vivek: 8ff4ef0e
+      Sweeta Corda: 3ab9a451
+      TI Gajanayake: d577d45a
+      TT Aung: 57fb24e6
+      TT Soe: 59f44fde
+      V Krithika: bcbb203c
+      Wa Thone Nadi: 037734ad
+      ZL Win: b5714cf9
+      Zon Lin: 3b492b8d
+  teams:
+  - Bahrain
+  - Myanmar
+  toss:
+    winner: Bahrain
+    decision: bat
+  umpires:
+  - LDVV Silva
+  - V Krithika
+  venue: Bayuemas Oval, Kuala Lumpur
+  team_type: international
+innings:
+- 1st innings:
+    team: Bahrain
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Wa Thone Nadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Abeera Waris
+        batsman: TI Gajanayake
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: TI Gajanayake
+        bowler: Wa Thone Nadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+        wicket:
+          player_out: Abeera Waris
+          kind: lbw
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: TI Gajanayake
+        bowler: Wa Thone Nadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: HMD Rasangika
+        bowler: Wa Thone Nadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: HMD Rasangika
+        bowler: Wa Thone Nadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TI Gajanayake
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: TI Gajanayake
+        bowler: Wa Thone Nadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: HMD Rasangika
+        bowler: LL Htun
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: TI Gajanayake
+    - 1.2:
+        actual_delivery: '1.1'
+        non_striker: TI Gajanayake
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 1.3:
+        actual_delivery: '1.2'
+        non_striker: TI Gajanayake
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 1.4:
+        actual_delivery: '1.3'
+        non_striker: TI Gajanayake
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: TI Gajanayake
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 1.6:
+        actual_delivery: '1.5'
+        non_striker: TI Gajanayake
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 1.7:
+        actual_delivery: '1.6'
+        non_striker: TI Gajanayake
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: HMD Rasangika
+        bowler: Wa Thone Nadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: HMD Rasangika
+        bowler: Wa Thone Nadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TI Gajanayake
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: TI Gajanayake
+        bowler: Wa Thone Nadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: HMD Rasangika
+        bowler: Wa Thone Nadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: HMD Rasangika
+        bowler: Wa Thone Nadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TI Gajanayake
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: HMD Rasangika
+        bowler: Wa Thone Nadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: TI Gajanayake
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: HMD Rasangika
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: HMD Rasangika
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TI Gajanayake
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: TI Gajanayake
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: HMD Rasangika
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TI Gajanayake
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: TI Gajanayake
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: HMD Rasangika
+        bowler: Wa Thone Nadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TI Gajanayake
+    - 4.2:
+        actual_delivery: '4.1'
+        non_striker: HMD Rasangika
+        bowler: Wa Thone Nadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 4.3:
+        actual_delivery: '4.2'
+        non_striker: HMD Rasangika
+        bowler: Wa Thone Nadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 4.4:
+        actual_delivery: '4.3'
+        non_striker: HMD Rasangika
+        bowler: Wa Thone Nadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 4.5:
+        actual_delivery: '4.4'
+        non_striker: HMD Rasangika
+        bowler: Wa Thone Nadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TI Gajanayake
+    - 4.6:
+        actual_delivery: '4.5'
+        non_striker: TI Gajanayake
+        bowler: Wa Thone Nadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 4.7:
+        actual_delivery: '4.6'
+        non_striker: TI Gajanayake
+        bowler: Wa Thone Nadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: HMD Rasangika
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: HMD Rasangika
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TI Gajanayake
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: TI Gajanayake
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: TI Gajanayake
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: TI Gajanayake
+        bowler: TT Soe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HMD Rasangika
+    - 5.6:
+        actual_delivery: '5.5'
+        non_striker: TI Gajanayake
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 5.7:
+        actual_delivery: '5.6'
+        non_striker: TI Gajanayake
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: TI Gajanayake
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: HMD Rasangika
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: HMD Rasangika
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: HMD Rasangika
+        bowler: ZL Win
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TI Gajanayake
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: TI Gajanayake
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: HMD Rasangika
+        bowler: ZL Win
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TI Gajanayake
+    - 6.7:
+        actual_delivery: '6.6'
+        non_striker: HMD Rasangika
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: TI Gajanayake
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: HMD Rasangika
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: HMD Rasangika
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: HMD Rasangika
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: HMD Rasangika
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: HMD Rasangika
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: TI Gajanayake
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: TI Gajanayake
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: TI Gajanayake
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: HMD Rasangika
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: HMD Rasangika
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: HMD Rasangika
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+        wicket:
+          player_out: TI Gajanayake
+          fielders:
+          - Wa Thone Nadi
+          kind: caught
+    - 9.1:
+        actual_delivery: '9.1'
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sweeta Corda
+        batsman: HMD Rasangika
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: HMD Rasangika
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: HMD Rasangika
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+        wicket:
+          player_out: Sweeta Corda
+          kind: bowled
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: HMD Rasangika
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saee Parkhi
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: HMD Rasangika
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: HMD Rasangika
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saee Parkhi
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: HMD Rasangika
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: HMD Rasangika
+        bowler: MPP San
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saee Parkhi
+    - 10.3:
+        actual_delivery: '10.2'
+        non_striker: HMD Rasangika
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saee Parkhi
+    - 10.4:
+        actual_delivery: '10.3'
+        non_striker: Saee Parkhi
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 10.5:
+        actual_delivery: '10.4'
+        non_striker: Saee Parkhi
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 10.6:
+        actual_delivery: '10.5'
+        non_striker: Saee Parkhi
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 10.7:
+        actual_delivery: '10.6'
+        non_striker: HMD Rasangika
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Saee Parkhi
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Saee Parkhi
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: HMD Rasangika
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saee Parkhi
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: Saee Parkhi
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HMD Rasangika
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: Saee Parkhi
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: HMD Rasangika
+        bowler: Pan Ei Phyu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saee Parkhi
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: HMD Rasangika
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saee Parkhi
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Saee Parkhi
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Saee Parkhi
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+        wicket:
+          player_out: HMD Rasangika
+          fielders:
+          - TT Aung
+          kind: caught
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Saee Parkhi
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sara Vivek
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Saee Parkhi
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sara Vivek
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: Saee Parkhi
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sara Vivek
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Sara Vivek
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Sara Vivek
+        bowler: TT Soe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saee Parkhi
+    - 13.3:
+        actual_delivery: '13.2'
+        non_striker: Sara Vivek
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 13.4:
+        actual_delivery: '13.3'
+        non_striker: Sara Vivek
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 13.5:
+        actual_delivery: '13.4'
+        non_striker: Sara Vivek
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+    - 13.6:
+        actual_delivery: '13.5'
+        non_striker: Sara Vivek
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saee Parkhi
+        wicket:
+          player_out: Saee Parkhi
+          kind: bowled
+    - 13.7:
+        actual_delivery: '13.6'
+        non_striker: Sara Vivek
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reema Naseer
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Reema Naseer
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sara Vivek
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Sara Vivek
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Reema Naseer
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Reema Naseer
+        bowler: MPP San
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sara Vivek
+    - 14.4:
+        actual_delivery: '14.3'
+        non_striker: Reema Naseer
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sara Vivek
+    - 14.5:
+        actual_delivery: '14.4'
+        non_striker: Sara Vivek
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Reema Naseer
+    - 14.6:
+        actual_delivery: '14.5'
+        non_striker: Reema Naseer
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sara Vivek
+    - 14.7:
+        actual_delivery: '14.6'
+        non_striker: Reema Naseer
+        bowler: MPP San
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sara Vivek
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Reema Naseer
+        bowler: LL Htun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sara Vivek
+    - 15.2:
+        actual_delivery: '15.1'
+        non_striker: Reema Naseer
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sara Vivek
+        wicket:
+          player_out: Sara Vivek
+          fielders:
+          - TT Aung
+          kind: caught
+    - 15.3:
+        actual_delivery: '15.2'
+        non_striker: Reema Naseer
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 15.4:
+        actual_delivery: '15.3'
+        non_striker: Reema Naseer
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 15.5:
+        actual_delivery: '15.4'
+        non_striker: Reema Naseer
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 15.6:
+        actual_delivery: '15.5'
+        non_striker: Reema Naseer
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sana Butt
+    - 15.7:
+        actual_delivery: '15.6'
+        non_striker: Sana Butt
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reema Naseer
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: Reema Naseer
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sana Butt
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Reema Naseer
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: Reema Naseer
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: Reema Naseer
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sana Butt
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: Sana Butt
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Reema Naseer
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: Reema Naseer
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sana Butt
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: Reema Naseer
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: Reema Naseer
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: Reema Naseer
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sana Butt
+        wicket:
+          player_out: Sana Butt
+          kind: bowled
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: Reema Naseer
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nipuni Nadeera
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: Reema Naseer
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nipuni Nadeera
+        wicket:
+          player_out: Nipuni Nadeera
+          kind: bowled
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: Reema Naseer
+        bowler: LL Htun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL D'Souza
+    - 17.7:
+        actual_delivery: '17.6'
+        non_striker: Reema Naseer
+        bowler: LL Htun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL D'Souza
+    - 17.8:
+        actual_delivery: '17.6'
+        non_striker: Reema Naseer
+        bowler: LL Htun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL D'Souza
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: RL D'Souza
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reema Naseer
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: RL D'Souza
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reema Naseer
+        wicket:
+          player_out: Reema Naseer
+          kind: bowled
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: RL D'Souza
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwini Govinda
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: RL D'Souza
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwini Govinda
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: RL D'Souza
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashwini Govinda
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: Ashwini Govinda
+        bowler: ZL Win
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL D'Souza
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: RL D'Souza
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashwini Govinda
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: Ashwini Govinda
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL D'Souza
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: Ashwini Govinda
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL D'Souza
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: RL D'Souza
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashwini Govinda
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: Ashwini Govinda
+        bowler: TT Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL D'Souza
+        wicket:
+          player_out: RL D'Souza
+          kind: bowled
+- 2nd innings:
+    team: Myanmar
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TT Aung
+        batsman: KM Myat
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: TT Aung
+        batsman: KM Myat
+    - 0.3:
+        actual_delivery: '0.3'
+        bowler: Sara Vivek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: TT Aung
+        batsman: KM Myat
+    - 0.4:
+        actual_delivery: '0.3'
+        bowler: Sara Vivek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: TT Aung
+        batsman: KM Myat
+    - 0.5:
+        actual_delivery: '0.3'
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TT Aung
+        batsman: KM Myat
+    - 0.6:
+        actual_delivery: '0.4'
+        non_striker: KM Myat
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 0.7:
+        actual_delivery: '0.5'
+        non_striker: KM Myat
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 0.8:
+        actual_delivery: '0.6'
+        non_striker: KM Myat
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: TT Aung
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: TT Aung
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: TT Aung
+        bowler: TI Gajanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KM Myat
+    - 1.4:
+        actual_delivery: '1.3'
+        non_striker: TT Aung
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: TT Aung
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+    - 1.6:
+        actual_delivery: '1.5'
+        non_striker: TT Aung
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KM Myat
+    - 1.7:
+        actual_delivery: '1.6'
+        non_striker: TT Aung
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: KM Myat
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: KM Myat
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: KM Myat
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: TT Aung
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: TT Aung
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: TT Aung
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KM Myat
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: KM Myat
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: KM Myat
+        bowler: TI Gajanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: TT Aung
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: TT Aung
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: TT Aung
+        bowler: TI Gajanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KM Myat
+    - 3.5:
+        actual_delivery: '3.4'
+        non_striker: TT Aung
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KM Myat
+    - 3.6:
+        actual_delivery: '3.5'
+        non_striker: TT Aung
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Myat
+    - 3.7:
+        actual_delivery: '3.6'
+        non_striker: TT Aung
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KM Myat
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: KM Myat
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: KM Myat
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: KM Myat
+        bowler: Sara Vivek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Aung
+    - 4.4:
+        actual_delivery: '4.3'
+        non_striker: KM Myat
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Aung
+    - 4.5:
+        actual_delivery: '4.4'
+        non_striker: KM Myat
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 4.6:
+        actual_delivery: '4.5'
+        non_striker: KM Myat
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 4.7:
+        actual_delivery: '4.6'
+        non_striker: KM Myat
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: TT Aung
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: TT Aung
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: TT Aung
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: TT Aung
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Myat
+        wicket:
+          player_out: KM Myat
+          kind: bowled
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: TT Aung
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: TT Soe
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: TT Aung
+        bowler: RL D'Souza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Soe
+    - 6.2:
+        actual_delivery: '6.1'
+        non_striker: TT Aung
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 6.3:
+        actual_delivery: '6.2'
+        non_striker: TT Soe
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 6.4:
+        actual_delivery: '6.3'
+        non_striker: TT Soe
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 6.5:
+        actual_delivery: '6.4'
+        non_striker: TT Soe
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 6.6:
+        actual_delivery: '6.5'
+        non_striker: TT Aung
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 6.7:
+        actual_delivery: '6.6'
+        non_striker: TT Soe
+        bowler: RL D'Souza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Aung
+    - 6.8:
+        actual_delivery: '6.6'
+        non_striker: TT Soe
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: TT Soe
+        bowler: TI Gajanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TT Aung
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: TT Aung
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: TT Aung
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: TT Aung
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: TT Soe
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: TT Aung
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: TT Aung
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: TT Soe
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: TT Aung
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Soe
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: TT Aung
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Soe
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: TT Aung
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: TT Soe
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: TT Soe
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: TT Soe
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: TT Aung
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: TT Soe
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: TT Soe
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: TT Soe
+        bowler: Abeera Waris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Aung
+    - 9.7:
+        actual_delivery: '9.6'
+        non_striker: TT Soe
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: TT Aung
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Soe
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: TT Aung
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: TT Soe
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: TT Soe
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: TT Aung
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: TT Soe
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Aung
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: TT Aung
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Soe
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: TT Aung
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Soe
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: TT Soe
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: TT Soe
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: TT Soe
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Aung
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: TT Soe
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: TT Soe
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Aung
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: TT Soe
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Aung
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: TT Aung
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Soe
+        wicket:
+          player_out: TT Soe
+          kind: bowled
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: TT Aung
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LL Htun
+    target:
+      overs: 20
+      runs: 65

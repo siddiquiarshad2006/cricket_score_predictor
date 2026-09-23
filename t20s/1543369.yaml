@@ -1,0 +1,2582 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-07-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Brondby
+  dates:
+  - '2026-07-10'
+  gender: male
+  match_type: T20
+  match_type_number: 4023
+  outcome:
+    winner: Belgium
+    by:
+      runs: 64
+  overs: 20
+  player_of_match:
+  - Shaheryar Butt
+  players:
+    Belgium:
+    - A Raza
+    - Aziz Mohammad
+    - Omid Mailk Khel
+    - Sheraz Sheikh
+    - Shaheryar Butt
+    - Saber Zakhil
+    - B Niaz
+    - Khalid Ahmadi
+    - Sajad Ahmadzai
+    - Zaki Ul Hassan
+    - R Thapliyal
+    Serbia:
+    - Luka Woods
+    - BM Pecic
+    - A Dizija
+    - LA Dunbar
+    - ML Kostic
+    - WAE Burton
+    - MV Pavlovic
+    - V Zimonjic
+    - P Nedeljkovic
+    - M Janicijevic
+    - S Tosic
+  registry:
+    people:
+      A Dizija: 6483c062
+      A Raza: 838bc6ab
+      Aidan Seaver: 862c0b16
+      Aziz Mohammad: b3e9555a
+      B Niaz: b7824537
+      BM Pecic: '71093272'
+      G McCrea: 46f4a901
+      Khalid Ahmadi: cf0b9a0d
+      LA Dunbar: f50433e9
+      Luka Woods: '0996f198'
+      M Jameson: bdf1ffe3
+      M Janicijevic: 0fce11e1
+      M Prabhudesa: c36bcd1e
+      ML Kostic: 79e23cc5
+      MV Pavlovic: 2809b390
+      Omid Mailk Khel: 2d94751e
+      P Nedeljkovic: 87e87dd2
+      R Thapliyal: 5947220c
+      S Tosic: 1c40f69f
+      Saber Zakhil: 036dcf9b
+      Sajad Ahmadzai: 6978bff0
+      Shaheryar Butt: b6bad765
+      Sheraz Sheikh: 4aad6842
+      V Zimonjic: 7f784eb8
+      WAE Burton: b0358c6d
+      Zaki Ul Hassan: 1d6d8a8b
+  team_type: international
+  teams:
+  - Belgium
+  - Serbia
+  toss:
+    winner: Serbia
+    decision: field
+  umpires:
+  - Aidan Seaver
+  - M Jameson
+  venue: Svanholm Park, Brondby
+innings:
+- 1st innings:
+    team: Belgium
+    deliveries:
+    - 0.1:
+        non_striker: Aziz Mohammad
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: A Raza
+        wicket:
+          player_out: A Raza
+          fielders:
+          - Luka Woods
+          kind: caught
+    - 0.2:
+        non_striker: Aziz Mohammad
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: Omid Mailk Khel
+    - 0.3:
+        non_striker: Aziz Mohammad
+        bowler: P Nedeljkovic
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        actual_delivery: '0.3'
+        batsman: Omid Mailk Khel
+    - 0.4:
+        non_striker: Aziz Mohammad
+        bowler: P Nedeljkovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '0.4'
+        batsman: Omid Mailk Khel
+    - 0.5:
+        non_striker: Omid Mailk Khel
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.5'
+        batsman: Aziz Mohammad
+    - 0.6:
+        non_striker: Omid Mailk Khel
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Aziz Mohammad
+    - 1.1:
+        non_striker: Aziz Mohammad
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: Omid Mailk Khel
+    - 1.2:
+        non_striker: Aziz Mohammad
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: Omid Mailk Khel
+    - 1.3:
+        non_striker: Aziz Mohammad
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: Omid Mailk Khel
+    - 1.4:
+        non_striker: Omid Mailk Khel
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.4'
+        batsman: Aziz Mohammad
+    - 1.5:
+        non_striker: Omid Mailk Khel
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: Aziz Mohammad
+    - 1.6:
+        non_striker: Aziz Mohammad
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: Omid Mailk Khel
+    - 2.1:
+        non_striker: Aziz Mohammad
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: Omid Mailk Khel
+    - 2.2:
+        non_striker: Aziz Mohammad
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.2'
+        batsman: Omid Mailk Khel
+    - 2.3:
+        non_striker: Aziz Mohammad
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Omid Mailk Khel
+    - 2.4:
+        non_striker: Aziz Mohammad
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.4'
+        batsman: Omid Mailk Khel
+    - 2.5:
+        non_striker: Aziz Mohammad
+        bowler: P Nedeljkovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.5'
+        batsman: Omid Mailk Khel
+    - 2.6:
+        non_striker: Aziz Mohammad
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: Omid Mailk Khel
+    - 2.7:
+        non_striker: Omid Mailk Khel
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Aziz Mohammad
+        wicket:
+          player_out: Aziz Mohammad
+          kind: caught and bowled
+    - 3.1:
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sheraz Sheikh
+        actual_delivery: '3.1'
+        batsman: Omid Mailk Khel
+    - 3.2:
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sheraz Sheikh
+        actual_delivery: '3.2'
+        batsman: Omid Mailk Khel
+    - 3.3:
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sheraz Sheikh
+        actual_delivery: '3.3'
+        batsman: Omid Mailk Khel
+    - 3.4:
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sheraz Sheikh
+        actual_delivery: '3.4'
+        batsman: Omid Mailk Khel
+    - 3.5:
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sheraz Sheikh
+        actual_delivery: '3.5'
+        batsman: Omid Mailk Khel
+    - 3.6:
+        non_striker: Sheraz Sheikh
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.6'
+        batsman: Omid Mailk Khel
+    - 4.1:
+        non_striker: Omid Mailk Khel
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: Sheraz Sheikh
+    - 4.2:
+        non_striker: Sheraz Sheikh
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: Omid Mailk Khel
+    - 4.3:
+        non_striker: Omid Mailk Khel
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: Sheraz Sheikh
+    - 4.4:
+        non_striker: Omid Mailk Khel
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: Sheraz Sheikh
+    - 4.5:
+        non_striker: Omid Mailk Khel
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Sheraz Sheikh
+    - 4.6:
+        non_striker: Omid Mailk Khel
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Sheraz Sheikh
+    - 5.1:
+        non_striker: Sheraz Sheikh
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: Omid Mailk Khel
+    - 5.2:
+        non_striker: Omid Mailk Khel
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: Sheraz Sheikh
+    - 5.3:
+        non_striker: Omid Mailk Khel
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: Sheraz Sheikh
+    - 5.4:
+        non_striker: Sheraz Sheikh
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: Omid Mailk Khel
+    - 5.5:
+        non_striker: Omid Mailk Khel
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: Sheraz Sheikh
+    - 5.6:
+        non_striker: Sheraz Sheikh
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: Omid Mailk Khel
+    - 6.1:
+        non_striker: Sheraz Sheikh
+        bowler: V Zimonjic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.1'
+        batsman: Omid Mailk Khel
+    - 6.2:
+        non_striker: Sheraz Sheikh
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: Omid Mailk Khel
+    - 6.3:
+        non_striker: Sheraz Sheikh
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: Omid Mailk Khel
+    - 6.4:
+        non_striker: Sheraz Sheikh
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: Omid Mailk Khel
+    - 6.5:
+        non_striker: Omid Mailk Khel
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Sheraz Sheikh
+        wicket:
+          player_out: Sheraz Sheikh
+          fielders:
+          - ML Kostic
+          kind: caught
+    - 6.6:
+        non_striker: Omid Mailk Khel
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Shaheryar Butt
+    - 6.7:
+        non_striker: Omid Mailk Khel
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.6'
+        batsman: Shaheryar Butt
+    - 7.1:
+        non_striker: Shaheryar Butt
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: Omid Mailk Khel
+    - 7.2:
+        non_striker: Shaheryar Butt
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: Omid Mailk Khel
+    - 7.3:
+        non_striker: Shaheryar Butt
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: Omid Mailk Khel
+    - 7.4:
+        non_striker: Shaheryar Butt
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.4'
+        batsman: Omid Mailk Khel
+    - 7.5:
+        non_striker: Shaheryar Butt
+        bowler: MV Pavlovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.5'
+        batsman: Omid Mailk Khel
+    - 7.6:
+        non_striker: Shaheryar Butt
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: Omid Mailk Khel
+    - 7.7:
+        non_striker: Omid Mailk Khel
+        bowler: MV Pavlovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: Shaheryar Butt
+    - 8.1:
+        non_striker: Omid Mailk Khel
+        bowler: V Zimonjic
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          byes: 4
+          noballs: 1
+        actual_delivery: '8.1'
+        batsman: Shaheryar Butt
+    - 8.2:
+        non_striker: Omid Mailk Khel
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: Shaheryar Butt
+    - 8.3:
+        non_striker: Shaheryar Butt
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Omid Mailk Khel
+    - 8.4:
+        non_striker: Omid Mailk Khel
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.3'
+        batsman: Shaheryar Butt
+    - 8.5:
+        non_striker: Omid Mailk Khel
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: Shaheryar Butt
+    - 8.6:
+        non_striker: Omid Mailk Khel
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Shaheryar Butt
+    - 8.7:
+        non_striker: Shaheryar Butt
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Omid Mailk Khel
+    - 9.1:
+        non_striker: Omid Mailk Khel
+        bowler: Luka Woods
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '9.1'
+        batsman: Shaheryar Butt
+    - 9.2:
+        non_striker: Omid Mailk Khel
+        bowler: Luka Woods
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Shaheryar Butt
+    - 9.3:
+        non_striker: Omid Mailk Khel
+        bowler: Luka Woods
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: Shaheryar Butt
+    - 9.4:
+        non_striker: Omid Mailk Khel
+        bowler: Luka Woods
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: Shaheryar Butt
+    - 9.5:
+        non_striker: Shaheryar Butt
+        bowler: Luka Woods
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: Omid Mailk Khel
+    - 9.6:
+        non_striker: Omid Mailk Khel
+        bowler: Luka Woods
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: Shaheryar Butt
+    - 10.1:
+        non_striker: Shaheryar Butt
+        bowler: M Janicijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: Omid Mailk Khel
+    - 10.2:
+        non_striker: Omid Mailk Khel
+        bowler: M Janicijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: Shaheryar Butt
+    - 10.3:
+        non_striker: Shaheryar Butt
+        bowler: M Janicijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Omid Mailk Khel
+    - 10.4:
+        non_striker: Omid Mailk Khel
+        bowler: M Janicijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: Shaheryar Butt
+    - 10.5:
+        non_striker: Shaheryar Butt
+        bowler: M Janicijevic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.5'
+        batsman: Omid Mailk Khel
+    - 10.6:
+        non_striker: Shaheryar Butt
+        bowler: M Janicijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: Omid Mailk Khel
+    - 11.1:
+        non_striker: Shaheryar Butt
+        bowler: Luka Woods
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.1'
+        batsman: Omid Mailk Khel
+    - 11.2:
+        non_striker: Shaheryar Butt
+        bowler: Luka Woods
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.2'
+        batsman: Omid Mailk Khel
+    - 11.3:
+        non_striker: Shaheryar Butt
+        bowler: Luka Woods
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: Omid Mailk Khel
+    - 11.4:
+        non_striker: Omid Mailk Khel
+        bowler: Luka Woods
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.3'
+        batsman: Shaheryar Butt
+    - 11.5:
+        non_striker: Omid Mailk Khel
+        bowler: Luka Woods
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: Shaheryar Butt
+    - 11.6:
+        non_striker: Shaheryar Butt
+        bowler: Luka Woods
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.5'
+        batsman: Omid Mailk Khel
+    - 11.7:
+        non_striker: Shaheryar Butt
+        bowler: Luka Woods
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.6'
+        batsman: Omid Mailk Khel
+    - 11.8:
+        non_striker: Shaheryar Butt
+        bowler: Luka Woods
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: Omid Mailk Khel
+    - 12.1:
+        non_striker: Omid Mailk Khel
+        bowler: M Janicijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Shaheryar Butt
+    - 12.2:
+        non_striker: Omid Mailk Khel
+        bowler: M Janicijevic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.2'
+        batsman: Shaheryar Butt
+    - 12.3:
+        non_striker: Omid Mailk Khel
+        bowler: M Janicijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: Shaheryar Butt
+    - 12.4:
+        non_striker: Omid Mailk Khel
+        bowler: M Janicijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: Shaheryar Butt
+    - 12.5:
+        non_striker: Shaheryar Butt
+        bowler: M Janicijevic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.5'
+        batsman: Omid Mailk Khel
+    - 12.6:
+        non_striker: Shaheryar Butt
+        bowler: M Janicijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: Omid Mailk Khel
+    - 12.7:
+        non_striker: Omid Mailk Khel
+        bowler: M Janicijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: Shaheryar Butt
+    - 13.1:
+        non_striker: Omid Mailk Khel
+        bowler: Luka Woods
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: Shaheryar Butt
+    - 13.2:
+        non_striker: Omid Mailk Khel
+        bowler: Luka Woods
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.2'
+        batsman: Shaheryar Butt
+    - 13.3:
+        non_striker: Omid Mailk Khel
+        bowler: Luka Woods
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.3'
+        batsman: Shaheryar Butt
+    - 13.4:
+        non_striker: Omid Mailk Khel
+        bowler: Luka Woods
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.3'
+        batsman: Shaheryar Butt
+    - 13.5:
+        non_striker: Omid Mailk Khel
+        bowler: Luka Woods
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Shaheryar Butt
+    - 13.6:
+        non_striker: Omid Mailk Khel
+        bowler: Luka Woods
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Shaheryar Butt
+    - 13.7:
+        non_striker: Omid Mailk Khel
+        bowler: Luka Woods
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Shaheryar Butt
+    - 14.1:
+        non_striker: Omid Mailk Khel
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: Shaheryar Butt
+    - 14.2:
+        non_striker: Omid Mailk Khel
+        bowler: WAE Burton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '14.2'
+        batsman: Shaheryar Butt
+    - 14.3:
+        non_striker: Shaheryar Butt
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: Omid Mailk Khel
+    - 14.4:
+        non_striker: Omid Mailk Khel
+        bowler: WAE Burton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '14.4'
+        batsman: Shaheryar Butt
+    - 14.5:
+        non_striker: Shaheryar Butt
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: Omid Mailk Khel
+        wicket:
+          player_out: Omid Mailk Khel
+          fielders:
+          - ML Kostic
+          kind: caught
+    - 14.6:
+        non_striker: Shaheryar Butt
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: Saber Zakhil
+    - 15.1:
+        non_striker: Shaheryar Butt
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: Saber Zakhil
+    - 15.2:
+        non_striker: Shaheryar Butt
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: Saber Zakhil
+    - 15.3:
+        non_striker: Shaheryar Butt
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: Saber Zakhil
+    - 15.4:
+        non_striker: Saber Zakhil
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: Shaheryar Butt
+    - 15.5:
+        non_striker: Shaheryar Butt
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: Saber Zakhil
+    - 15.6:
+        non_striker: Shaheryar Butt
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.6'
+        batsman: Saber Zakhil
+    - 16.1:
+        non_striker: Saber Zakhil
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: Shaheryar Butt
+    - 16.2:
+        non_striker: Saber Zakhil
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.2'
+        batsman: Shaheryar Butt
+    - 16.3:
+        non_striker: Saber Zakhil
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: Shaheryar Butt
+    - 16.4:
+        non_striker: Shaheryar Butt
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.4'
+        batsman: Saber Zakhil
+    - 16.5:
+        non_striker: Shaheryar Butt
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: Saber Zakhil
+    - 16.6:
+        non_striker: Shaheryar Butt
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: Saber Zakhil
+    - 17.1:
+        non_striker: Shaheryar Butt
+        bowler: P Nedeljkovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.1'
+        batsman: Saber Zakhil
+    - 17.2:
+        non_striker: Shaheryar Butt
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.1'
+        batsman: Saber Zakhil
+    - 17.3:
+        non_striker: Shaheryar Butt
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.2'
+        batsman: Saber Zakhil
+    - 17.4:
+        non_striker: Shaheryar Butt
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: Saber Zakhil
+    - 17.5:
+        non_striker: Saber Zakhil
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: Shaheryar Butt
+        wicket:
+          player_out: Shaheryar Butt
+          fielders:
+          - MV Pavlovic
+          kind: caught
+    - 17.6:
+        non_striker: Saber Zakhil
+        bowler: P Nedeljkovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.5'
+        batsman: B Niaz
+    - 17.7:
+        non_striker: Saber Zakhil
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.5'
+        batsman: B Niaz
+    - 17.8:
+        non_striker: Saber Zakhil
+        bowler: P Nedeljkovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.6'
+        batsman: B Niaz
+    - 18.1:
+        non_striker: B Niaz
+        bowler: WAE Burton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.1'
+        batsman: Saber Zakhil
+    - 18.2:
+        non_striker: B Niaz
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: Saber Zakhil
+        wicket:
+          player_out: Saber Zakhil
+          fielders:
+          - MV Pavlovic
+          kind: caught
+    - 18.3:
+        non_striker: B Niaz
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.2'
+        batsman: Khalid Ahmadi
+    - 18.4:
+        non_striker: B Niaz
+        bowler: WAE Burton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.3'
+        batsman: Khalid Ahmadi
+    - 18.5:
+        non_striker: B Niaz
+        bowler: WAE Burton
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '18.3'
+        batsman: Khalid Ahmadi
+    - 18.6:
+        non_striker: Khalid Ahmadi
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.3'
+        batsman: B Niaz
+    - 18.7:
+        non_striker: Khalid Ahmadi
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.4'
+        batsman: B Niaz
+    - 18.8:
+        non_striker: Khalid Ahmadi
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: B Niaz
+        wicket:
+          player_out: B Niaz
+          fielders:
+          - S Tosic
+          kind: caught
+    - 18.9:
+        non_striker: Khalid Ahmadi
+        bowler: WAE Burton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.6'
+        batsman: Sajad Ahmadzai
+    - 19.1:
+        non_striker: Sajad Ahmadzai
+        bowler: V Zimonjic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.1'
+        batsman: Khalid Ahmadi
+    - 19.2:
+        non_striker: Sajad Ahmadzai
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.1'
+        batsman: Khalid Ahmadi
+    - 19.3:
+        non_striker: Sajad Ahmadzai
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: Khalid Ahmadi
+    - 19.4:
+        non_striker: Khalid Ahmadi
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: Sajad Ahmadzai
+    - 19.5:
+        non_striker: Khalid Ahmadi
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: Sajad Ahmadzai
+    - 19.6:
+        non_striker: Sajad Ahmadzai
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: Khalid Ahmadi
+        wicket:
+          player_out: Khalid Ahmadi
+          fielders:
+          - BM Pecic
+          kind: caught
+    - 19.7:
+        non_striker: Sajad Ahmadzai
+        bowler: V Zimonjic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.6'
+        batsman: Zaki Ul Hassan
+- 2nd innings:
+    team: Serbia
+    deliveries:
+    - 0.1:
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BM Pecic
+        actual_delivery: '0.1'
+        batsman: Luka Woods
+    - 0.2:
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BM Pecic
+        actual_delivery: '0.2'
+        batsman: Luka Woods
+    - 0.3:
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BM Pecic
+        actual_delivery: '0.3'
+        batsman: Luka Woods
+    - 0.4:
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BM Pecic
+        actual_delivery: '0.4'
+        batsman: Luka Woods
+    - 0.5:
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BM Pecic
+        actual_delivery: '0.5'
+        batsman: Luka Woods
+    - 0.6:
+        non_striker: Luka Woods
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.6'
+        batsman: BM Pecic
+    - 1.1:
+        non_striker: BM Pecic
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: Luka Woods
+    - 1.2:
+        non_striker: BM Pecic
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: Luka Woods
+    - 1.3:
+        non_striker: BM Pecic
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: Luka Woods
+    - 1.4:
+        non_striker: BM Pecic
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: Luka Woods
+    - 1.5:
+        non_striker: Luka Woods
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: BM Pecic
+        wicket:
+          player_out: BM Pecic
+          kind: caught and bowled
+    - 1.6:
+        non_striker: Luka Woods
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: A Dizija
+    - 2.1:
+        non_striker: Luka Woods
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: A Dizija
+    - 2.2:
+        non_striker: Luka Woods
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: A Dizija
+    - 2.3:
+        non_striker: A Dizija
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: Luka Woods
+    - 2.4:
+        non_striker: Luka Woods
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: A Dizija
+    - 2.5:
+        non_striker: Luka Woods
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: A Dizija
+    - 2.6:
+        non_striker: Luka Woods
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: A Dizija
+    - 3.1:
+        non_striker: Luka Woods
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: A Dizija
+    - 3.2:
+        non_striker: Luka Woods
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.2'
+        batsman: A Dizija
+    - 3.3:
+        non_striker: Luka Woods
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: A Dizija
+    - 3.4:
+        non_striker: Luka Woods
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.3'
+        batsman: A Dizija
+    - 3.5:
+        non_striker: Luka Woods
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: A Dizija
+    - 3.6:
+        non_striker: Luka Woods
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.4'
+        batsman: A Dizija
+    - 3.7:
+        non_striker: Luka Woods
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: A Dizija
+    - 3.8:
+        non_striker: Luka Woods
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: A Dizija
+    - 3.9:
+        non_striker: Luka Woods
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: A Dizija
+    - 4.1:
+        non_striker: Luka Woods
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.1'
+        batsman: A Dizija
+    - 4.2:
+        non_striker: Luka Woods
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: A Dizija
+    - 4.3:
+        non_striker: Luka Woods
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: A Dizija
+    - 4.4:
+        non_striker: A Dizija
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: Luka Woods
+    - 4.5:
+        non_striker: A Dizija
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: Luka Woods
+    - 4.6:
+        non_striker: A Dizija
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: Luka Woods
+    - 5.1:
+        non_striker: A Dizija
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Luka Woods
+    - 5.2:
+        non_striker: A Dizija
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: Luka Woods
+    - 5.3:
+        non_striker: A Dizija
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.3'
+        batsman: Luka Woods
+    - 5.4:
+        non_striker: A Dizija
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: Luka Woods
+    - 5.5:
+        non_striker: Luka Woods
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: A Dizija
+    - 5.6:
+        non_striker: Luka Woods
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: A Dizija
+    - 6.1:
+        non_striker: A Dizija
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: Luka Woods
+    - 6.2:
+        non_striker: Luka Woods
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: A Dizija
+    - 6.3:
+        non_striker: Luka Woods
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: A Dizija
+        wicket:
+          player_out: A Dizija
+          kind: bowled
+    - 6.4:
+        non_striker: Luka Woods
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: LA Dunbar
+    - 6.5:
+        non_striker: Luka Woods
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: LA Dunbar
+    - 6.6:
+        non_striker: Luka Woods
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: LA Dunbar
+    - 7.1:
+        non_striker: LA Dunbar
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: Luka Woods
+    - 7.2:
+        non_striker: LA Dunbar
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: Luka Woods
+    - 7.3:
+        non_striker: LA Dunbar
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.3'
+        batsman: Luka Woods
+    - 7.4:
+        non_striker: LA Dunbar
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: Luka Woods
+    - 7.5:
+        non_striker: Luka Woods
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: LA Dunbar
+    - 7.6:
+        non_striker: Luka Woods
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: LA Dunbar
+    - 8.1:
+        non_striker: LA Dunbar
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: Luka Woods
+    - 8.2:
+        non_striker: Luka Woods
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: LA Dunbar
+    - 8.3:
+        non_striker: LA Dunbar
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: Luka Woods
+    - 8.4:
+        non_striker: LA Dunbar
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: Luka Woods
+        wicket:
+          player_out: Luka Woods
+          kind: bowled
+    - 8.5:
+        non_striker: LA Dunbar
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.5'
+        batsman: ML Kostic
+    - 8.6:
+        non_striker: LA Dunbar
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: ML Kostic
+    - 9.1:
+        non_striker: ML Kostic
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: LA Dunbar
+    - 9.2:
+        non_striker: LA Dunbar
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: ML Kostic
+    - 9.3:
+        non_striker: LA Dunbar
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: ML Kostic
+    - 9.4:
+        non_striker: LA Dunbar
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: ML Kostic
+    - 9.5:
+        non_striker: LA Dunbar
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: ML Kostic
+    - 9.6:
+        non_striker: ML Kostic
+        bowler: Saber Zakhil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.6'
+        batsman: LA Dunbar
+    - 9.7:
+        non_striker: ML Kostic
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: LA Dunbar
+    - 10.1:
+        non_striker: LA Dunbar
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: ML Kostic
+    - 10.2:
+        non_striker: LA Dunbar
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: ML Kostic
+    - 10.3:
+        non_striker: LA Dunbar
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.3'
+        batsman: ML Kostic
+    - 10.4:
+        non_striker: LA Dunbar
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: ML Kostic
+    - 10.5:
+        non_striker: ML Kostic
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '10.4'
+        batsman: LA Dunbar
+    - 10.6:
+        non_striker: ML Kostic
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: LA Dunbar
+    - 10.7:
+        non_striker: LA Dunbar
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: ML Kostic
+    - 10.8:
+        non_striker: ML Kostic
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: LA Dunbar
+    - 11.1:
+        non_striker: LA Dunbar
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.1'
+        batsman: ML Kostic
+    - 11.2:
+        non_striker: LA Dunbar
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: ML Kostic
+        wicket:
+          player_out: ML Kostic
+          kind: bowled
+    - 11.3:
+        non_striker: LA Dunbar
+        bowler: Saber Zakhil
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '11.3'
+        batsman: WAE Burton
+    - 11.4:
+        non_striker: WAE Burton
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: LA Dunbar
+    - 11.5:
+        non_striker: LA Dunbar
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: WAE Burton
+    - 11.6:
+        non_striker: WAE Burton
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: LA Dunbar
+    - 11.7:
+        non_striker: LA Dunbar
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: WAE Burton
+    - 12.1:
+        non_striker: LA Dunbar
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: WAE Burton
+    - 12.2:
+        non_striker: WAE Burton
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: LA Dunbar
+    - 12.3:
+        non_striker: LA Dunbar
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: WAE Burton
+    - 12.4:
+        non_striker: LA Dunbar
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: WAE Burton
+        wicket:
+          player_out: WAE Burton
+          fielders:
+          - B Niaz
+          kind: caught
+    - 12.5:
+        non_striker: LA Dunbar
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: MV Pavlovic
+    - 12.6:
+        non_striker: LA Dunbar
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: MV Pavlovic
+    - 13.1:
+        non_striker: MV Pavlovic
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: LA Dunbar
+    - 13.2:
+        non_striker: MV Pavlovic
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: LA Dunbar
+    - 13.3:
+        non_striker: LA Dunbar
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: MV Pavlovic
+        wicket:
+          player_out: MV Pavlovic
+          kind: bowled
+    - 13.4:
+        non_striker: LA Dunbar
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: V Zimonjic
+    - 13.5:
+        non_striker: V Zimonjic
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: LA Dunbar
+    - 13.6:
+        non_striker: LA Dunbar
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: V Zimonjic
+    - 14.1:
+        non_striker: LA Dunbar
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: V Zimonjic
+    - 14.2:
+        non_striker: V Zimonjic
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.2'
+        batsman: LA Dunbar
+    - 14.3:
+        non_striker: V Zimonjic
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: LA Dunbar
+    - 14.4:
+        non_striker: V Zimonjic
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: LA Dunbar
+    - 14.5:
+        non_striker: LA Dunbar
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.5'
+        batsman: V Zimonjic
+    - 14.6:
+        non_striker: LA Dunbar
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: V Zimonjic
+    - 15.1:
+        non_striker: LA Dunbar
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: V Zimonjic
+    - 15.2:
+        non_striker: LA Dunbar
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: V Zimonjic
+    - 15.3:
+        non_striker: LA Dunbar
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        actual_delivery: '15.3'
+        batsman: V Zimonjic
+    - 15.4:
+        non_striker: LA Dunbar
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: V Zimonjic
+    - 15.5:
+        non_striker: LA Dunbar
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: V Zimonjic
+    - 15.6:
+        non_striker: V Zimonjic
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: LA Dunbar
+    - 15.7:
+        non_striker: V Zimonjic
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: LA Dunbar
+    - 16.1:
+        non_striker: V Zimonjic
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: LA Dunbar
+    - 16.2:
+        non_striker: V Zimonjic
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: LA Dunbar
+    - 16.3:
+        non_striker: LA Dunbar
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: V Zimonjic
+    - 16.4:
+        non_striker: V Zimonjic
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: LA Dunbar
+    - 16.5:
+        non_striker: V Zimonjic
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: LA Dunbar
+    - 16.6:
+        non_striker: V Zimonjic
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: LA Dunbar
+    - 17.1:
+        non_striker: V Zimonjic
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: LA Dunbar
+    - 17.2:
+        non_striker: LA Dunbar
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.2'
+        batsman: V Zimonjic
+    - 17.3:
+        non_striker: LA Dunbar
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: V Zimonjic
+    - 17.4:
+        non_striker: V Zimonjic
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: LA Dunbar
+    - 17.5:
+        non_striker: LA Dunbar
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: V Zimonjic
+        wicket:
+          player_out: V Zimonjic
+          kind: bowled
+    - 17.6:
+        non_striker: LA Dunbar
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.6'
+        batsman: P Nedeljkovic
+    - 17.7:
+        non_striker: LA Dunbar
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: P Nedeljkovic
+    - 18.1:
+        non_striker: LA Dunbar
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: P Nedeljkovic
+    - 18.2:
+        non_striker: LA Dunbar
+        bowler: Aziz Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.2'
+        batsman: P Nedeljkovic
+    - 18.3:
+        non_striker: LA Dunbar
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.2'
+        batsman: P Nedeljkovic
+    - 18.4:
+        non_striker: LA Dunbar
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: P Nedeljkovic
+    - 18.5:
+        non_striker: P Nedeljkovic
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: LA Dunbar
+    - 18.6:
+        non_striker: LA Dunbar
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: P Nedeljkovic
+        wicket:
+          player_out: LA Dunbar
+          fielders:
+          - A Raza
+          - B Niaz
+          kind: run out
+    - 18.7:
+        non_striker: P Nedeljkovic
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: M Janicijevic
+    - 19.1:
+        non_striker: P Nedeljkovic
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: M Janicijevic
+    - 19.2:
+        non_striker: M Janicijevic
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: P Nedeljkovic
+    - 19.3:
+        non_striker: M Janicijevic
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: P Nedeljkovic
+        wicket:
+          player_out: P Nedeljkovic
+          kind: bowled
+    - 19.4:
+        non_striker: M Janicijevic
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: S Tosic
+        wicket:
+          player_out: S Tosic
+          kind: lbw
+    target:
+      overs: 20
+      runs: 172

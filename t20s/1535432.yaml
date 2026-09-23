@@ -1,0 +1,973 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2026-05-30'
+  gender: male
+  match_type: T20
+  match_type_number: 3920
+  outcome:
+    winner: Kenya
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - GM Muthui
+  players:
+    Ivory Coast:
+    - OK Mohamed
+    - GBK Roland
+    - QF Djakaridja
+    - KK Hermann
+    - O Issouf
+    - D Issiaka
+    - MC Alex
+    - KMA Aziz
+    - K Nagnama
+    - DKJ Claude
+    - M Ibrahim
+    Kenya:
+    - S Singh
+    - LN Oluoch
+    - N Hirani
+    - GM Muthui
+    - IA Karim
+    - DM Gondaria
+    - P Koech
+    - SR Bhudia
+    - S Gill
+    - SO Ngoche
+    - Vishil Patel
+  registry:
+    people:
+      D Issiaka: 933b30c9
+      DKJ Claude: '096601c5'
+      DM Gondaria: 9048c17e
+      E Lassen: a476d6d0
+      GBK Roland: 7f2f7ad9
+      GM Muthui: d7e51f87
+      I Chabi: 5e39110e
+      IA Karim: ca92a578
+      K Nagnama: 6770bccd
+      KK Hermann: ba3533fe
+      KMA Aziz: e8cfd743
+      LN Oluoch: eb4f9c61
+      M Ibrahim: 253bc9d8
+      MC Alex: 3a200eb2
+      N Hirani: 4d290e7a
+      O Issouf: 5d656f48
+      OK Mohamed: 3cb42681
+      P Koech: f4a0a615
+      QF Djakaridja: 9ae09b37
+      S Gill: 3e6e9a5f
+      S Singh: 612a395c
+      S Wadvalla: c1a1acf3
+      SO Ngoche: 49118dc7
+      SR Bhudia: e9173fb0
+      VR Angara: 5b7b706f
+      Vishil Patel: 3df8f9d5
+  teams:
+  - Ivory Coast
+  - Kenya
+  toss:
+    winner: Kenya
+    decision: field
+  umpires:
+  - E Lassen
+  - I Chabi
+  venue: Botswana Cricket Association Oval 2, Gaborone
+  team_type: international
+innings:
+- 1st innings:
+    team: Ivory Coast
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GBK Roland
+        batsman: OK Mohamed
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GBK Roland
+        batsman: OK Mohamed
+    - 0.3:
+        actual_delivery: '0.3'
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GBK Roland
+        batsman: OK Mohamed
+    - 0.4:
+        actual_delivery: '0.4'
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GBK Roland
+        batsman: OK Mohamed
+    - 0.5:
+        actual_delivery: '0.5'
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GBK Roland
+        batsman: OK Mohamed
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: GBK Roland
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OK Mohamed
+        wicket:
+          player_out: OK Mohamed
+          kind: bowled
+    - 1.1:
+        actual_delivery: '1.1'
+        bowler: GM Muthui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: QF Djakaridja
+        batsman: GBK Roland
+    - 1.2:
+        actual_delivery: '1.1'
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: QF Djakaridja
+        batsman: GBK Roland
+    - 1.3:
+        actual_delivery: '1.2'
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: QF Djakaridja
+        batsman: GBK Roland
+    - 1.4:
+        actual_delivery: '1.3'
+        bowler: GM Muthui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: QF Djakaridja
+        batsman: GBK Roland
+    - 1.5:
+        actual_delivery: '1.3'
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: QF Djakaridja
+        batsman: GBK Roland
+    - 1.6:
+        actual_delivery: '1.4'
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: QF Djakaridja
+        batsman: GBK Roland
+    - 1.7:
+        actual_delivery: '1.5'
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: QF Djakaridja
+        batsman: GBK Roland
+    - 1.8:
+        actual_delivery: '1.6'
+        non_striker: QF Djakaridja
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GBK Roland
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: GBK Roland
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: QF Djakaridja
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: GBK Roland
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: QF Djakaridja
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: QF Djakaridja
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GBK Roland
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: QF Djakaridja
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GBK Roland
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: QF Djakaridja
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GBK Roland
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: QF Djakaridja
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GBK Roland
+        wicket:
+          player_out: GBK Roland
+          kind: lbw
+    - 3.1:
+        actual_delivery: '3.1'
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KK Hermann
+        batsman: QF Djakaridja
+    - 3.2:
+        actual_delivery: '3.2'
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KK Hermann
+        batsman: QF Djakaridja
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: KK Hermann
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: QF Djakaridja
+        wicket:
+          player_out: QF Djakaridja
+          kind: bowled
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: KK Hermann
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Issouf
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: KK Hermann
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Issouf
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: KK Hermann
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Issouf
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: O Issouf
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Hermann
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: O Issouf
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Hermann
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: O Issouf
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Hermann
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: O Issouf
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Hermann
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: O Issouf
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Hermann
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: O Issouf
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Hermann
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: KK Hermann
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Issouf
+        wicket:
+          player_out: O Issouf
+          kind: bowled
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: KK Hermann
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Issiaka
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: KK Hermann
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Issiaka
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: KK Hermann
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Issiaka
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: KK Hermann
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Issiaka
+        wicket:
+          player_out: D Issiaka
+          kind: bowled
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: KK Hermann
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Alex
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: MC Alex
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Hermann
+        wicket:
+          player_out: KK Hermann
+          kind: bowled
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: MC Alex
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Aziz
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: MC Alex
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Aziz
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: MC Alex
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KMA Aziz
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: MC Alex
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KMA Aziz
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: KMA Aziz
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Alex
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: KMA Aziz
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Alex
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: KMA Aziz
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Alex
+        wicket:
+          player_out: MC Alex
+          kind: bowled
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: KMA Aziz
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nagnama
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: KMA Aziz
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nagnama
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: KMA Aziz
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nagnama
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: KMA Aziz
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nagnama
+        wicket:
+          player_out: KMA Aziz
+          fielders:
+          - SR Bhudia
+          kind: run out
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: DKJ Claude
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Nagnama
+        wicket:
+          player_out: K Nagnama
+          kind: bowled
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: DKJ Claude
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ibrahim
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: DKJ Claude
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ibrahim
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: DKJ Claude
+        bowler: LN Oluoch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Ibrahim
+    - 8.5:
+        actual_delivery: '8.4'
+        non_striker: DKJ Claude
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ibrahim
+    - 8.6:
+        actual_delivery: '8.5'
+        non_striker: DKJ Claude
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ibrahim
+    - 8.7:
+        actual_delivery: '8.6'
+        non_striker: DKJ Claude
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ibrahim
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: M Ibrahim
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DKJ Claude
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: M Ibrahim
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DKJ Claude
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: DKJ Claude
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ibrahim
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: M Ibrahim
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DKJ Claude
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: M Ibrahim
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DKJ Claude
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: M Ibrahim
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DKJ Claude
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: DKJ Claude
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ibrahim
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: DKJ Claude
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ibrahim
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: DKJ Claude
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ibrahim
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: DKJ Claude
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Ibrahim
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: M Ibrahim
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DKJ Claude
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: M Ibrahim
+        bowler: LN Oluoch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DKJ Claude
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: DKJ Claude
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ibrahim
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: DKJ Claude
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ibrahim
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: DKJ Claude
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ibrahim
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: DKJ Claude
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ibrahim
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: DKJ Claude
+        bowler: P Koech
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Ibrahim
+    - 11.6:
+        actual_delivery: '11.5'
+        non_striker: DKJ Claude
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ibrahim
+    - 11.7:
+        actual_delivery: '11.6'
+        non_striker: DKJ Claude
+        bowler: P Koech
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ibrahim
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: M Ibrahim
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DKJ Claude
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: M Ibrahim
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DKJ Claude
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: M Ibrahim
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DKJ Claude
+        wicket:
+          player_out: DKJ Claude
+          kind: bowled
+- 2nd innings:
+    team: Kenya
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: KMA Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: LN Oluoch
+        batsman: S Singh
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: KMA Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LN Oluoch
+        batsman: S Singh
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: S Singh
+        bowler: KMA Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LN Oluoch
+    - 0.4:
+        actual_delivery: '0.3'
+        non_striker: S Singh
+        bowler: KMA Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LN Oluoch
+    - 0.5:
+        actual_delivery: '0.3'
+        non_striker: S Singh
+        bowler: KMA Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Oluoch
+    - 0.6:
+        actual_delivery: '0.4'
+        non_striker: S Singh
+        bowler: KMA Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Oluoch
+    - 0.7:
+        actual_delivery: '0.5'
+        non_striker: S Singh
+        bowler: KMA Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LN Oluoch
+    - 0.8:
+        actual_delivery: '0.6'
+        non_striker: S Singh
+        bowler: KMA Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Oluoch
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: LN Oluoch
+        bowler: QF Djakaridja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Singh
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: LN Oluoch
+        bowler: QF Djakaridja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: S Singh
+        bowler: QF Djakaridja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Oluoch
+        wicket:
+          player_out: LN Oluoch
+          fielders:
+          - DKJ Claude
+          kind: caught
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: S Singh
+        bowler: QF Djakaridja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Hirani
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: S Singh
+        bowler: QF Djakaridja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Hirani
+    target:
+      overs: 20
+      runs: 19

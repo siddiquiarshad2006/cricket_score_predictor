@@ -1,0 +1,2383 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-05-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Episkopi
+  dates:
+  - '2026-05-23'
+  gender: male
+  match_type: T20
+  match_type_number: 3899
+  outcome:
+    winner: Switzerland
+    by:
+      wickets: 3
+  overs: 20
+  player_of_match:
+  - Ashwin Vinod
+  players:
+    Malta:
+    - Mehboob Ali
+    - Mohammed Qasim
+    - P Pushparajan
+    - Jaspal Singh
+    - Flynn Zahra
+    - Muhammad Ajmal
+    - Micheal Das
+    - SB Patel
+    - Ajin Soman
+    - Imran Ameer
+    - Jaswinder Singh
+    Switzerland:
+    - Arjun Vinod
+    - Izhar Hussain
+    - M Stanikzai
+    - Jai Sinh
+    - D Johnson
+    - H Deshan
+    - Ahmed Hassan
+    - Ashwin Vinod
+    - NK Aneesh Kumar
+    - Musa Khan Ahmadzai
+    - Sheraz Sirwari
+  registry:
+    people:
+      Ahmed Hassan: c439461b
+      Ajin Soman: 23cbe719
+      Arjun Vinod: 033e9d59
+      Ashwin Vinod: 8a99caa9
+      D Johnson: 945981e5
+      Flynn Zahra: b929c3ae
+      G McCrea: 46f4a901
+      G Morrisey: f442110f
+      H Deshan: cdc9bbec
+      Imran Ameer: b8e65260
+      Izhar Hussain: 1bc71d98
+      Jai Sinh: 10ae134c
+      Jaspal Singh: adca37a2
+      Jaswinder Singh: 63aa8148
+      M Stanikzai: ad8d5827
+      Mehboob Ali: f1e0417f
+      Micheal Das: b556eff5
+      Mohammed Qasim: a120e81b
+      Muhammad Ajmal: '0782aec3'
+      Musa Khan Ahmadzai: e901d179
+      N Bathi: 96a0edf9
+      NK Aneesh Kumar: e23da78c
+      P Pushparajan: a143d606
+      Rizwan Akram: b5346f1e
+      SB Patel: b24e0ffd
+      Sheraz Sirwari: b2431c60
+  teams:
+  - Malta
+  - Switzerland
+  toss:
+    winner: Switzerland
+    decision: field
+  umpires:
+  - N Bathi
+  - Rizwan Akram
+  venue: Happy Valley Ground
+  team_type: international
+innings:
+- 1st innings:
+    team: Malta
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Sheraz Sirwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mohammed Qasim
+        batsman: Mehboob Ali
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: Mehboob Ali
+        bowler: Sheraz Sirwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Qasim
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: Mehboob Ali
+        bowler: Sheraz Sirwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Qasim
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: Mehboob Ali
+        bowler: Sheraz Sirwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Qasim
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: Mehboob Ali
+        bowler: Sheraz Sirwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Qasim
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: Mehboob Ali
+        bowler: Sheraz Sirwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Qasim
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Mohammed Qasim
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehboob Ali
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Mohammed Qasim
+        bowler: Jai Sinh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mehboob Ali
+    - 1.3:
+        actual_delivery: '1.2'
+        non_striker: Mohammed Qasim
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehboob Ali
+        wicket:
+          player_out: Mehboob Ali
+          fielders:
+          - Arjun Vinod
+          kind: caught
+    - 1.4:
+        actual_delivery: '1.3'
+        non_striker: Mohammed Qasim
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pushparajan
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: Mohammed Qasim
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Pushparajan
+    - 1.6:
+        actual_delivery: '1.5'
+        non_striker: Mohammed Qasim
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pushparajan
+    - 1.7:
+        actual_delivery: '1.6'
+        non_striker: Mohammed Qasim
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pushparajan
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: P Pushparajan
+        bowler: Sheraz Sirwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Qasim
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Mohammed Qasim
+        bowler: Sheraz Sirwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: P Pushparajan
+        bowler: Sheraz Sirwari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammed Qasim
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: P Pushparajan
+        bowler: Sheraz Sirwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Qasim
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: P Pushparajan
+        bowler: Sheraz Sirwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Qasim
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: P Pushparajan
+        bowler: Sheraz Sirwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammed Qasim
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Mohammed Qasim
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pushparajan
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Mohammed Qasim
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: P Pushparajan
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammed Qasim
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: P Pushparajan
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammed Qasim
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: P Pushparajan
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Qasim
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: Mohammed Qasim
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pushparajan
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: P Pushparajan
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Qasim
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: P Pushparajan
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammed Qasim
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: P Pushparajan
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Qasim
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Mohammed Qasim
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: P Pushparajan
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Qasim
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: P Pushparajan
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Qasim
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Mohammed Qasim
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Pushparajan
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Mohammed Qasim
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: P Pushparajan
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Qasim
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: P Pushparajan
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammed Qasim
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: P Pushparajan
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Qasim
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: Mohammed Qasim
+        bowler: Jai Sinh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: P Pushparajan
+    - 5.7:
+        actual_delivery: '5.6'
+        non_striker: P Pushparajan
+        bowler: Jai Sinh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Qasim
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: P Pushparajan
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Qasim
+        wicket:
+          player_out: Mohammed Qasim
+          fielders:
+          - NK Aneesh Kumar
+          kind: caught
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: P Pushparajan
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaspal Singh
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: Jaspal Singh
+        bowler: Ashwin Vinod
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Pushparajan
+    - 6.4:
+        actual_delivery: '6.3'
+        non_striker: Jaspal Singh
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 6.5:
+        actual_delivery: '6.4'
+        non_striker: P Pushparajan
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+    - 6.6:
+        actual_delivery: '6.5'
+        non_striker: P Pushparajan
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspal Singh
+        wicket:
+          player_out: Jaspal Singh
+          kind: bowled
+    - 6.7:
+        actual_delivery: '6.6'
+        non_striker: P Pushparajan
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Flynn Zahra
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: P Pushparajan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Flynn Zahra
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: P Pushparajan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Flynn Zahra
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: P Pushparajan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Flynn Zahra
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: P Pushparajan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Flynn Zahra
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: P Pushparajan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Flynn Zahra
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: P Pushparajan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Flynn Zahra
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: P Pushparajan
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Flynn Zahra
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: P Pushparajan
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Flynn Zahra
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: Flynn Zahra
+        bowler: Ashwin Vinod
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: P Pushparajan
+    - 8.4:
+        actual_delivery: '8.3'
+        non_striker: P Pushparajan
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Flynn Zahra
+    - 8.5:
+        actual_delivery: '8.4'
+        non_striker: Flynn Zahra
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Pushparajan
+    - 8.6:
+        actual_delivery: '8.5'
+        non_striker: Flynn Zahra
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 8.7:
+        actual_delivery: '8.6'
+        non_striker: P Pushparajan
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Flynn Zahra
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: P Pushparajan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Flynn Zahra
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: P Pushparajan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Flynn Zahra
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: Flynn Zahra
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: P Pushparajan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Flynn Zahra
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: P Pushparajan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Flynn Zahra
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: P Pushparajan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Flynn Zahra
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Flynn Zahra
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pushparajan
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Flynn Zahra
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: P Pushparajan
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Flynn Zahra
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: P Pushparajan
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Flynn Zahra
+        wicket:
+          player_out: Flynn Zahra
+          fielders:
+          - H Deshan
+          kind: caught
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: P Pushparajan
+        bowler: Ashwin Vinod
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Muhammad Ajmal
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: Muhammad Ajmal
+        bowler: Ashwin Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pushparajan
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: P Pushparajan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Ajmal
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: P Pushparajan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Ajmal
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: P Pushparajan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Ajmal
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: Muhammad Ajmal
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: P Pushparajan
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Ajmal
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: Muhammad Ajmal
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pushparajan
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: P Pushparajan
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Ajmal
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Muhammad Ajmal
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Pushparajan
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: P Pushparajan
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Muhammad Ajmal
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Muhammad Ajmal
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: P Pushparajan
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Ajmal
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: P Pushparajan
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Ajmal
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Muhammad Ajmal
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Pushparajan
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Muhammad Ajmal
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pushparajan
+        wicket:
+          player_out: P Pushparajan
+          kind: bowled
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Muhammad Ajmal
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Micheal Das
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Micheal Das
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Ajmal
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: Micheal Das
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Ajmal
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: Muhammad Ajmal
+        bowler: NK Aneesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Micheal Das
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Micheal Das
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Ajmal
+        wicket:
+          player_out: Muhammad Ajmal
+          fielders:
+          - Jai Sinh
+          kind: caught
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Micheal Das
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Patel
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Micheal Das
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Patel
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: Micheal Das
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Patel
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: Micheal Das
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Patel
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Micheal Das
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Patel
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Micheal Das
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Patel
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: SB Patel
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Micheal Das
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: SB Patel
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Micheal Das
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: SB Patel
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Micheal Das
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: SB Patel
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Micheal Das
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: Micheal Das
+        bowler: H Deshan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: SB Patel
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: SB Patel
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Micheal Das
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Micheal Das
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Patel
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: Micheal Das
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Patel
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: Micheal Das
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SB Patel
+    - 16.5:
+        actual_delivery: '16.4'
+        non_striker: Micheal Das
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Patel
+    - 16.6:
+        actual_delivery: '16.5'
+        non_striker: Micheal Das
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Patel
+    - 16.7:
+        actual_delivery: '16.6'
+        non_striker: Micheal Das
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Patel
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: Micheal Das
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Patel
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: SB Patel
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Micheal Das
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: Micheal Das
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Patel
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: SB Patel
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Micheal Das
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: SB Patel
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Micheal Das
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: SB Patel
+        bowler: H Deshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Micheal Das
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: SB Patel
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Micheal Das
+        wicket:
+          player_out: Micheal Das
+          kind: bowled
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: SB Patel
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ajin Soman
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: SB Patel
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ajin Soman
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: SB Patel
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ajin Soman
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: Ajin Soman
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Patel
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: Ajin Soman
+        bowler: Musa Khan Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Patel
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: SB Patel
+        bowler: Sheraz Sirwari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ajin Soman
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: SB Patel
+        bowler: Sheraz Sirwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ajin Soman
+        wicket:
+          player_out: Ajin Soman
+          fielders:
+          - Ahmed Hassan
+          kind: caught
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: SB Patel
+        bowler: Sheraz Sirwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Ameer
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: Imran Ameer
+        bowler: Sheraz Sirwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Patel
+        wicket:
+          player_out: SB Patel
+          fielders:
+          - Ashwin Vinod
+          kind: caught
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: Imran Ameer
+        bowler: Sheraz Sirwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaswinder Singh
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: Jaswinder Singh
+        bowler: Sheraz Sirwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Ameer
+        wicket:
+          player_out: Jaswinder Singh
+          fielders:
+          - Ashwin Vinod
+          - Sheraz Sirwari
+          kind: run out
+- 2nd innings:
+    team: Switzerland
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Izhar Hussain
+        batsman: Arjun Vinod
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: Arjun Vinod
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izhar Hussain
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: Arjun Vinod
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izhar Hussain
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: Izhar Hussain
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arjun Vinod
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: Izhar Hussain
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Arjun Vinod
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: Izhar Hussain
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arjun Vinod
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Arjun Vinod
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izhar Hussain
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Izhar Hussain
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arjun Vinod
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: Izhar Hussain
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arjun Vinod
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: Arjun Vinod
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izhar Hussain
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: Arjun Vinod
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izhar Hussain
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: Arjun Vinod
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izhar Hussain
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Izhar Hussain
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arjun Vinod
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Arjun Vinod
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izhar Hussain
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: Arjun Vinod
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izhar Hussain
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: Arjun Vinod
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izhar Hussain
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: Arjun Vinod
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izhar Hussain
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: Izhar Hussain
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arjun Vinod
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Arjun Vinod
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izhar Hussain
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Izhar Hussain
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Arjun Vinod
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: Izhar Hussain
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Arjun Vinod
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: Izhar Hussain
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arjun Vinod
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: Izhar Hussain
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arjun Vinod
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: Izhar Hussain
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arjun Vinod
+        wicket:
+          player_out: Arjun Vinod
+          kind: caught and bowled
+    - 4.1:
+        actual_delivery: '4.1'
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Stanikzai
+        batsman: Izhar Hussain
+    - 4.2:
+        actual_delivery: '4.2'
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: M Stanikzai
+        batsman: Izhar Hussain
+    - 4.3:
+        actual_delivery: '4.3'
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Stanikzai
+        batsman: Izhar Hussain
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Izhar Hussain
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Stanikzai
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: Izhar Hussain
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Stanikzai
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: Izhar Hussain
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Stanikzai
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Izhar Hussain
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Stanikzai
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Izhar Hussain
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Stanikzai
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Izhar Hussain
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Stanikzai
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: M Stanikzai
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izhar Hussain
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: M Stanikzai
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izhar Hussain
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: M Stanikzai
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izhar Hussain
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: Izhar Hussain
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Stanikzai
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: Izhar Hussain
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Stanikzai
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: Izhar Hussain
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Stanikzai
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Izhar Hussain
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Stanikzai
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Izhar Hussain
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Stanikzai
+        wicket:
+          player_out: M Stanikzai
+          fielders:
+          - P Pushparajan
+          kind: caught
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: Izhar Hussain
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jai Sinh
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Jai Sinh
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izhar Hussain
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: Izhar Hussain
+        bowler: Imran Ameer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jai Sinh
+    - 7.3:
+        actual_delivery: '7.2'
+        non_striker: Izhar Hussain
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jai Sinh
+    - 7.4:
+        actual_delivery: '7.3'
+        non_striker: Izhar Hussain
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jai Sinh
+    - 7.5:
+        actual_delivery: '7.4'
+        non_striker: Jai Sinh
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Izhar Hussain
+    - 7.6:
+        actual_delivery: '7.5'
+        non_striker: Jai Sinh
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izhar Hussain
+    - 7.7:
+        actual_delivery: '7.6'
+        non_striker: Izhar Hussain
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jai Sinh
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: Jai Sinh
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izhar Hussain
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: Izhar Hussain
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jai Sinh
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: Jai Sinh
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izhar Hussain
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: Izhar Hussain
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jai Sinh
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: Izhar Hussain
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jai Sinh
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: Izhar Hussain
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Jai Sinh
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: Jai Sinh
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Izhar Hussain
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: Jai Sinh
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izhar Hussain
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: Izhar Hussain
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Jai Sinh
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: Izhar Hussain
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jai Sinh
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: Jai Sinh
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izhar Hussain
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: Jai Sinh
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izhar Hussain
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Jai Sinh
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izhar Hussain
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Izhar Hussain
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jai Sinh
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: Jai Sinh
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izhar Hussain
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: Izhar Hussain
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jai Sinh
+        wicket:
+          player_out: Jai Sinh
+          fielders:
+          - Flynn Zahra
+          kind: caught
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: Izhar Hussain
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Johnson
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: Izhar Hussain
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Johnson
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: D Johnson
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izhar Hussain
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: D Johnson
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izhar Hussain
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: Izhar Hussain
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Johnson
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: D Johnson
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izhar Hussain
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: Izhar Hussain
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Johnson
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: D Johnson
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izhar Hussain
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: D Johnson
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Izhar Hussain
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Izhar Hussain
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Johnson
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: D Johnson
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Izhar Hussain
+        wicket:
+          player_out: Izhar Hussain
+          fielders:
+          - Muhammad Ajmal
+          kind: caught
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: D Johnson
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deshan
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: H Deshan
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Johnson
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: H Deshan
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Johnson
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: D Johnson
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deshan
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: D Johnson
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deshan
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: D Johnson
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deshan
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: D Johnson
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deshan
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: D Johnson
+        bowler: P Pushparajan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: H Deshan
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: D Johnson
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deshan
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: H Deshan
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Johnson
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: H Deshan
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Johnson
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: H Deshan
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Johnson
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: H Deshan
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Johnson
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: H Deshan
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Johnson
+        wicket:
+          player_out: D Johnson
+          fielders:
+          - Muhammad Ajmal
+          kind: caught
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: H Deshan
+        bowler: Imran Ameer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Ahmed Hassan
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Deshan
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: Ahmed Hassan
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deshan
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: H Deshan
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Hassan
+        wicket:
+          player_out: Ahmed Hassan
+          fielders:
+          - Flynn Zahra
+          kind: caught
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: H Deshan
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwin Vinod
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: H Deshan
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwin Vinod
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: H Deshan
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashwin Vinod
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: H Deshan
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwin Vinod
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: H Deshan
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwin Vinod
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: H Deshan
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwin Vinod
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: H Deshan
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashwin Vinod
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: Ashwin Vinod
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deshan
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: Ashwin Vinod
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Deshan
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: H Deshan
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Ashwin Vinod
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: Ashwin Vinod
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Deshan
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: Ashwin Vinod
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deshan
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: Ashwin Vinod
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deshan
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: Ashwin Vinod
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Deshan
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: Ashwin Vinod
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deshan
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: Ashwin Vinod
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deshan
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: Ashwin Vinod
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deshan
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: H Deshan
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ashwin Vinod
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: H Deshan
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashwin Vinod
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: Ashwin Vinod
+        bowler: Mehboob Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: H Deshan
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: H Deshan
+        bowler: Mehboob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashwin Vinod
+        wicket:
+          player_out: Ashwin Vinod
+          kind: bowled
+    - 19.1:
+        actual_delivery: '19.1'
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: NK Aneesh Kumar
+        batsman: H Deshan
+    - 19.2:
+        actual_delivery: '19.2'
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NK Aneesh Kumar
+        batsman: H Deshan
+    - 19.3:
+        actual_delivery: '19.3'
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: NK Aneesh Kumar
+        batsman: H Deshan
+    target:
+      overs: 20
+      runs: 140

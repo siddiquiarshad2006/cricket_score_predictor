@@ -1,0 +1,2312 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-05-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Marsa
+  dates:
+  - '2026-05-09'
+  gender: male
+  match_type: T20
+  match_type_number: 3849
+  outcome:
+    winner: Malta
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - P Pushparajan
+  players:
+    Gibraltar:
+    - PA Raikes
+    - L Bruce
+    - J Wilson
+    - KJ Ferrary
+    - IDM Latin
+    - BA Pai
+    - C Pyle
+    - K Mirpuri
+    - A Reyes
+    - S Bodha
+    - K Nestor
+    Malta:
+    - Micheal Das
+    - Zeeshan Khan
+    - R Dianish
+    - P Pushparajan
+    - Flynn Zahra
+    - Ajin Soman
+    - Muhammad Ajmal
+    - SB Patel
+    - Jaswinder Singh
+    - Mohammed Qasim
+    - Adil Latheef
+  registry:
+    people:
+      A Reyes: fd2b8c06
+      Adil Latheef: 2f94b39d
+      Ajin Soman: 23cbe719
+      BA Pai: 716bf559
+      C Pyle: d278b70b
+      Flynn Zahra: b929c3ae
+      IDM Latin: 78f719ea
+      J Wilson: 1a3295a1
+      Jaswinder Singh: 63aa8148
+      K Mirpuri: 441006af
+      K Nestor: b89cde87
+      KJ Ferrary: 81898acc
+      L Bruce: 2a03bd2f
+      Micheal Das: b556eff5
+      Mohammed Qasim: a120e81b
+      Muhammad Ajmal: '0782aec3'
+      N Dhanawade: bc68912b
+      P Pushparajan: a143d606
+      PA Raikes: dfe5db8a
+      R Dianish: 17e2a2d6
+      S Bodha: 00467a76
+      S Gowda: 52f6fb22
+      SB Patel: b24e0ffd
+      Vinay Malhotra: 452837d1
+      Zeeshan Khan: 3f9b1a96
+  teams:
+  - Gibraltar
+  - Malta
+  toss:
+    winner: Gibraltar
+    decision: bat
+  umpires:
+  - N Dhanawade
+  - Vinay Malhotra
+  venue: Marsa Sports Club
+  team_type: international
+innings:
+- 1st innings:
+    team: Gibraltar
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Bruce
+        batsman: PA Raikes
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: PA Raikes
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Bruce
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: L Bruce
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Raikes
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: PA Raikes
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: PA Raikes
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Bruce
+        wicket:
+          player_out: L Bruce
+          fielders:
+          - Adil Latheef
+          kind: caught
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: PA Raikes
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Wilson
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: J Wilson
+        bowler: Adil Latheef
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PA Raikes
+    - 1.2:
+        actual_delivery: '1.1'
+        non_striker: J Wilson
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA Raikes
+    - 1.3:
+        actual_delivery: '1.2'
+        non_striker: J Wilson
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Raikes
+    - 1.4:
+        actual_delivery: '1.3'
+        non_striker: J Wilson
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Raikes
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: PA Raikes
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Wilson
+    - 1.6:
+        actual_delivery: '1.5'
+        non_striker: PA Raikes
+        bowler: Adil Latheef
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Wilson
+    - 1.7:
+        actual_delivery: '1.5'
+        non_striker: PA Raikes
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Wilson
+    - 1.8:
+        actual_delivery: '1.6'
+        non_striker: J Wilson
+        bowler: Adil Latheef
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PA Raikes
+    - 1.9:
+        actual_delivery: '1.6'
+        non_striker: J Wilson
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Raikes
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: PA Raikes
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Wilson
+        wicket:
+          player_out: J Wilson
+          fielders:
+          - P Pushparajan
+          kind: caught
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: PA Raikes
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: PA Raikes
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: PA Raikes
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: KJ Ferrary
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Raikes
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: PA Raikes
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: PA Raikes
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: KJ Ferrary
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PA Raikes
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: KJ Ferrary
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Raikes
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: PA Raikes
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: KJ Ferrary
+        bowler: Adil Latheef
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PA Raikes
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: PA Raikes
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: PA Raikes
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: KJ Ferrary
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Raikes
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: PA Raikes
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: KJ Ferrary
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA Raikes
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: KJ Ferrary
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Raikes
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: PA Raikes
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: PA Raikes
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: KJ Ferrary
+        bowler: Adil Latheef
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PA Raikes
+    - 5.3:
+        actual_delivery: '5.2'
+        non_striker: KJ Ferrary
+        bowler: Adil Latheef
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PA Raikes
+    - 5.4:
+        actual_delivery: '5.2'
+        non_striker: KJ Ferrary
+        bowler: Adil Latheef
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PA Raikes
+    - 5.5:
+        actual_delivery: '5.2'
+        non_striker: KJ Ferrary
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Raikes
+    - 5.6:
+        actual_delivery: '5.3'
+        non_striker: KJ Ferrary
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Raikes
+    - 5.7:
+        actual_delivery: '5.4'
+        non_striker: KJ Ferrary
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA Raikes
+    - 5.8:
+        actual_delivery: '5.5'
+        non_striker: KJ Ferrary
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Raikes
+    - 5.9:
+        actual_delivery: '5.6'
+        non_striker: PA Raikes
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: PA Raikes
+        bowler: Mohammed Qasim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KJ Ferrary
+    - 6.2:
+        actual_delivery: '6.1'
+        non_striker: PA Raikes
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 6.3:
+        actual_delivery: '6.2'
+        non_striker: KJ Ferrary
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Raikes
+    - 6.4:
+        actual_delivery: '6.3'
+        non_striker: PA Raikes
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 6.5:
+        actual_delivery: '6.4'
+        non_striker: KJ Ferrary
+        bowler: Mohammed Qasim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PA Raikes
+    - 6.6:
+        actual_delivery: '6.5'
+        non_striker: PA Raikes
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 6.7:
+        actual_delivery: '6.6'
+        non_striker: KJ Ferrary
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Raikes
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: KJ Ferrary
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Raikes
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: PA Raikes
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: KJ Ferrary
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Raikes
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: PA Raikes
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: KJ Ferrary
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Raikes
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: PA Raikes
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ Ferrary
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: KJ Ferrary
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Raikes
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: PA Raikes
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: KJ Ferrary
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA Raikes
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: KJ Ferrary
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Raikes
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: KJ Ferrary
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Raikes
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: PA Raikes
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Ferrary
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: KJ Ferrary
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Raikes
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: KJ Ferrary
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Raikes
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: PA Raikes
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: KJ Ferrary
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Raikes
+        wicket:
+          player_out: PA Raikes
+          fielders:
+          - P Pushparajan
+          kind: caught
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: KJ Ferrary
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: KJ Ferrary
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: IDM Latin
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Ferrary
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: IDM Latin
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Ferrary
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: IDM Latin
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Ferrary
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: KJ Ferrary
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+        wicket:
+          player_out: KJ Ferrary
+          fielders:
+          - R Dianish
+          - Jaswinder Singh
+          kind: run out
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: IDM Latin
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Pai
+        wicket:
+          player_out: BA Pai
+          fielders:
+          - R Dianish
+          kind: caught
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: IDM Latin
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pyle
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: C Pyle
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: C Pyle
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: C Pyle
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: C Pyle
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: C Pyle
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: IDM Latin
+        bowler: Muhammad Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pyle
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: C Pyle
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: IDM Latin
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pyle
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: C Pyle
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: C Pyle
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDM Latin
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: IDM Latin
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pyle
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: C Pyle
+        bowler: Mohammed Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: IDM Latin
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pyle
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: IDM Latin
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pyle
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: C Pyle
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDM Latin
+        wicket:
+          player_out: IDM Latin
+          fielders:
+          - R Dianish
+          - Mohammed Qasim
+          kind: run out
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: C Pyle
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mirpuri
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: C Pyle
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: K Mirpuri
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Pyle
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: C Pyle
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: K Mirpuri
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pyle
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: C Pyle
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: K Mirpuri
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Pyle
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: K Mirpuri
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pyle
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: C Pyle
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mirpuri
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: K Mirpuri
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pyle
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: C Pyle
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: K Mirpuri
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pyle
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: K Mirpuri
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pyle
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: K Mirpuri
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Pyle
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: K Mirpuri
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pyle
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: C Pyle
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: K Mirpuri
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Pyle
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: K Mirpuri
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pyle
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: K Mirpuri
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Pyle
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: K Mirpuri
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pyle
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: C Pyle
+        bowler: Jaswinder Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Mirpuri
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: K Mirpuri
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Pyle
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: K Mirpuri
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Pyle
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: C Pyle
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mirpuri
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: C Pyle
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mirpuri
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: C Pyle
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: K Mirpuri
+        bowler: P Pushparajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pyle
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: K Mirpuri
+        bowler: Ajin Soman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Pyle
+    - 18.2:
+        actual_delivery: '18.1'
+        non_striker: K Mirpuri
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pyle
+    - 18.3:
+        actual_delivery: '18.2'
+        non_striker: K Mirpuri
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pyle
+        wicket:
+          player_out: C Pyle
+          kind: bowled
+    - 18.4:
+        actual_delivery: '18.3'
+        non_striker: K Mirpuri
+        bowler: Ajin Soman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Reyes
+    - 18.5:
+        actual_delivery: '18.3'
+        non_striker: K Mirpuri
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 18.6:
+        actual_delivery: '18.4'
+        non_striker: K Mirpuri
+        bowler: Ajin Soman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Reyes
+    - 18.7:
+        actual_delivery: '18.5'
+        non_striker: A Reyes
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Mirpuri
+    - 18.8:
+        actual_delivery: '18.6'
+        non_striker: A Reyes
+        bowler: Ajin Soman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: A Reyes
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mirpuri
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: K Mirpuri
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: K Mirpuri
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Reyes
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: K Mirpuri
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reyes
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: K Mirpuri
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reyes
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: A Reyes
+        bowler: Adil Latheef
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mirpuri
+- 2nd innings:
+    team: Malta
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zeeshan Khan
+        batsman: Micheal Das
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zeeshan Khan
+        batsman: Micheal Das
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: Micheal Das
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: Micheal Das
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: Micheal Das
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: Micheal Das
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Zeeshan Khan
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Micheal Das
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Micheal Das
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Khan
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: Micheal Das
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Khan
+        wicket:
+          player_out: Zeeshan Khan
+          fielders:
+          - BA Pai
+          kind: caught
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: Micheal Das
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: Micheal Das
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: Micheal Das
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dianish
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: R Dianish
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Micheal Das
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: R Dianish
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Micheal Das
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: R Dianish
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Micheal Das
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: R Dianish
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Micheal Das
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: Micheal Das
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: R Dianish
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Micheal Das
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Micheal Das
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Micheal Das
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: R Dianish
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Micheal Das
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: R Dianish
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Micheal Das
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: Micheal Das
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: R Dianish
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Micheal Das
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: R Dianish
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Micheal Das
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: R Dianish
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Micheal Das
+        wicket:
+          player_out: Micheal Das
+          fielders:
+          - J Wilson
+          kind: caught
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: R Dianish
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pushparajan
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: R Dianish
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Pushparajan
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: R Dianish
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pushparajan
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: R Dianish
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: R Dianish
+        bowler: L Bruce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Pushparajan
+    - 5.2:
+        actual_delivery: '5.1'
+        non_striker: R Dianish
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pushparajan
+    - 5.3:
+        actual_delivery: '5.2'
+        non_striker: R Dianish
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pushparajan
+    - 5.4:
+        actual_delivery: '5.3'
+        non_striker: R Dianish
+        bowler: L Bruce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Pushparajan
+    - 5.5:
+        actual_delivery: '5.3'
+        non_striker: R Dianish
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pushparajan
+    - 5.6:
+        actual_delivery: '5.4'
+        non_striker: R Dianish
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 5.7:
+        actual_delivery: '5.5'
+        non_striker: P Pushparajan
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 5.8:
+        actual_delivery: '5.6'
+        non_striker: P Pushparajan
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: R Dianish
+        bowler: A Reyes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Pushparajan
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: P Pushparajan
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: P Pushparajan
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: R Dianish
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Pushparajan
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: R Dianish
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pushparajan
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: R Dianish
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: R Dianish
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Pushparajan
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: R Dianish
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Pushparajan
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: R Dianish
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pushparajan
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: R Dianish
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Pushparajan
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: R Dianish
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: P Pushparajan
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: R Dianish
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Pushparajan
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: R Dianish
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pushparajan
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: R Dianish
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: P Pushparajan
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dianish
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: P Pushparajan
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: R Dianish
+        bowler: A Reyes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Pushparajan
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: P Pushparajan
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: R Dianish
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: P Pushparajan
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: R Dianish
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Pushparajan
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: R Dianish
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: P Pushparajan
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: R Dianish
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: P Pushparajan
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: P Pushparajan
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: P Pushparajan
+        bowler: KJ Ferrary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Dianish
+    - 10.5:
+        actual_delivery: '10.4'
+        non_striker: P Pushparajan
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 10.6:
+        actual_delivery: '10.5'
+        non_striker: P Pushparajan
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 10.7:
+        actual_delivery: '10.6'
+        non_striker: R Dianish
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pushparajan
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: P Pushparajan
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: R Dianish
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: P Pushparajan
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: P Pushparajan
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dianish
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: P Pushparajan
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: P Pushparajan
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dianish
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: R Dianish
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: P Pushparajan
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: P Pushparajan
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dianish
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: P Pushparajan
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: P Pushparajan
+        bowler: KJ Ferrary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: R Dianish
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: R Dianish
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pushparajan
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: P Pushparajan
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dianish
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: P Pushparajan
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: R Dianish
+        bowler: K Mirpuri
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: P Pushparajan
+    - 13.4:
+        actual_delivery: '13.3'
+        non_striker: P Pushparajan
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dianish
+    - 13.5:
+        actual_delivery: '13.4'
+        non_striker: P Pushparajan
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 13.6:
+        actual_delivery: '13.5'
+        non_striker: R Dianish
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Pushparajan
+    - 13.7:
+        actual_delivery: '13.6'
+        non_striker: R Dianish
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Pushparajan
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: P Pushparajan
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dianish
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: P Pushparajan
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: P Pushparajan
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: R Dianish
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Pushparajan
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: R Dianish
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Pushparajan
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: R Dianish
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: R Dianish
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: P Pushparajan
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: R Dianish
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: P Pushparajan
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dianish
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: P Pushparajan
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: R Dianish
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Pushparajan
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: P Pushparajan
+        bowler: J Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dianish
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: R Dianish
+        bowler: J Wilson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Pushparajan
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: R Dianish
+        bowler: J Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Pushparajan
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: P Pushparajan
+        bowler: J Wilson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dianish
+        wicket:
+          player_out: R Dianish
+          fielders:
+          - C Pyle
+          kind: caught
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: P Pushparajan
+        bowler: J Wilson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Flynn Zahra
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: P Pushparajan
+        bowler: J Wilson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Flynn Zahra
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: P Pushparajan
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Flynn Zahra
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: P Pushparajan
+        bowler: S Bodha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Flynn Zahra
+    target:
+      overs: 20
+      runs: 144

@@ -1,0 +1,2324 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-05-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sano
+  dates:
+  - '2026-05-12'
+  gender: male
+  match_type: T20
+  match_type_number: 3860
+  outcome:
+    winner: Japan
+    by:
+      runs: 41
+  overs: 20
+  player_of_match:
+  - A Patmore
+  players:
+    Japan:
+    - K Kadowaki-Fleming
+    - Abhishek Anand
+    - Esam Rahman
+    - S Ravichandran
+    - A Patmore
+    - I Takahashi
+    - R Sakurano-Thomas
+    - D Suzuki
+    - C Hinze
+    - M Taniyama
+    - Abdul Samad
+    Indonesia:
+    - GA Priandana
+    - S Jegannathan
+    - KN Chaddha
+    - Gaurav Tiwari
+    - IK Gamantika
+    - DJ Hawoe
+    - KD Kesuma
+    - Yudha Verdian
+    - Anjar Tadarus
+    - GD Arta
+    - F Banunaek
+  registry:
+    people:
+      A Patmore: '85119526'
+      Abdul Samad: 21dbacff
+      Abhishek Anand: 2c12bc65
+      Anjar Tadarus: '72275237'
+      C Hinze: 626af7ff
+      D Suzuki: 64c81abf
+      DJ Hawoe: a62f55ba
+      DM Koch: 6d10c034
+      Esam Rahman: 5ea3a7c6
+      F Banunaek: 3c8faed4
+      GA Priandana: 2af0e3b1
+      GD Arta: e969e580
+      Gaurav Tiwari: cab3f89a
+      I Takahashi: c988daa1
+      IK Gamantika: 4d7c5b56
+      K Kadowaki-Fleming: 33290a80
+      KD Kesuma: 4b349dc0
+      KN Chaddha: a88e4013
+      Kent Hannam: 8cc171e7
+      M Taniyama: cbd91942
+      R Sakurano-Thomas: dd14abf5
+      S Jegannathan: 866e9f3d
+      S Ravichandran: 9f2be73d
+      Tabarak Dar: 2259c12d
+      WR Knights: 63cbf8d8
+      Yudha Verdian: 81b4dd77
+  teams:
+  - Japan
+  - Indonesia
+  toss:
+    winner: Japan
+    decision: bat
+  umpires:
+  - Tabarak Dar
+  - WR Knights
+  venue: Sano International Cricket Ground
+  team_type: international
+innings:
+- 1st innings:
+    team: Japan
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Abhishek Anand
+        batsman: K Kadowaki-Fleming
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: K Kadowaki-Fleming
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Anand
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: Abhishek Anand
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: K Kadowaki-Fleming
+        bowler: F Banunaek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Anand
+    - 0.5:
+        actual_delivery: '0.4'
+        non_striker: K Kadowaki-Fleming
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+        wicket:
+          player_out: Abhishek Anand
+          kind: bowled
+    - 0.6:
+        actual_delivery: '0.5'
+        non_striker: K Kadowaki-Fleming
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Esam Rahman
+    - 0.7:
+        actual_delivery: '0.6'
+        non_striker: K Kadowaki-Fleming
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Esam Rahman
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kadowaki-Fleming
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Kadowaki-Fleming
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+        wicket:
+          player_out: K Kadowaki-Fleming
+          fielders:
+          - KD Kesuma
+          kind: stumped
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Esam Rahman
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Esam Rahman
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: S Ravichandran
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Esam Rahman
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: S Ravichandran
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Esam Rahman
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: S Ravichandran
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Esam Rahman
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: S Ravichandran
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Esam Rahman
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ravichandran
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+        wicket:
+          player_out: S Ravichandran
+          kind: bowled
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Esam Rahman
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: A Patmore
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Esam Rahman
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: A Patmore
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Esam Rahman
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: A Patmore
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Esam Rahman
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: Esam Rahman
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: A Patmore
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Esam Rahman
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Patmore
+    - 5.2:
+        actual_delivery: '5.1'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 5.3:
+        actual_delivery: '5.2'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 5.4:
+        actual_delivery: '5.3'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 5.5:
+        actual_delivery: '5.4'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 5.6:
+        actual_delivery: '5.5'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 5.7:
+        actual_delivery: '5.6'
+        non_striker: A Patmore
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Esam Rahman
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: Esam Rahman
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: Esam Rahman
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: A Patmore
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Esam Rahman
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: A Patmore
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Esam Rahman
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Esam Rahman
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: A Patmore
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Esam Rahman
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Patmore
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: A Patmore
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Esam Rahman
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Patmore
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: Esam Rahman
+        bowler: Gaurav Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: A Patmore
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Esam Rahman
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: A Patmore
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Esam Rahman
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: A Patmore
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Esam Rahman
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: Esam Rahman
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Patmore
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: Esam Rahman
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Patmore
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: Esam Rahman
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: A Patmore
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Esam Rahman
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: Esam Rahman
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: A Patmore
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Esam Rahman
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: A Patmore
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Esam Rahman
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: A Patmore
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Esam Rahman
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: A Patmore
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Esam Rahman
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Esam Rahman
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Patmore
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: A Patmore
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Esam Rahman
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: Esam Rahman
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Patmore
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: Esam Rahman
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: A Patmore
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Esam Rahman
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: A Patmore
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Esam Rahman
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: A Patmore
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Esam Rahman
+        wicket:
+          player_out: Esam Rahman
+          fielders:
+          - Anjar Tadarus
+          kind: caught
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: A Patmore
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: A Patmore
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: I Takahashi
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Patmore
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: I Takahashi
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: A Patmore
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: I Takahashi
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: I Takahashi
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: I Takahashi
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: A Patmore
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Takahashi
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: A Patmore
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: I Takahashi
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: A Patmore
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: I Takahashi
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Patmore
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: I Takahashi
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: I Takahashi
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Patmore
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: I Takahashi
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: A Patmore
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: A Patmore
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: I Takahashi
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Patmore
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: A Patmore
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: I Takahashi
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: I Takahashi
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: I Takahashi
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: A Patmore
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Takahashi
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: A Patmore
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Takahashi
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: A Patmore
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Takahashi
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: A Patmore
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: I Takahashi
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: A Patmore
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: A Patmore
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: I Takahashi
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Patmore
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: I Takahashi
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: A Patmore
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Takahashi
+    - 16.5:
+        actual_delivery: '16.4'
+        non_striker: A Patmore
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Takahashi
+    - 16.6:
+        actual_delivery: '16.5'
+        non_striker: A Patmore
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Takahashi
+    - 16.7:
+        actual_delivery: '16.6'
+        non_striker: A Patmore
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: I Takahashi
+        bowler: S Jegannathan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Patmore
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: A Patmore
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Takahashi
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: A Patmore
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: A Patmore
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: A Patmore
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+        wicket:
+          player_out: I Takahashi
+          fielders:
+          - GA Priandana
+          kind: caught
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: A Patmore
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sakurano-Thomas
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: R Sakurano-Thomas
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: A Patmore
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sakurano-Thomas
+        wicket:
+          player_out: R Sakurano-Thomas
+          kind: bowled
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: A Patmore
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Suzuki
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: A Patmore
+        bowler: F Banunaek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Suzuki
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: D Suzuki
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Patmore
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: D Suzuki
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: D Suzuki
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: A Patmore
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: D Suzuki
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: D Suzuki
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: A Patmore
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Suzuki
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: D Suzuki
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Patmore
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: D Suzuki
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+        wicket:
+          player_out: A Patmore
+          kind: lbw
+- 2nd innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Jegannathan
+        batsman: GA Priandana
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Jegannathan
+        batsman: GA Priandana
+    - 0.3:
+        actual_delivery: '0.3'
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Jegannathan
+        batsman: GA Priandana
+    - 0.4:
+        actual_delivery: '0.4'
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Jegannathan
+        batsman: GA Priandana
+    - 0.5:
+        actual_delivery: '0.5'
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Jegannathan
+        batsman: GA Priandana
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: S Jegannathan
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: GA Priandana
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: GA Priandana
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: GA Priandana
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: S Jegannathan
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: S Jegannathan
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GA Priandana
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: S Jegannathan
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+        wicket:
+          player_out: GA Priandana
+          kind: bowled
+    - 2.1:
+        actual_delivery: '2.1'
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KN Chaddha
+        batsman: S Jegannathan
+    - 2.2:
+        actual_delivery: '2.2'
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KN Chaddha
+        batsman: S Jegannathan
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: S Jegannathan
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KN Chaddha
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: S Jegannathan
+        bowler: Abdul Samad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KN Chaddha
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: KN Chaddha
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: KN Chaddha
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: KN Chaddha
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: KN Chaddha
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: S Jegannathan
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: KN Chaddha
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: S Jegannathan
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: KN Chaddha
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: KN Chaddha
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: S Jegannathan
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KN Chaddha
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: S Jegannathan
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: S Jegannathan
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: S Jegannathan
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: KN Chaddha
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jegannathan
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: KN Chaddha
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jegannathan
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: KN Chaddha
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: KN Chaddha
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: KN Chaddha
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jegannathan
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: KN Chaddha
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jegannathan
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: KN Chaddha
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jegannathan
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: S Jegannathan
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: KN Chaddha
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+        wicket:
+          player_out: S Jegannathan
+          fielders:
+          - R Sakurano-Thomas
+          kind: caught
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: KN Chaddha
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gaurav Tiwari
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: KN Chaddha
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gaurav Tiwari
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Gaurav Tiwari
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: KN Chaddha
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gaurav Tiwari
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Gaurav Tiwari
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: KN Chaddha
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gaurav Tiwari
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: KN Chaddha
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gaurav Tiwari
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: KN Chaddha
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gaurav Tiwari
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: Gaurav Tiwari
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: KN Chaddha
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gaurav Tiwari
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: KN Chaddha
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gaurav Tiwari
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: KN Chaddha
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gaurav Tiwari
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: Gaurav Tiwari
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: Gaurav Tiwari
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: Gaurav Tiwari
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KN Chaddha
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: Gaurav Tiwari
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+        wicket:
+          player_out: KN Chaddha
+          fielders:
+          - Abhishek Anand
+          kind: caught
+    - 9.1:
+        actual_delivery: '9.1'
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IK Gamantika
+        batsman: Gaurav Tiwari
+    - 9.2:
+        actual_delivery: '9.2'
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IK Gamantika
+        batsman: Gaurav Tiwari
+    - 9.3:
+        actual_delivery: '9.3'
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: IK Gamantika
+        batsman: Gaurav Tiwari
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: Gaurav Tiwari
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: Gaurav Tiwari
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: Gaurav Tiwari
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Gaurav Tiwari
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: IK Gamantika
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gaurav Tiwari
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: IK Gamantika
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gaurav Tiwari
+        wicket:
+          player_out: Gaurav Tiwari
+          fielders:
+          - A Patmore
+          kind: caught
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: IK Gamantika
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: DJ Hawoe
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IK Gamantika
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: DJ Hawoe
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: DJ Hawoe
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: IK Gamantika
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: IK Gamantika
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+        wicket:
+          player_out: DJ Hawoe
+          fielders:
+          - A Patmore
+          - C Hinze
+          kind: run out
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: IK Gamantika
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: IK Gamantika
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+        wicket:
+          player_out: KD Kesuma
+          kind: bowled
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: IK Gamantika
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yudha Verdian
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: Yudha Verdian
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Yudha Verdian
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IK Gamantika
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Yudha Verdian
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IK Gamantika
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Yudha Verdian
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: IK Gamantika
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yudha Verdian
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: Yudha Verdian
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Yudha Verdian
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Yudha Verdian
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Yudha Verdian
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: IK Gamantika
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yudha Verdian
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: IK Gamantika
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yudha Verdian
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: Yudha Verdian
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: IK Gamantika
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yudha Verdian
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: IK Gamantika
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yudha Verdian
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Yudha Verdian
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: Yudha Verdian
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IK Gamantika
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: Yudha Verdian
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IK Gamantika
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Yudha Verdian
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IK Gamantika
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: IK Gamantika
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yudha Verdian
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: Yudha Verdian
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: IK Gamantika
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yudha Verdian
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: IK Gamantika
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yudha Verdian
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: IK Gamantika
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yudha Verdian
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: Yudha Verdian
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: IK Gamantika
+        bowler: Esam Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yudha Verdian
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Yudha Verdian
+        bowler: Esam Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: Yudha Verdian
+        bowler: Esam Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: IK Gamantika
+        bowler: Esam Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yudha Verdian
+        wicket:
+          player_out: Yudha Verdian
+          kind: bowled
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: IK Gamantika
+        bowler: Esam Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Anjar Tadarus
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: Anjar Tadarus
+        bowler: Esam Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: Anjar Tadarus
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: IK Gamantika
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: IK Gamantika
+        bowler: D Suzuki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Anjar Tadarus
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: Anjar Tadarus
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+        wicket:
+          player_out: IK Gamantika
+          fielders:
+          - M Taniyama
+          kind: caught
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: Anjar Tadarus
+        bowler: D Suzuki
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GD Arta
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: GD Arta
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: GD Arta
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anjar Tadarus
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: GD Arta
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: GD Arta
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: Anjar Tadarus
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: GD Arta
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+        wicket:
+          player_out: Anjar Tadarus
+          kind: bowled
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: GD Arta
+        bowler: R Sakurano-Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Banunaek
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: F Banunaek
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+        wicket:
+          player_out: GD Arta
+          fielders:
+          - S Ravichandran
+          kind: caught
+    target:
+      overs: 20
+      runs: 143

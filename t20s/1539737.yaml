@@ -1,0 +1,2499 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hamilton
+  dates:
+  - '2026-06-27'
+  gender: male
+  match_type: T20
+  match_type_number: 3998
+  outcome:
+    winner: Bahamas
+    by:
+      runs: 22
+  overs: 20
+  player_of_match:
+  - M Taylor
+  players:
+    Bahamas:
+    - M Taylor
+    - GT Taylor
+    - R Davson
+    - J Jemison
+    - T Brown
+    - A Amburose
+    - Festus Benn
+    - K Burrows
+    - A Gulati
+    - E Haven
+    - G Irvin
+    Belize:
+    - A Oxley
+    - NN Banner
+    - L Bonner
+    - TAW Patterson
+    - ML Castillo
+    - R Broaster
+    - O Casasola
+    - AA Banner
+    - T Moses
+    - K Moses
+    - L Mcfadzean
+  registry:
+    people:
+      A Amburose: b9317f7a
+      A Gulati: 82903f3a
+      A Oxley: d1317833
+      AA Banner: 02d11602
+      E Haven: 5190900f
+      Festus Benn: de6b3760
+      G Irvin: 17530fd9
+      GT Taylor: c674f722
+      J Jemison: ce1abd25
+      K Burrows: f11f5a92
+      K Moses: e29f78ec
+      L Bonner: fd94c29f
+      L Mcfadzean: 9b95bb87
+      M Taylor: 92075cdc
+      ML Castillo: 9853b404
+      NN Banner: '0697b5a1'
+      O Casasola: 15fe1668
+      P Manning: f06b5585
+      Precious Smith: e78f5a8a
+      R Broaster: d6c3432e
+      R Davson: 7804d401
+      Reon King: 20fbf68c
+      T Brown: e4bc45e0
+      T Moses: e3806aca
+      TAW Patterson: 5abb0f07
+      Zahid Bassarath: ca6bf044
+  team_type: international
+  teams:
+  - Bahamas
+  - Belize
+  toss:
+    winner: Belize
+    decision: field
+  umpires:
+  - Precious Smith
+  - Zahid Bassarath
+  venue: White Hill Field, Sandys Parish
+innings:
+- 1st innings:
+    team: Bahamas
+    deliveries:
+    - 0.1:
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GT Taylor
+        actual_delivery: '0.1'
+        batsman: M Taylor
+    - 0.2:
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GT Taylor
+        actual_delivery: '0.2'
+        batsman: M Taylor
+    - 0.3:
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GT Taylor
+        actual_delivery: '0.3'
+        batsman: M Taylor
+    - 0.4:
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GT Taylor
+        actual_delivery: '0.4'
+        batsman: M Taylor
+    - 0.5:
+        non_striker: M Taylor
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: GT Taylor
+    - 0.6:
+        non_striker: M Taylor
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: GT Taylor
+    - 1.1:
+        non_striker: M Taylor
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: GT Taylor
+        wicket:
+          player_out: GT Taylor
+          kind: bowled
+    - 1.2:
+        non_striker: M Taylor
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: R Davson
+    - 1.3:
+        non_striker: M Taylor
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: R Davson
+    - 1.4:
+        non_striker: R Davson
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: M Taylor
+    - 1.5:
+        non_striker: R Davson
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: M Taylor
+    - 1.6:
+        non_striker: R Davson
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: M Taylor
+    - 2.1:
+        non_striker: M Taylor
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: R Davson
+    - 2.2:
+        non_striker: M Taylor
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: R Davson
+    - 2.3:
+        non_striker: M Taylor
+        bowler: NN Banner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.3'
+        batsman: R Davson
+    - 2.4:
+        non_striker: M Taylor
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: R Davson
+    - 2.5:
+        non_striker: M Taylor
+        bowler: NN Banner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.4'
+        batsman: R Davson
+    - 2.6:
+        non_striker: M Taylor
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: R Davson
+    - 2.7:
+        non_striker: M Taylor
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: R Davson
+    - 2.8:
+        non_striker: M Taylor
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: R Davson
+    - 3.1:
+        non_striker: M Taylor
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: R Davson
+    - 3.2:
+        non_striker: R Davson
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: M Taylor
+    - 3.3:
+        non_striker: M Taylor
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: R Davson
+    - 3.4:
+        non_striker: M Taylor
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.4'
+        batsman: R Davson
+    - 3.5:
+        non_striker: M Taylor
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: R Davson
+    - 3.6:
+        non_striker: M Taylor
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: R Davson
+    - 4.1:
+        non_striker: R Davson
+        bowler: O Casasola
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: M Taylor
+    - 4.2:
+        non_striker: M Taylor
+        bowler: O Casasola
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.2'
+        batsman: R Davson
+    - 4.3:
+        non_striker: M Taylor
+        bowler: O Casasola
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.2'
+        batsman: R Davson
+    - 4.4:
+        non_striker: M Taylor
+        bowler: O Casasola
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: R Davson
+    - 4.5:
+        non_striker: M Taylor
+        bowler: O Casasola
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.4'
+        batsman: R Davson
+    - 4.6:
+        non_striker: M Taylor
+        bowler: O Casasola
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: R Davson
+    - 4.7:
+        non_striker: M Taylor
+        bowler: O Casasola
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: R Davson
+    - 5.1:
+        non_striker: R Davson
+        bowler: T Moses
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.1'
+        batsman: M Taylor
+    - 5.2:
+        non_striker: R Davson
+        bowler: T Moses
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: M Taylor
+    - 5.3:
+        non_striker: R Davson
+        bowler: T Moses
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.2'
+        batsman: M Taylor
+    - 5.4:
+        non_striker: R Davson
+        bowler: T Moses
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: M Taylor
+    - 5.5:
+        non_striker: R Davson
+        bowler: T Moses
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.3'
+        batsman: M Taylor
+    - 5.6:
+        non_striker: R Davson
+        bowler: T Moses
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.4'
+        batsman: M Taylor
+    - 5.7:
+        non_striker: R Davson
+        bowler: T Moses
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: M Taylor
+    - 5.8:
+        non_striker: R Davson
+        bowler: T Moses
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: M Taylor
+    - 6.1:
+        non_striker: M Taylor
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: R Davson
+        wicket:
+          player_out: R Davson
+          fielders:
+          - ML Castillo
+          kind: caught
+    - 6.2:
+        non_striker: M Taylor
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: J Jemison
+    - 6.3:
+        non_striker: J Jemison
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: M Taylor
+    - 6.4:
+        non_striker: M Taylor
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.4'
+        batsman: J Jemison
+    - 6.5:
+        non_striker: M Taylor
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: J Jemison
+    - 6.6:
+        non_striker: J Jemison
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: M Taylor
+    - 7.1:
+        non_striker: M Taylor
+        bowler: T Moses
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: J Jemison
+    - 7.2:
+        non_striker: J Jemison
+        bowler: T Moses
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: M Taylor
+    - 7.3:
+        non_striker: M Taylor
+        bowler: T Moses
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.3'
+        batsman: J Jemison
+    - 7.4:
+        non_striker: M Taylor
+        bowler: T Moses
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.4'
+        batsman: J Jemison
+    - 7.5:
+        non_striker: M Taylor
+        bowler: T Moses
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: J Jemison
+    - 7.6:
+        non_striker: J Jemison
+        bowler: T Moses
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: M Taylor
+    - 8.1:
+        non_striker: M Taylor
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: J Jemison
+    - 8.2:
+        non_striker: J Jemison
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: M Taylor
+    - 8.3:
+        non_striker: J Jemison
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: M Taylor
+    - 8.4:
+        non_striker: M Taylor
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: J Jemison
+    - 8.5:
+        non_striker: J Jemison
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: M Taylor
+    - 8.6:
+        non_striker: M Taylor
+        bowler: L Bonner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '8.6'
+        batsman: J Jemison
+    - 9.1:
+        non_striker: M Taylor
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '9.1'
+        batsman: J Jemison
+    - 9.2:
+        non_striker: M Taylor
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: J Jemison
+    - 9.3:
+        non_striker: J Jemison
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: M Taylor
+    - 9.4:
+        non_striker: M Taylor
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.4'
+        batsman: J Jemison
+    - 9.5:
+        non_striker: M Taylor
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: J Jemison
+        wicket:
+          player_out: J Jemison
+          kind: lbw
+    - 9.6:
+        non_striker: M Taylor
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: T Brown
+    - 10.1:
+        non_striker: M Taylor
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: T Brown
+    - 10.2:
+        non_striker: T Brown
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: M Taylor
+    - 10.3:
+        non_striker: M Taylor
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: T Brown
+    - 10.4:
+        non_striker: M Taylor
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: T Brown
+    - 10.5:
+        non_striker: T Brown
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: M Taylor
+    - 10.6:
+        non_striker: M Taylor
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: T Brown
+    - 11.1:
+        non_striker: M Taylor
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: T Brown
+    - 11.2:
+        non_striker: T Brown
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: M Taylor
+    - 11.3:
+        non_striker: M Taylor
+        bowler: AA Banner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '11.3'
+        batsman: T Brown
+    - 11.4:
+        non_striker: T Brown
+        bowler: AA Banner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.4'
+        batsman: M Taylor
+    - 11.5:
+        non_striker: T Brown
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: M Taylor
+    - 11.6:
+        non_striker: M Taylor
+        bowler: AA Banner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.5'
+        batsman: T Brown
+    - 11.7:
+        non_striker: M Taylor
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: T Brown
+    - 11.8:
+        non_striker: T Brown
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: M Taylor
+    - 12.1:
+        non_striker: M Taylor
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: T Brown
+    - 12.2:
+        non_striker: T Brown
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.2'
+        batsman: M Taylor
+    - 12.3:
+        non_striker: T Brown
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: M Taylor
+    - 12.4:
+        non_striker: T Brown
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: M Taylor
+    - 12.5:
+        non_striker: M Taylor
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: T Brown
+    - 12.6:
+        non_striker: T Brown
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: M Taylor
+    - 13.1:
+        non_striker: T Brown
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: M Taylor
+    - 13.2:
+        non_striker: T Brown
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: M Taylor
+    - 13.3:
+        non_striker: T Brown
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: M Taylor
+    - 13.4:
+        non_striker: M Taylor
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: T Brown
+    - 13.5:
+        non_striker: M Taylor
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: T Brown
+    - 13.6:
+        non_striker: T Brown
+        bowler: NN Banner
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        actual_delivery: '13.6'
+        batsman: M Taylor
+    - 13.7:
+        non_striker: T Brown
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: M Taylor
+    - 14.1:
+        non_striker: T Brown
+        bowler: O Casasola
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: M Taylor
+    - 14.2:
+        non_striker: T Brown
+        bowler: O Casasola
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: M Taylor
+    - 14.3:
+        non_striker: M Taylor
+        bowler: O Casasola
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: T Brown
+    - 14.4:
+        non_striker: M Taylor
+        bowler: O Casasola
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: T Brown
+    - 14.5:
+        non_striker: T Brown
+        bowler: O Casasola
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.5'
+        batsman: M Taylor
+    - 14.6:
+        non_striker: T Brown
+        bowler: O Casasola
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: M Taylor
+    - 15.1:
+        non_striker: T Brown
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: M Taylor
+    - 15.2:
+        non_striker: M Taylor
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: T Brown
+    - 15.3:
+        non_striker: T Brown
+        bowler: NN Banner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.3'
+        batsman: M Taylor
+    - 15.4:
+        non_striker: T Brown
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: M Taylor
+    - 15.5:
+        non_striker: M Taylor
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: T Brown
+    - 15.6:
+        non_striker: M Taylor
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: T Brown
+    - 15.7:
+        non_striker: T Brown
+        bowler: NN Banner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '15.6'
+        batsman: M Taylor
+    - 16.1:
+        non_striker: T Brown
+        bowler: T Moses
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: M Taylor
+    - 16.2:
+        non_striker: M Taylor
+        bowler: T Moses
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: T Brown
+    - 16.3:
+        non_striker: T Brown
+        bowler: T Moses
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: M Taylor
+    - 16.4:
+        non_striker: T Brown
+        bowler: T Moses
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: M Taylor
+    - 16.5:
+        non_striker: M Taylor
+        bowler: T Moses
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: T Brown
+    - 16.6:
+        non_striker: M Taylor
+        bowler: T Moses
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: T Brown
+    - 17.1:
+        non_striker: M Taylor
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: T Brown
+    - 17.2:
+        non_striker: M Taylor
+        bowler: AA Banner
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '17.2'
+        batsman: T Brown
+    - 17.3:
+        non_striker: T Brown
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: M Taylor
+    - 17.4:
+        non_striker: T Brown
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.3'
+        batsman: M Taylor
+    - 17.5:
+        non_striker: T Brown
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: M Taylor
+    - 17.6:
+        non_striker: M Taylor
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.5'
+        batsman: T Brown
+    - 17.7:
+        non_striker: M Taylor
+        bowler: AA Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: T Brown
+    - 18.1:
+        non_striker: M Taylor
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: T Brown
+    - 18.2:
+        non_striker: M Taylor
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: T Brown
+        wicket:
+          player_out: T Brown
+          fielders:
+          - T Moses
+          kind: caught
+    - 18.3:
+        non_striker: M Taylor
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: A Amburose
+    - 18.4:
+        non_striker: M Taylor
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: A Amburose
+        wicket:
+          player_out: A Amburose
+          fielders:
+          - L Mcfadzean
+          kind: caught
+    - 18.5:
+        non_striker: M Taylor
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: Festus Benn
+    - 18.6:
+        non_striker: M Taylor
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: Festus Benn
+    - 19.1:
+        non_striker: Festus Benn
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.1'
+        batsman: M Taylor
+    - 19.2:
+        non_striker: Festus Benn
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.2'
+        batsman: M Taylor
+    - 19.3:
+        non_striker: Festus Benn
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: M Taylor
+        wicket:
+          player_out: M Taylor
+          fielders:
+          - AA Banner
+          kind: caught
+    - 19.4:
+        non_striker: Festus Benn
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.4'
+        batsman: K Burrows
+    - 19.5:
+        non_striker: Festus Benn
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: K Burrows
+    - 19.6:
+        non_striker: Festus Benn
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.6'
+        batsman: K Burrows
+- 2nd innings:
+    team: Belize
+    deliveries:
+    - 0.1:
+        bowler: GT Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: NN Banner
+        actual_delivery: '0.1'
+        batsman: A Oxley
+    - 0.2:
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NN Banner
+        actual_delivery: '0.1'
+        batsman: A Oxley
+    - 0.3:
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NN Banner
+        actual_delivery: '0.2'
+        batsman: A Oxley
+    - 0.4:
+        non_striker: A Oxley
+        bowler: GT Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.3'
+        batsman: NN Banner
+    - 0.5:
+        non_striker: A Oxley
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: NN Banner
+    - 0.6:
+        non_striker: NN Banner
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: A Oxley
+    - 0.7:
+        non_striker: A Oxley
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: NN Banner
+    - 0.8:
+        non_striker: A Oxley
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: NN Banner
+    - 1.1:
+        non_striker: NN Banner
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.1'
+        batsman: A Oxley
+    - 1.2:
+        non_striker: NN Banner
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: A Oxley
+    - 1.3:
+        non_striker: A Oxley
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: NN Banner
+    - 1.4:
+        non_striker: NN Banner
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: A Oxley
+    - 1.5:
+        non_striker: NN Banner
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '1.5'
+        batsman: A Oxley
+    - 1.6:
+        non_striker: A Oxley
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: NN Banner
+    - 2.1:
+        non_striker: NN Banner
+        bowler: GT Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '2.1'
+        batsman: A Oxley
+    - 2.2:
+        non_striker: NN Banner
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.1'
+        batsman: A Oxley
+    - 2.3:
+        non_striker: NN Banner
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: A Oxley
+    - 2.4:
+        non_striker: NN Banner
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: A Oxley
+    - 2.5:
+        non_striker: NN Banner
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: A Oxley
+    - 2.6:
+        non_striker: A Oxley
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: NN Banner
+    - 2.7:
+        non_striker: A Oxley
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: NN Banner
+    - 3.1:
+        non_striker: NN Banner
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: A Oxley
+    - 3.2:
+        non_striker: NN Banner
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: A Oxley
+    - 3.3:
+        non_striker: NN Banner
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: A Oxley
+        wicket:
+          player_out: A Oxley
+          fielders:
+          - R Davson
+          kind: caught
+    - 3.4:
+        non_striker: NN Banner
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: L Bonner
+    - 3.5:
+        non_striker: L Bonner
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: NN Banner
+    - 3.6:
+        non_striker: L Bonner
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: NN Banner
+    - 4.1:
+        non_striker: NN Banner
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: L Bonner
+    - 4.2:
+        non_striker: L Bonner
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: NN Banner
+    - 4.3:
+        non_striker: NN Banner
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: L Bonner
+    - 4.4:
+        non_striker: NN Banner
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: L Bonner
+    - 4.5:
+        non_striker: NN Banner
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: L Bonner
+    - 4.6:
+        non_striker: NN Banner
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: L Bonner
+    - 5.1:
+        non_striker: L Bonner
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: NN Banner
+    - 5.2:
+        non_striker: L Bonner
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: NN Banner
+        wicket:
+          player_out: NN Banner
+          fielders:
+          - J Jemison
+          kind: caught
+    - 5.3:
+        non_striker: L Bonner
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.3'
+        batsman: TAW Patterson
+    - 5.4:
+        non_striker: L Bonner
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: TAW Patterson
+    - 5.5:
+        non_striker: TAW Patterson
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: L Bonner
+    - 5.6:
+        non_striker: TAW Patterson
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.6'
+        batsman: L Bonner
+    - 6.1:
+        non_striker: L Bonner
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: TAW Patterson
+    - 6.2:
+        non_striker: L Bonner
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: TAW Patterson
+    - 6.3:
+        non_striker: TAW Patterson
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: L Bonner
+    - 6.4:
+        non_striker: L Bonner
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.4'
+        batsman: TAW Patterson
+    - 6.5:
+        non_striker: L Bonner
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: TAW Patterson
+    - 6.6:
+        non_striker: L Bonner
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: TAW Patterson
+    - 7.1:
+        non_striker: TAW Patterson
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: L Bonner
+    - 7.2:
+        non_striker: L Bonner
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: TAW Patterson
+    - 7.3:
+        non_striker: TAW Patterson
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: L Bonner
+    - 7.4:
+        non_striker: L Bonner
+        bowler: G Irvin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.4'
+        batsman: TAW Patterson
+    - 7.5:
+        non_striker: L Bonner
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: TAW Patterson
+    - 7.6:
+        non_striker: L Bonner
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: TAW Patterson
+    - 7.7:
+        non_striker: TAW Patterson
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: L Bonner
+        wicket:
+          player_out: L Bonner
+          fielders:
+          - T Brown
+          kind: caught
+    - 8.1:
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Castillo
+        actual_delivery: '8.1'
+        batsman: TAW Patterson
+    - 8.2:
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Castillo
+        actual_delivery: '8.2'
+        batsman: TAW Patterson
+    - 8.3:
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ML Castillo
+        actual_delivery: '8.3'
+        batsman: TAW Patterson
+    - 8.4:
+        non_striker: TAW Patterson
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: ML Castillo
+    - 8.5:
+        non_striker: ML Castillo
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: TAW Patterson
+    - 8.6:
+        non_striker: ML Castillo
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.6'
+        batsman: TAW Patterson
+    - 9.1:
+        non_striker: TAW Patterson
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.1'
+        batsman: ML Castillo
+    - 9.2:
+        non_striker: TAW Patterson
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: ML Castillo
+    - 9.3:
+        non_striker: TAW Patterson
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: ML Castillo
+    - 9.4:
+        non_striker: TAW Patterson
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: ML Castillo
+    - 9.5:
+        non_striker: TAW Patterson
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: ML Castillo
+    - 9.6:
+        non_striker: TAW Patterson
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: ML Castillo
+    - 10.1:
+        non_striker: ML Castillo
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: TAW Patterson
+    - 10.2:
+        non_striker: ML Castillo
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: TAW Patterson
+    - 10.3:
+        non_striker: ML Castillo
+        bowler: T Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '10.3'
+        batsman: TAW Patterson
+    - 10.4:
+        non_striker: TAW Patterson
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: ML Castillo
+    - 10.5:
+        non_striker: ML Castillo
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: TAW Patterson
+    - 10.6:
+        non_striker: TAW Patterson
+        bowler: T Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.6'
+        batsman: ML Castillo
+    - 10.7:
+        non_striker: TAW Patterson
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: ML Castillo
+    - 11.1:
+        non_striker: ML Castillo
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: TAW Patterson
+        wicket:
+          player_out: TAW Patterson
+          fielders:
+          - J Jemison
+          kind: stumped
+    - 11.2:
+        non_striker: ML Castillo
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: R Broaster
+    - 11.3:
+        non_striker: ML Castillo
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: R Broaster
+    - 11.4:
+        non_striker: ML Castillo
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.4'
+        batsman: R Broaster
+    - 11.5:
+        non_striker: ML Castillo
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: R Broaster
+    - 11.6:
+        non_striker: ML Castillo
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: R Broaster
+    - 12.1:
+        non_striker: R Broaster
+        bowler: A Gulati
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '12.1'
+        batsman: ML Castillo
+    - 12.2:
+        non_striker: R Broaster
+        bowler: A Gulati
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '12.2'
+        batsman: ML Castillo
+    - 12.3:
+        non_striker: R Broaster
+        bowler: A Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: ML Castillo
+    - 12.4:
+        non_striker: ML Castillo
+        bowler: A Gulati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: R Broaster
+    - 12.5:
+        non_striker: ML Castillo
+        bowler: A Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: R Broaster
+        wicket:
+          player_out: R Broaster
+          fielders:
+          - J Jemison
+          - E Haven
+          kind: run out
+    - 12.6:
+        non_striker: ML Castillo
+        bowler: A Gulati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: O Casasola
+    - 13.1:
+        non_striker: O Casasola
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: ML Castillo
+    - 13.2:
+        non_striker: O Casasola
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: ML Castillo
+    - 13.3:
+        non_striker: ML Castillo
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: O Casasola
+    - 13.4:
+        non_striker: ML Castillo
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.4'
+        batsman: O Casasola
+    - 13.5:
+        non_striker: ML Castillo
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.5'
+        batsman: O Casasola
+    - 13.6:
+        non_striker: ML Castillo
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: O Casasola
+    - 14.1:
+        non_striker: O Casasola
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: ML Castillo
+    - 14.2:
+        non_striker: O Casasola
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: ML Castillo
+    - 14.3:
+        non_striker: O Casasola
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: ML Castillo
+    - 14.4:
+        non_striker: O Casasola
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: ML Castillo
+    - 14.5:
+        non_striker: ML Castillo
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: O Casasola
+    - 14.6:
+        non_striker: ML Castillo
+        bowler: T Brown
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.6'
+        batsman: O Casasola
+    - 15.1:
+        non_striker: O Casasola
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: ML Castillo
+    - 15.2:
+        non_striker: O Casasola
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: ML Castillo
+    - 15.3:
+        non_striker: ML Castillo
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.3'
+        batsman: O Casasola
+    - 15.4:
+        non_striker: ML Castillo
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: O Casasola
+    - 15.5:
+        non_striker: ML Castillo
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: O Casasola
+    - 15.6:
+        non_striker: O Casasola
+        bowler: Festus Benn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: ML Castillo
+    - 16.1:
+        non_striker: ML Castillo
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: O Casasola
+        wicket:
+          player_out: O Casasola
+          fielders:
+          - E Haven
+          kind: caught
+    - 16.2:
+        non_striker: ML Castillo
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.2'
+        batsman: AA Banner
+    - 16.3:
+        non_striker: ML Castillo
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: AA Banner
+    - 16.4:
+        non_striker: AA Banner
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: ML Castillo
+    - 16.5:
+        non_striker: AA Banner
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.5'
+        batsman: ML Castillo
+    - 16.6:
+        non_striker: AA Banner
+        bowler: GT Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.6'
+        batsman: ML Castillo
+    - 17.1:
+        non_striker: ML Castillo
+        bowler: E Haven
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: AA Banner
+    - 17.2:
+        non_striker: ML Castillo
+        bowler: E Haven
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.2'
+        batsman: AA Banner
+    - 17.3:
+        non_striker: ML Castillo
+        bowler: E Haven
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: AA Banner
+        wicket:
+          player_out: AA Banner
+          fielders:
+          - J Jemison
+          kind: stumped
+    - 17.4:
+        non_striker: ML Castillo
+        bowler: E Haven
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: T Moses
+    - 17.5:
+        non_striker: ML Castillo
+        bowler: E Haven
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: T Moses
+    - 17.6:
+        non_striker: ML Castillo
+        bowler: E Haven
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: T Moses
+    - 18.1:
+        non_striker: T Moses
+        bowler: A Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: ML Castillo
+    - 18.2:
+        non_striker: ML Castillo
+        bowler: A Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: T Moses
+    - 18.3:
+        non_striker: T Moses
+        bowler: A Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: ML Castillo
+    - 18.4:
+        non_striker: ML Castillo
+        bowler: A Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: T Moses
+    - 18.5:
+        non_striker: T Moses
+        bowler: A Gulati
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.5'
+        batsman: ML Castillo
+    - 18.6:
+        non_striker: T Moses
+        bowler: A Gulati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: ML Castillo
+    - 19.1:
+        non_striker: T Moses
+        bowler: E Haven
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.1'
+        batsman: ML Castillo
+        wicket:
+          player_out: ML Castillo
+          fielders:
+          - J Jemison
+          kind: caught
+    - 19.2:
+        non_striker: T Moses
+        bowler: E Haven
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: K Moses
+    - 19.3:
+        non_striker: T Moses
+        bowler: E Haven
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.3'
+        batsman: K Moses
+    - 19.4:
+        non_striker: T Moses
+        bowler: E Haven
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: K Moses
+        wicket:
+          player_out: K Moses
+          fielders:
+          - M Taylor
+          kind: caught
+    - 19.5:
+        non_striker: T Moses
+        bowler: E Haven
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: L Mcfadzean
+    - 19.6:
+        non_striker: T Moses
+        bowler: E Haven
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.6'
+        batsman: L Mcfadzean
+    target:
+      overs: 20
+      runs: 144

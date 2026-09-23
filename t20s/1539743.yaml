@@ -1,0 +1,2486 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Windhoek
+  dates:
+  - '2026-06-22'
+  gender: male
+  match_type: T20
+  match_type_number: 3978
+  outcome:
+    winner: Namibia
+    by:
+      runs: 30
+  overs: 20
+  player_of_match:
+  - JN Frylinck
+  players:
+    Namibia:
+    - JN Frylinck
+    - J Taanyanda
+    - MG Erasmus
+    - A Busing-Volschenk
+    - JJ Smit
+    - ZE Green
+    - R Trumpelmann
+    - JN Loftie-Eaton
+    - W Smith
+    - BM Scholtz
+    - JT Brassell
+    Hong Kong:
+    - Zeeshan Ali
+    - S Mathur
+    - Babar Hayat
+    - Shahid Wasif
+    - Anshuman Rath
+    - Aizaz Khan
+    - Nasrulla Rana
+    - Mohammad Ghazanfar
+    - Ateeq Iqbal
+    - Asad Rasheed
+    - Ehsan Khan
+  registry:
+    people:
+      A Busing-Volschenk: e9e37173
+      A Louw: 5eecae5d
+      Aizaz Khan: f6c2659d
+      Anshuman Rath: 552b228c
+      Asad Rasheed: 43c57d62
+      Ateeq Iqbal: 29b322c7
+      BM Scholtz: e85d03d6
+      Babar Hayat: fbb657bb
+      Claus Schumacher: 85645e62
+      E Lassen: a476d6d0
+      Ehsan Khan: d3851cd8
+      J Taanyanda: c41ad06b
+      JJ Smit: bb134e5c
+      JN Frylinck: 3c87f0c3
+      JN Loftie-Eaton: f468293b
+      JT Brassell: 537021f5
+      MG Erasmus: 95a5e066
+      Mohammad Ghazanfar: 00321fff
+      Nasrulla Rana: 9ffb7550
+      R Trumpelmann: ff6a7ab5
+      S Mathur: 11378dda
+      Shahid Wasif: 2cc08c3c
+      W Smith: cc9989f9
+      ZE Green: 8716233e
+      Zeeshan Ali: 987187b9
+  team_type: international
+  teams:
+  - Namibia
+  - Hong Kong
+  toss:
+    winner: Namibia
+    decision: bat
+  umpires:
+  - A Louw
+  - E Lassen
+  venue: Namibia Cricket Ground, Windhoek
+innings:
+- 1st innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        bowler: Nasrulla Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: J Taanyanda
+        actual_delivery: '0.1'
+        batsman: JN Frylinck
+    - 0.2:
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: J Taanyanda
+        actual_delivery: '0.1'
+        batsman: JN Frylinck
+    - 0.3:
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Taanyanda
+        actual_delivery: '0.2'
+        batsman: JN Frylinck
+    - 0.4:
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Taanyanda
+        actual_delivery: '0.3'
+        batsman: JN Frylinck
+    - 0.5:
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Taanyanda
+        actual_delivery: '0.4'
+        batsman: JN Frylinck
+    - 0.6:
+        non_striker: JN Frylinck
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '0.5'
+        batsman: J Taanyanda
+    - 0.7:
+        non_striker: JN Frylinck
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: J Taanyanda
+    - 1.1:
+        non_striker: J Taanyanda
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: JN Frylinck
+    - 1.2:
+        non_striker: J Taanyanda
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.2'
+        batsman: JN Frylinck
+    - 1.3:
+        non_striker: J Taanyanda
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: JN Frylinck
+    - 1.4:
+        non_striker: J Taanyanda
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.4'
+        batsman: JN Frylinck
+    - 1.5:
+        non_striker: J Taanyanda
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.5'
+        batsman: JN Frylinck
+    - 1.6:
+        non_striker: J Taanyanda
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: JN Frylinck
+    - 1.7:
+        non_striker: J Taanyanda
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.6'
+        batsman: JN Frylinck
+    - 2.1:
+        non_striker: JN Frylinck
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: J Taanyanda
+    - 2.2:
+        non_striker: JN Frylinck
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: J Taanyanda
+    - 2.3:
+        non_striker: JN Frylinck
+        bowler: Nasrulla Rana
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '2.3'
+        batsman: J Taanyanda
+    - 2.4:
+        non_striker: J Taanyanda
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: JN Frylinck
+    - 2.5:
+        non_striker: J Taanyanda
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: JN Frylinck
+    - 2.6:
+        non_striker: J Taanyanda
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.5'
+        batsman: JN Frylinck
+    - 2.7:
+        non_striker: J Taanyanda
+        bowler: Nasrulla Rana
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '2.6'
+        batsman: JN Frylinck
+    - 2.8:
+        non_striker: JN Frylinck
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: J Taanyanda
+    - 3.1:
+        non_striker: J Taanyanda
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: JN Frylinck
+    - 3.2:
+        non_striker: JN Frylinck
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: J Taanyanda
+    - 3.3:
+        non_striker: J Taanyanda
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: JN Frylinck
+    - 3.4:
+        non_striker: JN Frylinck
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: J Taanyanda
+    - 3.5:
+        non_striker: J Taanyanda
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.5'
+        batsman: JN Frylinck
+    - 3.6:
+        non_striker: J Taanyanda
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: JN Frylinck
+    - 4.1:
+        non_striker: J Taanyanda
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.1'
+        batsman: JN Frylinck
+    - 4.2:
+        non_striker: J Taanyanda
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: JN Frylinck
+    - 4.3:
+        non_striker: J Taanyanda
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.3'
+        batsman: JN Frylinck
+    - 4.4:
+        non_striker: J Taanyanda
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.4'
+        batsman: JN Frylinck
+    - 4.5:
+        non_striker: J Taanyanda
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.5'
+        batsman: JN Frylinck
+    - 4.6:
+        non_striker: J Taanyanda
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: JN Frylinck
+    - 5.1:
+        non_striker: J Taanyanda
+        bowler: Ehsan Khan
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        actual_delivery: '5.1'
+        batsman: JN Frylinck
+    - 5.2:
+        non_striker: J Taanyanda
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.1'
+        batsman: JN Frylinck
+    - 5.3:
+        non_striker: J Taanyanda
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: JN Frylinck
+    - 5.4:
+        non_striker: JN Frylinck
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: J Taanyanda
+    - 5.5:
+        non_striker: JN Frylinck
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.4'
+        batsman: J Taanyanda
+    - 5.6:
+        non_striker: JN Frylinck
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: J Taanyanda
+    - 5.7:
+        non_striker: JN Frylinck
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: J Taanyanda
+    - 6.1:
+        non_striker: J Taanyanda
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: JN Frylinck
+    - 6.2:
+        non_striker: JN Frylinck
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.2'
+        batsman: J Taanyanda
+    - 6.3:
+        non_striker: JN Frylinck
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: J Taanyanda
+    - 6.4:
+        non_striker: J Taanyanda
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: JN Frylinck
+    - 6.5:
+        non_striker: JN Frylinck
+        bowler: Asad Rasheed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '6.5'
+        batsman: J Taanyanda
+    - 6.6:
+        non_striker: J Taanyanda
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: JN Frylinck
+    - 7.1:
+        non_striker: J Taanyanda
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.1'
+        batsman: JN Frylinck
+    - 7.2:
+        non_striker: J Taanyanda
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: JN Frylinck
+    - 7.3:
+        non_striker: J Taanyanda
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.3'
+        batsman: JN Frylinck
+    - 7.4:
+        non_striker: J Taanyanda
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: JN Frylinck
+    - 7.5:
+        non_striker: JN Frylinck
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: J Taanyanda
+    - 7.6:
+        non_striker: JN Frylinck
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: J Taanyanda
+    - 8.1:
+        non_striker: J Taanyanda
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.1'
+        batsman: JN Frylinck
+    - 8.2:
+        non_striker: J Taanyanda
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.2'
+        batsman: JN Frylinck
+    - 8.3:
+        non_striker: J Taanyanda
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: JN Frylinck
+    - 8.4:
+        non_striker: JN Frylinck
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.4'
+        batsman: J Taanyanda
+    - 8.5:
+        non_striker: JN Frylinck
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: J Taanyanda
+    - 8.6:
+        non_striker: J Taanyanda
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: JN Frylinck
+    - 9.1:
+        non_striker: J Taanyanda
+        bowler: Aizaz Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.1'
+        batsman: JN Frylinck
+    - 9.2:
+        non_striker: J Taanyanda
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '9.1'
+        batsman: JN Frylinck
+    - 9.3:
+        non_striker: J Taanyanda
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.2'
+        batsman: JN Frylinck
+    - 9.4:
+        non_striker: J Taanyanda
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: JN Frylinck
+    - 9.5:
+        non_striker: JN Frylinck
+        bowler: Aizaz Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.4'
+        batsman: J Taanyanda
+    - 9.6:
+        non_striker: JN Frylinck
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.4'
+        batsman: J Taanyanda
+    - 9.7:
+        non_striker: JN Frylinck
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: J Taanyanda
+    - 9.8:
+        non_striker: JN Frylinck
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '9.6'
+        batsman: J Taanyanda
+    - 10.1:
+        non_striker: JN Frylinck
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: J Taanyanda
+    - 10.2:
+        non_striker: J Taanyanda
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.2'
+        batsman: JN Frylinck
+    - 10.3:
+        non_striker: J Taanyanda
+        bowler: Asad Rasheed
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        actual_delivery: '10.3'
+        batsman: JN Frylinck
+    - 10.4:
+        non_striker: J Taanyanda
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: JN Frylinck
+    - 10.5:
+        non_striker: JN Frylinck
+        bowler: Asad Rasheed
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '10.4'
+        batsman: J Taanyanda
+    - 10.6:
+        non_striker: J Taanyanda
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: JN Frylinck
+    - 10.7:
+        non_striker: JN Frylinck
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.5'
+        batsman: J Taanyanda
+    - 10.8:
+        non_striker: JN Frylinck
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.6'
+        batsman: J Taanyanda
+    - 11.1:
+        non_striker: J Taanyanda
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: JN Frylinck
+    - 11.2:
+        non_striker: JN Frylinck
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: J Taanyanda
+    - 11.3:
+        non_striker: J Taanyanda
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: JN Frylinck
+    - 11.4:
+        non_striker: JN Frylinck
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: J Taanyanda
+    - 11.5:
+        non_striker: J Taanyanda
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: JN Frylinck
+    - 11.6:
+        non_striker: J Taanyanda
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: JN Frylinck
+    - 12.1:
+        non_striker: J Taanyanda
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.1'
+        batsman: JN Frylinck
+    - 12.2:
+        non_striker: J Taanyanda
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.2'
+        batsman: JN Frylinck
+    - 12.3:
+        non_striker: J Taanyanda
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.3'
+        batsman: JN Frylinck
+    - 12.4:
+        non_striker: J Taanyanda
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: JN Frylinck
+    - 12.5:
+        non_striker: JN Frylinck
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.5'
+        batsman: J Taanyanda
+    - 12.6:
+        non_striker: JN Frylinck
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '12.6'
+        batsman: J Taanyanda
+    - 13.1:
+        non_striker: J Taanyanda
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: JN Frylinck
+    - 13.2:
+        non_striker: JN Frylinck
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: J Taanyanda
+    - 13.3:
+        non_striker: JN Frylinck
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: J Taanyanda
+    - 13.4:
+        non_striker: J Taanyanda
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.4'
+        batsman: JN Frylinck
+    - 13.5:
+        non_striker: J Taanyanda
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: JN Frylinck
+    - 13.6:
+        non_striker: JN Frylinck
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.6'
+        batsman: J Taanyanda
+    - 14.1:
+        non_striker: J Taanyanda
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: JN Frylinck
+        wicket:
+          player_out: JN Frylinck
+          fielders:
+          - Zeeshan Ali
+          kind: caught
+    - 14.2:
+        non_striker: J Taanyanda
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: MG Erasmus
+    - 14.3:
+        non_striker: MG Erasmus
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: J Taanyanda
+        wicket:
+          player_out: J Taanyanda
+          kind: bowled
+    - 14.4:
+        non_striker: MG Erasmus
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: A Busing-Volschenk
+    - 14.5:
+        non_striker: MG Erasmus
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: A Busing-Volschenk
+        wicket:
+          player_out: A Busing-Volschenk
+          kind: lbw
+    - 14.6:
+        non_striker: MG Erasmus
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: JJ Smit
+    - 15.1:
+        non_striker: JJ Smit
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: MG Erasmus
+    - 15.2:
+        non_striker: MG Erasmus
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: JJ Smit
+    - 15.3:
+        non_striker: JJ Smit
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.3'
+        batsman: MG Erasmus
+    - 15.4:
+        non_striker: JJ Smit
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.4'
+        batsman: MG Erasmus
+    - 15.5:
+        non_striker: JJ Smit
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.5'
+        batsman: MG Erasmus
+    - 15.6:
+        non_striker: JJ Smit
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: MG Erasmus
+    - 16.1:
+        non_striker: JJ Smit
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: MG Erasmus
+    - 16.2:
+        non_striker: JJ Smit
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: MG Erasmus
+    - 16.3:
+        non_striker: MG Erasmus
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: JJ Smit
+    - 16.4:
+        non_striker: MG Erasmus
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: JJ Smit
+    - 16.5:
+        non_striker: JJ Smit
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.5'
+        batsman: MG Erasmus
+    - 16.6:
+        non_striker: JJ Smit
+        bowler: Asad Rasheed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.6'
+        batsman: MG Erasmus
+    - 17.1:
+        non_striker: MG Erasmus
+        bowler: Aizaz Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '17.1'
+        batsman: JJ Smit
+    - 17.2:
+        non_striker: JJ Smit
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.2'
+        batsman: MG Erasmus
+    - 17.3:
+        non_striker: JJ Smit
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: MG Erasmus
+    - 17.4:
+        non_striker: MG Erasmus
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.4'
+        batsman: JJ Smit
+    - 17.5:
+        non_striker: MG Erasmus
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: JJ Smit
+    - 17.6:
+        non_striker: JJ Smit
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.6'
+        batsman: MG Erasmus
+    - 18.1:
+        non_striker: MG Erasmus
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: JJ Smit
+    - 18.2:
+        non_striker: JJ Smit
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: MG Erasmus
+    - 18.3:
+        non_striker: JJ Smit
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: MG Erasmus
+        wicket:
+          player_out: MG Erasmus
+          fielders:
+          - Shahid Wasif
+          kind: caught
+    - 18.4:
+        non_striker: JJ Smit
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.4'
+        batsman: ZE Green
+    - 18.5:
+        non_striker: JJ Smit
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.5'
+        batsman: ZE Green
+    - 18.6:
+        non_striker: JJ Smit
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: ZE Green
+    - 19.1:
+        non_striker: ZE Green
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: JJ Smit
+    - 19.2:
+        non_striker: JJ Smit
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.2'
+        batsman: ZE Green
+    - 19.3:
+        non_striker: JJ Smit
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: ZE Green
+        wicket:
+          player_out: ZE Green
+          fielders:
+          - Shahid Wasif
+          kind: caught
+    - 19.4:
+        non_striker: JJ Smit
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: R Trumpelmann
+    - 19.5:
+        non_striker: R Trumpelmann
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.5'
+        batsman: JJ Smit
+    - 19.6:
+        non_striker: JJ Smit
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: R Trumpelmann
+        wicket:
+          player_out: R Trumpelmann
+          kind: bowled
+- 2nd innings:
+    team: Hong Kong
+    deliveries:
+    - 0.1:
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Mathur
+        actual_delivery: '0.1'
+        batsman: Zeeshan Ali
+    - 0.2:
+        non_striker: Zeeshan Ali
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: S Mathur
+    - 0.3:
+        non_striker: Zeeshan Ali
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.3'
+        batsman: S Mathur
+    - 0.4:
+        non_striker: Zeeshan Ali
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: S Mathur
+    - 0.5:
+        non_striker: S Mathur
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Zeeshan Ali
+    - 0.6:
+        non_striker: S Mathur
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.6'
+        batsman: Zeeshan Ali
+    - 1.1:
+        non_striker: Zeeshan Ali
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: S Mathur
+    - 1.2:
+        non_striker: Zeeshan Ali
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: S Mathur
+    - 1.3:
+        non_striker: Zeeshan Ali
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: S Mathur
+    - 1.4:
+        non_striker: S Mathur
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: Zeeshan Ali
+    - 1.5:
+        non_striker: S Mathur
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Zeeshan Ali
+    - 1.6:
+        non_striker: S Mathur
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: Zeeshan Ali
+    - 2.1:
+        non_striker: S Mathur
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: Zeeshan Ali
+    - 2.2:
+        non_striker: Zeeshan Ali
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: S Mathur
+    - 2.3:
+        non_striker: Zeeshan Ali
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: S Mathur
+    - 2.4:
+        non_striker: Zeeshan Ali
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: S Mathur
+        wicket:
+          player_out: S Mathur
+          fielders:
+          - JN Frylinck
+          kind: caught
+    - 2.5:
+        non_striker: Zeeshan Ali
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: Babar Hayat
+    - 2.6:
+        non_striker: Zeeshan Ali
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Babar Hayat
+    - 3.1:
+        non_striker: Babar Hayat
+        bowler: JT Brassell
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        actual_delivery: '3.1'
+        batsman: Zeeshan Ali
+    - 3.2:
+        non_striker: Babar Hayat
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: Zeeshan Ali
+    - 3.3:
+        non_striker: Babar Hayat
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Zeeshan Ali
+    - 3.4:
+        non_striker: Babar Hayat
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Zeeshan Ali
+    - 3.5:
+        non_striker: Babar Hayat
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: Zeeshan Ali
+    - 3.6:
+        non_striker: Zeeshan Ali
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Babar Hayat
+    - 4.1:
+        non_striker: Babar Hayat
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.1'
+        batsman: Zeeshan Ali
+    - 4.2:
+        non_striker: Babar Hayat
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: Zeeshan Ali
+    - 4.3:
+        non_striker: Zeeshan Ali
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: Babar Hayat
+    - 4.4:
+        non_striker: Zeeshan Ali
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: Babar Hayat
+    - 4.5:
+        non_striker: Babar Hayat
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: Zeeshan Ali
+    - 4.6:
+        non_striker: Babar Hayat
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.6'
+        batsman: Zeeshan Ali
+    - 5.1:
+        non_striker: Zeeshan Ali
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.1'
+        batsman: Babar Hayat
+    - 5.2:
+        non_striker: Zeeshan Ali
+        bowler: JT Brassell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.2'
+        batsman: Babar Hayat
+    - 5.3:
+        non_striker: Zeeshan Ali
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.2'
+        batsman: Babar Hayat
+    - 5.4:
+        non_striker: Zeeshan Ali
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.3'
+        batsman: Babar Hayat
+    - 5.5:
+        non_striker: Zeeshan Ali
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: Babar Hayat
+    - 5.6:
+        non_striker: Babar Hayat
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Zeeshan Ali
+    - 5.7:
+        non_striker: Babar Hayat
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Zeeshan Ali
+    - 6.1:
+        non_striker: Zeeshan Ali
+        bowler: W Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: Babar Hayat
+    - 6.2:
+        non_striker: Babar Hayat
+        bowler: W Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.2'
+        batsman: Zeeshan Ali
+    - 6.3:
+        non_striker: Babar Hayat
+        bowler: W Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Zeeshan Ali
+    - 6.4:
+        non_striker: Babar Hayat
+        bowler: W Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.4'
+        batsman: Zeeshan Ali
+    - 6.5:
+        non_striker: Babar Hayat
+        bowler: W Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Zeeshan Ali
+    - 6.6:
+        non_striker: Babar Hayat
+        bowler: W Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.6'
+        batsman: Zeeshan Ali
+    - 7.1:
+        non_striker: Zeeshan Ali
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: Babar Hayat
+    - 7.2:
+        non_striker: Babar Hayat
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.2'
+        batsman: Zeeshan Ali
+    - 7.3:
+        non_striker: Babar Hayat
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: Zeeshan Ali
+    - 7.4:
+        non_striker: Zeeshan Ali
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: Babar Hayat
+    - 7.5:
+        non_striker: Zeeshan Ali
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: Babar Hayat
+    - 7.6:
+        non_striker: Babar Hayat
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: Zeeshan Ali
+    - 8.1:
+        non_striker: Zeeshan Ali
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: Babar Hayat
+    - 8.2:
+        non_striker: Babar Hayat
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Zeeshan Ali
+    - 8.3:
+        non_striker: Zeeshan Ali
+        bowler: JJ Smit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '8.3'
+        batsman: Babar Hayat
+    - 8.4:
+        non_striker: Babar Hayat
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: Zeeshan Ali
+    - 8.5:
+        non_striker: Zeeshan Ali
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.5'
+        batsman: Babar Hayat
+    - 8.6:
+        non_striker: Zeeshan Ali
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: Babar Hayat
+    - 9.1:
+        non_striker: Zeeshan Ali
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '9.1'
+        batsman: Babar Hayat
+    - 9.2:
+        non_striker: Zeeshan Ali
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: Babar Hayat
+    - 9.3:
+        non_striker: Babar Hayat
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: Zeeshan Ali
+    - 9.4:
+        non_striker: Zeeshan Ali
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: Babar Hayat
+    - 9.5:
+        non_striker: Babar Hayat
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: Zeeshan Ali
+    - 9.6:
+        non_striker: Babar Hayat
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: Zeeshan Ali
+    - 10.1:
+        non_striker: Zeeshan Ali
+        bowler: W Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '10.1'
+        batsman: Babar Hayat
+    - 10.2:
+        non_striker: Babar Hayat
+        bowler: W Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: Zeeshan Ali
+    - 10.3:
+        non_striker: Zeeshan Ali
+        bowler: W Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.3'
+        batsman: Babar Hayat
+    - 10.4:
+        non_striker: Zeeshan Ali
+        bowler: W Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.4'
+        batsman: Babar Hayat
+    - 10.5:
+        non_striker: Zeeshan Ali
+        bowler: W Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '10.5'
+        batsman: Babar Hayat
+    - 10.6:
+        non_striker: Zeeshan Ali
+        bowler: W Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '10.6'
+        batsman: Babar Hayat
+    - 11.1:
+        non_striker: Babar Hayat
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: Zeeshan Ali
+    - 11.2:
+        non_striker: Zeeshan Ali
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: Babar Hayat
+    - 11.3:
+        non_striker: Babar Hayat
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: Zeeshan Ali
+    - 11.4:
+        non_striker: Zeeshan Ali
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: Babar Hayat
+    - 11.5:
+        non_striker: Babar Hayat
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Zeeshan Ali
+    - 11.6:
+        non_striker: Babar Hayat
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.6'
+        batsman: Zeeshan Ali
+    - 12.1:
+        non_striker: Zeeshan Ali
+        bowler: JT Brassell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.1'
+        batsman: Babar Hayat
+    - 12.2:
+        non_striker: Zeeshan Ali
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Babar Hayat
+    - 12.3:
+        non_striker: Zeeshan Ali
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.2'
+        batsman: Babar Hayat
+    - 12.4:
+        non_striker: Zeeshan Ali
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: Babar Hayat
+    - 12.5:
+        non_striker: Babar Hayat
+        bowler: JT Brassell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.4'
+        batsman: Zeeshan Ali
+    - 12.6:
+        non_striker: Babar Hayat
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: Zeeshan Ali
+    - 12.7:
+        non_striker: Zeeshan Ali
+        bowler: JT Brassell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.5'
+        batsman: Babar Hayat
+    - 12.8:
+        non_striker: Zeeshan Ali
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Babar Hayat
+        wicket:
+          player_out: Babar Hayat
+          fielders:
+          - MG Erasmus
+          kind: caught
+    - 12.9:
+        non_striker: Zeeshan Ali
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: Shahid Wasif
+    - 13.1:
+        non_striker: Zeeshan Ali
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: Shahid Wasif
+    - 13.2:
+        non_striker: Shahid Wasif
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: Zeeshan Ali
+        wicket:
+          player_out: Zeeshan Ali
+          fielders:
+          - JN Frylinck
+          kind: caught
+    - 13.3:
+        non_striker: Shahid Wasif
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Anshuman Rath
+    - 13.4:
+        non_striker: Anshuman Rath
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: Shahid Wasif
+    - 13.5:
+        non_striker: Shahid Wasif
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: Anshuman Rath
+    - 13.6:
+        non_striker: Anshuman Rath
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Shahid Wasif
+    - 14.1:
+        non_striker: Anshuman Rath
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: Shahid Wasif
+    - 14.2:
+        non_striker: Shahid Wasif
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.2'
+        batsman: Anshuman Rath
+    - 14.3:
+        non_striker: Shahid Wasif
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.3'
+        batsman: Anshuman Rath
+    - 14.4:
+        non_striker: Shahid Wasif
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: Anshuman Rath
+        wicket:
+          player_out: Anshuman Rath
+          fielders:
+          - JN Loftie-Eaton
+          kind: caught
+    - 14.5:
+        non_striker: Shahid Wasif
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: Aizaz Khan
+    - 14.6:
+        non_striker: Shahid Wasif
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: Aizaz Khan
+    - 15.1:
+        non_striker: Shahid Wasif
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: Aizaz Khan
+    - 15.2:
+        non_striker: Aizaz Khan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: Shahid Wasif
+    - 15.3:
+        non_striker: Aizaz Khan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.3'
+        batsman: Shahid Wasif
+    - 15.4:
+        non_striker: Aizaz Khan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.4'
+        batsman: Shahid Wasif
+    - 15.5:
+        non_striker: Aizaz Khan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: Shahid Wasif
+    - 15.6:
+        non_striker: Aizaz Khan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: Shahid Wasif
+    - 16.1:
+        non_striker: Aizaz Khan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.1'
+        batsman: Shahid Wasif
+    - 16.2:
+        non_striker: Aizaz Khan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.2'
+        batsman: Shahid Wasif
+    - 16.3:
+        non_striker: Aizaz Khan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.3'
+        batsman: Shahid Wasif
+    - 16.4:
+        non_striker: Aizaz Khan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.4'
+        batsman: Shahid Wasif
+    - 16.5:
+        non_striker: Aizaz Khan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.5'
+        batsman: Shahid Wasif
+    - 16.6:
+        non_striker: Aizaz Khan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.6'
+        batsman: Shahid Wasif
+    - 17.1:
+        non_striker: Shahid Wasif
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: Aizaz Khan
+    - 17.2:
+        non_striker: Shahid Wasif
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: Aizaz Khan
+    - 17.3:
+        non_striker: Shahid Wasif
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: Aizaz Khan
+    - 17.4:
+        non_striker: Shahid Wasif
+        bowler: JJ Smit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '17.4'
+        batsman: Aizaz Khan
+    - 17.5:
+        non_striker: Aizaz Khan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: Shahid Wasif
+        wicket:
+          player_out: Shahid Wasif
+          kind: bowled
+    - 17.6:
+        non_striker: Aizaz Khan
+        bowler: JJ Smit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '17.6'
+        batsman: Nasrulla Rana
+    - 18.1:
+        non_striker: Aizaz Khan
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.1'
+        batsman: Nasrulla Rana
+    - 18.2:
+        non_striker: Aizaz Khan
+        bowler: JT Brassell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.2'
+        batsman: Nasrulla Rana
+    - 18.3:
+        non_striker: Aizaz Khan
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.2'
+        batsman: Nasrulla Rana
+    - 18.4:
+        non_striker: Aizaz Khan
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: Nasrulla Rana
+        wicket:
+          player_out: Nasrulla Rana
+          fielders:
+          - R Trumpelmann
+          kind: caught
+    - 18.5:
+        non_striker: Aizaz Khan
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: Mohammad Ghazanfar
+    - 18.6:
+        non_striker: Aizaz Khan
+        bowler: JT Brassell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.5'
+        batsman: Mohammad Ghazanfar
+    - 18.7:
+        non_striker: Aizaz Khan
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: Mohammad Ghazanfar
+    - 18.8:
+        non_striker: Mohammad Ghazanfar
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.6'
+        batsman: Aizaz Khan
+    - 19.1:
+        non_striker: Aizaz Khan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.1'
+        batsman: Mohammad Ghazanfar
+    - 19.2:
+        non_striker: Aizaz Khan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.2'
+        batsman: Mohammad Ghazanfar
+    - 19.3:
+        non_striker: Aizaz Khan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.3'
+        batsman: Mohammad Ghazanfar
+    - 19.4:
+        non_striker: Mohammad Ghazanfar
+        bowler: MG Erasmus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '19.4'
+        batsman: Aizaz Khan
+    - 19.5:
+        non_striker: Aizaz Khan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.5'
+        batsman: Mohammad Ghazanfar
+    - 19.6:
+        non_striker: Mohammad Ghazanfar
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: Aizaz Khan
+    target:
+      overs: 20
+      runs: 231

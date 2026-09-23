@@ -1,0 +1,2527 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-07-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Karlsruhe
+  dates:
+  - '2026-07-11'
+  gender: female
+  match_type: T20
+  match_type_number: 2914
+  outcome:
+    winner: Germany
+    by:
+      runs: 4
+  overs: 20
+  player_of_match:
+  - Vani Dhanuka
+  players:
+    Germany:
+    - W Hornero-Garcia
+    - Aishani Kishore
+    - A Kohli
+    - A Kanukuntla
+    - Rameesha Shahid
+    - A Meyenborg
+    - Meghana Lakayil
+    - V Stolle
+    - S Kolcharam
+    - I Edwards
+    - CJ Bruell
+    Switzerland:
+    - L Pickard
+    - S Divya
+    - Meghna Rajan
+    - Vani Dhanuka
+    - F Kuenburg
+    - D Medagoda
+    - Natalie Clarke
+    - Naina Saju
+    - Samiha Konuganti
+    - Sejal Vinod
+    - Ananya Srinivasan
+  registry:
+    people:
+      A Kanukuntla: 2fa8a697
+      A Kohli: eb9082b2
+      A Meyenborg: edbc9441
+      Aishani Kishore: 2bd89375
+      Ananya Srinivasan: 74d9909b
+      CJ Bruell: 51429d1d
+      D Medagoda: 77b49bd9
+      F Kuenburg: 07c1fd15
+      I Edwards: '42095275'
+      L Pickard: bfe58c8a
+      Meghana Lakayil: 05e417e7
+      Meghna Rajan: 97ae78b7
+      Naina Saju: 756989cf
+      Natalie Clarke: 739ed6df
+      Rameesha Shahid: b810425e
+      S Divya: '09d1cf95'
+      S Kolcharam: 761c929e
+      Samiha Konuganti: 8e051da2
+      Sejal Vinod: 4ec107c8
+      V Stolle: 0dc4ac6c
+      Vani Dhanuka: 98132a18
+      W Hornero-Garcia: 7d5fef52
+  team_type: international
+  teams:
+  - Germany
+  - Switzerland
+  toss:
+    winner: Switzerland
+    decision: field
+  venue: SSC Karlsruhe
+innings:
+- 1st innings:
+    team: Germany
+    deliveries:
+    - 0.1:
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Aishani Kishore
+        actual_delivery: '0.1'
+        batsman: W Hornero-Garcia
+    - 0.2:
+        non_striker: W Hornero-Garcia
+        bowler: Samiha Konuganti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.2'
+        batsman: Aishani Kishore
+    - 0.3:
+        non_striker: W Hornero-Garcia
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: Aishani Kishore
+    - 0.4:
+        non_striker: W Hornero-Garcia
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: Aishani Kishore
+    - 0.5:
+        non_striker: W Hornero-Garcia
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: Aishani Kishore
+    - 0.6:
+        non_striker: Aishani Kishore
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: W Hornero-Garcia
+    - 0.7:
+        non_striker: W Hornero-Garcia
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: Aishani Kishore
+    - 1.1:
+        non_striker: W Hornero-Garcia
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: Aishani Kishore
+    - 1.2:
+        non_striker: Aishani Kishore
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: W Hornero-Garcia
+    - 1.3:
+        non_striker: W Hornero-Garcia
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: Aishani Kishore
+    - 1.4:
+        non_striker: W Hornero-Garcia
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.4'
+        batsman: Aishani Kishore
+    - 1.5:
+        non_striker: W Hornero-Garcia
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.5'
+        batsman: Aishani Kishore
+    - 1.6:
+        non_striker: W Hornero-Garcia
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: Aishani Kishore
+    - 2.1:
+        non_striker: W Hornero-Garcia
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.1'
+        batsman: Aishani Kishore
+    - 2.2:
+        non_striker: W Hornero-Garcia
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: Aishani Kishore
+    - 2.3:
+        non_striker: W Hornero-Garcia
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.3'
+        batsman: Aishani Kishore
+    - 2.4:
+        non_striker: W Hornero-Garcia
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Aishani Kishore
+        wicket:
+          player_out: Aishani Kishore
+          fielders:
+          - D Medagoda
+          kind: caught
+    - 2.5:
+        non_striker: W Hornero-Garcia
+        bowler: Naina Saju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.5'
+        batsman: A Kohli
+    - 2.6:
+        non_striker: W Hornero-Garcia
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: A Kohli
+    - 2.7:
+        non_striker: W Hornero-Garcia
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: A Kohli
+    - 3.1:
+        non_striker: A Kohli
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: W Hornero-Garcia
+    - 3.2:
+        non_striker: A Kohli
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: W Hornero-Garcia
+    - 3.3:
+        non_striker: W Hornero-Garcia
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: A Kohli
+    - 3.4:
+        non_striker: A Kohli
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: W Hornero-Garcia
+    - 3.5:
+        non_striker: W Hornero-Garcia
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: A Kohli
+    - 3.6:
+        non_striker: W Hornero-Garcia
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: A Kohli
+    - 4.1:
+        non_striker: W Hornero-Garcia
+        bowler: Natalie Clarke
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.1'
+        batsman: A Kohli
+    - 4.2:
+        non_striker: W Hornero-Garcia
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: A Kohli
+    - 4.3:
+        non_striker: W Hornero-Garcia
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: A Kohli
+    - 4.4:
+        non_striker: W Hornero-Garcia
+        bowler: Natalie Clarke
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.3'
+        batsman: A Kohli
+    - 4.5:
+        non_striker: W Hornero-Garcia
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: A Kohli
+    - 4.6:
+        non_striker: A Kohli
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.4'
+        batsman: W Hornero-Garcia
+    - 4.7:
+        non_striker: A Kohli
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.5'
+        batsman: W Hornero-Garcia
+    - 4.8:
+        non_striker: A Kohli
+        bowler: Natalie Clarke
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.6'
+        batsman: W Hornero-Garcia
+    - 5.1:
+        non_striker: W Hornero-Garcia
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: A Kohli
+    - 5.2:
+        non_striker: W Hornero-Garcia
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: A Kohli
+    - 5.3:
+        non_striker: W Hornero-Garcia
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: A Kohli
+    - 5.4:
+        non_striker: A Kohli
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: W Hornero-Garcia
+    - 5.5:
+        non_striker: W Hornero-Garcia
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.5'
+        batsman: A Kohli
+    - 5.6:
+        non_striker: W Hornero-Garcia
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: A Kohli
+    - 6.1:
+        non_striker: A Kohli
+        bowler: Samiha Konuganti
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '6.1'
+        batsman: W Hornero-Garcia
+    - 6.2:
+        non_striker: W Hornero-Garcia
+        bowler: Samiha Konuganti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.1'
+        batsman: A Kohli
+    - 6.3:
+        non_striker: W Hornero-Garcia
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: A Kohli
+    - 6.4:
+        non_striker: A Kohli
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: W Hornero-Garcia
+    - 6.5:
+        non_striker: W Hornero-Garcia
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: A Kohli
+    - 6.6:
+        non_striker: W Hornero-Garcia
+        bowler: Samiha Konuganti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.4'
+        batsman: A Kohli
+    - 6.7:
+        non_striker: W Hornero-Garcia
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.4'
+        batsman: A Kohli
+    - 6.8:
+        non_striker: W Hornero-Garcia
+        bowler: Samiha Konuganti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.5'
+        batsman: A Kohli
+    - 6.9:
+        non_striker: W Hornero-Garcia
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: A Kohli
+    - 6.10:
+        non_striker: A Kohli
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: W Hornero-Garcia
+    - 7.1:
+        non_striker: W Hornero-Garcia
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: A Kohli
+    - 7.2:
+        non_striker: W Hornero-Garcia
+        bowler: Sejal Vinod
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.2'
+        batsman: A Kohli
+    - 7.3:
+        non_striker: W Hornero-Garcia
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: A Kohli
+    - 7.4:
+        non_striker: A Kohli
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: W Hornero-Garcia
+    - 7.5:
+        non_striker: A Kohli
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: W Hornero-Garcia
+    - 7.6:
+        non_striker: W Hornero-Garcia
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.5'
+        batsman: A Kohli
+    - 7.7:
+        non_striker: W Hornero-Garcia
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: A Kohli
+    - 8.1:
+        non_striker: W Hornero-Garcia
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: A Kohli
+    - 8.2:
+        non_striker: W Hornero-Garcia
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: A Kohli
+    - 8.3:
+        non_striker: W Hornero-Garcia
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: A Kohli
+    - 8.4:
+        non_striker: A Kohli
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: W Hornero-Garcia
+    - 8.5:
+        non_striker: W Hornero-Garcia
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: A Kohli
+    - 8.6:
+        non_striker: W Hornero-Garcia
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: A Kohli
+    - 9.1:
+        non_striker: A Kohli
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.1'
+        batsman: W Hornero-Garcia
+    - 9.2:
+        non_striker: A Kohli
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: W Hornero-Garcia
+    - 9.3:
+        non_striker: W Hornero-Garcia
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: A Kohli
+    - 9.4:
+        non_striker: W Hornero-Garcia
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: A Kohli
+    - 9.5:
+        non_striker: A Kohli
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: W Hornero-Garcia
+    - 9.6:
+        non_striker: W Hornero-Garcia
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: A Kohli
+    - 10.1:
+        non_striker: A Kohli
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: W Hornero-Garcia
+        wicket:
+          player_out: W Hornero-Garcia
+          kind: bowled
+    - 10.2:
+        non_striker: A Kohli
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: A Kanukuntla
+    - 10.3:
+        non_striker: A Kohli
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: A Kanukuntla
+    - 10.4:
+        non_striker: A Kanukuntla
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.4'
+        batsman: A Kohli
+    - 10.5:
+        non_striker: A Kanukuntla
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: A Kohli
+    - 10.6:
+        non_striker: A Kanukuntla
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: A Kohli
+    - 11.1:
+        non_striker: A Kohli
+        bowler: D Medagoda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.1'
+        batsman: A Kanukuntla
+    - 11.2:
+        non_striker: A Kohli
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.1'
+        batsman: A Kanukuntla
+    - 11.3:
+        non_striker: A Kohli
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: A Kanukuntla
+    - 11.4:
+        non_striker: A Kanukuntla
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: A Kohli
+    - 11.5:
+        non_striker: A Kanukuntla
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: A Kohli
+    - 11.6:
+        non_striker: A Kanukuntla
+        bowler: D Medagoda
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        actual_delivery: '11.5'
+        batsman: A Kohli
+    - 11.7:
+        non_striker: A Kohli
+        bowler: D Medagoda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.5'
+        batsman: A Kanukuntla
+    - 11.8:
+        non_striker: A Kohli
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: A Kanukuntla
+    - 11.9:
+        non_striker: A Kanukuntla
+        bowler: D Medagoda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.6'
+        batsman: A Kohli
+    - 12.1:
+        non_striker: A Kohli
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: A Kanukuntla
+    - 12.2:
+        non_striker: A Kohli
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: A Kanukuntla
+    - 12.3:
+        non_striker: A Kanukuntla
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: A Kohli
+    - 12.4:
+        non_striker: A Kanukuntla
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: A Kohli
+    - 12.5:
+        non_striker: A Kanukuntla
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: A Kohli
+    - 12.6:
+        non_striker: A Kanukuntla
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.6'
+        batsman: A Kohli
+    - 13.1:
+        non_striker: A Kohli
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: A Kanukuntla
+    - 13.2:
+        non_striker: A Kohli
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: A Kanukuntla
+    - 13.3:
+        non_striker: A Kohli
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: A Kanukuntla
+    - 13.4:
+        non_striker: A Kanukuntla
+        bowler: Sejal Vinod
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        actual_delivery: '13.4'
+        batsman: A Kohli
+    - 13.5:
+        non_striker: A Kanukuntla
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: A Kohli
+    - 13.6:
+        non_striker: A Kanukuntla
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: A Kohli
+    - 13.7:
+        non_striker: A Kohli
+        bowler: Sejal Vinod
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: A Kanukuntla
+    - 14.1:
+        non_striker: A Kohli
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: A Kanukuntla
+    - 14.2:
+        non_striker: A Kohli
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: A Kanukuntla
+    - 14.3:
+        non_striker: A Kanukuntla
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: A Kohli
+    - 14.4:
+        non_striker: A Kanukuntla
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: A Kohli
+    - 14.5:
+        non_striker: A Kohli
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.5'
+        batsman: A Kanukuntla
+    - 14.6:
+        non_striker: A Kohli
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: A Kanukuntla
+    - 15.1:
+        non_striker: A Kohli
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: A Kanukuntla
+    - 15.2:
+        non_striker: A Kohli
+        bowler: Meghna Rajan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '15.2'
+        batsman: A Kanukuntla
+    - 15.3:
+        non_striker: A Kanukuntla
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: A Kohli
+    - 15.4:
+        non_striker: A Kohli
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: A Kanukuntla
+    - 15.5:
+        non_striker: A Kanukuntla
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: A Kohli
+    - 15.6:
+        non_striker: A Kanukuntla
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.6'
+        batsman: A Kohli
+    - 16.1:
+        non_striker: A Kohli
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: A Kanukuntla
+    - 16.2:
+        non_striker: A Kanukuntla
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: A Kohli
+    - 16.3:
+        non_striker: A Kanukuntla
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: A Kohli
+    - 16.4:
+        non_striker: A Kanukuntla
+        bowler: Naina Saju
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '16.4'
+        batsman: A Kohli
+    - 16.5:
+        non_striker: A Kanukuntla
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: A Kohli
+    - 16.6:
+        non_striker: A Kohli
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: A Kanukuntla
+    - 16.7:
+        non_striker: A Kohli
+        bowler: Naina Saju
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: A Kanukuntla
+        wicket:
+          player_out: A Kanukuntla
+          fielders:
+          - L Pickard
+          kind: caught
+    - 17.1:
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Rameesha Shahid
+        actual_delivery: '17.1'
+        batsman: A Kohli
+    - 17.2:
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Rameesha Shahid
+        actual_delivery: '17.2'
+        batsman: A Kohli
+    - 17.3:
+        non_striker: A Kohli
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: Rameesha Shahid
+    - 17.4:
+        non_striker: A Kohli
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: Rameesha Shahid
+    - 17.5:
+        non_striker: A Kohli
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: Rameesha Shahid
+    - 17.6:
+        non_striker: Rameesha Shahid
+        bowler: Meghna Rajan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.6'
+        batsman: A Kohli
+    - 18.1:
+        non_striker: A Kohli
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: Rameesha Shahid
+    - 18.2:
+        non_striker: Rameesha Shahid
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: A Kohli
+    - 18.3:
+        non_striker: A Kohli
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: Rameesha Shahid
+    - 18.4:
+        non_striker: A Kohli
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.4'
+        batsman: Rameesha Shahid
+    - 18.5:
+        non_striker: A Kohli
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: Rameesha Shahid
+    - 18.6:
+        non_striker: A Kohli
+        bowler: Samiha Konuganti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: Rameesha Shahid
+    - 19.1:
+        non_striker: A Kohli
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: Rameesha Shahid
+    - 19.2:
+        non_striker: Rameesha Shahid
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.2'
+        batsman: A Kohli
+    - 19.3:
+        non_striker: Rameesha Shahid
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.3'
+        batsman: A Kohli
+    - 19.4:
+        non_striker: Rameesha Shahid
+        bowler: Vani Dhanuka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.4'
+        batsman: A Kohli
+    - 19.5:
+        non_striker: Rameesha Shahid
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: A Kohli
+    - 19.6:
+        non_striker: A Kohli
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.5'
+        batsman: Rameesha Shahid
+    - 19.7:
+        non_striker: A Kohli
+        bowler: Vani Dhanuka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: Rameesha Shahid
+        wicket:
+          player_out: Rameesha Shahid
+          kind: bowled
+- 2nd innings:
+    team: Switzerland
+    deliveries:
+    - 0.1:
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Divya
+        actual_delivery: '0.1'
+        batsman: L Pickard
+    - 0.2:
+        bowler: A Meyenborg
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        non_striker: S Divya
+        actual_delivery: '0.2'
+        batsman: L Pickard
+    - 0.3:
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Divya
+        actual_delivery: '0.2'
+        batsman: L Pickard
+    - 0.4:
+        non_striker: L Pickard
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: S Divya
+    - 0.5:
+        non_striker: S Divya
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: L Pickard
+    - 0.6:
+        non_striker: S Divya
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: L Pickard
+    - 0.7:
+        non_striker: S Divya
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: L Pickard
+    - 1.1:
+        non_striker: L Pickard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: S Divya
+    - 1.2:
+        non_striker: L Pickard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: S Divya
+    - 1.3:
+        non_striker: L Pickard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: S Divya
+    - 1.4:
+        non_striker: L Pickard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: S Divya
+    - 1.5:
+        non_striker: L Pickard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: S Divya
+    - 1.6:
+        non_striker: L Pickard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: S Divya
+    - 2.1:
+        non_striker: S Divya
+        bowler: A Meyenborg
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '2.1'
+        batsman: L Pickard
+    - 2.2:
+        non_striker: L Pickard
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: S Divya
+    - 2.3:
+        non_striker: L Pickard
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: S Divya
+    - 2.4:
+        non_striker: L Pickard
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: S Divya
+        wicket:
+          player_out: S Divya
+          fielders:
+          - V Stolle
+          kind: caught
+    - 2.5:
+        non_striker: L Pickard
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Meghna Rajan
+    - 2.6:
+        non_striker: L Pickard
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: Meghna Rajan
+    - 2.7:
+        non_striker: Meghna Rajan
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: L Pickard
+    - 3.1:
+        non_striker: L Pickard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Meghna Rajan
+    - 3.2:
+        non_striker: L Pickard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.2'
+        batsman: Meghna Rajan
+    - 3.3:
+        non_striker: L Pickard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Meghna Rajan
+    - 3.4:
+        non_striker: L Pickard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Meghna Rajan
+        wicket:
+          player_out: Meghna Rajan
+          kind: bowled
+    - 3.5:
+        non_striker: L Pickard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Vani Dhanuka
+    - 3.6:
+        non_striker: L Pickard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: Vani Dhanuka
+    - 4.1:
+        non_striker: L Pickard
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: Vani Dhanuka
+    - 4.2:
+        non_striker: Vani Dhanuka
+        bowler: I Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '4.2'
+        batsman: L Pickard
+    - 4.3:
+        non_striker: L Pickard
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: Vani Dhanuka
+    - 4.4:
+        non_striker: L Pickard
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: Vani Dhanuka
+    - 4.5:
+        non_striker: L Pickard
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Vani Dhanuka
+    - 4.6:
+        non_striker: L Pickard
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: Vani Dhanuka
+    - 5.1:
+        non_striker: L Pickard
+        bowler: CJ Bruell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.1'
+        batsman: Vani Dhanuka
+    - 5.2:
+        non_striker: L Pickard
+        bowler: CJ Bruell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: Vani Dhanuka
+    - 5.3:
+        non_striker: L Pickard
+        bowler: CJ Bruell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.3'
+        batsman: Vani Dhanuka
+    - 5.4:
+        non_striker: L Pickard
+        bowler: CJ Bruell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Vani Dhanuka
+    - 5.5:
+        non_striker: L Pickard
+        bowler: CJ Bruell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Vani Dhanuka
+    - 5.6:
+        non_striker: L Pickard
+        bowler: CJ Bruell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Vani Dhanuka
+    - 6.1:
+        non_striker: Vani Dhanuka
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: L Pickard
+    - 6.2:
+        non_striker: Vani Dhanuka
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: L Pickard
+    - 6.3:
+        non_striker: Vani Dhanuka
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.3'
+        batsman: L Pickard
+    - 6.4:
+        non_striker: Vani Dhanuka
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: L Pickard
+    - 6.5:
+        non_striker: Vani Dhanuka
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: L Pickard
+    - 6.6:
+        non_striker: Vani Dhanuka
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: L Pickard
+    - 7.1:
+        non_striker: L Pickard
+        bowler: CJ Bruell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: Vani Dhanuka
+    - 7.2:
+        non_striker: Vani Dhanuka
+        bowler: CJ Bruell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.2'
+        batsman: L Pickard
+    - 7.3:
+        non_striker: Vani Dhanuka
+        bowler: CJ Bruell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.3'
+        batsman: L Pickard
+    - 7.4:
+        non_striker: Vani Dhanuka
+        bowler: CJ Bruell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.3'
+        batsman: L Pickard
+    - 7.5:
+        non_striker: Vani Dhanuka
+        bowler: CJ Bruell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: L Pickard
+    - 7.6:
+        non_striker: Vani Dhanuka
+        bowler: CJ Bruell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: L Pickard
+    - 7.7:
+        non_striker: Vani Dhanuka
+        bowler: CJ Bruell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: L Pickard
+    - 7.8:
+        non_striker: L Pickard
+        bowler: CJ Bruell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.6'
+        batsman: Vani Dhanuka
+    - 8.1:
+        non_striker: Vani Dhanuka
+        bowler: Meghana Lakayil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '8.1'
+        batsman: L Pickard
+    - 8.2:
+        non_striker: L Pickard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: Vani Dhanuka
+    - 8.3:
+        non_striker: L Pickard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: Vani Dhanuka
+    - 8.4:
+        non_striker: L Pickard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: Vani Dhanuka
+    - 8.5:
+        non_striker: Vani Dhanuka
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.5'
+        batsman: L Pickard
+    - 8.6:
+        non_striker: Vani Dhanuka
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: L Pickard
+    - 9.1:
+        non_striker: L Pickard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: Vani Dhanuka
+    - 9.2:
+        non_striker: L Pickard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Vani Dhanuka
+    - 9.3:
+        non_striker: L Pickard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: Vani Dhanuka
+    - 9.4:
+        non_striker: L Pickard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: Vani Dhanuka
+    - 9.5:
+        non_striker: Vani Dhanuka
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: L Pickard
+    - 9.6:
+        non_striker: L Pickard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.6'
+        batsman: Vani Dhanuka
+    - 10.1:
+        non_striker: Vani Dhanuka
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: L Pickard
+    - 10.2:
+        non_striker: L Pickard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: Vani Dhanuka
+    - 10.3:
+        non_striker: L Pickard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.3'
+        batsman: Vani Dhanuka
+    - 10.4:
+        non_striker: L Pickard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: Vani Dhanuka
+    - 10.5:
+        non_striker: L Pickard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: Vani Dhanuka
+    - 10.6:
+        non_striker: Vani Dhanuka
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.6'
+        batsman: L Pickard
+    - 11.1:
+        non_striker: L Pickard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.1'
+        batsman: Vani Dhanuka
+    - 11.2:
+        non_striker: L Pickard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.2'
+        batsman: Vani Dhanuka
+    - 11.3:
+        non_striker: L Pickard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: Vani Dhanuka
+    - 11.4:
+        non_striker: Vani Dhanuka
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: L Pickard
+    - 11.5:
+        non_striker: L Pickard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.5'
+        batsman: Vani Dhanuka
+    - 11.6:
+        non_striker: L Pickard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Vani Dhanuka
+    - 12.1:
+        non_striker: L Pickard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: Vani Dhanuka
+    - 12.2:
+        non_striker: Vani Dhanuka
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.2'
+        batsman: L Pickard
+    - 12.3:
+        non_striker: Vani Dhanuka
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: L Pickard
+    - 12.4:
+        non_striker: L Pickard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: Vani Dhanuka
+    - 12.5:
+        non_striker: L Pickard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: Vani Dhanuka
+    - 12.6:
+        non_striker: Vani Dhanuka
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: L Pickard
+    - 13.1:
+        non_striker: L Pickard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: Vani Dhanuka
+    - 13.2:
+        non_striker: Vani Dhanuka
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: L Pickard
+    - 13.3:
+        non_striker: L Pickard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.3'
+        batsman: Vani Dhanuka
+    - 13.4:
+        non_striker: L Pickard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.4'
+        batsman: Vani Dhanuka
+    - 13.5:
+        non_striker: L Pickard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: Vani Dhanuka
+    - 13.6:
+        non_striker: Vani Dhanuka
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: L Pickard
+    - 14.1:
+        non_striker: L Pickard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: Vani Dhanuka
+    - 14.2:
+        non_striker: Vani Dhanuka
+        bowler: Meghana Lakayil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '14.2'
+        batsman: L Pickard
+    - 14.3:
+        non_striker: L Pickard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.3'
+        batsman: Vani Dhanuka
+    - 14.4:
+        non_striker: L Pickard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: Vani Dhanuka
+    - 14.5:
+        non_striker: L Pickard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.5'
+        batsman: Vani Dhanuka
+    - 14.6:
+        non_striker: L Pickard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.6'
+        batsman: Vani Dhanuka
+    - 15.1:
+        non_striker: Vani Dhanuka
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.1'
+        batsman: L Pickard
+    - 15.2:
+        non_striker: Vani Dhanuka
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: L Pickard
+    - 15.3:
+        non_striker: L Pickard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: Vani Dhanuka
+    - 15.4:
+        non_striker: Vani Dhanuka
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: L Pickard
+    - 15.5:
+        non_striker: Vani Dhanuka
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: L Pickard
+    - 15.6:
+        non_striker: Vani Dhanuka
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: L Pickard
+    - 16.1:
+        non_striker: Vani Dhanuka
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.1'
+        batsman: L Pickard
+    - 16.2:
+        non_striker: Vani Dhanuka
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: L Pickard
+    - 16.3:
+        non_striker: L Pickard
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: Vani Dhanuka
+    - 16.4:
+        non_striker: Vani Dhanuka
+        bowler: I Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.4'
+        batsman: L Pickard
+    - 16.5:
+        non_striker: Vani Dhanuka
+        bowler: I Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '16.4'
+        batsman: L Pickard
+    - 16.6:
+        non_striker: L Pickard
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: Vani Dhanuka
+    - 16.7:
+        non_striker: Vani Dhanuka
+        bowler: I Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: L Pickard
+    - 17.1:
+        non_striker: L Pickard
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: Vani Dhanuka
+    - 17.2:
+        non_striker: Vani Dhanuka
+        bowler: A Meyenborg
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        actual_delivery: '17.2'
+        batsman: L Pickard
+    - 17.3:
+        non_striker: Vani Dhanuka
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: L Pickard
+    - 17.4:
+        non_striker: Vani Dhanuka
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: L Pickard
+    - 17.5:
+        non_striker: L Pickard
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: Vani Dhanuka
+    - 17.6:
+        non_striker: Vani Dhanuka
+        bowler: A Meyenborg
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        actual_delivery: '17.6'
+        batsman: L Pickard
+    - 18.1:
+        non_striker: L Pickard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: Vani Dhanuka
+    - 18.2:
+        non_striker: Vani Dhanuka
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: L Pickard
+    - 18.3:
+        non_striker: L Pickard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.3'
+        batsman: Vani Dhanuka
+    - 18.4:
+        non_striker: L Pickard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: Vani Dhanuka
+        wicket:
+          player_out: Vani Dhanuka
+          fielders:
+          - A Meyenborg
+          kind: caught
+    - 18.5:
+        non_striker: L Pickard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: F Kuenburg
+    - 18.6:
+        non_striker: F Kuenburg
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: L Pickard
+    - 19.1:
+        non_striker: F Kuenburg
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.1'
+        batsman: L Pickard
+        wicket:
+          player_out: L Pickard
+          fielders:
+          - A Kohli
+          kind: caught
+    - 19.2:
+        non_striker: F Kuenburg
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: D Medagoda
+    - 19.3:
+        non_striker: D Medagoda
+        bowler: A Meyenborg
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '19.3'
+        batsman: F Kuenburg
+    - 19.4:
+        non_striker: F Kuenburg
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: D Medagoda
+    - 19.5:
+        non_striker: F Kuenburg
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: D Medagoda
+    - 19.6:
+        non_striker: D Medagoda
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.5'
+        batsman: F Kuenburg
+    - 19.7:
+        non_striker: F Kuenburg
+        bowler: A Meyenborg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: D Medagoda
+    target:
+      overs: 20
+      runs: 117

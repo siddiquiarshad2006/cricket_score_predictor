@@ -1,0 +1,1666 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-08-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kerava
+  dates:
+  - '2026-08-17'
+  gender: male
+  match_type: T20
+  match_type_number: 4080
+  outcome:
+    winner: Germany
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - B Kohler-Cadmore
+  players:
+    Israel:
+    - WSLK Narayana
+    - SF Mangoda
+    - Niv Nagavkar
+    - Yair Nagavkar
+    - S Bangera
+    - G Schachat
+    - AL Khunti
+    - BJ Lazarus
+    - JE Marks
+    - Yogev Nagavkar
+    - Elan Talker
+    Germany:
+    - B Kohler-Cadmore
+    - Musaddiq Ahmed
+    - J van Heerden
+    - H Singh
+    - Fayaz Khan
+    - Shahid Afridi
+    - V Jatinder Kumar
+    - Ahmed Wardak
+    - Ahmad Ullah
+    - PD Dabholkar
+    - Muslim Yar
+  registry:
+    people:
+      AL Khunti: c0ee8488
+      Adnan Khan: 45ec7a99
+      Ahmad Ullah: 8a06bb55
+      Ahmed Wardak: 3daaabaa
+      B Kohler-Cadmore: 209e91e6
+      BJ Lazarus: 2d7b09ce
+      Elan Talker: bb939fa3
+      Fayaz Khan: 373954ca
+      G Schachat: ff92e604
+      H Singh: 8209da53
+      J van Heerden: '01549705'
+      JE Marks: f1aa94c3
+      MS Sathe: 7c82e11b
+      Musaddiq Ahmed: f8fb7e7b
+      Muslim Yar: 37d8d19a
+      Niv Nagavkar: e2abcf16
+      PD Dabholkar: 270587b3
+      Prakash Bhatt: f848ab0b
+      Rizwan Akram: b5346f1e
+      S Bangera: 856fc47a
+      SF Mangoda: caf0dbef
+      Shahid Afridi: 5b2acc3f
+      V Jatinder Kumar: 72ef2c6b
+      WSLK Narayana: 4d21a67a
+      Yair Nagavkar: 138e30ab
+      Yogev Nagavkar: c85bea6b
+  team_type: international
+  teams:
+  - Israel
+  - Germany
+  toss:
+    winner: Israel
+    decision: bat
+  umpires:
+  - Adnan Khan
+  - Rizwan Akram
+  venue: Kerava National Cricket Ground
+innings:
+- 1st innings:
+    team: Israel
+    deliveries:
+    - 0.1:
+        bowler: PD Dabholkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: SF Mangoda
+        actual_delivery: '0.1'
+        batsman: WSLK Narayana
+    - 0.2:
+        non_striker: WSLK Narayana
+        bowler: PD Dabholkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: SF Mangoda
+    - 0.3:
+        non_striker: WSLK Narayana
+        bowler: PD Dabholkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.3'
+        batsman: SF Mangoda
+    - 0.4:
+        non_striker: WSLK Narayana
+        bowler: PD Dabholkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: SF Mangoda
+    - 0.5:
+        non_striker: WSLK Narayana
+        bowler: PD Dabholkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: SF Mangoda
+    - 0.6:
+        non_striker: SF Mangoda
+        bowler: PD Dabholkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: WSLK Narayana
+    - 0.7:
+        non_striker: WSLK Narayana
+        bowler: PD Dabholkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: SF Mangoda
+        wicket:
+          player_out: SF Mangoda
+          kind: lbw
+    - 1.1:
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Niv Nagavkar
+        actual_delivery: '1.1'
+        batsman: WSLK Narayana
+    - 1.2:
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Niv Nagavkar
+        actual_delivery: '1.2'
+        batsman: WSLK Narayana
+    - 1.3:
+        non_striker: WSLK Narayana
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: Niv Nagavkar
+    - 1.4:
+        non_striker: Niv Nagavkar
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: WSLK Narayana
+    - 1.5:
+        non_striker: Niv Nagavkar
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: WSLK Narayana
+    - 1.6:
+        non_striker: WSLK Narayana
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: Niv Nagavkar
+    - 2.1:
+        non_striker: WSLK Narayana
+        bowler: PD Dabholkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.1'
+        batsman: Niv Nagavkar
+    - 2.2:
+        non_striker: WSLK Narayana
+        bowler: PD Dabholkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: Niv Nagavkar
+    - 2.3:
+        non_striker: Niv Nagavkar
+        bowler: PD Dabholkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: WSLK Narayana
+    - 2.4:
+        non_striker: Niv Nagavkar
+        bowler: PD Dabholkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: WSLK Narayana
+    - 2.5:
+        non_striker: WSLK Narayana
+        bowler: PD Dabholkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: Niv Nagavkar
+    - 2.6:
+        non_striker: WSLK Narayana
+        bowler: PD Dabholkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.6'
+        batsman: Niv Nagavkar
+    - 2.7:
+        non_striker: WSLK Narayana
+        bowler: PD Dabholkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: Niv Nagavkar
+    - 3.1:
+        non_striker: WSLK Narayana
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Niv Nagavkar
+    - 3.2:
+        non_striker: WSLK Narayana
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Niv Nagavkar
+    - 3.3:
+        non_striker: WSLK Narayana
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Niv Nagavkar
+        wicket:
+          player_out: WSLK Narayana
+          fielders:
+          - B Kohler-Cadmore
+          - H Singh
+          kind: run out
+    - 3.4:
+        non_striker: Niv Nagavkar
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Yair Nagavkar
+    - 3.5:
+        non_striker: Niv Nagavkar
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Yair Nagavkar
+    - 3.6:
+        non_striker: Niv Nagavkar
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Yair Nagavkar
+    - 4.1:
+        non_striker: Yair Nagavkar
+        bowler: PD Dabholkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: Niv Nagavkar
+    - 4.2:
+        non_striker: Niv Nagavkar
+        bowler: PD Dabholkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: Yair Nagavkar
+    - 4.3:
+        non_striker: Yair Nagavkar
+        bowler: PD Dabholkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.3'
+        batsman: Niv Nagavkar
+    - 4.4:
+        non_striker: Yair Nagavkar
+        bowler: PD Dabholkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: Niv Nagavkar
+    - 4.5:
+        non_striker: Niv Nagavkar
+        bowler: PD Dabholkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.5'
+        batsman: Yair Nagavkar
+    - 4.6:
+        non_striker: Niv Nagavkar
+        bowler: PD Dabholkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: Yair Nagavkar
+    - 5.1:
+        non_striker: Niv Nagavkar
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Yair Nagavkar
+    - 5.2:
+        non_striker: Niv Nagavkar
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.2'
+        batsman: Yair Nagavkar
+    - 5.3:
+        non_striker: Niv Nagavkar
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.3'
+        batsman: Yair Nagavkar
+    - 5.4:
+        non_striker: Niv Nagavkar
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '5.4'
+        batsman: Yair Nagavkar
+    - 5.5:
+        non_striker: Yair Nagavkar
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Niv Nagavkar
+    - 5.6:
+        non_striker: Yair Nagavkar
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Niv Nagavkar
+    - 6.1:
+        non_striker: Niv Nagavkar
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: Yair Nagavkar
+    - 6.2:
+        non_striker: Yair Nagavkar
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: Niv Nagavkar
+    - 6.3:
+        non_striker: Niv Nagavkar
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Yair Nagavkar
+        wicket:
+          player_out: Yair Nagavkar
+          kind: bowled
+    - 6.4:
+        non_striker: Niv Nagavkar
+        bowler: Muslim Yar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '6.4'
+        batsman: S Bangera
+    - 6.5:
+        non_striker: S Bangera
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Niv Nagavkar
+    - 6.6:
+        non_striker: S Bangera
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: Niv Nagavkar
+    - 7.1:
+        non_striker: S Bangera
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.1'
+        batsman: Niv Nagavkar
+    - 7.2:
+        non_striker: S Bangera
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: Niv Nagavkar
+    - 7.3:
+        non_striker: S Bangera
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: Niv Nagavkar
+    - 7.4:
+        non_striker: Niv Nagavkar
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: S Bangera
+    - 7.5:
+        non_striker: S Bangera
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: Niv Nagavkar
+        wicket:
+          player_out: Niv Nagavkar
+          kind: bowled
+    - 7.6:
+        non_striker: S Bangera
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: G Schachat
+    - 8.1:
+        non_striker: S Bangera
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: G Schachat
+    - 8.2:
+        non_striker: G Schachat
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: S Bangera
+    - 8.3:
+        non_striker: G Schachat
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: S Bangera
+    - 8.4:
+        non_striker: G Schachat
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: S Bangera
+    - 8.5:
+        non_striker: S Bangera
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.5'
+        batsman: G Schachat
+    - 8.6:
+        non_striker: S Bangera
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: G Schachat
+    - 9.1:
+        non_striker: G Schachat
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: S Bangera
+        wicket:
+          player_out: G Schachat
+          fielders:
+          - B Kohler-Cadmore
+          - H Singh
+          kind: run out
+    - 9.2:
+        non_striker: S Bangera
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: AL Khunti
+    - 9.3:
+        non_striker: S Bangera
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: AL Khunti
+    - 9.4:
+        non_striker: AL Khunti
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: S Bangera
+    - 9.5:
+        non_striker: AL Khunti
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: S Bangera
+    - 9.6:
+        non_striker: AL Khunti
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: S Bangera
+        wicket:
+          player_out: S Bangera
+          kind: caught and bowled
+    - 10.1:
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BJ Lazarus
+        actual_delivery: '10.1'
+        batsman: AL Khunti
+    - 10.2:
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BJ Lazarus
+        actual_delivery: '10.2'
+        batsman: AL Khunti
+    - 10.3:
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BJ Lazarus
+        actual_delivery: '10.3'
+        batsman: AL Khunti
+    - 10.4:
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BJ Lazarus
+        actual_delivery: '10.4'
+        batsman: AL Khunti
+    - 10.5:
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BJ Lazarus
+        actual_delivery: '10.5'
+        batsman: AL Khunti
+    - 10.6:
+        non_striker: AL Khunti
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: BJ Lazarus
+    - 11.1:
+        non_striker: AL Khunti
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: BJ Lazarus
+    - 11.2:
+        non_striker: AL Khunti
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: BJ Lazarus
+    - 11.3:
+        non_striker: BJ Lazarus
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: AL Khunti
+    - 11.4:
+        non_striker: BJ Lazarus
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.4'
+        batsman: AL Khunti
+    - 11.5:
+        non_striker: BJ Lazarus
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '11.5'
+        batsman: AL Khunti
+    - 11.6:
+        non_striker: BJ Lazarus
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: AL Khunti
+    - 12.1:
+        non_striker: AL Khunti
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: BJ Lazarus
+    - 12.2:
+        non_striker: BJ Lazarus
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: AL Khunti
+    - 12.3:
+        non_striker: BJ Lazarus
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: AL Khunti
+    - 12.4:
+        non_striker: BJ Lazarus
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: AL Khunti
+    - 12.5:
+        non_striker: BJ Lazarus
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: AL Khunti
+    - 12.6:
+        non_striker: BJ Lazarus
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: AL Khunti
+    - 13.1:
+        non_striker: AL Khunti
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: BJ Lazarus
+    - 13.2:
+        non_striker: BJ Lazarus
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: AL Khunti
+    - 13.3:
+        non_striker: BJ Lazarus
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: AL Khunti
+    - 13.4:
+        non_striker: AL Khunti
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: BJ Lazarus
+    - 13.5:
+        non_striker: BJ Lazarus
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: AL Khunti
+    - 13.6:
+        non_striker: BJ Lazarus
+        bowler: Ahmad Ullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: AL Khunti
+    - 14.1:
+        non_striker: AL Khunti
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: BJ Lazarus
+    - 14.2:
+        non_striker: AL Khunti
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: BJ Lazarus
+    - 14.3:
+        non_striker: AL Khunti
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: BJ Lazarus
+    - 14.4:
+        non_striker: AL Khunti
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: BJ Lazarus
+    - 14.5:
+        non_striker: BJ Lazarus
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.5'
+        batsman: AL Khunti
+    - 14.6:
+        non_striker: BJ Lazarus
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: AL Khunti
+    - 15.1:
+        non_striker: AL Khunti
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: BJ Lazarus
+    - 15.2:
+        non_striker: BJ Lazarus
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: AL Khunti
+        wicket:
+          player_out: AL Khunti
+          kind: bowled
+    - 15.3:
+        non_striker: BJ Lazarus
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: JE Marks
+    - 15.4:
+        non_striker: BJ Lazarus
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: JE Marks
+    - 15.5:
+        non_striker: JE Marks
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: BJ Lazarus
+        wicket:
+          player_out: BJ Lazarus
+          kind: lbw
+    - 15.6:
+        non_striker: JE Marks
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: Yogev Nagavkar
+    - 16.1:
+        non_striker: Yogev Nagavkar
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: JE Marks
+    - 16.2:
+        non_striker: JE Marks
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: Yogev Nagavkar
+    - 16.3:
+        non_striker: JE Marks
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: Yogev Nagavkar
+    - 16.4:
+        non_striker: Yogev Nagavkar
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: JE Marks
+    - 16.5:
+        non_striker: JE Marks
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: Yogev Nagavkar
+    - 16.6:
+        non_striker: JE Marks
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: Yogev Nagavkar
+    - 17.1:
+        non_striker: Yogev Nagavkar
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: JE Marks
+    - 17.2:
+        non_striker: Yogev Nagavkar
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: JE Marks
+    - 17.3:
+        non_striker: Yogev Nagavkar
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: JE Marks
+    - 17.4:
+        non_striker: JE Marks
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: Yogev Nagavkar
+    - 17.5:
+        non_striker: Yogev Nagavkar
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: JE Marks
+    - 17.6:
+        non_striker: JE Marks
+        bowler: Ahmed Wardak
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '17.6'
+        batsman: Yogev Nagavkar
+    - 17.7:
+        non_striker: Yogev Nagavkar
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: JE Marks
+    - 18.1:
+        non_striker: Yogev Nagavkar
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: JE Marks
+    - 18.2:
+        non_striker: JE Marks
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: Yogev Nagavkar
+    - 18.3:
+        non_striker: Yogev Nagavkar
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: JE Marks
+        wicket:
+          player_out: JE Marks
+          fielders:
+          - PD Dabholkar
+          kind: caught
+    - 18.4:
+        non_striker: Yogev Nagavkar
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: Elan Talker
+    - 18.5:
+        non_striker: Elan Talker
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: Yogev Nagavkar
+    - 18.6:
+        non_striker: Elan Talker
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.6'
+        batsman: Yogev Nagavkar
+    - 19.1:
+        non_striker: Yogev Nagavkar
+        bowler: Ahmed Wardak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.1'
+        batsman: Elan Talker
+    - 19.2:
+        non_striker: Yogev Nagavkar
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: Elan Talker
+    - 19.3:
+        non_striker: Elan Talker
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: Yogev Nagavkar
+    - 19.4:
+        non_striker: Yogev Nagavkar
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.3'
+        batsman: Elan Talker
+    - 19.5:
+        non_striker: Yogev Nagavkar
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: Elan Talker
+    - 19.6:
+        non_striker: Elan Talker
+        bowler: Ahmed Wardak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.5'
+        batsman: Yogev Nagavkar
+        wicket:
+          player_out: Elan Talker
+          fielders:
+          - Ahmed Wardak
+          - Ahmad Ullah
+          kind: run out
+- 2nd innings:
+    team: Germany
+    deliveries:
+    - 0.1:
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Musaddiq Ahmed
+        actual_delivery: '0.1'
+        batsman: B Kohler-Cadmore
+    - 0.2:
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Musaddiq Ahmed
+        actual_delivery: '0.2'
+        batsman: B Kohler-Cadmore
+    - 0.3:
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Musaddiq Ahmed
+        actual_delivery: '0.3'
+        batsman: B Kohler-Cadmore
+    - 0.4:
+        non_striker: B Kohler-Cadmore
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Musaddiq Ahmed
+    - 0.5:
+        non_striker: B Kohler-Cadmore
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Musaddiq Ahmed
+        wicket:
+          player_out: Musaddiq Ahmed
+          fielders:
+          - SF Mangoda
+          kind: caught
+    - 0.6:
+        non_striker: B Kohler-Cadmore
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: J van Heerden
+    - 1.1:
+        non_striker: J van Heerden
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: B Kohler-Cadmore
+    - 1.2:
+        non_striker: B Kohler-Cadmore
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: J van Heerden
+    - 1.3:
+        non_striker: B Kohler-Cadmore
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: J van Heerden
+    - 1.4:
+        non_striker: B Kohler-Cadmore
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: J van Heerden
+    - 1.5:
+        non_striker: J van Heerden
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.5'
+        batsman: B Kohler-Cadmore
+    - 1.6:
+        non_striker: J van Heerden
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '1.6'
+        batsman: B Kohler-Cadmore
+    - 2.1:
+        non_striker: J van Heerden
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: B Kohler-Cadmore
+    - 2.2:
+        non_striker: J van Heerden
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.2'
+        batsman: B Kohler-Cadmore
+    - 2.3:
+        non_striker: J van Heerden
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: B Kohler-Cadmore
+    - 2.4:
+        non_striker: J van Heerden
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.4'
+        batsman: B Kohler-Cadmore
+    - 2.5:
+        non_striker: J van Heerden
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: B Kohler-Cadmore
+    - 2.6:
+        non_striker: B Kohler-Cadmore
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.6'
+        batsman: J van Heerden
+    - 3.1:
+        non_striker: J van Heerden
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: B Kohler-Cadmore
+    - 3.2:
+        non_striker: B Kohler-Cadmore
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: J van Heerden
+    - 3.3:
+        non_striker: J van Heerden
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: B Kohler-Cadmore
+    - 3.4:
+        non_striker: J van Heerden
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.4'
+        batsman: B Kohler-Cadmore
+    - 3.5:
+        non_striker: J van Heerden
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: B Kohler-Cadmore
+    - 3.6:
+        non_striker: B Kohler-Cadmore
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.6'
+        batsman: J van Heerden
+    - 4.1:
+        non_striker: J van Heerden
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.1'
+        batsman: B Kohler-Cadmore
+    - 4.2:
+        non_striker: J van Heerden
+        bowler: SF Mangoda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '4.2'
+        batsman: B Kohler-Cadmore
+    - 4.3:
+        non_striker: B Kohler-Cadmore
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.3'
+        batsman: J van Heerden
+    - 4.4:
+        non_striker: B Kohler-Cadmore
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: J van Heerden
+    - 4.5:
+        non_striker: B Kohler-Cadmore
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: J van Heerden
+    - 4.6:
+        non_striker: B Kohler-Cadmore
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.6'
+        batsman: J van Heerden
+    - 5.1:
+        non_striker: J van Heerden
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: B Kohler-Cadmore
+    - 5.2:
+        non_striker: J van Heerden
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.2'
+        batsman: B Kohler-Cadmore
+    - 5.3:
+        non_striker: J van Heerden
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: B Kohler-Cadmore
+    - 5.4:
+        non_striker: B Kohler-Cadmore
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.4'
+        batsman: J van Heerden
+    - 5.5:
+        non_striker: B Kohler-Cadmore
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: J van Heerden
+    - 5.6:
+        non_striker: B Kohler-Cadmore
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: J van Heerden
+    - 6.1:
+        non_striker: J van Heerden
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: B Kohler-Cadmore
+    - 6.2:
+        non_striker: J van Heerden
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: B Kohler-Cadmore
+    - 6.3:
+        non_striker: J van Heerden
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.3'
+        batsman: B Kohler-Cadmore
+    - 6.4:
+        non_striker: J van Heerden
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: B Kohler-Cadmore
+    - 6.5:
+        non_striker: J van Heerden
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.5'
+        batsman: B Kohler-Cadmore
+    - 6.6:
+        non_striker: J van Heerden
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.6'
+        batsman: B Kohler-Cadmore
+    - 7.1:
+        non_striker: B Kohler-Cadmore
+        bowler: WSLK Narayana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.1'
+        batsman: J van Heerden
+    - 7.2:
+        non_striker: B Kohler-Cadmore
+        bowler: WSLK Narayana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: J van Heerden
+    - 7.3:
+        non_striker: B Kohler-Cadmore
+        bowler: WSLK Narayana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: J van Heerden
+    target:
+      overs: 20
+      runs: 95

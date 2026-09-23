@@ -1,0 +1,2239 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Birmingham
+  dates:
+  - '2026-06-17'
+  gender: female
+  match_type: T20
+  match_type_number: 2866
+  outcome:
+    winner: South Africa
+    by:
+      wickets: 2
+  overs: 20
+  player_of_match:
+  - A Dercksen
+  players:
+    Pakistan:
+    - Muneeba Ali
+    - Gull Feroza
+    - Ayesha Zafar
+    - Natalia Pervaiz
+    - Rameen Shamim
+    - Iram Javed
+    - Aliya Riaz
+    - Fatima Sana
+    - Nashra Sandhu
+    - Tuba Hassan
+    - Sadia Iqbal
+    South Africa:
+    - L Wolvaardt
+    - S Luus
+    - A Dercksen
+    - M Kapp
+    - N de Klerk
+    - CL Tryon
+    - K Reyneke
+    - S Jafta
+    - S Ismail
+    - A Khaka
+    - N Mlaba
+  registry:
+    people:
+      A Dercksen: d2b1f515
+      A Khaka: 0d518f89
+      AY Harris: 90d95b82
+      Aliya Riaz: 2904b4b6
+      Ayesha Zafar: e15f4fa4
+      CL Tryon: 4d4605e6
+      Eloise Sheridan: d8d43840
+      Fatima Sana: ea9c54de
+      Gull Feroza: 9ff1e91e
+      Iram Javed: dc596fac
+      K Reyneke: 9e5f4ad7
+      Kim Cotton: 67a7c2ee
+      L Wolvaardt: e60f81c9
+      M Kapp: 63e3b6b3
+      Muneeba Ali: 86fdf668
+      N Mlaba: 686362af
+      N de Klerk: ea544967
+      Nashra Sandhu: c981d3c2
+      Natalia Pervaiz: fa8a3eb0
+      Rameen Shamim: 0b78b7c1
+      S Ismail: 108c4c09
+      S Jafta: '34304210'
+      S Luus: 6d76bc23
+      Sadia Iqbal: 53bb50f0
+      Shathira Jakir: 6b992a6f
+      TL Anderson: f52ddf8d
+      Tuba Hassan: 0d56e9a5
+  team_type: international
+  teams:
+  - Pakistan
+  - South Africa
+  toss:
+    winner: Pakistan
+    decision: bat
+  umpires:
+  - AY Harris
+  - Kim Cotton
+  venue: Edgbaston, Birmingham
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Gull Feroza
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: Muneeba Ali
+        wicket:
+          player_out: Muneeba Ali
+          kind: lbw
+    - 0.2:
+        non_striker: Gull Feroza
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: Ayesha Zafar
+    - 0.3:
+        non_striker: Gull Feroza
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: Ayesha Zafar
+    - 0.4:
+        non_striker: Ayesha Zafar
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: Gull Feroza
+    - 0.5:
+        non_striker: Gull Feroza
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: Ayesha Zafar
+    - 0.6:
+        non_striker: Ayesha Zafar
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Gull Feroza
+        wicket:
+          player_out: Gull Feroza
+          kind: bowled
+    - 1.1:
+        non_striker: Natalia Pervaiz
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: Ayesha Zafar
+    - 1.2:
+        non_striker: Natalia Pervaiz
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: Ayesha Zafar
+    - 1.3:
+        non_striker: Natalia Pervaiz
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: Ayesha Zafar
+    - 1.4:
+        non_striker: Ayesha Zafar
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.4'
+        batsman: Natalia Pervaiz
+    - 1.5:
+        non_striker: Ayesha Zafar
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Natalia Pervaiz
+    - 1.6:
+        non_striker: Ayesha Zafar
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Natalia Pervaiz
+    - 2.1:
+        non_striker: Natalia Pervaiz
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: Ayesha Zafar
+    - 2.2:
+        non_striker: Natalia Pervaiz
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.2'
+        batsman: Ayesha Zafar
+    - 2.3:
+        non_striker: Natalia Pervaiz
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: Ayesha Zafar
+    - 2.4:
+        non_striker: Natalia Pervaiz
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Ayesha Zafar
+        wicket:
+          player_out: Ayesha Zafar
+          kind: lbw
+    - 2.5:
+        non_striker: Natalia Pervaiz
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: Rameen Shamim
+    - 2.6:
+        non_striker: Natalia Pervaiz
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Rameen Shamim
+    - 3.1:
+        non_striker: Rameen Shamim
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Natalia Pervaiz
+    - 3.2:
+        non_striker: Rameen Shamim
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Natalia Pervaiz
+        wicket:
+          player_out: Natalia Pervaiz
+          kind: bowled
+    - 3.3:
+        non_striker: Rameen Shamim
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: Iram Javed
+    - 3.4:
+        non_striker: Rameen Shamim
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Iram Javed
+    - 3.5:
+        non_striker: Rameen Shamim
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Iram Javed
+    - 3.6:
+        non_striker: Rameen Shamim
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.6'
+        batsman: Iram Javed
+    - 4.1:
+        non_striker: Iram Javed
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: Rameen Shamim
+    - 4.2:
+        non_striker: Iram Javed
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: Rameen Shamim
+    - 4.3:
+        non_striker: Iram Javed
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: Rameen Shamim
+    - 4.4:
+        non_striker: Iram Javed
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: Rameen Shamim
+    - 4.5:
+        non_striker: Iram Javed
+        bowler: M Kapp
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.5'
+        batsman: Rameen Shamim
+    - 4.6:
+        non_striker: Iram Javed
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Rameen Shamim
+    - 4.7:
+        non_striker: Iram Javed
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: Rameen Shamim
+    - 5.1:
+        non_striker: Iram Javed
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Rameen Shamim
+    - 5.2:
+        non_striker: Iram Javed
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: Rameen Shamim
+    - 5.3:
+        non_striker: Rameen Shamim
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: Iram Javed
+    - 5.4:
+        non_striker: Rameen Shamim
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Iram Javed
+        wicket:
+          player_out: Rameen Shamim
+          fielders:
+          - N de Klerk
+          - S Jafta
+          kind: run out
+    - 5.5:
+        non_striker: Iram Javed
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Aliya Riaz
+    - 5.6:
+        non_striker: Iram Javed
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Aliya Riaz
+    - 6.1:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: Iram Javed
+    - 6.2:
+        non_striker: Iram Javed
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: Aliya Riaz
+    - 6.3:
+        non_striker: Iram Javed
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: Aliya Riaz
+    - 6.4:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Iram Javed
+    - 6.5:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Iram Javed
+    - 6.6:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: Iram Javed
+    - 7.1:
+        non_striker: Aliya Riaz
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: Iram Javed
+    - 7.2:
+        non_striker: Iram Javed
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: Aliya Riaz
+        wicket:
+          player_out: Iram Javed
+          fielders:
+          - K Reyneke
+          kind: run out
+    - 7.3:
+        non_striker: Fatima Sana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '7.3'
+        batsman: Aliya Riaz
+    - 7.4:
+        non_striker: Aliya Riaz
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: Fatima Sana
+    - 7.5:
+        non_striker: Aliya Riaz
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: Fatima Sana
+    - 7.6:
+        non_striker: Aliya Riaz
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: Fatima Sana
+    - 8.1:
+        non_striker: Fatima Sana
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.1'
+        batsman: Aliya Riaz
+    - 8.2:
+        non_striker: Fatima Sana
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: Aliya Riaz
+    - 8.3:
+        non_striker: Fatima Sana
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: Aliya Riaz
+    - 8.4:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: Fatima Sana
+    - 8.5:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: Fatima Sana
+    - 8.6:
+        non_striker: Aliya Riaz
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Fatima Sana
+    - 9.1:
+        non_striker: Fatima Sana
+        bowler: S Ismail
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        actual_delivery: '9.1'
+        batsman: Aliya Riaz
+    - 9.2:
+        non_striker: Fatima Sana
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Aliya Riaz
+    - 9.3:
+        non_striker: Fatima Sana
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: Aliya Riaz
+    - 9.4:
+        non_striker: Aliya Riaz
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: Fatima Sana
+    - 9.5:
+        non_striker: Fatima Sana
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: Aliya Riaz
+    - 9.6:
+        non_striker: Fatima Sana
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: Aliya Riaz
+        wicket:
+          player_out: Aliya Riaz
+          fielders:
+          - S Luus
+          kind: caught
+    - 10.1:
+        non_striker: Nashra Sandhu
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.1'
+        batsman: Fatima Sana
+    - 10.2:
+        non_striker: Nashra Sandhu
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: Fatima Sana
+    - 10.3:
+        non_striker: Fatima Sana
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: Nashra Sandhu
+    - 10.4:
+        non_striker: Fatima Sana
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: Nashra Sandhu
+        wicket:
+          player_out: Nashra Sandhu
+          fielders:
+          - S Jafta
+          - S Ismail
+          kind: run out
+    - 10.5:
+        non_striker: Fatima Sana
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: Tuba Hassan
+    - 10.6:
+        non_striker: Tuba Hassan
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.6'
+        batsman: Fatima Sana
+    - 11.1:
+        non_striker: Fatima Sana
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: Tuba Hassan
+    - 11.2:
+        non_striker: Fatima Sana
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.2'
+        batsman: Tuba Hassan
+    - 11.3:
+        non_striker: Fatima Sana
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: Tuba Hassan
+    - 11.4:
+        non_striker: Tuba Hassan
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.4'
+        batsman: Fatima Sana
+    - 11.5:
+        non_striker: Tuba Hassan
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Fatima Sana
+    - 11.6:
+        non_striker: Tuba Hassan
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Fatima Sana
+    - 12.1:
+        non_striker: Tuba Hassan
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.1'
+        batsman: Fatima Sana
+    - 12.2:
+        non_striker: Tuba Hassan
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: Fatima Sana
+    - 12.3:
+        non_striker: Fatima Sana
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: Tuba Hassan
+    - 12.4:
+        non_striker: Fatima Sana
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.4'
+        batsman: Tuba Hassan
+    - 12.5:
+        non_striker: Fatima Sana
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Tuba Hassan
+    - 12.6:
+        non_striker: Fatima Sana
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: Tuba Hassan
+    - 13.1:
+        non_striker: Fatima Sana
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: Tuba Hassan
+    - 13.2:
+        non_striker: Fatima Sana
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: Tuba Hassan
+    - 13.3:
+        non_striker: Tuba Hassan
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: Fatima Sana
+    - 13.4:
+        non_striker: Tuba Hassan
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.4'
+        batsman: Fatima Sana
+    - 13.5:
+        non_striker: Tuba Hassan
+        bowler: S Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.5'
+        batsman: Fatima Sana
+    - 13.6:
+        non_striker: Tuba Hassan
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: Fatima Sana
+    - 13.7:
+        non_striker: Fatima Sana
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: Tuba Hassan
+    - 14.1:
+        non_striker: Tuba Hassan
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: Fatima Sana
+    - 14.2:
+        non_striker: Fatima Sana
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: Tuba Hassan
+    - 14.3:
+        non_striker: Fatima Sana
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: Tuba Hassan
+    - 14.4:
+        non_striker: Tuba Hassan
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: Fatima Sana
+    - 14.5:
+        non_striker: Tuba Hassan
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: Fatima Sana
+    - 14.6:
+        non_striker: Fatima Sana
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: Tuba Hassan
+    - 15.1:
+        non_striker: Tuba Hassan
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: Fatima Sana
+    - 15.2:
+        non_striker: Fatima Sana
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: Tuba Hassan
+    - 15.3:
+        non_striker: Fatima Sana
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: Tuba Hassan
+    - 15.4:
+        non_striker: Tuba Hassan
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: Fatima Sana
+    - 15.5:
+        non_striker: Tuba Hassan
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: Fatima Sana
+    - 15.6:
+        non_striker: Fatima Sana
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: Tuba Hassan
+    - 16.1:
+        non_striker: Tuba Hassan
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: Fatima Sana
+    - 16.2:
+        non_striker: Fatima Sana
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: Tuba Hassan
+    - 16.3:
+        non_striker: Tuba Hassan
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: Fatima Sana
+    - 16.4:
+        non_striker: Fatima Sana
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: Tuba Hassan
+    - 16.5:
+        non_striker: Tuba Hassan
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: Fatima Sana
+    - 16.6:
+        non_striker: Tuba Hassan
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.6'
+        batsman: Fatima Sana
+    - 17.1:
+        non_striker: Fatima Sana
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: Tuba Hassan
+    - 17.2:
+        non_striker: Fatima Sana
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: Tuba Hassan
+    - 17.3:
+        non_striker: Fatima Sana
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.3'
+        batsman: Tuba Hassan
+    - 17.4:
+        non_striker: Fatima Sana
+        bowler: CL Tryon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '17.4'
+        batsman: Tuba Hassan
+    - 17.5:
+        non_striker: Tuba Hassan
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.5'
+        batsman: Fatima Sana
+    - 17.6:
+        non_striker: Tuba Hassan
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: Fatima Sana
+    - 18.1:
+        non_striker: Tuba Hassan
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: Fatima Sana
+    - 18.2:
+        non_striker: Fatima Sana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: Tuba Hassan
+    - 18.3:
+        non_striker: Tuba Hassan
+        bowler: A Khaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.3'
+        batsman: Fatima Sana
+    - 18.4:
+        non_striker: Tuba Hassan
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: Fatima Sana
+    - 18.5:
+        non_striker: Tuba Hassan
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: Fatima Sana
+    - 18.6:
+        non_striker: Fatima Sana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.5'
+        batsman: Tuba Hassan
+    - 18.7:
+        non_striker: Fatima Sana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: Tuba Hassan
+    - 19.1:
+        non_striker: Fatima Sana
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: Tuba Hassan
+    - 19.2:
+        non_striker: Tuba Hassan
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.2'
+        batsman: Fatima Sana
+    - 19.3:
+        non_striker: Tuba Hassan
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.3'
+        batsman: Fatima Sana
+    - 19.4:
+        non_striker: Tuba Hassan
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: Fatima Sana
+        wicket:
+          player_out: Tuba Hassan
+          fielders:
+          - N de Klerk
+          - S Ismail
+          kind: run out
+    - 19.5:
+        non_striker: Sadia Iqbal
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: Fatima Sana
+    - 19.6:
+        non_striker: Sadia Iqbal
+        bowler: N de Klerk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.6'
+        batsman: Fatima Sana
+    - 19.7:
+        non_striker: Sadia Iqbal
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.6'
+        batsman: Fatima Sana
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: S Luus
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: L Wolvaardt
+    - 0.2:
+        non_striker: S Luus
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.2'
+        batsman: L Wolvaardt
+    - 0.3:
+        non_striker: L Wolvaardt
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: S Luus
+    - 0.4:
+        non_striker: L Wolvaardt
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: S Luus
+    - 0.5:
+        non_striker: S Luus
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.5'
+        batsman: L Wolvaardt
+    - 0.6:
+        non_striker: S Luus
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: L Wolvaardt
+    - 1.1:
+        non_striker: L Wolvaardt
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '1.1'
+        batsman: S Luus
+    - 1.2:
+        non_striker: L Wolvaardt
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.1'
+        batsman: S Luus
+    - 1.3:
+        non_striker: L Wolvaardt
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: S Luus
+        wicket:
+          player_out: S Luus
+          kind: bowled
+    - 1.4:
+        non_striker: L Wolvaardt
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: A Dercksen
+    - 1.5:
+        non_striker: A Dercksen
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: L Wolvaardt
+    - 1.6:
+        non_striker: L Wolvaardt
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.5'
+        batsman: A Dercksen
+    - 1.7:
+        non_striker: L Wolvaardt
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: A Dercksen
+    - 2.1:
+        non_striker: L Wolvaardt
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: A Dercksen
+    - 2.2:
+        non_striker: L Wolvaardt
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: A Dercksen
+    - 2.3:
+        non_striker: L Wolvaardt
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: A Dercksen
+    - 2.4:
+        non_striker: L Wolvaardt
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: A Dercksen
+    - 2.5:
+        non_striker: A Dercksen
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: L Wolvaardt
+    - 2.6:
+        non_striker: A Dercksen
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: L Wolvaardt
+    - 3.1:
+        non_striker: L Wolvaardt
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: A Dercksen
+    - 3.2:
+        non_striker: L Wolvaardt
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: A Dercksen
+    - 3.3:
+        non_striker: L Wolvaardt
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: A Dercksen
+    - 3.4:
+        non_striker: L Wolvaardt
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: A Dercksen
+    - 3.5:
+        non_striker: L Wolvaardt
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: A Dercksen
+    - 3.6:
+        non_striker: A Dercksen
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: L Wolvaardt
+    - 4.1:
+        non_striker: L Wolvaardt
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.1'
+        batsman: A Dercksen
+    - 4.2:
+        non_striker: L Wolvaardt
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.2'
+        batsman: A Dercksen
+    - 4.3:
+        non_striker: L Wolvaardt
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.3'
+        batsman: A Dercksen
+    - 4.4:
+        non_striker: L Wolvaardt
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: A Dercksen
+    - 4.5:
+        non_striker: L Wolvaardt
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: A Dercksen
+    - 4.6:
+        non_striker: L Wolvaardt
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: A Dercksen
+    - 5.1:
+        non_striker: L Wolvaardt
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: A Dercksen
+    - 5.2:
+        non_striker: L Wolvaardt
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.2'
+        batsman: A Dercksen
+    - 5.3:
+        non_striker: L Wolvaardt
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: A Dercksen
+    - 5.4:
+        non_striker: A Dercksen
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: L Wolvaardt
+    - 5.5:
+        non_striker: A Dercksen
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: L Wolvaardt
+    - 5.6:
+        non_striker: A Dercksen
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.6'
+        batsman: L Wolvaardt
+    - 6.1:
+        non_striker: L Wolvaardt
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.1'
+        batsman: A Dercksen
+    - 6.2:
+        non_striker: L Wolvaardt
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: A Dercksen
+    - 6.3:
+        non_striker: A Dercksen
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: L Wolvaardt
+        wicket:
+          player_out: L Wolvaardt
+          fielders:
+          - Sadia Iqbal
+          kind: caught
+    - 6.4:
+        non_striker: A Dercksen
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: M Kapp
+    - 6.5:
+        non_striker: A Dercksen
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: M Kapp
+    - 6.6:
+        non_striker: A Dercksen
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.6'
+        batsman: M Kapp
+    - 7.1:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: A Dercksen
+    - 7.2:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: A Dercksen
+    - 7.3:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: A Dercksen
+    - 7.4:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: A Dercksen
+    - 7.5:
+        non_striker: A Dercksen
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: M Kapp
+    - 7.6:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.6'
+        batsman: A Dercksen
+    - 8.1:
+        non_striker: A Dercksen
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: M Kapp
+    - 8.2:
+        non_striker: M Kapp
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: A Dercksen
+    - 8.3:
+        non_striker: M Kapp
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: A Dercksen
+    - 8.4:
+        non_striker: M Kapp
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: A Dercksen
+    - 8.5:
+        non_striker: A Dercksen
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: M Kapp
+    - 8.6:
+        non_striker: A Dercksen
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.6'
+        batsman: M Kapp
+    - 9.1:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.1'
+        batsman: A Dercksen
+    - 9.2:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: A Dercksen
+    - 9.3:
+        non_striker: A Dercksen
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: M Kapp
+        wicket:
+          player_out: M Kapp
+          fielders:
+          - Muneeba Ali
+          kind: stumped
+    - 9.4:
+        non_striker: A Dercksen
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: N de Klerk
+    - 9.5:
+        non_striker: A Dercksen
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: N de Klerk
+    - 9.6:
+        non_striker: A Dercksen
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: N de Klerk
+    - 10.1:
+        non_striker: N de Klerk
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: A Dercksen
+    - 10.2:
+        non_striker: N de Klerk
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: A Dercksen
+        wicket:
+          player_out: A Dercksen
+          kind: bowled
+    - 10.3:
+        non_striker: N de Klerk
+        bowler: Tuba Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.3'
+        batsman: CL Tryon
+    - 10.4:
+        non_striker: N de Klerk
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: CL Tryon
+    - 10.5:
+        non_striker: CL Tryon
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.4'
+        batsman: N de Klerk
+    - 10.6:
+        non_striker: CL Tryon
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: N de Klerk
+    - 10.7:
+        non_striker: N de Klerk
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: CL Tryon
+    - 11.1:
+        non_striker: N de Klerk
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: CL Tryon
+    - 11.2:
+        non_striker: CL Tryon
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: N de Klerk
+    - 11.3:
+        non_striker: N de Klerk
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: CL Tryon
+    - 11.4:
+        non_striker: CL Tryon
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.4'
+        batsman: N de Klerk
+    - 11.5:
+        non_striker: CL Tryon
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: N de Klerk
+    - 11.6:
+        non_striker: CL Tryon
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: N de Klerk
+    - 12.1:
+        non_striker: CL Tryon
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: N de Klerk
+    - 12.2:
+        non_striker: N de Klerk
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: CL Tryon
+        wicket:
+          player_out: CL Tryon
+          fielders:
+          - Muneeba Ali
+          kind: caught
+    - 12.3:
+        non_striker: N de Klerk
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: K Reyneke
+    - 12.4:
+        non_striker: K Reyneke
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.4'
+        batsman: N de Klerk
+    - 12.5:
+        non_striker: K Reyneke
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: N de Klerk
+    - 12.6:
+        non_striker: K Reyneke
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: N de Klerk
+    - 13.1:
+        non_striker: K Reyneke
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: N de Klerk
+    - 13.2:
+        non_striker: K Reyneke
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: N de Klerk
+    - 13.3:
+        non_striker: K Reyneke
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.3'
+        batsman: N de Klerk
+    - 13.4:
+        non_striker: K Reyneke
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.4'
+        batsman: N de Klerk
+    - 13.5:
+        non_striker: K Reyneke
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: N de Klerk
+    - 13.6:
+        non_striker: N de Klerk
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: K Reyneke
+    - 14.1:
+        non_striker: N de Klerk
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: K Reyneke
+        wicket:
+          player_out: K Reyneke
+          fielders:
+          - Fatima Sana
+          kind: caught
+    - 14.2:
+        non_striker: N de Klerk
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.2'
+        batsman: S Jafta
+    - 14.3:
+        non_striker: N de Klerk
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: S Jafta
+    - 14.4:
+        non_striker: S Jafta
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.4'
+        batsman: N de Klerk
+    - 14.5:
+        non_striker: S Jafta
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.5'
+        batsman: N de Klerk
+    - 14.6:
+        non_striker: S Jafta
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: N de Klerk
+    - 15.1:
+        non_striker: S Jafta
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: N de Klerk
+    - 15.2:
+        non_striker: S Jafta
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: N de Klerk
+    - 15.3:
+        non_striker: S Jafta
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: N de Klerk
+    - 15.4:
+        non_striker: S Jafta
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.4'
+        batsman: N de Klerk
+    - 15.5:
+        non_striker: S Jafta
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: N de Klerk
+    - 15.6:
+        non_striker: N de Klerk
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: S Jafta
+    - 16.1:
+        non_striker: S Jafta
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: N de Klerk
+    - 16.2:
+        non_striker: N de Klerk
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: S Jafta
+        wicket:
+          player_out: S Jafta
+          kind: bowled
+    - 16.3:
+        non_striker: N de Klerk
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: S Ismail
+    - 16.4:
+        non_striker: N de Klerk
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: S Ismail
+    - 16.5:
+        non_striker: S Ismail
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: N de Klerk
+        wicket:
+          player_out: N de Klerk
+          fielders:
+          - Muneeba Ali
+          kind: caught
+    - 16.6:
+        non_striker: S Ismail
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.6'
+        batsman: A Khaka
+    target:
+      overs: 20
+      runs: 127

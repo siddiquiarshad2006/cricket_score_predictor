@@ -1,0 +1,1723 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-05-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sano
+  dates:
+  - '2026-05-13'
+  gender: male
+  match_type: T20
+  match_type_number: 3864
+  outcome:
+    winner: Cook Islands
+    by:
+      runs: 11
+    method: D/L
+  overs: 20
+  player_of_match:
+  - HB Dickson
+  players:
+    Cook Islands:
+    - HB Dickson
+    - T Parima
+    - MTMMJ Ave
+    - A Parima
+    - C Dickson
+    - L Grace
+    - Q Stephens
+    - J Shields
+    - JL Tutty
+    - J Pickering
+    - OE Taylor
+    Vanuatu:
+    - J Rasu
+    - PK Matautaava
+    - W Wotu
+    - A Mansale
+    - N Nipiko
+    - JP Kaltapau
+    - C Tommy
+    - N Venables
+    - TL Cutler
+    - W Nalisa
+    - D Wotu
+  registry:
+    people:
+      A Mansale: a22b4f3f
+      A Parima: 866d3ac8
+      C Dickson: 26b59073
+      C Tommy: c6d4cff0
+      D Wotu: 9585854d
+      HB Dickson: e8c95491
+      J Pickering: 1ac8edcf
+      J Rasu: 1021b6e5
+      J Shields: aa6c2fbf
+      JL Tutty: 11b37b2a
+      JP Kaltapau: d8dccff5
+      Kent Hannam: 8cc171e7
+      L Grace: de16fed9
+      MTMMJ Ave: '00863408'
+      N Nipiko: c498c510
+      N Venables: 6f852c49
+      OE Taylor: 24a93558
+      PJ Gillespie: 3e253a50
+      PK Matautaava: af19aa66
+      Q Stephens: 9f0ab09b
+      T Parima: ecd51f8e
+      TL Cutler: 384fa385
+      V Kalidas: 42d76418
+      W Nalisa: 673be48f
+      W Wotu: 6b25ef46
+      WR Knights: 63cbf8d8
+  teams:
+  - Cook Islands
+  - Vanuatu
+  toss:
+    winner: Cook Islands
+    decision: bat
+  umpires:
+  - V Kalidas
+  - WR Knights
+  venue: Sano International Cricket Ground
+  team_type: international
+innings:
+- 1st innings:
+    team: Cook Islands
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Parima
+        batsman: HB Dickson
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Parima
+        batsman: HB Dickson
+    - 0.3:
+        actual_delivery: '0.3'
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Parima
+        batsman: HB Dickson
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: HB Dickson
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Parima
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: T Parima
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: HB Dickson
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Parima
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: T Parima
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: T Parima
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: HB Dickson
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+        wicket:
+          player_out: T Parima
+          fielders:
+          - J Rasu
+          kind: caught
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: HB Dickson
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: HB Dickson
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: HB Dickson
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: MTMMJ Ave
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: HB Dickson
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: MTMMJ Ave
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: HB Dickson
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: HB Dickson
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: MTMMJ Ave
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Dickson
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: HB Dickson
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: HB Dickson
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+        wicket:
+          player_out: MTMMJ Ave
+          fielders:
+          - C Tommy
+          kind: stumped
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: HB Dickson
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: HB Dickson
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: HB Dickson
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: HB Dickson
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: A Parima
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HB Dickson
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: A Parima
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: HB Dickson
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: HB Dickson
+        bowler: D Wotu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Parima
+    - 4.5:
+        actual_delivery: '4.4'
+        non_striker: HB Dickson
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 4.6:
+        actual_delivery: '4.5'
+        non_striker: HB Dickson
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 4.7:
+        actual_delivery: '4.6'
+        non_striker: HB Dickson
+        bowler: D Wotu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: A Parima
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: A Parima
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Dickson
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: A Parima
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: HB Dickson
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Parima
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: HB Dickson
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Parima
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: HB Dickson
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: A Parima
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HB Dickson
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: A Parima
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HB Dickson
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: A Parima
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: A Parima
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: HB Dickson
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: HB Dickson
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: A Parima
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: A Parima
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: HB Dickson
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: HB Dickson
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Parima
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: HB Dickson
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Parima
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: HB Dickson
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: A Parima
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Dickson
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: A Parima
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: A Parima
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: HB Dickson
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: HB Dickson
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: HB Dickson
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: HB Dickson
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: HB Dickson
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Parima
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: HB Dickson
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Parima
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: HB Dickson
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: A Parima
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Dickson
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: A Parima
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: A Parima
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: HB Dickson
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: A Parima
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Dickson
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: A Parima
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: HB Dickson
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: HB Dickson
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Parima
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: A Parima
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Dickson
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: A Parima
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Dickson
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: A Parima
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+        wicket:
+          player_out: HB Dickson
+          kind: lbw
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: A Parima
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: A Parima
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Dickson
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: A Parima
+        bowler: PK Matautaava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: C Dickson
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: A Parima
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: A Parima
+        bowler: N Nipiko
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: C Dickson
+    - 12.4:
+        actual_delivery: '12.3'
+        non_striker: A Parima
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 12.5:
+        actual_delivery: '12.4'
+        non_striker: C Dickson
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Parima
+    - 12.6:
+        actual_delivery: '12.5'
+        non_striker: C Dickson
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 12.7:
+        actual_delivery: '12.6'
+        non_striker: A Parima
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: A Parima
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Dickson
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: A Parima
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: A Parima
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Dickson
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: C Dickson
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: A Parima
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: A Parima
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Dickson
+        wicket:
+          player_out: C Dickson
+          kind: bowled
+    - 14.1:
+        actual_delivery: '14.1'
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Grace
+        batsman: A Parima
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: A Parima
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Grace
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: A Parima
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Grace
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: L Grace
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Parima
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: L Grace
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: A Parima
+        bowler: N Nipiko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Grace
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: A Parima
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Grace
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: A Parima
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Grace
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: A Parima
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Grace
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: A Parima
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Grace
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: L Grace
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: L Grace
+        bowler: TL Cutler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Parima
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: A Parima
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Grace
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: A Parima
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Grace
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: L Grace
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: L Grace
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: A Parima
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Grace
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: A Parima
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Grace
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: L Grace
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Parima
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: L Grace
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: A Parima
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Grace
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: A Parima
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Grace
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: A Parima
+        bowler: N Venables
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: L Grace
+    - 17.6:
+        actual_delivery: '17.5'
+        non_striker: L Grace
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 17.7:
+        actual_delivery: '17.6'
+        non_striker: A Parima
+        bowler: N Venables
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Grace
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: A Parima
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Grace
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: L Grace
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Parima
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: L Grace
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Parima
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: A Parima
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Grace
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: L Grace
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Parima
+        wicket:
+          player_out: A Parima
+          fielders:
+          - J Rasu
+          kind: caught
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: L Grace
+        bowler: W Nalisa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Stephens
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: Q Stephens
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Grace
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: Q Stephens
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Grace
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: Q Stephens
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Grace
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: Q Stephens
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Grace
+        wicket:
+          player_out: L Grace
+          fielders:
+          - C Tommy
+          kind: stumped
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: Q Stephens
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Shields
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: J Shields
+        bowler: J Rasu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Stephens
+        wicket:
+          player_out: Q Stephens
+          kind: bowled
+- 2nd innings:
+    team: Vanuatu
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PK Matautaava
+        batsman: J Rasu
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: J Rasu
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Matautaava
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: J Rasu
+        bowler: JL Tutty
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PK Matautaava
+    - 0.4:
+        actual_delivery: '0.3'
+        non_striker: J Rasu
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PK Matautaava
+    - 0.5:
+        actual_delivery: '0.4'
+        non_striker: PK Matautaava
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 0.6:
+        actual_delivery: '0.5'
+        non_striker: PK Matautaava
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 0.7:
+        actual_delivery: '0.6'
+        non_striker: PK Matautaava
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: J Rasu
+        bowler: HB Dickson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PK Matautaava
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: PK Matautaava
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: PK Matautaava
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: PK Matautaava
+        bowler: HB Dickson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Rasu
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: J Rasu
+        bowler: HB Dickson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: PK Matautaava
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: PK Matautaava
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Rasu
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: PK Matautaava
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: PK Matautaava
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: PK Matautaava
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Rasu
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: PK Matautaava
+        bowler: OE Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Rasu
+    - 2.5:
+        actual_delivery: '2.4'
+        non_striker: PK Matautaava
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Rasu
+    - 2.6:
+        actual_delivery: '2.5'
+        non_striker: PK Matautaava
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Rasu
+    - 2.7:
+        actual_delivery: '2.6'
+        non_striker: PK Matautaava
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Rasu
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: J Rasu
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PK Matautaava
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: PK Matautaava
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Rasu
+        wicket:
+          player_out: J Rasu
+          kind: bowled
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: PK Matautaava
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Wotu
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: W Wotu
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Matautaava
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: W Wotu
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PK Matautaava
+        wicket:
+          player_out: PK Matautaava
+          kind: bowled
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: W Wotu
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: W Wotu
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mansale
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: W Wotu
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mansale
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: W Wotu
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: A Mansale
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Wotu
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: W Wotu
+        bowler: C Dickson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Mansale
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: A Mansale
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: W Wotu
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: A Mansale
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Wotu
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: A Mansale
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Wotu
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: W Wotu
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Mansale
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: W Wotu
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mansale
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: A Mansale
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Wotu
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: A Mansale
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Wotu
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: A Mansale
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Wotu
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: W Wotu
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mansale
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: W Wotu
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mansale
+        wicket:
+          player_out: A Mansale
+          fielders:
+          - HB Dickson
+          kind: caught
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: W Wotu
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nipiko
+        wicket:
+          player_out: N Nipiko
+          kind: bowled
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: W Wotu
+        bowler: JL Tutty
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JP Kaltapau
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: JP Kaltapau
+        bowler: JL Tutty
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: W Wotu
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: W Wotu
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Kaltapau
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: W Wotu
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kaltapau
+        wicket:
+          player_out: JP Kaltapau
+          fielders:
+          - HB Dickson
+          - J Pickering
+          kind: run out
+    - 7.3:
+        actual_delivery: '7.3'
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Tommy
+        batsman: W Wotu
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: W Wotu
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tommy
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: C Tommy
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Wotu
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: C Tommy
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Wotu
+    target:
+      overs: 8
+      runs: 81

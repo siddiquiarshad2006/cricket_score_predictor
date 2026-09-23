@@ -1,0 +1,1868 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-07-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Koge
+  dates:
+  - '2026-07-09'
+  gender: male
+  match_type: T20
+  match_type_number: 4019
+  outcome:
+    winner: Norway
+    by:
+      wickets: 2
+  overs: 20
+  player_of_match:
+  - Ibrahim Rahimi
+  players:
+    Estonia:
+    - S Gooch
+    - Habib Khan
+    - H Aggarwal
+    - Bilal Masud
+    - Arslan Amjad
+    - Zeeshan Ali
+    - Aditya Panwar
+    - Sahil Chauhan
+    - H Pattenden
+    - R Sekaran
+    - Ashraful Shuvo
+    Norway:
+    - Walid Ghauri
+    - Wahidullah Sahak
+    - Khizer Ahmed
+    - Sher Sahak
+    - Ibrahim Rahimi
+    - Faisal Raza
+    - Qamar Mushtaque
+    - D Abeyrathna
+    - Farmanullah Ghari
+    - Vinay Ravi
+    - Ahmadullah Shinwari
+  registry:
+    people:
+      Aditya Panwar: 77e321db
+      Ahmadullah Shinwari: e068d48e
+      Arslan Amjad: c228c52d
+      Ashraful Shuvo: 9bb259b4
+      Bilal Masud: 643e4882
+      D Abeyrathna: ee17d329
+      DH Mclean: 281d4749
+      Faisal Raza: dccb802c
+      Farmanullah Ghari: 2f7244b5
+      G McCrea: 46f4a901
+      H Aggarwal: 021ac4dd
+      H Pattenden: f31740ce
+      Habib Khan: 5152ab02
+      Ibrahim Rahimi: f8ef3653
+      Jonathan Kennedy: f7ad4494
+      Khizer Ahmed: 723ca856
+      M Jameson: bdf1ffe3
+      Qamar Mushtaque: fc362c5d
+      R Sekaran: 5da43a10
+      S Gooch: 622be0d9
+      Sahil Chauhan: f219df21
+      Sher Sahak: 8299b9a2
+      Vinay Ravi: 9c181b99
+      Wahidullah Sahak: 6913e38e
+      Walid Ghauri: 331e137f
+      Zeeshan Ali: 2c89dbf9
+  team_type: international
+  teams:
+  - Estonia
+  - Norway
+  toss:
+    winner: Norway
+    decision: field
+  umpires:
+  - DH Mclean
+  - Jonathan Kennedy
+  venue: Koge Cricket Club
+innings:
+- 1st innings:
+    team: Estonia
+    deliveries:
+    - 0.1:
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Habib Khan
+        actual_delivery: '0.1'
+        batsman: S Gooch
+    - 0.2:
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Habib Khan
+        actual_delivery: '0.2'
+        batsman: S Gooch
+    - 0.3:
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Habib Khan
+        actual_delivery: '0.3'
+        batsman: S Gooch
+    - 0.4:
+        non_striker: S Gooch
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Habib Khan
+    - 0.5:
+        non_striker: S Gooch
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Habib Khan
+        wicket:
+          player_out: Habib Khan
+          kind: lbw
+    - 0.6:
+        non_striker: S Gooch
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: H Aggarwal
+    - 1.1:
+        non_striker: H Aggarwal
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.1'
+        batsman: S Gooch
+    - 1.2:
+        non_striker: H Aggarwal
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: S Gooch
+    - 1.3:
+        non_striker: H Aggarwal
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: S Gooch
+    - 1.4:
+        non_striker: H Aggarwal
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: S Gooch
+    - 1.5:
+        non_striker: H Aggarwal
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '1.4'
+        batsman: S Gooch
+    - 1.6:
+        non_striker: S Gooch
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: H Aggarwal
+    - 1.7:
+        non_striker: S Gooch
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: H Aggarwal
+    - 2.1:
+        non_striker: H Aggarwal
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.1'
+        batsman: S Gooch
+    - 2.2:
+        non_striker: H Aggarwal
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.2'
+        batsman: S Gooch
+    - 2.3:
+        non_striker: H Aggarwal
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: S Gooch
+    - 2.4:
+        non_striker: H Aggarwal
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: S Gooch
+    - 2.5:
+        non_striker: H Aggarwal
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: S Gooch
+    - 2.6:
+        non_striker: H Aggarwal
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: S Gooch
+    - 3.1:
+        non_striker: H Aggarwal
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          legbyes: 3
+        actual_delivery: '3.1'
+        batsman: S Gooch
+    - 3.2:
+        non_striker: S Gooch
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: H Aggarwal
+    - 3.3:
+        non_striker: S Gooch
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: H Aggarwal
+    - 3.4:
+        non_striker: S Gooch
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: H Aggarwal
+    - 3.5:
+        non_striker: S Gooch
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.5'
+        batsman: H Aggarwal
+    - 3.6:
+        non_striker: S Gooch
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: H Aggarwal
+    - 3.7:
+        non_striker: H Aggarwal
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '3.6'
+        batsman: S Gooch
+    - 4.1:
+        non_striker: H Aggarwal
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: S Gooch
+        wicket:
+          player_out: H Aggarwal
+          fielders:
+          - Walid Ghauri
+          - Sher Sahak
+          kind: run out
+    - 4.2:
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Bilal Masud
+        actual_delivery: '4.2'
+        batsman: S Gooch
+    - 4.3:
+        non_striker: Bilal Masud
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: S Gooch
+        wicket:
+          player_out: S Gooch
+          fielders:
+          - D Abeyrathna
+          kind: caught
+    - 4.4:
+        non_striker: Bilal Masud
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: Arslan Amjad
+    - 4.5:
+        non_striker: Bilal Masud
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Arslan Amjad
+    - 4.6:
+        non_striker: Bilal Masud
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Arslan Amjad
+    - 5.1:
+        non_striker: Arslan Amjad
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Bilal Masud
+    - 5.2:
+        non_striker: Arslan Amjad
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: Bilal Masud
+    - 5.3:
+        non_striker: Arslan Amjad
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.3'
+        batsman: Bilal Masud
+    - 5.4:
+        non_striker: Arslan Amjad
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Bilal Masud
+    - 5.5:
+        non_striker: Arslan Amjad
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: Bilal Masud
+    - 5.6:
+        non_striker: Bilal Masud
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Arslan Amjad
+    - 6.1:
+        non_striker: Arslan Amjad
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: Bilal Masud
+    - 6.2:
+        non_striker: Arslan Amjad
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: Bilal Masud
+    - 6.3:
+        non_striker: Arslan Amjad
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: Bilal Masud
+    - 6.4:
+        non_striker: Bilal Masud
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Arslan Amjad
+    - 6.5:
+        non_striker: Bilal Masud
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Arslan Amjad
+    - 6.6:
+        non_striker: Bilal Masud
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: Arslan Amjad
+    - 7.1:
+        non_striker: Bilal Masud
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: Arslan Amjad
+    - 7.2:
+        non_striker: Arslan Amjad
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '7.2'
+        batsman: Bilal Masud
+    - 7.3:
+        non_striker: Bilal Masud
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: Arslan Amjad
+    - 7.4:
+        non_striker: Bilal Masud
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: Arslan Amjad
+    - 7.5:
+        non_striker: Bilal Masud
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: Arslan Amjad
+    - 7.6:
+        non_striker: Bilal Masud
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: Arslan Amjad
+    - 8.1:
+        non_striker: Bilal Masud
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.1'
+        batsman: Arslan Amjad
+    - 8.2:
+        non_striker: Bilal Masud
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: Arslan Amjad
+    - 8.3:
+        non_striker: Bilal Masud
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.3'
+        batsman: Arslan Amjad
+    - 8.4:
+        non_striker: Bilal Masud
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.4'
+        batsman: Arslan Amjad
+    - 8.5:
+        non_striker: Bilal Masud
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: Arslan Amjad
+    - 8.6:
+        non_striker: Bilal Masud
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.6'
+        batsman: Arslan Amjad
+    - 9.1:
+        non_striker: Arslan Amjad
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: Bilal Masud
+    - 9.2:
+        non_striker: Bilal Masud
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Arslan Amjad
+        wicket:
+          player_out: Arslan Amjad
+          fielders:
+          - D Abeyrathna
+          kind: caught
+    - 9.3:
+        non_striker: Bilal Masud
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: Zeeshan Ali
+    - 9.4:
+        non_striker: Zeeshan Ali
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: Bilal Masud
+    - 9.5:
+        non_striker: Bilal Masud
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: Zeeshan Ali
+    - 9.6:
+        non_striker: Zeeshan Ali
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '9.6'
+        batsman: Bilal Masud
+    - 10.1:
+        non_striker: Zeeshan Ali
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: Bilal Masud
+    - 10.2:
+        non_striker: Zeeshan Ali
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: Bilal Masud
+        wicket:
+          player_out: Bilal Masud
+          kind: lbw
+    - 10.3:
+        non_striker: Zeeshan Ali
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Aditya Panwar
+    - 10.4:
+        non_striker: Aditya Panwar
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: Zeeshan Ali
+    - 10.5:
+        non_striker: Zeeshan Ali
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: Aditya Panwar
+    - 10.6:
+        non_striker: Zeeshan Ali
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Aditya Panwar
+        wicket:
+          player_out: Aditya Panwar
+          fielders:
+          - Sher Sahak
+          kind: caught
+    - 11.1:
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sahil Chauhan
+        actual_delivery: '11.1'
+        batsman: Zeeshan Ali
+    - 11.2:
+        non_striker: Zeeshan Ali
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: Sahil Chauhan
+    - 11.3:
+        non_striker: Zeeshan Ali
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: Sahil Chauhan
+    - 11.4:
+        non_striker: Zeeshan Ali
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: Sahil Chauhan
+    - 11.5:
+        non_striker: Zeeshan Ali
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.5'
+        batsman: Sahil Chauhan
+    - 11.6:
+        non_striker: Zeeshan Ali
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Sahil Chauhan
+    - 12.1:
+        non_striker: Zeeshan Ali
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: Sahil Chauhan
+    - 12.2:
+        non_striker: Sahil Chauhan
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: Zeeshan Ali
+    - 12.3:
+        non_striker: Sahil Chauhan
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: Zeeshan Ali
+    - 12.4:
+        non_striker: Zeeshan Ali
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.4'
+        batsman: Sahil Chauhan
+    - 12.5:
+        non_striker: Zeeshan Ali
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.5'
+        batsman: Sahil Chauhan
+    - 12.6:
+        non_striker: Zeeshan Ali
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: Sahil Chauhan
+    - 13.1:
+        non_striker: Zeeshan Ali
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.1'
+        batsman: Sahil Chauhan
+    - 13.2:
+        non_striker: Zeeshan Ali
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: Sahil Chauhan
+    - 13.3:
+        non_striker: Sahil Chauhan
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.3'
+        batsman: Zeeshan Ali
+    - 13.4:
+        non_striker: Sahil Chauhan
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Zeeshan Ali
+    - 13.5:
+        non_striker: Sahil Chauhan
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        actual_delivery: '13.5'
+        batsman: Zeeshan Ali
+    - 13.6:
+        non_striker: Sahil Chauhan
+        bowler: Farmanullah Ghari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: Zeeshan Ali
+    - 14.1:
+        non_striker: Zeeshan Ali
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: Sahil Chauhan
+    - 14.2:
+        non_striker: Zeeshan Ali
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: Sahil Chauhan
+    - 14.3:
+        non_striker: Zeeshan Ali
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '14.3'
+        batsman: Sahil Chauhan
+    - 14.4:
+        non_striker: Zeeshan Ali
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '14.4'
+        batsman: Sahil Chauhan
+    - 14.5:
+        non_striker: Zeeshan Ali
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: Sahil Chauhan
+    - 14.6:
+        non_striker: Zeeshan Ali
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: Sahil Chauhan
+    - 15.1:
+        non_striker: Zeeshan Ali
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: Sahil Chauhan
+    - 15.2:
+        non_striker: Zeeshan Ali
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.2'
+        batsman: Sahil Chauhan
+    - 15.3:
+        non_striker: Zeeshan Ali
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.3'
+        batsman: Sahil Chauhan
+    - 15.4:
+        non_striker: Zeeshan Ali
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: Sahil Chauhan
+    - 15.5:
+        non_striker: Zeeshan Ali
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: Sahil Chauhan
+    - 15.6:
+        non_striker: Zeeshan Ali
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: Sahil Chauhan
+    - 16.1:
+        non_striker: Sahil Chauhan
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: Zeeshan Ali
+    - 16.2:
+        non_striker: Zeeshan Ali
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: Sahil Chauhan
+    - 16.3:
+        non_striker: Sahil Chauhan
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: Zeeshan Ali
+    - 16.4:
+        non_striker: Zeeshan Ali
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: Sahil Chauhan
+        wicket:
+          player_out: Sahil Chauhan
+          fielders:
+          - Vinay Ravi
+          kind: caught
+    - 16.5:
+        non_striker: Zeeshan Ali
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: H Pattenden
+    - 16.6:
+        non_striker: Zeeshan Ali
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: H Pattenden
+    - 17.1:
+        non_striker: H Pattenden
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.1'
+        batsman: Zeeshan Ali
+    - 17.2:
+        non_striker: H Pattenden
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: Zeeshan Ali
+    - 17.3:
+        non_striker: Zeeshan Ali
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: H Pattenden
+    - 17.4:
+        non_striker: H Pattenden
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.3'
+        batsman: Zeeshan Ali
+    - 17.5:
+        non_striker: H Pattenden
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: Zeeshan Ali
+        wicket:
+          player_out: Zeeshan Ali
+          fielders:
+          - Sher Sahak
+          kind: caught
+    - 17.6:
+        non_striker: H Pattenden
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: R Sekaran
+    - 17.7:
+        non_striker: H Pattenden
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: R Sekaran
+    - 17.8:
+        non_striker: H Pattenden
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.6'
+        batsman: R Sekaran
+    - 18.1:
+        non_striker: R Sekaran
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: H Pattenden
+    - 18.2:
+        non_striker: R Sekaran
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: H Pattenden
+    - 18.3:
+        non_striker: H Pattenden
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: R Sekaran
+    - 18.4:
+        non_striker: H Pattenden
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: R Sekaran
+    - 18.5:
+        non_striker: H Pattenden
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: R Sekaran
+    - 18.6:
+        non_striker: H Pattenden
+        bowler: Wahidullah Sahak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: R Sekaran
+    - 19.1:
+        non_striker: R Sekaran
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.1'
+        batsman: H Pattenden
+    - 19.2:
+        non_striker: R Sekaran
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: H Pattenden
+    - 19.3:
+        non_striker: R Sekaran
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: H Pattenden
+    - 19.4:
+        non_striker: R Sekaran
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: H Pattenden
+    - 19.5:
+        non_striker: R Sekaran
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.5'
+        batsman: H Pattenden
+        wicket:
+          player_out: R Sekaran
+          fielders:
+          - Farmanullah Ghari
+          - Vinay Ravi
+          kind: run out
+    - 19.6:
+        non_striker: Ashraful Shuvo
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: H Pattenden
+- 2nd innings:
+    team: Norway
+    deliveries:
+    - 0.1:
+        bowler: H Pattenden
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Wahidullah Sahak
+        actual_delivery: '0.1'
+        batsman: Walid Ghauri
+    - 0.2:
+        bowler: H Pattenden
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Wahidullah Sahak
+        actual_delivery: '0.2'
+        batsman: Walid Ghauri
+    - 0.3:
+        bowler: H Pattenden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Wahidullah Sahak
+        actual_delivery: '0.3'
+        batsman: Walid Ghauri
+    - 0.4:
+        bowler: H Pattenden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Wahidullah Sahak
+        actual_delivery: '0.4'
+        batsman: Walid Ghauri
+    - 0.5:
+        non_striker: Walid Ghauri
+        bowler: H Pattenden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.5'
+        batsman: Wahidullah Sahak
+    - 0.6:
+        non_striker: Walid Ghauri
+        bowler: H Pattenden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: Wahidullah Sahak
+    - 1.1:
+        non_striker: Walid Ghauri
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.1'
+        batsman: Wahidullah Sahak
+    - 1.2:
+        non_striker: Walid Ghauri
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: Wahidullah Sahak
+        wicket:
+          player_out: Wahidullah Sahak
+          fielders:
+          - Arslan Amjad
+          kind: caught
+    - 1.3:
+        non_striker: Walid Ghauri
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: Khizer Ahmed
+    - 1.4:
+        non_striker: Khizer Ahmed
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.4'
+        batsman: Walid Ghauri
+    - 1.5:
+        non_striker: Khizer Ahmed
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Walid Ghauri
+    - 1.6:
+        non_striker: Khizer Ahmed
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '1.6'
+        batsman: Walid Ghauri
+    - 2.1:
+        non_striker: Khizer Ahmed
+        bowler: Bilal Masud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '2.1'
+        batsman: Walid Ghauri
+    - 2.2:
+        non_striker: Walid Ghauri
+        bowler: Bilal Masud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: Khizer Ahmed
+    - 2.3:
+        non_striker: Khizer Ahmed
+        bowler: Bilal Masud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: Walid Ghauri
+    - 2.4:
+        non_striker: Khizer Ahmed
+        bowler: Bilal Masud
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.4'
+        batsman: Walid Ghauri
+    - 2.5:
+        non_striker: Khizer Ahmed
+        bowler: Bilal Masud
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '2.5'
+        batsman: Walid Ghauri
+    - 2.6:
+        non_striker: Walid Ghauri
+        bowler: Bilal Masud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.6'
+        batsman: Khizer Ahmed
+    - 3.1:
+        non_striker: Khizer Ahmed
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Walid Ghauri
+    - 3.2:
+        non_striker: Khizer Ahmed
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: Walid Ghauri
+    - 3.3:
+        non_striker: Khizer Ahmed
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Walid Ghauri
+    - 3.4:
+        non_striker: Khizer Ahmed
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.4'
+        batsman: Walid Ghauri
+    - 3.5:
+        non_striker: Khizer Ahmed
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.4'
+        batsman: Walid Ghauri
+    - 3.6:
+        non_striker: Khizer Ahmed
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.5'
+        batsman: Walid Ghauri
+    - 3.7:
+        non_striker: Khizer Ahmed
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Walid Ghauri
+        wicket:
+          player_out: Walid Ghauri
+          fielders:
+          - Sahil Chauhan
+          kind: caught
+    - 4.1:
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sher Sahak
+        actual_delivery: '4.1'
+        batsman: Khizer Ahmed
+    - 4.2:
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Sher Sahak
+        actual_delivery: '4.2'
+        batsman: Khizer Ahmed
+    - 4.3:
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sher Sahak
+        actual_delivery: '4.3'
+        batsman: Khizer Ahmed
+    - 4.4:
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Sher Sahak
+        actual_delivery: '4.4'
+        batsman: Khizer Ahmed
+    - 4.5:
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Sher Sahak
+        actual_delivery: '4.5'
+        batsman: Khizer Ahmed
+    - 4.6:
+        non_striker: Sher Sahak
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Khizer Ahmed
+        wicket:
+          player_out: Khizer Ahmed
+          fielders:
+          - S Gooch
+          kind: caught
+    - 5.1:
+        non_striker: Ibrahim Rahimi
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Sher Sahak
+        wicket:
+          player_out: Sher Sahak
+          fielders:
+          - Arslan Amjad
+          kind: caught
+    - 5.2:
+        non_striker: Ibrahim Rahimi
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: Faisal Raza
+    - 5.3:
+        non_striker: Faisal Raza
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.3'
+        batsman: Ibrahim Rahimi
+    - 5.4:
+        non_striker: Faisal Raza
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: Ibrahim Rahimi
+    - 5.5:
+        non_striker: Ibrahim Rahimi
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Faisal Raza
+    - 5.6:
+        non_striker: Ibrahim Rahimi
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Faisal Raza
+    - 6.1:
+        non_striker: Faisal Raza
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: Ibrahim Rahimi
+    - 6.2:
+        non_striker: Faisal Raza
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: Ibrahim Rahimi
+    - 6.3:
+        non_striker: Ibrahim Rahimi
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: Faisal Raza
+    - 6.4:
+        non_striker: Faisal Raza
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: Ibrahim Rahimi
+    - 6.5:
+        non_striker: Ibrahim Rahimi
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: Faisal Raza
+    - 6.6:
+        non_striker: Faisal Raza
+        bowler: Habib Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '6.6'
+        batsman: Ibrahim Rahimi
+    - 7.1:
+        non_striker: Ibrahim Rahimi
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: Faisal Raza
+    - 7.2:
+        non_striker: Ibrahim Rahimi
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: Faisal Raza
+    - 7.3:
+        non_striker: Faisal Raza
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: Ibrahim Rahimi
+    - 7.4:
+        non_striker: Faisal Raza
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: Ibrahim Rahimi
+    - 7.5:
+        non_striker: Ibrahim Rahimi
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.5'
+        batsman: Faisal Raza
+    - 7.6:
+        non_striker: Ibrahim Rahimi
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: Faisal Raza
+        wicket:
+          player_out: Faisal Raza
+          fielders:
+          - R Sekaran
+          kind: stumped
+    - 7.7:
+        non_striker: Ibrahim Rahimi
+        bowler: Ashraful Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: Qamar Mushtaque
+    - 8.1:
+        non_striker: Qamar Mushtaque
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.1'
+        batsman: Ibrahim Rahimi
+    - 8.2:
+        non_striker: Qamar Mushtaque
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.2'
+        batsman: Ibrahim Rahimi
+    - 8.3:
+        non_striker: Qamar Mushtaque
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.3'
+        batsman: Ibrahim Rahimi
+    - 8.4:
+        non_striker: Qamar Mushtaque
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: Ibrahim Rahimi
+    - 8.5:
+        non_striker: Ibrahim Rahimi
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: Qamar Mushtaque
+        wicket:
+          player_out: Qamar Mushtaque
+          fielders:
+          - Arslan Amjad
+          kind: caught
+    - 8.6:
+        non_striker: Ibrahim Rahimi
+        bowler: Zeeshan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: D Abeyrathna
+    - 9.1:
+        non_striker: D Abeyrathna
+        bowler: Sahil Chauhan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '9.1'
+        batsman: Ibrahim Rahimi
+    - 9.2:
+        non_striker: D Abeyrathna
+        bowler: Sahil Chauhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Ibrahim Rahimi
+        wicket:
+          player_out: Ibrahim Rahimi
+          kind: bowled
+    - 9.3:
+        non_striker: D Abeyrathna
+        bowler: Sahil Chauhan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: Farmanullah Ghari
+    - 9.4:
+        non_striker: Farmanullah Ghari
+        bowler: Sahil Chauhan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: D Abeyrathna
+        wicket:
+          player_out: D Abeyrathna
+          fielders:
+          - Habib Khan
+          kind: caught
+    - 9.5:
+        non_striker: Farmanullah Ghari
+        bowler: Sahil Chauhan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.5'
+        batsman: Vinay Ravi
+    target:
+      overs: 20
+      runs: 106

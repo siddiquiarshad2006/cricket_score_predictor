@@ -1,0 +1,2356 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Leeds
+  dates:
+  - '2026-06-20'
+  gender: female
+  match_type: T20
+  match_type_number: 2879
+  outcome:
+    winner: England
+    by:
+      runs: 38
+  overs: 20
+  player_of_match:
+  - SIR Dunkley
+  players:
+    England:
+    - AE Jones
+    - DN Wyatt
+    - SIR Dunkley
+    - A Capsey
+    - HC Knight
+    - FG Kemp
+    - DR Gibson
+    - CE Dean
+    - S Ecclestone
+    - LCN Smith
+    - LK Bell
+    Scotland:
+    - DEM Carter
+    - K Fraser
+    - KE Bryce
+    - SJ Bryce
+    - M McColl
+    - PA Chatterji
+    - PN Sproul
+    - KL Gordon
+    - C Abel
+    - HRA Rainey
+    - G Fontenla
+  registry:
+    people:
+      A Capsey: 910dd54e
+      AE Jones: b05e45e4
+      C Abel: d92d3563
+      C La Borde: 32157f67
+      CE Dean: c6625a26
+      DEM Carter: c3394c16
+      DN Wyatt: a139c379
+      DR Gibson: d2763568
+      FG Kemp: abc9f8a4
+      G Fontenla: 581eec7e
+      GS Lakshmi: ba8d5615
+      HC Knight: 4ba0289e
+      HRA Rainey: 7027d12f
+      K Fraser: a0a65375
+      K Klaaste: 6cc1d918
+      KE Bryce: f13d3eba
+      KL Gordon: '00823a96'
+      LCN Smith: 340202b0
+      LK Bell: 38b4583c
+      M McColl: d5fa2ab3
+      N Perera: 129709f9
+      PA Chatterji: 8e7be59c
+      PN Sproul: 789fe152
+      S Ecclestone: cdb82f1c
+      SIR Dunkley: 3a9e9cb2
+      SJ Bryce: 2ca65aee
+      VG Rathi: 144e5b16
+  team_type: international
+  teams:
+  - England
+  - Scotland
+  toss:
+    winner: Scotland
+    decision: field
+  umpires:
+  - K Klaaste
+  - N Perera
+  venue: Headingley, Leeds
+innings:
+- 1st innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: DN Wyatt
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: AE Jones
+        wicket:
+          player_out: AE Jones
+          fielders:
+          - M McColl
+          kind: caught
+    - 0.2:
+        non_striker: DN Wyatt
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: SIR Dunkley
+    - 0.3:
+        non_striker: DN Wyatt
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: SIR Dunkley
+    - 0.4:
+        non_striker: DN Wyatt
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: SIR Dunkley
+    - 0.5:
+        non_striker: DN Wyatt
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: SIR Dunkley
+    - 0.6:
+        non_striker: SIR Dunkley
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: DN Wyatt
+    - 1.1:
+        non_striker: DN Wyatt
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: SIR Dunkley
+    - 1.2:
+        non_striker: SIR Dunkley
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: DN Wyatt
+    - 1.3:
+        non_striker: DN Wyatt
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: SIR Dunkley
+    - 1.4:
+        non_striker: DN Wyatt
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: SIR Dunkley
+    - 1.5:
+        non_striker: DN Wyatt
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.5'
+        batsman: SIR Dunkley
+    - 1.6:
+        non_striker: DN Wyatt
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: SIR Dunkley
+    - 2.1:
+        non_striker: SIR Dunkley
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: DN Wyatt
+    - 2.2:
+        non_striker: SIR Dunkley
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: DN Wyatt
+    - 2.3:
+        non_striker: DN Wyatt
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: SIR Dunkley
+    - 2.4:
+        non_striker: DN Wyatt
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: SIR Dunkley
+    - 2.5:
+        non_striker: SIR Dunkley
+        bowler: KE Bryce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '2.5'
+        batsman: DN Wyatt
+    - 2.6:
+        non_striker: DN Wyatt
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.6'
+        batsman: SIR Dunkley
+    - 3.1:
+        non_striker: SIR Dunkley
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: DN Wyatt
+    - 3.2:
+        non_striker: DN Wyatt
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: SIR Dunkley
+    - 3.3:
+        non_striker: DN Wyatt
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: SIR Dunkley
+    - 3.4:
+        non_striker: DN Wyatt
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.4'
+        batsman: SIR Dunkley
+    - 3.5:
+        non_striker: DN Wyatt
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.5'
+        batsman: SIR Dunkley
+    - 3.6:
+        non_striker: DN Wyatt
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: SIR Dunkley
+    - 4.1:
+        non_striker: DN Wyatt
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.1'
+        batsman: SIR Dunkley
+    - 4.2:
+        non_striker: DN Wyatt
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: SIR Dunkley
+    - 4.3:
+        non_striker: DN Wyatt
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: SIR Dunkley
+    - 4.4:
+        non_striker: SIR Dunkley
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '4.4'
+        batsman: DN Wyatt
+    - 4.5:
+        non_striker: DN Wyatt
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: SIR Dunkley
+    - 4.6:
+        non_striker: SIR Dunkley
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: DN Wyatt
+    - 5.1:
+        non_striker: DN Wyatt
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.1'
+        batsman: SIR Dunkley
+    - 5.2:
+        non_striker: DN Wyatt
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: SIR Dunkley
+    - 5.3:
+        non_striker: SIR Dunkley
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: DN Wyatt
+    - 5.4:
+        non_striker: SIR Dunkley
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: DN Wyatt
+    - 5.5:
+        non_striker: DN Wyatt
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: SIR Dunkley
+    - 5.6:
+        non_striker: DN Wyatt
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: SIR Dunkley
+    - 6.1:
+        non_striker: SIR Dunkley
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: DN Wyatt
+        wicket:
+          player_out: DN Wyatt
+          fielders:
+          - KE Bryce
+          kind: caught
+    - 6.2:
+        non_striker: SIR Dunkley
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: A Capsey
+    - 6.3:
+        non_striker: A Capsey
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: SIR Dunkley
+    - 6.4:
+        non_striker: A Capsey
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.4'
+        batsman: SIR Dunkley
+    - 6.5:
+        non_striker: A Capsey
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: SIR Dunkley
+    - 6.6:
+        non_striker: A Capsey
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: SIR Dunkley
+    - 7.1:
+        non_striker: A Capsey
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: SIR Dunkley
+    - 7.2:
+        non_striker: A Capsey
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.2'
+        batsman: SIR Dunkley
+    - 7.3:
+        non_striker: A Capsey
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: SIR Dunkley
+    - 7.4:
+        non_striker: SIR Dunkley
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.4'
+        batsman: A Capsey
+    - 7.5:
+        non_striker: SIR Dunkley
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: A Capsey
+    - 7.6:
+        non_striker: SIR Dunkley
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: A Capsey
+    - 8.1:
+        non_striker: SIR Dunkley
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: A Capsey
+    - 8.2:
+        non_striker: A Capsey
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: SIR Dunkley
+    - 8.3:
+        non_striker: SIR Dunkley
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.3'
+        batsman: A Capsey
+    - 8.4:
+        non_striker: SIR Dunkley
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.4'
+        batsman: A Capsey
+    - 8.5:
+        non_striker: SIR Dunkley
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: A Capsey
+    - 8.6:
+        non_striker: A Capsey
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.6'
+        batsman: SIR Dunkley
+    - 9.1:
+        non_striker: SIR Dunkley
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: A Capsey
+    - 9.2:
+        non_striker: A Capsey
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: SIR Dunkley
+    - 9.3:
+        non_striker: SIR Dunkley
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.3'
+        batsman: A Capsey
+    - 9.4:
+        non_striker: SIR Dunkley
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.4'
+        batsman: A Capsey
+    - 9.5:
+        non_striker: SIR Dunkley
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: A Capsey
+    - 9.6:
+        non_striker: A Capsey
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.6'
+        batsman: SIR Dunkley
+    - 10.1:
+        non_striker: SIR Dunkley
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: A Capsey
+    - 10.2:
+        non_striker: A Capsey
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: SIR Dunkley
+        wicket:
+          player_out: SIR Dunkley
+          fielders:
+          - HRA Rainey
+          kind: caught
+    - 10.3:
+        non_striker: A Capsey
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: HC Knight
+    - 10.4:
+        non_striker: HC Knight
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: A Capsey
+    - 10.5:
+        non_striker: A Capsey
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: HC Knight
+    - 10.6:
+        non_striker: HC Knight
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: A Capsey
+    - 11.1:
+        non_striker: HC Knight
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.1'
+        batsman: A Capsey
+    - 11.2:
+        non_striker: HC Knight
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: A Capsey
+    - 11.3:
+        non_striker: HC Knight
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.3'
+        batsman: A Capsey
+    - 11.4:
+        non_striker: HC Knight
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: A Capsey
+    - 11.5:
+        non_striker: A Capsey
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: HC Knight
+    - 11.6:
+        non_striker: HC Knight
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.6'
+        batsman: A Capsey
+    - 12.1:
+        non_striker: A Capsey
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: HC Knight
+    - 12.2:
+        non_striker: A Capsey
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: HC Knight
+    - 12.3:
+        non_striker: HC Knight
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: A Capsey
+    - 12.4:
+        non_striker: A Capsey
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: HC Knight
+    - 12.5:
+        non_striker: A Capsey
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: HC Knight
+    - 12.6:
+        non_striker: HC Knight
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: A Capsey
+    - 13.1:
+        non_striker: HC Knight
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: A Capsey
+    - 13.2:
+        non_striker: HC Knight
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: A Capsey
+    - 13.3:
+        non_striker: HC Knight
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: A Capsey
+        wicket:
+          player_out: A Capsey
+          kind: bowled
+    - 13.4:
+        non_striker: HC Knight
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: FG Kemp
+    - 13.5:
+        non_striker: FG Kemp
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: HC Knight
+    - 13.6:
+        non_striker: FG Kemp
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.6'
+        batsman: HC Knight
+    - 14.1:
+        non_striker: HC Knight
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.1'
+        batsman: FG Kemp
+    - 14.2:
+        non_striker: HC Knight
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: FG Kemp
+    - 14.3:
+        non_striker: FG Kemp
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.3'
+        batsman: HC Knight
+    - 14.4:
+        non_striker: FG Kemp
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: HC Knight
+    - 14.5:
+        non_striker: HC Knight
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: FG Kemp
+    - 14.6:
+        non_striker: FG Kemp
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.6'
+        batsman: HC Knight
+    - 15.1:
+        non_striker: HC Knight
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: FG Kemp
+    - 15.2:
+        non_striker: HC Knight
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: FG Kemp
+    - 15.3:
+        non_striker: FG Kemp
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: HC Knight
+    - 15.4:
+        non_striker: FG Kemp
+        bowler: HRA Rainey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.4'
+        batsman: HC Knight
+    - 15.5:
+        non_striker: FG Kemp
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: HC Knight
+    - 15.6:
+        non_striker: FG Kemp
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.5'
+        batsman: HC Knight
+    - 15.7:
+        non_striker: FG Kemp
+        bowler: HRA Rainey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: HC Knight
+    - 16.1:
+        non_striker: FG Kemp
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: HC Knight
+    - 16.2:
+        non_striker: FG Kemp
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.2'
+        batsman: HC Knight
+    - 16.3:
+        non_striker: FG Kemp
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: HC Knight
+        wicket:
+          player_out: HC Knight
+          fielders:
+          - KL Gordon
+          kind: caught
+    - 16.4:
+        non_striker: FG Kemp
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: DR Gibson
+    - 16.5:
+        non_striker: DR Gibson
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: FG Kemp
+    - 16.6:
+        non_striker: FG Kemp
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: DR Gibson
+    - 17.1:
+        non_striker: DR Gibson
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.1'
+        batsman: FG Kemp
+    - 17.2:
+        non_striker: DR Gibson
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.2'
+        batsman: FG Kemp
+    - 17.3:
+        non_striker: DR Gibson
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: FG Kemp
+    - 17.4:
+        non_striker: FG Kemp
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: DR Gibson
+    - 17.5:
+        non_striker: DR Gibson
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.5'
+        batsman: FG Kemp
+    - 17.6:
+        non_striker: DR Gibson
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.6'
+        batsman: FG Kemp
+    - 18.1:
+        non_striker: FG Kemp
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.1'
+        batsman: DR Gibson
+    - 18.2:
+        non_striker: FG Kemp
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.2'
+        batsman: DR Gibson
+    - 18.3:
+        non_striker: FG Kemp
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.3'
+        batsman: DR Gibson
+    - 18.4:
+        non_striker: FG Kemp
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: DR Gibson
+    - 18.5:
+        non_striker: DR Gibson
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.5'
+        batsman: FG Kemp
+    - 18.6:
+        non_striker: DR Gibson
+        bowler: KL Gordon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.6'
+        batsman: FG Kemp
+    - 19.1:
+        non_striker: FG Kemp
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.1'
+        batsman: DR Gibson
+    - 19.2:
+        non_striker: FG Kemp
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: DR Gibson
+    - 19.3:
+        non_striker: DR Gibson
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.3'
+        batsman: FG Kemp
+    - 19.4:
+        non_striker: DR Gibson
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: FG Kemp
+    - 19.5:
+        non_striker: FG Kemp
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.5'
+        batsman: DR Gibson
+    - 19.6:
+        non_striker: FG Kemp
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.6'
+        batsman: DR Gibson
+- 2nd innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        non_striker: K Fraser
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.1'
+        batsman: DEM Carter
+    - 0.2:
+        non_striker: DEM Carter
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: K Fraser
+    - 0.3:
+        non_striker: DEM Carter
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: K Fraser
+    - 0.4:
+        non_striker: DEM Carter
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: K Fraser
+    - 0.5:
+        non_striker: DEM Carter
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.5'
+        batsman: K Fraser
+    - 0.6:
+        non_striker: DEM Carter
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '0.6'
+        batsman: K Fraser
+    - 1.1:
+        non_striker: K Fraser
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: DEM Carter
+    - 1.2:
+        non_striker: K Fraser
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: DEM Carter
+    - 1.3:
+        non_striker: K Fraser
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: DEM Carter
+    - 1.4:
+        non_striker: K Fraser
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: DEM Carter
+    - 1.5:
+        non_striker: DEM Carter
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: K Fraser
+    - 1.6:
+        non_striker: DEM Carter
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.6'
+        batsman: K Fraser
+    - 2.1:
+        non_striker: K Fraser
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: DEM Carter
+    - 2.2:
+        non_striker: K Fraser
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: DEM Carter
+    - 2.3:
+        non_striker: K Fraser
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: DEM Carter
+    - 2.4:
+        non_striker: DEM Carter
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: K Fraser
+    - 2.5:
+        non_striker: DEM Carter
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: K Fraser
+    - 2.6:
+        non_striker: K Fraser
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.6'
+        batsman: DEM Carter
+    - 3.1:
+        non_striker: DEM Carter
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.1'
+        batsman: K Fraser
+    - 3.2:
+        non_striker: DEM Carter
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: K Fraser
+    - 3.3:
+        non_striker: DEM Carter
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: K Fraser
+    - 3.4:
+        non_striker: DEM Carter
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: K Fraser
+        wicket:
+          player_out: K Fraser
+          kind: bowled
+    - 3.5:
+        non_striker: DEM Carter
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: KE Bryce
+    - 3.6:
+        non_striker: KE Bryce
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: DEM Carter
+    - 4.1:
+        non_striker: DEM Carter
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: KE Bryce
+    - 4.2:
+        non_striker: DEM Carter
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.2'
+        batsman: KE Bryce
+    - 4.3:
+        non_striker: DEM Carter
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: KE Bryce
+    - 4.4:
+        non_striker: DEM Carter
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: KE Bryce
+    - 4.5:
+        non_striker: KE Bryce
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: DEM Carter
+    - 4.6:
+        non_striker: KE Bryce
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: DEM Carter
+    - 5.1:
+        non_striker: KE Bryce
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: DEM Carter
+    - 5.2:
+        non_striker: DEM Carter
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: KE Bryce
+    - 5.3:
+        non_striker: KE Bryce
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: DEM Carter
+    - 5.4:
+        non_striker: KE Bryce
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: DEM Carter
+    - 5.5:
+        non_striker: DEM Carter
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: KE Bryce
+    - 5.6:
+        non_striker: KE Bryce
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: DEM Carter
+    - 6.1:
+        non_striker: KE Bryce
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: DEM Carter
+    - 6.2:
+        non_striker: DEM Carter
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: KE Bryce
+    - 6.3:
+        non_striker: DEM Carter
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: KE Bryce
+        wicket:
+          player_out: KE Bryce
+          kind: bowled
+    - 6.4:
+        non_striker: DEM Carter
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: SJ Bryce
+    - 6.5:
+        non_striker: DEM Carter
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.5'
+        batsman: SJ Bryce
+    - 6.6:
+        non_striker: DEM Carter
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: SJ Bryce
+    - 7.1:
+        non_striker: SJ Bryce
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: DEM Carter
+    - 7.2:
+        non_striker: DEM Carter
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: SJ Bryce
+    - 7.3:
+        non_striker: DEM Carter
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: SJ Bryce
+    - 7.4:
+        non_striker: SJ Bryce
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: DEM Carter
+    - 7.5:
+        non_striker: DEM Carter
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: SJ Bryce
+    - 7.6:
+        non_striker: SJ Bryce
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: DEM Carter
+    - 8.1:
+        non_striker: SJ Bryce
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: DEM Carter
+    - 8.2:
+        non_striker: DEM Carter
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: SJ Bryce
+    - 8.3:
+        non_striker: SJ Bryce
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: DEM Carter
+    - 8.4:
+        non_striker: DEM Carter
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: SJ Bryce
+    - 8.5:
+        non_striker: SJ Bryce
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: DEM Carter
+        wicket:
+          player_out: DEM Carter
+          kind: bowled
+    - 8.6:
+        non_striker: SJ Bryce
+        bowler: S Ecclestone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '8.6'
+        batsman: M McColl
+    - 9.1:
+        non_striker: SJ Bryce
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.1'
+        batsman: M McColl
+    - 9.2:
+        non_striker: SJ Bryce
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: M McColl
+    - 9.3:
+        non_striker: SJ Bryce
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: M McColl
+    - 9.4:
+        non_striker: M McColl
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: SJ Bryce
+    - 9.5:
+        non_striker: M McColl
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.5'
+        batsman: SJ Bryce
+    - 9.6:
+        non_striker: M McColl
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: SJ Bryce
+    - 10.1:
+        non_striker: M McColl
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.1'
+        batsman: SJ Bryce
+    - 10.2:
+        non_striker: M McColl
+        bowler: CE Dean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.2'
+        batsman: SJ Bryce
+    - 10.3:
+        non_striker: M McColl
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.2'
+        batsman: SJ Bryce
+    - 10.4:
+        non_striker: M McColl
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: SJ Bryce
+    - 10.5:
+        non_striker: M McColl
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: SJ Bryce
+    - 10.6:
+        non_striker: SJ Bryce
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: M McColl
+    - 10.7:
+        non_striker: M McColl
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.6'
+        batsman: SJ Bryce
+    - 11.1:
+        non_striker: SJ Bryce
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.1'
+        batsman: M McColl
+    - 11.2:
+        non_striker: SJ Bryce
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: M McColl
+        wicket:
+          player_out: M McColl
+          fielders:
+          - FG Kemp
+          kind: caught
+    - 11.3:
+        non_striker: SJ Bryce
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: PA Chatterji
+    - 11.4:
+        non_striker: PA Chatterji
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.4'
+        batsman: SJ Bryce
+    - 11.5:
+        non_striker: PA Chatterji
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: SJ Bryce
+    - 11.6:
+        non_striker: SJ Bryce
+        bowler: DR Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: PA Chatterji
+    - 12.1:
+        non_striker: SJ Bryce
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: PA Chatterji
+    - 12.2:
+        non_striker: PA Chatterji
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: SJ Bryce
+    - 12.3:
+        non_striker: SJ Bryce
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: PA Chatterji
+    - 12.4:
+        non_striker: PA Chatterji
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '12.4'
+        batsman: SJ Bryce
+    - 12.5:
+        non_striker: PA Chatterji
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: SJ Bryce
+    - 12.6:
+        non_striker: SJ Bryce
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: PA Chatterji
+    - 13.1:
+        non_striker: PA Chatterji
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: SJ Bryce
+    - 13.2:
+        non_striker: SJ Bryce
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: PA Chatterji
+    - 13.3:
+        non_striker: PA Chatterji
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: SJ Bryce
+    - 13.4:
+        non_striker: PA Chatterji
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: SJ Bryce
+        wicket:
+          player_out: SJ Bryce
+          fielders:
+          - DR Gibson
+          kind: caught
+    - 13.5:
+        non_striker: PA Chatterji
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.5'
+        batsman: PN Sproul
+    - 13.6:
+        non_striker: PA Chatterji
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: PN Sproul
+    - 14.1:
+        non_striker: PA Chatterji
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.1'
+        batsman: PN Sproul
+    - 14.2:
+        non_striker: PA Chatterji
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: PN Sproul
+    - 14.3:
+        non_striker: PN Sproul
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: PA Chatterji
+        wicket:
+          player_out: PA Chatterji
+          kind: caught and bowled
+    - 14.4:
+        non_striker: PN Sproul
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: KL Gordon
+    - 14.5:
+        non_striker: PN Sproul
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: KL Gordon
+    - 14.6:
+        non_striker: PN Sproul
+        bowler: FG Kemp
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.6'
+        batsman: KL Gordon
+    - 14.7:
+        non_striker: PN Sproul
+        bowler: FG Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: KL Gordon
+    - 15.1:
+        non_striker: PN Sproul
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: KL Gordon
+    - 15.2:
+        non_striker: KL Gordon
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: PN Sproul
+    - 15.3:
+        non_striker: KL Gordon
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: PN Sproul
+    - 15.4:
+        non_striker: KL Gordon
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: PN Sproul
+    - 15.5:
+        non_striker: PN Sproul
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: KL Gordon
+    - 15.6:
+        non_striker: KL Gordon
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: PN Sproul
+    - 16.1:
+        non_striker: KL Gordon
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: PN Sproul
+    - 16.2:
+        non_striker: PN Sproul
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.2'
+        batsman: KL Gordon
+    - 16.3:
+        non_striker: PN Sproul
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: KL Gordon
+    - 16.4:
+        non_striker: KL Gordon
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.4'
+        batsman: PN Sproul
+    - 16.5:
+        non_striker: KL Gordon
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: PN Sproul
+    - 16.6:
+        non_striker: PN Sproul
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: KL Gordon
+    - 17.1:
+        non_striker: KL Gordon
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: PN Sproul
+    - 17.2:
+        non_striker: PN Sproul
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.2'
+        batsman: KL Gordon
+    - 17.3:
+        non_striker: PN Sproul
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: KL Gordon
+    - 17.4:
+        non_striker: PN Sproul
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: KL Gordon
+    - 17.5:
+        non_striker: KL Gordon
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: PN Sproul
+    - 17.6:
+        non_striker: PN Sproul
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.6'
+        batsman: KL Gordon
+    - 18.1:
+        non_striker: KL Gordon
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.1'
+        batsman: PN Sproul
+    - 18.2:
+        non_striker: KL Gordon
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: PN Sproul
+    - 18.3:
+        non_striker: PN Sproul
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.3'
+        batsman: KL Gordon
+    - 18.4:
+        non_striker: PN Sproul
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: KL Gordon
+    - 18.5:
+        non_striker: KL Gordon
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: PN Sproul
+    - 18.6:
+        non_striker: PN Sproul
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: KL Gordon
+    - 19.1:
+        non_striker: PN Sproul
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: KL Gordon
+    - 19.2:
+        non_striker: KL Gordon
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.2'
+        batsman: PN Sproul
+    - 19.3:
+        non_striker: KL Gordon
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '19.3'
+        batsman: PN Sproul
+    - 19.4:
+        non_striker: PN Sproul
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.4'
+        batsman: KL Gordon
+    - 19.5:
+        non_striker: PN Sproul
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: KL Gordon
+    - 19.6:
+        non_striker: KL Gordon
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: PN Sproul
+    - 19.7:
+        non_striker: KL Gordon
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: PN Sproul
+        wicket:
+          player_out: PN Sproul
+          fielders:
+          - AE Jones
+          - DR Gibson
+          kind: run out
+    target:
+      overs: 20
+      runs: 201

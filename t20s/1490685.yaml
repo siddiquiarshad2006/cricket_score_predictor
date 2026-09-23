@@ -1,0 +1,1791 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Leeds
+  dates:
+  - '2026-06-17'
+  gender: female
+  match_type: T20
+  match_type_number: 2863
+  outcome:
+    winner: Australia
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - EA Perry
+  players:
+    Bangladesh:
+    - Juairiya Ferdous
+    - Dilara Akter
+    - Sharmin Akhter
+    - Nigar Sultana
+    - S Mostary
+    - Shorna Akter
+    - Ritu Moni
+    - Nahida Akter
+    - Rabeya Khan
+    - Sultana Khatun
+    - Marufa Akter
+    Australia:
+    - G Voll
+    - BL Mooney
+    - EA Perry
+    - GM Harris
+    - G Wareham
+    - A Sutherland
+    - NJ Carey
+    - S Molineux
+    - A King
+    - KJ Garth
+    - ML Schutt
+  registry:
+    people:
+      A King: '83558266'
+      A Sutherland: 65d9b6b6
+      BL Mooney: 52d1dbc8
+      C La Borde: 32157f67
+      Dilara Akter: f2670a3d
+      EA Perry: be150fc8
+      G Voll: 5c30d455
+      G Wareham: f0b4e47d
+      GM Harris: '72166006'
+      Juairiya Ferdous: e6f05a84
+      KJ Garth: 0b69a844
+      ML Schutt: 17608a6f
+      Marufa Akter: a50797a4
+      N Perera: 129709f9
+      NJ Carey: dff806f4
+      Nahida Akter: '66078174'
+      Nigar Sultana: 3827f6a2
+      RA Kettleborough: 4017868f
+      Rabeya Khan: aaf037b1
+      Ritu Moni: ad3940a5
+      S Molineux: 99e23670
+      S Mostary: 94de63bf
+      S Redfern: 5b038989
+      SA Fritz: d15e60c8
+      Sharmin Akhter: 84fdd3cf
+      Shorna Akter: 89895ae1
+      Sultana Khatun: fb0c0bcc
+  team_type: international
+  teams:
+  - Bangladesh
+  - Australia
+  toss:
+    winner: Australia
+    decision: field
+  umpires:
+  - C La Borde
+  - N Perera
+  venue: Headingley, Leeds
+innings:
+- 1st innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Dilara Akter
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: Juairiya Ferdous
+    - 0.2:
+        non_striker: Dilara Akter
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.2'
+        batsman: Juairiya Ferdous
+    - 0.3:
+        non_striker: Dilara Akter
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: Juairiya Ferdous
+    - 0.4:
+        non_striker: Dilara Akter
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: Juairiya Ferdous
+    - 0.5:
+        non_striker: Juairiya Ferdous
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Dilara Akter
+    - 0.6:
+        non_striker: Juairiya Ferdous
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Dilara Akter
+    - 1.1:
+        non_striker: Dilara Akter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: Juairiya Ferdous
+    - 1.2:
+        non_striker: Dilara Akter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: Juairiya Ferdous
+    - 1.3:
+        non_striker: Juairiya Ferdous
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: Dilara Akter
+        wicket:
+          player_out: Dilara Akter
+          kind: bowled
+    - 1.4:
+        non_striker: Juairiya Ferdous
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.4'
+        batsman: Sharmin Akhter
+    - 1.5:
+        non_striker: Juairiya Ferdous
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: Sharmin Akhter
+    - 1.6:
+        non_striker: Sharmin Akhter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Juairiya Ferdous
+    - 2.1:
+        non_striker: Juairiya Ferdous
+        bowler: ML Schutt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.1'
+        batsman: Sharmin Akhter
+    - 2.2:
+        non_striker: Juairiya Ferdous
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: Sharmin Akhter
+    - 2.3:
+        non_striker: Juairiya Ferdous
+        bowler: ML Schutt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.2'
+        batsman: Sharmin Akhter
+    - 2.4:
+        non_striker: Juairiya Ferdous
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: Sharmin Akhter
+    - 2.5:
+        non_striker: Juairiya Ferdous
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Sharmin Akhter
+    - 2.6:
+        non_striker: Juairiya Ferdous
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Sharmin Akhter
+    - 2.7:
+        non_striker: Juairiya Ferdous
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: Sharmin Akhter
+    - 2.8:
+        non_striker: Sharmin Akhter
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.6'
+        batsman: Juairiya Ferdous
+    - 3.1:
+        non_striker: Juairiya Ferdous
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Sharmin Akhter
+    - 3.2:
+        non_striker: Juairiya Ferdous
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: Sharmin Akhter
+    - 3.3:
+        non_striker: Sharmin Akhter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Juairiya Ferdous
+        wicket:
+          player_out: Juairiya Ferdous
+          kind: lbw
+    - 3.4:
+        non_striker: Sharmin Akhter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Nigar Sultana
+    - 3.5:
+        non_striker: Sharmin Akhter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Nigar Sultana
+    - 3.6:
+        non_striker: Sharmin Akhter
+        bowler: KJ Garth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.6'
+        batsman: Nigar Sultana
+    - 3.7:
+        non_striker: Sharmin Akhter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Nigar Sultana
+    - 4.1:
+        non_striker: Nigar Sultana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: Sharmin Akhter
+    - 4.2:
+        non_striker: Nigar Sultana
+        bowler: S Molineux
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.2'
+        batsman: Sharmin Akhter
+    - 4.3:
+        non_striker: Nigar Sultana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: Sharmin Akhter
+    - 4.4:
+        non_striker: Nigar Sultana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: Sharmin Akhter
+    - 4.5:
+        non_striker: Nigar Sultana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: Sharmin Akhter
+        wicket:
+          player_out: Sharmin Akhter
+          kind: lbw
+    - 4.6:
+        non_striker: Nigar Sultana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: S Mostary
+    - 4.7:
+        non_striker: Nigar Sultana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: S Mostary
+    - 5.1:
+        non_striker: S Mostary
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Nigar Sultana
+    - 5.2:
+        non_striker: S Mostary
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: Nigar Sultana
+    - 5.3:
+        non_striker: S Mostary
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: Nigar Sultana
+    - 5.4:
+        non_striker: Nigar Sultana
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: S Mostary
+    - 5.5:
+        non_striker: Nigar Sultana
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: S Mostary
+    - 5.6:
+        non_striker: Nigar Sultana
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: S Mostary
+    - 6.1:
+        non_striker: S Mostary
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: Nigar Sultana
+    - 6.2:
+        non_striker: S Mostary
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: Nigar Sultana
+    - 6.3:
+        non_striker: S Mostary
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Nigar Sultana
+    - 6.4:
+        non_striker: S Mostary
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.4'
+        batsman: Nigar Sultana
+    - 6.5:
+        non_striker: S Mostary
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Nigar Sultana
+    - 6.6:
+        non_striker: S Mostary
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: Nigar Sultana
+    - 7.1:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: S Mostary
+    - 7.2:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: S Mostary
+        wicket:
+          player_out: S Mostary
+          fielders:
+          - S Molineux
+          kind: caught
+    - 7.3:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: Shorna Akter
+    - 7.4:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: Shorna Akter
+    - 7.5:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.5'
+        batsman: Shorna Akter
+    - 7.6:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: Shorna Akter
+        wicket:
+          player_out: Shorna Akter
+          kind: lbw
+    - 7.7:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.6'
+        batsman: Ritu Moni
+    - 8.1:
+        non_striker: Ritu Moni
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Nigar Sultana
+    - 8.2:
+        non_striker: Ritu Moni
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: Nigar Sultana
+    - 8.3:
+        non_striker: Ritu Moni
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: Nigar Sultana
+    - 8.4:
+        non_striker: Ritu Moni
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: Nigar Sultana
+    - 8.5:
+        non_striker: Nigar Sultana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: Ritu Moni
+    - 8.6:
+        non_striker: Nigar Sultana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Ritu Moni
+    - 9.1:
+        non_striker: Ritu Moni
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: Nigar Sultana
+    - 9.2:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Ritu Moni
+    - 9.3:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: Ritu Moni
+    - 9.4:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: Ritu Moni
+    - 9.5:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: Ritu Moni
+    - 9.6:
+        non_striker: Ritu Moni
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: Nigar Sultana
+    - 10.1:
+        non_striker: Ritu Moni
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: Nigar Sultana
+    - 10.2:
+        non_striker: Nigar Sultana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: Ritu Moni
+    - 10.3:
+        non_striker: Ritu Moni
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Nigar Sultana
+    - 10.4:
+        non_striker: Nigar Sultana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: Ritu Moni
+    - 10.5:
+        non_striker: Ritu Moni
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: Nigar Sultana
+    - 10.6:
+        non_striker: Ritu Moni
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Nigar Sultana
+    - 11.1:
+        non_striker: Nigar Sultana
+        bowler: A Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '11.1'
+        batsman: Ritu Moni
+    - 11.2:
+        non_striker: Ritu Moni
+        bowler: A Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.2'
+        batsman: Nigar Sultana
+    - 11.3:
+        non_striker: Ritu Moni
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: Nigar Sultana
+    - 11.4:
+        non_striker: Nigar Sultana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: Ritu Moni
+    - 11.5:
+        non_striker: Ritu Moni
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: Nigar Sultana
+    - 11.6:
+        non_striker: Ritu Moni
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Nigar Sultana
+    - 11.7:
+        non_striker: Ritu Moni
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: Nigar Sultana
+    - 12.1:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Ritu Moni
+    - 12.2:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: Ritu Moni
+    - 12.3:
+        non_striker: Ritu Moni
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: Nigar Sultana
+    - 12.4:
+        non_striker: Ritu Moni
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: Nigar Sultana
+    - 12.5:
+        non_striker: Ritu Moni
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: Nigar Sultana
+    - 12.6:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Ritu Moni
+    - 13.1:
+        non_striker: Ritu Moni
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: Nigar Sultana
+    - 13.2:
+        non_striker: Ritu Moni
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: Nigar Sultana
+    - 13.3:
+        non_striker: Nigar Sultana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: Ritu Moni
+    - 13.4:
+        non_striker: Nigar Sultana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Ritu Moni
+    - 13.5:
+        non_striker: Nigar Sultana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: Ritu Moni
+    - 13.6:
+        non_striker: Ritu Moni
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: Nigar Sultana
+    - 14.1:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: Ritu Moni
+    - 14.2:
+        non_striker: Ritu Moni
+        bowler: A King
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.2'
+        batsman: Nigar Sultana
+    - 14.3:
+        non_striker: Ritu Moni
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: Nigar Sultana
+    - 14.4:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: Ritu Moni
+    - 14.5:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: Ritu Moni
+    - 14.6:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: Ritu Moni
+    - 15.1:
+        non_striker: Ritu Moni
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: Nigar Sultana
+    - 15.2:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.2'
+        batsman: Ritu Moni
+    - 15.3:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: Ritu Moni
+    - 15.4:
+        non_striker: Ritu Moni
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: Nigar Sultana
+    - 15.5:
+        non_striker: Ritu Moni
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: Nigar Sultana
+    - 15.6:
+        non_striker: Ritu Moni
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.6'
+        batsman: Nigar Sultana
+    - 16.1:
+        non_striker: Nigar Sultana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: Ritu Moni
+    - 16.2:
+        non_striker: Nigar Sultana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.2'
+        batsman: Ritu Moni
+    - 16.3:
+        non_striker: Nigar Sultana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: Ritu Moni
+        wicket:
+          player_out: Ritu Moni
+          fielders:
+          - G Voll
+          kind: caught
+    - 16.4:
+        non_striker: Nigar Sultana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: Nahida Akter
+    - 16.5:
+        non_striker: Nigar Sultana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: Nahida Akter
+    - 16.6:
+        non_striker: Nigar Sultana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: Nahida Akter
+    - 17.1:
+        non_striker: Nahida Akter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: Nigar Sultana
+    - 17.2:
+        non_striker: Nahida Akter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: Nigar Sultana
+    - 17.3:
+        non_striker: Nigar Sultana
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: Nahida Akter
+    - 17.4:
+        non_striker: Nahida Akter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: Nigar Sultana
+    - 17.5:
+        non_striker: Nahida Akter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.5'
+        batsman: Nigar Sultana
+    - 17.6:
+        non_striker: Nahida Akter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: Nigar Sultana
+    - 18.1:
+        non_striker: Nahida Akter
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: Nigar Sultana
+    - 18.2:
+        non_striker: Nahida Akter
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: Nigar Sultana
+    - 18.3:
+        non_striker: Nahida Akter
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.3'
+        batsman: Nigar Sultana
+    - 18.4:
+        non_striker: Nahida Akter
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: Nigar Sultana
+        wicket:
+          player_out: Nigar Sultana
+          kind: lbw
+    - 18.5:
+        non_striker: Nahida Akter
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.5'
+        batsman: Rabeya Khan
+    - 18.6:
+        non_striker: Nahida Akter
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: Rabeya Khan
+    - 19.1:
+        non_striker: Nahida Akter
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: Rabeya Khan
+    - 19.2:
+        non_striker: Rabeya Khan
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: Nahida Akter
+    - 19.3:
+        non_striker: Nahida Akter
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.3'
+        batsman: Rabeya Khan
+    - 19.4:
+        non_striker: Nahida Akter
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: Rabeya Khan
+    - 19.5:
+        non_striker: Nahida Akter
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: Rabeya Khan
+        wicket:
+          player_out: Rabeya Khan
+          kind: lbw
+    - 19.6:
+        non_striker: Nahida Akter
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: Sultana Khatun
+- 2nd innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: G Voll
+    - 0.2:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: G Voll
+    - 0.3:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: G Voll
+    - 0.4:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: G Voll
+    - 0.5:
+        non_striker: G Voll
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: BL Mooney
+    - 0.6:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.6'
+        batsman: G Voll
+    - 1.1:
+        non_striker: G Voll
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: BL Mooney
+    - 1.2:
+        non_striker: G Voll
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: BL Mooney
+    - 1.3:
+        non_striker: BL Mooney
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: G Voll
+    - 1.4:
+        non_striker: G Voll
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.4'
+        batsman: BL Mooney
+    - 1.5:
+        non_striker: G Voll
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: BL Mooney
+    - 1.6:
+        non_striker: G Voll
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: BL Mooney
+    - 2.1:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: G Voll
+    - 2.2:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: G Voll
+    - 2.3:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.3'
+        batsman: G Voll
+    - 2.4:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.4'
+        batsman: G Voll
+    - 2.5:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: G Voll
+    - 2.6:
+        non_striker: G Voll
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: BL Mooney
+    - 3.1:
+        non_striker: BL Mooney
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: G Voll
+    - 3.2:
+        non_striker: BL Mooney
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: G Voll
+    - 3.3:
+        non_striker: BL Mooney
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: G Voll
+    - 3.4:
+        non_striker: BL Mooney
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: G Voll
+    - 3.5:
+        non_striker: G Voll
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.5'
+        batsman: BL Mooney
+    - 3.6:
+        non_striker: G Voll
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: BL Mooney
+    - 4.1:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: G Voll
+    - 4.2:
+        non_striker: G Voll
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: BL Mooney
+        wicket:
+          player_out: BL Mooney
+          fielders:
+          - Ritu Moni
+          kind: caught
+    - 4.3:
+        non_striker: G Voll
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: EA Perry
+    - 4.4:
+        non_striker: G Voll
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: EA Perry
+    - 4.5:
+        non_striker: G Voll
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: EA Perry
+    - 4.6:
+        non_striker: G Voll
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: EA Perry
+    - 5.1:
+        non_striker: EA Perry
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: G Voll
+    - 5.2:
+        non_striker: EA Perry
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.2'
+        batsman: G Voll
+    - 5.3:
+        non_striker: EA Perry
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: G Voll
+    - 5.4:
+        non_striker: G Voll
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: EA Perry
+    - 5.5:
+        non_striker: EA Perry
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: G Voll
+    - 5.6:
+        non_striker: EA Perry
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: G Voll
+    - 6.1:
+        non_striker: G Voll
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.1'
+        batsman: EA Perry
+    - 6.2:
+        non_striker: G Voll
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: EA Perry
+    - 6.3:
+        non_striker: EA Perry
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: G Voll
+    - 6.4:
+        non_striker: EA Perry
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: G Voll
+    - 6.5:
+        non_striker: G Voll
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: EA Perry
+    - 6.6:
+        non_striker: EA Perry
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: G Voll
+    - 7.1:
+        non_striker: EA Perry
+        bowler: Ritu Moni
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        actual_delivery: '7.1'
+        batsman: G Voll
+    - 7.2:
+        non_striker: EA Perry
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: G Voll
+    - 7.3:
+        non_striker: G Voll
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: EA Perry
+    - 7.4:
+        non_striker: EA Perry
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.4'
+        batsman: G Voll
+    - 7.5:
+        non_striker: EA Perry
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: G Voll
+    - 7.6:
+        non_striker: G Voll
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: EA Perry
+    - 8.1:
+        non_striker: G Voll
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: EA Perry
+    - 8.2:
+        non_striker: EA Perry
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: G Voll
+    - 8.3:
+        non_striker: G Voll
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: EA Perry
+    - 8.4:
+        non_striker: EA Perry
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: G Voll
+    - 8.5:
+        non_striker: G Voll
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: EA Perry
+    - 8.6:
+        non_striker: EA Perry
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: G Voll
+    - 9.1:
+        non_striker: G Voll
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: EA Perry
+    - 9.2:
+        non_striker: EA Perry
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: G Voll
+    - 9.3:
+        non_striker: G Voll
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.3'
+        batsman: EA Perry
+    target:
+      overs: 20
+      runs: 78

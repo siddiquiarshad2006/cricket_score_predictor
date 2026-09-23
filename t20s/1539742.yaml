@@ -1,0 +1,1768 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Windhoek
+  dates:
+  - '2026-06-21'
+  gender: male
+  match_type: T20
+  match_type_number: 3974
+  outcome:
+    winner: Hong Kong
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - Ateeq Iqbal
+  players:
+    Nigeria:
+    - Selim Salau
+    - I Danladi
+    - S Chilemanya
+    - SA Okpe
+    - DNA Ankrah
+    - VD Adewoye
+    - M Akhigbe
+    - IO Okpe
+    - CM Akachukwu
+    - P Aho
+    - Abdullahi Ismail
+    Hong Kong:
+    - Zeeshan Ali
+    - Anshuman Rath
+    - Babar Hayat
+    - Aizaz Khan
+    - Shahid Wasif
+    - S Mathur
+    - Ehsan Khan
+    - Yasim Murtaza
+    - Nasrulla Rana
+    - Ateeq Iqbal
+    - Mohammad Ghazanfar
+  registry:
+    people:
+      A Louw: 5eecae5d
+      Abdullahi Ismail: e20b9b34
+      Aizaz Khan: f6c2659d
+      Anshuman Rath: 552b228c
+      Ateeq Iqbal: 29b322c7
+      Babar Hayat: fbb657bb
+      CM Akachukwu: e6581a17
+      Claus Schumacher: 85645e62
+      DNA Ankrah: c6614fc0
+      E Lassen: a476d6d0
+      Ehsan Khan: d3851cd8
+      I Danladi: c156cc1f
+      IO Okpe: 1c5c3dce
+      M Akhigbe: '32613355'
+      Mohammad Ghazanfar: 00321fff
+      Nasrulla Rana: 9ffb7550
+      P Aho: 2e392afa
+      S Chilemanya: e1fe58ad
+      S Mathur: 11378dda
+      SA Okpe: 681f522f
+      Selim Salau: d18d3a0f
+      Shahid Wasif: 2cc08c3c
+      VD Adewoye: 45a34a2d
+      Yasim Murtaza: c9d05f1a
+      Zeeshan Ali: 987187b9
+  team_type: international
+  teams:
+  - Nigeria
+  - Hong Kong
+  toss:
+    winner: Hong Kong
+    decision: field
+  umpires:
+  - A Louw
+  - E Lassen
+  venue: Namibia Cricket Ground, Windhoek
+innings:
+- 1st innings:
+    team: Nigeria
+    deliveries:
+    - 0.1:
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Danladi
+        actual_delivery: '0.1'
+        batsman: Selim Salau
+    - 0.2:
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: I Danladi
+        actual_delivery: '0.2'
+        batsman: Selim Salau
+    - 0.3:
+        non_striker: Selim Salau
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.3'
+        batsman: I Danladi
+    - 0.4:
+        non_striker: Selim Salau
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.4'
+        batsman: I Danladi
+    - 0.5:
+        non_striker: Selim Salau
+        bowler: Nasrulla Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '0.5'
+        batsman: I Danladi
+    - 0.6:
+        non_striker: I Danladi
+        bowler: Nasrulla Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '0.6'
+        batsman: Selim Salau
+    - 1.1:
+        non_striker: I Danladi
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: Selim Salau
+    - 1.2:
+        non_striker: I Danladi
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: Selim Salau
+        wicket:
+          player_out: Selim Salau
+          kind: bowled
+    - 1.3:
+        non_striker: I Danladi
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: S Chilemanya
+    - 1.4:
+        non_striker: S Chilemanya
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.4'
+        batsman: I Danladi
+    - 1.5:
+        non_striker: S Chilemanya
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: I Danladi
+    - 1.6:
+        non_striker: S Chilemanya
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: I Danladi
+    - 2.1:
+        non_striker: S Chilemanya
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.1'
+        batsman: I Danladi
+    - 2.2:
+        non_striker: S Chilemanya
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: I Danladi
+    - 2.3:
+        non_striker: S Chilemanya
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: I Danladi
+        wicket:
+          player_out: I Danladi
+          kind: bowled
+    - 2.4:
+        non_striker: S Chilemanya
+        bowler: Nasrulla Rana
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          legbyes: 3
+        actual_delivery: '2.4'
+        batsman: SA Okpe
+    - 2.5:
+        non_striker: SA Okpe
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: S Chilemanya
+    - 2.6:
+        non_striker: SA Okpe
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: S Chilemanya
+        wicket:
+          player_out: S Chilemanya
+          fielders:
+          - Ateeq Iqbal
+          kind: caught
+    - 3.1:
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DNA Ankrah
+        actual_delivery: '3.1'
+        batsman: SA Okpe
+    - 3.2:
+        non_striker: SA Okpe
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: DNA Ankrah
+    - 3.3:
+        non_striker: DNA Ankrah
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: SA Okpe
+    - 3.4:
+        non_striker: DNA Ankrah
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: SA Okpe
+    - 3.5:
+        non_striker: SA Okpe
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: DNA Ankrah
+    - 3.6:
+        non_striker: SA Okpe
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.6'
+        batsman: DNA Ankrah
+    - 4.1:
+        non_striker: DNA Ankrah
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: SA Okpe
+    - 4.2:
+        non_striker: DNA Ankrah
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: SA Okpe
+    - 4.3:
+        non_striker: SA Okpe
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: DNA Ankrah
+    - 4.4:
+        non_striker: SA Okpe
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: DNA Ankrah
+    - 4.5:
+        non_striker: DNA Ankrah
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: SA Okpe
+    - 4.6:
+        non_striker: SA Okpe
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: DNA Ankrah
+    - 5.1:
+        non_striker: SA Okpe
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: DNA Ankrah
+    - 5.2:
+        non_striker: SA Okpe
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: DNA Ankrah
+    - 5.3:
+        non_striker: SA Okpe
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: DNA Ankrah
+    - 5.4:
+        non_striker: DNA Ankrah
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: SA Okpe
+    - 5.5:
+        non_striker: DNA Ankrah
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: SA Okpe
+    - 5.6:
+        non_striker: SA Okpe
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: DNA Ankrah
+        wicket:
+          player_out: DNA Ankrah
+          kind: bowled
+    - 6.1:
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: VD Adewoye
+        actual_delivery: '6.1'
+        batsman: SA Okpe
+    - 6.2:
+        non_striker: SA Okpe
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: VD Adewoye
+    - 6.3:
+        non_striker: SA Okpe
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: VD Adewoye
+    - 6.4:
+        non_striker: VD Adewoye
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: SA Okpe
+    - 6.5:
+        non_striker: SA Okpe
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.5'
+        batsman: VD Adewoye
+    - 6.6:
+        non_striker: SA Okpe
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '6.6'
+        batsman: VD Adewoye
+    - 7.1:
+        non_striker: VD Adewoye
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: SA Okpe
+    - 7.2:
+        non_striker: VD Adewoye
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: SA Okpe
+    - 7.3:
+        non_striker: SA Okpe
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '7.3'
+        batsman: VD Adewoye
+    - 7.4:
+        non_striker: VD Adewoye
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: SA Okpe
+    - 7.5:
+        non_striker: SA Okpe
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: VD Adewoye
+        wicket:
+          player_out: VD Adewoye
+          kind: caught and bowled
+    - 7.6:
+        non_striker: SA Okpe
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: M Akhigbe
+    - 8.1:
+        non_striker: M Akhigbe
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.1'
+        batsman: SA Okpe
+    - 8.2:
+        non_striker: M Akhigbe
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.2'
+        batsman: SA Okpe
+    - 8.3:
+        non_striker: M Akhigbe
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: SA Okpe
+    - 8.4:
+        non_striker: SA Okpe
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: M Akhigbe
+    - 8.5:
+        non_striker: SA Okpe
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: M Akhigbe
+    - 8.6:
+        non_striker: M Akhigbe
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: SA Okpe
+    - 9.1:
+        non_striker: SA Okpe
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: M Akhigbe
+        wicket:
+          player_out: M Akhigbe
+          kind: bowled
+    - 9.2:
+        non_striker: SA Okpe
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.2'
+        batsman: IO Okpe
+    - 9.3:
+        non_striker: SA Okpe
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: IO Okpe
+    - 9.4:
+        non_striker: IO Okpe
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: SA Okpe
+    - 9.5:
+        non_striker: IO Okpe
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: SA Okpe
+    - 9.6:
+        non_striker: IO Okpe
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: SA Okpe
+    - 10.1:
+        non_striker: SA Okpe
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: IO Okpe
+    - 10.2:
+        non_striker: SA Okpe
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: IO Okpe
+    - 10.3:
+        non_striker: SA Okpe
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: IO Okpe
+        wicket:
+          player_out: IO Okpe
+          kind: bowled
+    - 10.4:
+        non_striker: SA Okpe
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: CM Akachukwu
+    - 10.5:
+        non_striker: CM Akachukwu
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: SA Okpe
+    - 10.6:
+        non_striker: CM Akachukwu
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: SA Okpe
+    - 11.1:
+        non_striker: SA Okpe
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: CM Akachukwu
+    - 11.2:
+        non_striker: CM Akachukwu
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: SA Okpe
+        wicket:
+          player_out: SA Okpe
+          fielders:
+          - Zeeshan Ali
+          kind: caught
+    - 11.3:
+        non_striker: CM Akachukwu
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: P Aho
+    - 11.4:
+        non_striker: CM Akachukwu
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: P Aho
+    - 11.5:
+        non_striker: P Aho
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: CM Akachukwu
+    - 11.6:
+        non_striker: P Aho
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: CM Akachukwu
+        wicket:
+          player_out: CM Akachukwu
+          fielders:
+          - Mohammad Ghazanfar
+          kind: caught
+    - 12.1:
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abdullahi Ismail
+        actual_delivery: '12.1'
+        batsman: P Aho
+    - 12.2:
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abdullahi Ismail
+        actual_delivery: '12.2'
+        batsman: P Aho
+    - 12.3:
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abdullahi Ismail
+        actual_delivery: '12.3'
+        batsman: P Aho
+    - 12.4:
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abdullahi Ismail
+        actual_delivery: '12.4'
+        batsman: P Aho
+    - 12.5:
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Abdullahi Ismail
+        actual_delivery: '12.5'
+        batsman: P Aho
+    - 12.6:
+        non_striker: Abdullahi Ismail
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '12.6'
+        batsman: P Aho
+    - 13.1:
+        non_striker: Abdullahi Ismail
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: P Aho
+    - 13.2:
+        non_striker: Abdullahi Ismail
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: P Aho
+    - 13.3:
+        non_striker: Abdullahi Ismail
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: P Aho
+    - 13.4:
+        non_striker: Abdullahi Ismail
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: P Aho
+    - 13.5:
+        non_striker: Abdullahi Ismail
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: P Aho
+    - 13.6:
+        non_striker: P Aho
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: Abdullahi Ismail
+    - 14.1:
+        non_striker: Abdullahi Ismail
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: P Aho
+    - 14.2:
+        non_striker: Abdullahi Ismail
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: P Aho
+    - 14.3:
+        non_striker: Abdullahi Ismail
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: P Aho
+    - 14.4:
+        non_striker: Abdullahi Ismail
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: P Aho
+    - 14.5:
+        non_striker: Abdullahi Ismail
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: P Aho
+    - 14.6:
+        non_striker: P Aho
+        bowler: Mohammad Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: Abdullahi Ismail
+        wicket:
+          player_out: Abdullahi Ismail
+          kind: bowled
+- 2nd innings:
+    team: Hong Kong
+    deliveries:
+    - 0.1:
+        bowler: Abdullahi Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anshuman Rath
+        actual_delivery: '0.1'
+        batsman: Zeeshan Ali
+    - 0.2:
+        bowler: Abdullahi Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anshuman Rath
+        actual_delivery: '0.2'
+        batsman: Zeeshan Ali
+    - 0.3:
+        bowler: Abdullahi Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Anshuman Rath
+        actual_delivery: '0.3'
+        batsman: Zeeshan Ali
+    - 0.4:
+        bowler: Abdullahi Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anshuman Rath
+        actual_delivery: '0.4'
+        batsman: Zeeshan Ali
+    - 0.5:
+        bowler: Abdullahi Ismail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Anshuman Rath
+        actual_delivery: '0.5'
+        batsman: Zeeshan Ali
+    - 0.6:
+        non_striker: Anshuman Rath
+        bowler: Abdullahi Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Zeeshan Ali
+        wicket:
+          player_out: Zeeshan Ali
+          fielders:
+          - I Danladi
+          kind: caught
+    - 0.7:
+        non_striker: Anshuman Rath
+        bowler: Abdullahi Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Babar Hayat
+    - 1.1:
+        non_striker: Babar Hayat
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: Anshuman Rath
+    - 1.2:
+        non_striker: Babar Hayat
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: Anshuman Rath
+    - 1.3:
+        non_striker: Anshuman Rath
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: Babar Hayat
+    - 1.4:
+        non_striker: Babar Hayat
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: Anshuman Rath
+    - 1.5:
+        non_striker: Babar Hayat
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Anshuman Rath
+    - 1.6:
+        non_striker: Babar Hayat
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: Anshuman Rath
+    - 2.1:
+        non_striker: Babar Hayat
+        bowler: Abdullahi Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: Anshuman Rath
+    - 2.2:
+        non_striker: Anshuman Rath
+        bowler: Abdullahi Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: Babar Hayat
+    - 2.3:
+        non_striker: Anshuman Rath
+        bowler: Abdullahi Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: Babar Hayat
+    - 2.4:
+        non_striker: Anshuman Rath
+        bowler: Abdullahi Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Babar Hayat
+    - 2.5:
+        non_striker: Anshuman Rath
+        bowler: Abdullahi Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: Babar Hayat
+    - 2.6:
+        non_striker: Anshuman Rath
+        bowler: Abdullahi Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Babar Hayat
+    - 3.1:
+        non_striker: Babar Hayat
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: Anshuman Rath
+    - 3.2:
+        non_striker: Anshuman Rath
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: Babar Hayat
+    - 3.3:
+        non_striker: Babar Hayat
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Anshuman Rath
+    - 3.4:
+        non_striker: Babar Hayat
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.4'
+        batsman: Anshuman Rath
+    - 3.5:
+        non_striker: Babar Hayat
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Anshuman Rath
+        wicket:
+          player_out: Anshuman Rath
+          fielders:
+          - CM Akachukwu
+          kind: caught
+    - 3.6:
+        non_striker: Babar Hayat
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Aizaz Khan
+    - 4.1:
+        non_striker: Aizaz Khan
+        bowler: CM Akachukwu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: Babar Hayat
+    - 4.2:
+        non_striker: Babar Hayat
+        bowler: CM Akachukwu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: Aizaz Khan
+    - 4.3:
+        non_striker: Babar Hayat
+        bowler: CM Akachukwu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: Aizaz Khan
+    - 4.4:
+        non_striker: Aizaz Khan
+        bowler: CM Akachukwu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: Babar Hayat
+    - 4.5:
+        non_striker: Aizaz Khan
+        bowler: CM Akachukwu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.5'
+        batsman: Babar Hayat
+    - 4.6:
+        non_striker: Aizaz Khan
+        bowler: CM Akachukwu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: Babar Hayat
+    - 5.1:
+        non_striker: Aizaz Khan
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Babar Hayat
+    - 5.2:
+        non_striker: Aizaz Khan
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.2'
+        batsman: Babar Hayat
+    - 5.3:
+        non_striker: Aizaz Khan
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: Babar Hayat
+    - 5.4:
+        non_striker: Aizaz Khan
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: Babar Hayat
+    - 5.5:
+        non_striker: Babar Hayat
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: Aizaz Khan
+    - 5.6:
+        non_striker: Aizaz Khan
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: Babar Hayat
+    - 6.1:
+        non_striker: Aizaz Khan
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: Babar Hayat
+    - 6.2:
+        non_striker: Babar Hayat
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: Aizaz Khan
+    - 6.3:
+        non_striker: Babar Hayat
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Aizaz Khan
+    - 6.4:
+        non_striker: Babar Hayat
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Aizaz Khan
+    - 6.5:
+        non_striker: Babar Hayat
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: Aizaz Khan
+    - 6.6:
+        non_striker: Aizaz Khan
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.6'
+        batsman: Babar Hayat
+    - 7.1:
+        non_striker: Babar Hayat
+        bowler: CM Akachukwu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: Aizaz Khan
+    - 7.2:
+        non_striker: Aizaz Khan
+        bowler: CM Akachukwu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: Babar Hayat
+    - 7.3:
+        non_striker: Babar Hayat
+        bowler: CM Akachukwu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: Aizaz Khan
+    - 7.4:
+        non_striker: Aizaz Khan
+        bowler: CM Akachukwu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: Babar Hayat
+    - 7.5:
+        non_striker: Babar Hayat
+        bowler: CM Akachukwu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: Aizaz Khan
+    - 7.6:
+        non_striker: Babar Hayat
+        bowler: CM Akachukwu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: Aizaz Khan
+    - 8.1:
+        non_striker: Aizaz Khan
+        bowler: M Akhigbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.1'
+        batsman: Babar Hayat
+    - 8.2:
+        non_striker: Aizaz Khan
+        bowler: M Akhigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: Babar Hayat
+    - 8.3:
+        non_striker: Aizaz Khan
+        bowler: M Akhigbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: Babar Hayat
+    - 8.4:
+        non_striker: Aizaz Khan
+        bowler: M Akhigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: Babar Hayat
+    - 8.5:
+        non_striker: Babar Hayat
+        bowler: M Akhigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Aizaz Khan
+    - 8.6:
+        non_striker: Aizaz Khan
+        bowler: M Akhigbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: Babar Hayat
+    - 9.1:
+        non_striker: Aizaz Khan
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '9.1'
+        batsman: Babar Hayat
+    - 9.2:
+        non_striker: Babar Hayat
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.2'
+        batsman: Aizaz Khan
+    - 9.3:
+        non_striker: Babar Hayat
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: Aizaz Khan
+    - 9.4:
+        non_striker: Aizaz Khan
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: Babar Hayat
+    - 9.5:
+        non_striker: Babar Hayat
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: Aizaz Khan
+    - 9.6:
+        non_striker: Aizaz Khan
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: Babar Hayat
+    - 10.1:
+        non_striker: Babar Hayat
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: Aizaz Khan
+    - 10.2:
+        non_striker: Aizaz Khan
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: Babar Hayat
+        wicket:
+          player_out: Babar Hayat
+          fielders:
+          - I Danladi
+          kind: caught
+    - 10.3:
+        non_striker: Aizaz Khan
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Shahid Wasif
+    - 10.4:
+        non_striker: Shahid Wasif
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: Aizaz Khan
+    - 10.5:
+        non_striker: Aizaz Khan
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: Shahid Wasif
+    - 10.6:
+        non_striker: Shahid Wasif
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: Aizaz Khan
+    - 11.1:
+        non_striker: Shahid Wasif
+        bowler: Abdullahi Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: Aizaz Khan
+    - 11.2:
+        non_striker: Aizaz Khan
+        bowler: Abdullahi Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: Shahid Wasif
+    - 11.3:
+        non_striker: Shahid Wasif
+        bowler: Abdullahi Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: Aizaz Khan
+    - 11.4:
+        non_striker: Aizaz Khan
+        bowler: Abdullahi Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: Shahid Wasif
+    - 11.5:
+        non_striker: Shahid Wasif
+        bowler: Abdullahi Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Aizaz Khan
+    - 11.6:
+        non_striker: Shahid Wasif
+        bowler: Abdullahi Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: Aizaz Khan
+    - 12.1:
+        non_striker: Aizaz Khan
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Shahid Wasif
+    - 12.2:
+        non_striker: Aizaz Khan
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: Shahid Wasif
+    - 12.3:
+        non_striker: Shahid Wasif
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: Aizaz Khan
+        wicket:
+          player_out: Aizaz Khan
+          kind: caught and bowled
+    - 12.4:
+        non_striker: Shahid Wasif
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: S Mathur
+    - 12.5:
+        non_striker: Shahid Wasif
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: S Mathur
+    - 12.6:
+        non_striker: S Mathur
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: Shahid Wasif
+    - 13.1:
+        non_striker: S Mathur
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: Shahid Wasif
+    - 13.2:
+        non_striker: S Mathur
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: Shahid Wasif
+    - 13.3:
+        non_striker: S Mathur
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Shahid Wasif
+    - 13.4:
+        non_striker: Shahid Wasif
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: S Mathur
+    - 13.5:
+        non_striker: Shahid Wasif
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: S Mathur
+    - 13.6:
+        non_striker: S Mathur
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.6'
+        batsman: Shahid Wasif
+    - 14.1:
+        non_striker: Shahid Wasif
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: S Mathur
+    - 14.2:
+        non_striker: S Mathur
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: Shahid Wasif
+    - 14.3:
+        non_striker: S Mathur
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: Shahid Wasif
+    - 14.4:
+        non_striker: S Mathur
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.4'
+        batsman: Shahid Wasif
+    target:
+      overs: 20
+      runs: 77

@@ -1,0 +1,2553 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-08-31'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gelsenkirchen
+  dates:
+  - '2026-08-30'
+  gender: female
+  match_type: T20
+  match_type_number: 2985
+  outcome:
+    winner: Germany
+    by:
+      runs: 37
+  overs: 20
+  player_of_match:
+  - S Kolcharam
+  players:
+    Germany:
+    - W Hornero-Garcia
+    - A Kohli
+    - A Kanukuntla
+    - K Vijayaraghavan
+    - Aanvi Kishore
+    - S Kolcharam
+    - V Stolle
+    - Rameesha Shahid
+    - Ashwini Balaji
+    - ST Kannan
+    - Meghana Lakayil
+    Denmark:
+    - L Ostergaard
+    - Frida Larsen
+    - S Ostergaard
+    - K Pandya
+    - Thea Larsen
+    - NP Dalgaard
+    - ML Karlsen
+    - S Hojholt
+    - C Ostergaard
+    - D Golechha
+    - S Munagala
+  registry:
+    people:
+      A Kanukuntla: 2fa8a697
+      A Kohli: eb9082b2
+      Aanvi Kishore: b075b35d
+      Ashwini Balaji: 81283f75
+      C Ostergaard: e212b0fd
+      D Golechha: c2c12f2a
+      Frida Larsen: 1775e31e
+      K Pandya: 75b4acc8
+      K Vijayaraghavan: '048da365'
+      L Ostergaard: 3a5160d9
+      M Loveday: e4b126b0
+      ML Karlsen: 4302af3d
+      Meghana Lakayil: 05e417e7
+      N Dhanawade: bc68912b
+      NP Dalgaard: '40283617'
+      Rameesha Shahid: b810425e
+      S Hojholt: 1a14aefd
+      S Kolcharam: 761c929e
+      S Munagala: 0b010809
+      S Ostergaard: a19e799b
+      ST Kannan: 1304c2d6
+      Thea Larsen: bbd31c8f
+      V Sridhar: '42314166'
+      V Stolle: 0dc4ac6c
+      W Hornero-Garcia: 7d5fef52
+  team_type: international
+  teams:
+  - Germany
+  - Denmark
+  toss:
+    winner: Denmark
+    decision: field
+  umpires:
+  - M Loveday
+  - N Dhanawade
+  venue: GelsenTrabPark, Gelsenkirchen
+innings:
+- 1st innings:
+    team: Germany
+    deliveries:
+    - 0.1:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Kohli
+        actual_delivery: '0.1'
+        batsman: W Hornero-Garcia
+    - 0.2:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: A Kohli
+        actual_delivery: '0.2'
+        batsman: W Hornero-Garcia
+    - 0.3:
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Kohli
+        actual_delivery: '0.3'
+        batsman: W Hornero-Garcia
+    - 0.4:
+        non_striker: W Hornero-Garcia
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: A Kohli
+    - 0.5:
+        non_striker: W Hornero-Garcia
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: A Kohli
+    - 0.6:
+        non_striker: W Hornero-Garcia
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: A Kohli
+    - 1.1:
+        non_striker: W Hornero-Garcia
+        bowler: Frida Larsen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.1'
+        batsman: A Kohli
+    - 1.2:
+        non_striker: W Hornero-Garcia
+        bowler: Frida Larsen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '1.1'
+        batsman: A Kohli
+    - 1.3:
+        non_striker: A Kohli
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: W Hornero-Garcia
+    - 1.4:
+        non_striker: A Kohli
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: W Hornero-Garcia
+    - 1.5:
+        non_striker: W Hornero-Garcia
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: A Kohli
+    - 1.6:
+        non_striker: W Hornero-Garcia
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: A Kohli
+        wicket:
+          player_out: A Kohli
+          fielders:
+          - S Ostergaard
+          kind: caught
+    - 1.7:
+        non_striker: W Hornero-Garcia
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: A Kanukuntla
+    - 2.1:
+        non_striker: A Kanukuntla
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.1'
+        batsman: W Hornero-Garcia
+    - 2.2:
+        non_striker: A Kanukuntla
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: W Hornero-Garcia
+    - 2.3:
+        non_striker: W Hornero-Garcia
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: A Kanukuntla
+    - 2.4:
+        non_striker: W Hornero-Garcia
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: A Kanukuntla
+    - 2.5:
+        non_striker: A Kanukuntla
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: W Hornero-Garcia
+    - 2.6:
+        non_striker: W Hornero-Garcia
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: A Kanukuntla
+    - 2.7:
+        non_striker: A Kanukuntla
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: W Hornero-Garcia
+    - 3.1:
+        non_striker: A Kanukuntla
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: W Hornero-Garcia
+    - 3.2:
+        non_striker: A Kanukuntla
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: W Hornero-Garcia
+    - 3.3:
+        non_striker: A Kanukuntla
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: W Hornero-Garcia
+    - 3.4:
+        non_striker: A Kanukuntla
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: W Hornero-Garcia
+    - 3.5:
+        non_striker: A Kanukuntla
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: W Hornero-Garcia
+    - 3.6:
+        non_striker: W Hornero-Garcia
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: A Kanukuntla
+    - 4.1:
+        non_striker: A Kanukuntla
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: W Hornero-Garcia
+    - 4.2:
+        non_striker: A Kanukuntla
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: W Hornero-Garcia
+        wicket:
+          player_out: W Hornero-Garcia
+          fielders:
+          - Thea Larsen
+          kind: caught
+    - 4.3:
+        non_striker: A Kanukuntla
+        bowler: D Golechha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.3'
+        batsman: K Vijayaraghavan
+    - 4.4:
+        non_striker: A Kanukuntla
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: K Vijayaraghavan
+    - 4.5:
+        non_striker: A Kanukuntla
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: K Vijayaraghavan
+    - 4.6:
+        non_striker: A Kanukuntla
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: K Vijayaraghavan
+    - 4.7:
+        non_striker: K Vijayaraghavan
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.6'
+        batsman: A Kanukuntla
+    - 5.1:
+        non_striker: A Kanukuntla
+        bowler: Frida Larsen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.1'
+        batsman: K Vijayaraghavan
+    - 5.2:
+        non_striker: A Kanukuntla
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: K Vijayaraghavan
+    - 5.3:
+        non_striker: A Kanukuntla
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: K Vijayaraghavan
+        wicket:
+          player_out: K Vijayaraghavan
+          fielders:
+          - ML Karlsen
+          kind: caught
+    - 5.4:
+        non_striker: A Kanukuntla
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: Aanvi Kishore
+    - 5.5:
+        non_striker: Aanvi Kishore
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: A Kanukuntla
+    - 5.6:
+        non_striker: A Kanukuntla
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Aanvi Kishore
+    - 5.7:
+        non_striker: A Kanukuntla
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Aanvi Kishore
+        wicket:
+          player_out: Aanvi Kishore
+          kind: bowled
+    - 6.1:
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Kolcharam
+        actual_delivery: '6.1'
+        batsman: A Kanukuntla
+    - 6.2:
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Kolcharam
+        actual_delivery: '6.2'
+        batsman: A Kanukuntla
+    - 6.3:
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Kolcharam
+        actual_delivery: '6.3'
+        batsman: A Kanukuntla
+    - 6.4:
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: S Kolcharam
+        actual_delivery: '6.4'
+        batsman: A Kanukuntla
+    - 6.5:
+        bowler: Thea Larsen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Kolcharam
+        actual_delivery: '6.5'
+        batsman: A Kanukuntla
+    - 6.6:
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Kolcharam
+        actual_delivery: '6.5'
+        batsman: A Kanukuntla
+    - 6.7:
+        non_striker: S Kolcharam
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: A Kanukuntla
+    - 7.1:
+        non_striker: A Kanukuntla
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: S Kolcharam
+    - 7.2:
+        non_striker: A Kanukuntla
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.2'
+        batsman: S Kolcharam
+    - 7.3:
+        non_striker: A Kanukuntla
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: S Kolcharam
+    - 7.4:
+        non_striker: A Kanukuntla
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.4'
+        batsman: S Kolcharam
+    - 7.5:
+        non_striker: A Kanukuntla
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: S Kolcharam
+    - 7.6:
+        non_striker: S Kolcharam
+        bowler: Frida Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: A Kanukuntla
+    - 8.1:
+        non_striker: A Kanukuntla
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: S Kolcharam
+    - 8.2:
+        non_striker: S Kolcharam
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: A Kanukuntla
+    - 8.3:
+        non_striker: A Kanukuntla
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.3'
+        batsman: S Kolcharam
+    - 8.4:
+        non_striker: A Kanukuntla
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: S Kolcharam
+    - 8.5:
+        non_striker: A Kanukuntla
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.5'
+        batsman: S Kolcharam
+    - 8.6:
+        non_striker: A Kanukuntla
+        bowler: Thea Larsen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.6'
+        batsman: S Kolcharam
+    - 8.7:
+        non_striker: A Kanukuntla
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: S Kolcharam
+    - 9.1:
+        non_striker: A Kanukuntla
+        bowler: S Munagala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.1'
+        batsman: S Kolcharam
+    - 9.2:
+        non_striker: A Kanukuntla
+        bowler: S Munagala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: S Kolcharam
+    - 9.3:
+        non_striker: A Kanukuntla
+        bowler: S Munagala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: S Kolcharam
+    - 9.4:
+        non_striker: A Kanukuntla
+        bowler: S Munagala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: S Kolcharam
+    - 9.5:
+        non_striker: A Kanukuntla
+        bowler: S Munagala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.4'
+        batsman: S Kolcharam
+    - 9.6:
+        non_striker: A Kanukuntla
+        bowler: S Munagala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: S Kolcharam
+    - 9.7:
+        non_striker: S Kolcharam
+        bowler: S Munagala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: A Kanukuntla
+    - 10.1:
+        non_striker: A Kanukuntla
+        bowler: Thea Larsen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '10.1'
+        batsman: S Kolcharam
+    - 10.2:
+        non_striker: S Kolcharam
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: A Kanukuntla
+    - 10.3:
+        non_striker: A Kanukuntla
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: S Kolcharam
+        wicket:
+          player_out: A Kanukuntla
+          fielders:
+          - S Ostergaard
+          - ML Karlsen
+          kind: run out
+    - 10.4:
+        non_striker: S Kolcharam
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: V Stolle
+    - 10.5:
+        non_striker: S Kolcharam
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.5'
+        batsman: V Stolle
+    - 10.6:
+        non_striker: S Kolcharam
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: V Stolle
+    - 11.1:
+        non_striker: S Kolcharam
+        bowler: S Munagala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: V Stolle
+    - 11.2:
+        non_striker: S Kolcharam
+        bowler: S Munagala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: V Stolle
+    - 11.3:
+        non_striker: V Stolle
+        bowler: S Munagala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.3'
+        batsman: S Kolcharam
+    - 11.4:
+        non_striker: V Stolle
+        bowler: S Munagala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: S Kolcharam
+    - 11.5:
+        non_striker: S Kolcharam
+        bowler: S Munagala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: V Stolle
+    - 11.6:
+        non_striker: V Stolle
+        bowler: S Munagala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: S Kolcharam
+    - 12.1:
+        non_striker: V Stolle
+        bowler: C Ostergaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.1'
+        batsman: S Kolcharam
+    - 12.2:
+        non_striker: V Stolle
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: S Kolcharam
+    - 12.3:
+        non_striker: V Stolle
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.2'
+        batsman: S Kolcharam
+    - 12.4:
+        non_striker: V Stolle
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: S Kolcharam
+    - 12.5:
+        non_striker: S Kolcharam
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: V Stolle
+    - 12.6:
+        non_striker: S Kolcharam
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.5'
+        batsman: V Stolle
+    - 12.7:
+        non_striker: S Kolcharam
+        bowler: C Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: V Stolle
+    - 13.1:
+        non_striker: V Stolle
+        bowler: NP Dalgaard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.1'
+        batsman: S Kolcharam
+    - 13.2:
+        non_striker: V Stolle
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: S Kolcharam
+    - 13.3:
+        non_striker: S Kolcharam
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: V Stolle
+    - 13.4:
+        non_striker: S Kolcharam
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: V Stolle
+    - 13.5:
+        non_striker: V Stolle
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: S Kolcharam
+    - 13.6:
+        non_striker: S Kolcharam
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: V Stolle
+    - 13.7:
+        non_striker: V Stolle
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: S Kolcharam
+    - 14.1:
+        non_striker: V Stolle
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: S Kolcharam
+    - 14.2:
+        non_striker: S Kolcharam
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: V Stolle
+    - 14.3:
+        non_striker: V Stolle
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: S Kolcharam
+    - 14.4:
+        non_striker: S Kolcharam
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: V Stolle
+    - 14.5:
+        non_striker: S Kolcharam
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: V Stolle
+    - 14.6:
+        non_striker: V Stolle
+        bowler: D Golechha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: S Kolcharam
+    - 15.1:
+        non_striker: V Stolle
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: S Kolcharam
+    - 15.2:
+        non_striker: V Stolle
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: S Kolcharam
+    - 15.3:
+        non_striker: V Stolle
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: S Kolcharam
+    - 15.4:
+        non_striker: S Kolcharam
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: V Stolle
+    - 15.5:
+        non_striker: S Kolcharam
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: V Stolle
+    - 15.6:
+        non_striker: V Stolle
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: S Kolcharam
+    - 16.1:
+        non_striker: V Stolle
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: S Kolcharam
+    - 16.2:
+        non_striker: S Kolcharam
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: V Stolle
+    - 16.3:
+        non_striker: V Stolle
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: S Kolcharam
+    - 16.4:
+        non_striker: S Kolcharam
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: V Stolle
+    - 16.5:
+        non_striker: S Kolcharam
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.5'
+        batsman: V Stolle
+    - 16.6:
+        non_striker: S Kolcharam
+        bowler: Thea Larsen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.6'
+        batsman: V Stolle
+    - 17.1:
+        non_striker: V Stolle
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: S Kolcharam
+        wicket:
+          player_out: S Kolcharam
+          fielders:
+          - Thea Larsen
+          - ML Karlsen
+          kind: run out
+    - 17.2:
+        non_striker: V Stolle
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.2'
+        batsman: Rameesha Shahid
+    - 17.3:
+        non_striker: V Stolle
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: Rameesha Shahid
+    - 17.4:
+        non_striker: V Stolle
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: Rameesha Shahid
+    - 17.5:
+        non_striker: Rameesha Shahid
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: V Stolle
+    - 17.6:
+        non_striker: V Stolle
+        bowler: NP Dalgaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: Rameesha Shahid
+    - 18.1:
+        non_striker: Rameesha Shahid
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: V Stolle
+    - 18.2:
+        non_striker: V Stolle
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: Rameesha Shahid
+    - 18.3:
+        non_striker: V Stolle
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: Rameesha Shahid
+    - 18.4:
+        non_striker: Rameesha Shahid
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: V Stolle
+        wicket:
+          player_out: V Stolle
+          kind: bowled
+    - 18.5:
+        non_striker: Rameesha Shahid
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: Ashwini Balaji
+    - 18.6:
+        non_striker: Ashwini Balaji
+        bowler: L Ostergaard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: Rameesha Shahid
+    - 19.1:
+        non_striker: Ashwini Balaji
+        bowler: S Munagala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: Rameesha Shahid
+    - 19.2:
+        non_striker: Rameesha Shahid
+        bowler: S Munagala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.2'
+        batsman: Ashwini Balaji
+    - 19.3:
+        non_striker: Rameesha Shahid
+        bowler: S Munagala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.3'
+        batsman: Ashwini Balaji
+    - 19.4:
+        non_striker: Ashwini Balaji
+        bowler: S Munagala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '19.4'
+        batsman: Rameesha Shahid
+    - 19.5:
+        non_striker: Rameesha Shahid
+        bowler: S Munagala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.5'
+        batsman: Ashwini Balaji
+        wicket:
+          player_out: Ashwini Balaji
+          fielders:
+          - Thea Larsen
+          - S Munagala
+          kind: run out
+    - 19.6:
+        non_striker: ST Kannan
+        bowler: S Munagala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: Rameesha Shahid
+        wicket:
+          player_out: Rameesha Shahid
+          fielders:
+          - Thea Larsen
+          - ML Karlsen
+          kind: run out
+- 2nd innings:
+    team: Denmark
+    deliveries:
+    - 0.1:
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Frida Larsen
+        actual_delivery: '0.1'
+        batsman: L Ostergaard
+    - 0.2:
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Frida Larsen
+        actual_delivery: '0.2'
+        batsman: L Ostergaard
+    - 0.3:
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Frida Larsen
+        actual_delivery: '0.3'
+        batsman: L Ostergaard
+    - 0.4:
+        bowler: A Kanukuntla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: Frida Larsen
+        actual_delivery: '0.4'
+        batsman: L Ostergaard
+    - 0.5:
+        non_striker: L Ostergaard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Frida Larsen
+    - 0.6:
+        non_striker: L Ostergaard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.6'
+        batsman: Frida Larsen
+    - 1.1:
+        non_striker: Frida Larsen
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: L Ostergaard
+    - 1.2:
+        non_striker: Frida Larsen
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: L Ostergaard
+    - 1.3:
+        non_striker: L Ostergaard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: Frida Larsen
+    - 1.4:
+        non_striker: L Ostergaard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: Frida Larsen
+    - 1.5:
+        non_striker: L Ostergaard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Frida Larsen
+    - 1.6:
+        non_striker: L Ostergaard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.6'
+        batsman: Frida Larsen
+    - 2.1:
+        non_striker: Frida Larsen
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.1'
+        batsman: L Ostergaard
+    - 2.2:
+        non_striker: Frida Larsen
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: L Ostergaard
+    - 2.3:
+        non_striker: L Ostergaard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Frida Larsen
+    - 2.4:
+        non_striker: L Ostergaard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Frida Larsen
+    - 2.5:
+        non_striker: L Ostergaard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: Frida Larsen
+        wicket:
+          player_out: Frida Larsen
+          fielders:
+          - V Stolle
+          kind: stumped
+    - 2.6:
+        non_striker: L Ostergaard
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: S Ostergaard
+    - 3.1:
+        non_striker: S Ostergaard
+        bowler: A Kohli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.1'
+        batsman: L Ostergaard
+    - 3.2:
+        non_striker: S Ostergaard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.1'
+        batsman: L Ostergaard
+    - 3.3:
+        non_striker: S Ostergaard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.2'
+        batsman: L Ostergaard
+    - 3.4:
+        non_striker: S Ostergaard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: L Ostergaard
+    - 3.5:
+        non_striker: L Ostergaard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: S Ostergaard
+    - 3.6:
+        non_striker: L Ostergaard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.5'
+        batsman: S Ostergaard
+    - 3.7:
+        non_striker: L Ostergaard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: S Ostergaard
+    - 4.1:
+        non_striker: S Ostergaard
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: L Ostergaard
+    - 4.2:
+        non_striker: L Ostergaard
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: S Ostergaard
+    - 4.3:
+        non_striker: L Ostergaard
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: S Ostergaard
+    - 4.4:
+        non_striker: S Ostergaard
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: L Ostergaard
+    - 4.5:
+        non_striker: S Ostergaard
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: L Ostergaard
+    - 4.6:
+        non_striker: S Ostergaard
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: L Ostergaard
+        wicket:
+          player_out: L Ostergaard
+          fielders:
+          - W Hornero-Garcia
+          kind: caught
+    - 5.1:
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Pandya
+        actual_delivery: '5.1'
+        batsman: S Ostergaard
+    - 5.2:
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Pandya
+        actual_delivery: '5.2'
+        batsman: S Ostergaard
+    - 5.3:
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Pandya
+        actual_delivery: '5.3'
+        batsman: S Ostergaard
+    - 5.4:
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Pandya
+        actual_delivery: '5.4'
+        batsman: S Ostergaard
+    - 5.5:
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Pandya
+        actual_delivery: '5.5'
+        batsman: S Ostergaard
+    - 5.6:
+        non_striker: K Pandya
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: S Ostergaard
+    - 6.1:
+        non_striker: S Ostergaard
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: K Pandya
+    - 6.2:
+        non_striker: S Ostergaard
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: K Pandya
+    - 6.3:
+        non_striker: S Ostergaard
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: K Pandya
+    - 6.4:
+        non_striker: S Ostergaard
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: K Pandya
+        wicket:
+          player_out: K Pandya
+          fielders:
+          - W Hornero-Garcia
+          kind: caught
+    - 6.5:
+        non_striker: S Ostergaard
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: Thea Larsen
+    - 6.6:
+        non_striker: Thea Larsen
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: S Ostergaard
+    - 7.1:
+        non_striker: S Ostergaard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: Thea Larsen
+    - 7.2:
+        non_striker: S Ostergaard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: Thea Larsen
+    - 7.3:
+        non_striker: S Ostergaard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: Thea Larsen
+    - 7.4:
+        non_striker: S Ostergaard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.4'
+        batsman: Thea Larsen
+    - 7.5:
+        non_striker: S Ostergaard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: Thea Larsen
+    - 7.6:
+        non_striker: Thea Larsen
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: S Ostergaard
+    - 7.7:
+        non_striker: Thea Larsen
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: S Ostergaard
+    - 8.1:
+        non_striker: S Ostergaard
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Thea Larsen
+    - 8.2:
+        non_striker: S Ostergaard
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Thea Larsen
+    - 8.3:
+        non_striker: Thea Larsen
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: S Ostergaard
+    - 8.4:
+        non_striker: Thea Larsen
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: S Ostergaard
+    - 8.5:
+        non_striker: Thea Larsen
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: S Ostergaard
+    - 8.6:
+        non_striker: S Ostergaard
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: Thea Larsen
+    - 9.1:
+        non_striker: S Ostergaard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: Thea Larsen
+    - 9.2:
+        non_striker: Thea Larsen
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: S Ostergaard
+    - 9.3:
+        non_striker: Thea Larsen
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: S Ostergaard
+    - 9.4:
+        non_striker: Thea Larsen
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: S Ostergaard
+    - 9.5:
+        non_striker: Thea Larsen
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: S Ostergaard
+    - 9.6:
+        non_striker: S Ostergaard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: Thea Larsen
+    - 10.1:
+        non_striker: S Ostergaard
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '10.1'
+        batsman: Thea Larsen
+    - 10.2:
+        non_striker: S Ostergaard
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.1'
+        batsman: Thea Larsen
+    - 10.3:
+        non_striker: S Ostergaard
+        bowler: Ashwini Balaji
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '10.1'
+        batsman: Thea Larsen
+    - 10.4:
+        non_striker: Thea Larsen
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '10.1'
+        batsman: S Ostergaard
+    - 10.5:
+        non_striker: S Ostergaard
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: Thea Larsen
+    - 10.6:
+        non_striker: Thea Larsen
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: S Ostergaard
+    - 10.7:
+        non_striker: S Ostergaard
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.4'
+        batsman: Thea Larsen
+    - 10.8:
+        non_striker: S Ostergaard
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: Thea Larsen
+    - 10.9:
+        non_striker: Thea Larsen
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: S Ostergaard
+    - 10.10:
+        non_striker: Thea Larsen
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: S Ostergaard
+    - 11.1:
+        non_striker: Thea Larsen
+        bowler: A Kohli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '11.1'
+        batsman: S Ostergaard
+    - 11.2:
+        non_striker: S Ostergaard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: Thea Larsen
+    - 11.3:
+        non_striker: S Ostergaard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: Thea Larsen
+    - 11.4:
+        non_striker: S Ostergaard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: Thea Larsen
+    - 11.5:
+        non_striker: S Ostergaard
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: Thea Larsen
+    - 11.6:
+        non_striker: Thea Larsen
+        bowler: A Kohli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: S Ostergaard
+    - 12.1:
+        non_striker: Thea Larsen
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: S Ostergaard
+    - 12.2:
+        non_striker: Thea Larsen
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: S Ostergaard
+    - 12.3:
+        non_striker: Thea Larsen
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: S Ostergaard
+    - 12.4:
+        non_striker: Thea Larsen
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: S Ostergaard
+    - 12.5:
+        non_striker: S Ostergaard
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.5'
+        batsman: Thea Larsen
+    - 12.6:
+        non_striker: S Ostergaard
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.6'
+        batsman: Thea Larsen
+    - 12.7:
+        non_striker: S Ostergaard
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Thea Larsen
+    - 13.1:
+        non_striker: Thea Larsen
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: S Ostergaard
+    - 13.2:
+        non_striker: S Ostergaard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: Thea Larsen
+    - 13.3:
+        non_striker: Thea Larsen
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: S Ostergaard
+        wicket:
+          player_out: S Ostergaard
+          kind: lbw
+    - 13.4:
+        non_striker: Thea Larsen
+        bowler: Meghana Lakayil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '13.4'
+        batsman: NP Dalgaard
+    - 13.5:
+        non_striker: NP Dalgaard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Thea Larsen
+    - 13.6:
+        non_striker: NP Dalgaard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Thea Larsen
+    - 14.1:
+        non_striker: NP Dalgaard
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.1'
+        batsman: Thea Larsen
+    - 14.2:
+        non_striker: NP Dalgaard
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: Thea Larsen
+    - 14.3:
+        non_striker: NP Dalgaard
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: Thea Larsen
+    - 14.4:
+        non_striker: Thea Larsen
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: NP Dalgaard
+    - 14.5:
+        non_striker: NP Dalgaard
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.4'
+        batsman: Thea Larsen
+    - 14.6:
+        non_striker: NP Dalgaard
+        bowler: Ashwini Balaji
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '14.5'
+        batsman: Thea Larsen
+    - 14.7:
+        non_striker: Thea Larsen
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: NP Dalgaard
+    - 14.8:
+        non_striker: NP Dalgaard
+        bowler: Ashwini Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.6'
+        batsman: Thea Larsen
+    - 14.9:
+        non_striker: NP Dalgaard
+        bowler: Ashwini Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: Thea Larsen
+    - 15.1:
+        non_striker: NP Dalgaard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: Thea Larsen
+    - 15.2:
+        non_striker: Thea Larsen
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: NP Dalgaard
+    - 15.3:
+        non_striker: NP Dalgaard
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: Thea Larsen
+    - 15.4:
+        non_striker: Thea Larsen
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: NP Dalgaard
+        wicket:
+          player_out: NP Dalgaard
+          fielders:
+          - A Kohli
+          - Meghana Lakayil
+          kind: run out
+    - 15.5:
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Karlsen
+        actual_delivery: '15.5'
+        batsman: Thea Larsen
+    - 15.6:
+        non_striker: ML Karlsen
+        bowler: Meghana Lakayil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: Thea Larsen
+    - 16.1:
+        non_striker: Thea Larsen
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: ML Karlsen
+    - 16.2:
+        non_striker: ML Karlsen
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: Thea Larsen
+    - 16.3:
+        non_striker: Thea Larsen
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: ML Karlsen
+    - 16.4:
+        non_striker: Thea Larsen
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: ML Karlsen
+    - 16.5:
+        non_striker: ML Karlsen
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: Thea Larsen
+    - 16.6:
+        non_striker: Thea Larsen
+        bowler: ST Kannan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: ML Karlsen
+    - 17.1:
+        non_striker: Thea Larsen
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.1'
+        batsman: ML Karlsen
+    - 17.2:
+        non_striker: Thea Larsen
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: ML Karlsen
+    - 17.3:
+        non_striker: Thea Larsen
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: ML Karlsen
+    - 17.4:
+        non_striker: ML Karlsen
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: Thea Larsen
+    - 17.5:
+        non_striker: Thea Larsen
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: ML Karlsen
+    - 17.6:
+        non_striker: Thea Larsen
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: ML Karlsen
+    - 18.1:
+        non_striker: ML Karlsen
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: Thea Larsen
+        wicket:
+          player_out: Thea Larsen
+          kind: bowled
+    - 18.2:
+        non_striker: ML Karlsen
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: S Hojholt
+    - 18.3:
+        non_striker: S Hojholt
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: ML Karlsen
+    - 18.4:
+        non_striker: S Hojholt
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: ML Karlsen
+    - 18.5:
+        non_striker: ML Karlsen
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: S Hojholt
+    - 18.6:
+        non_striker: ML Karlsen
+        bowler: A Kanukuntla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: S Hojholt
+    - 19.1:
+        non_striker: S Hojholt
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: ML Karlsen
+    - 19.2:
+        non_striker: ML Karlsen
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: S Hojholt
+    - 19.3:
+        non_striker: ML Karlsen
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: S Hojholt
+        wicket:
+          player_out: S Hojholt
+          fielders:
+          - V Stolle
+          kind: caught
+    - 19.4:
+        non_striker: ML Karlsen
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: C Ostergaard
+    - 19.5:
+        non_striker: ML Karlsen
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: C Ostergaard
+    - 19.6:
+        non_striker: ML Karlsen
+        bowler: Rameesha Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: C Ostergaard
+    target:
+      overs: 20
+      runs: 120

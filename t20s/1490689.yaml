@@ -1,0 +1,2386 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Southampton
+  dates:
+  - '2026-06-19'
+  gender: female
+  match_type: T20
+  match_type_number: 2874
+  outcome:
+    winner: New Zealand
+    by:
+      runs: 4
+  overs: 20
+  player_of_match:
+  - AC Kerr
+  players:
+    New Zealand:
+    - IC Gaze
+    - GE Plimmer
+    - AC Kerr
+    - ML Green
+    - BM Halliday
+    - IG Sharp
+    - SW Bates
+    - JM Kerr
+    - NH Patel
+    - RA Mair
+    - BG Illing
+    Ireland:
+    - A Hunter
+    - GH Lewis
+    - O Prendergast
+    - R Stokell
+    - L Little
+    - L Paul
+    - A Tector
+    - AN Kelly
+    - AK Maguire
+    - LA McBride
+    - C Murray
+  registry:
+    people:
+      A Hunter: e8fa03ed
+      A Tector: d58e9bfb
+      AC Kerr: 7673c908
+      AK Maguire: f888a374
+      AN Kelly: 397369e0
+      AY Harris: 90d95b82
+      BG Illing: 80a0cd77
+      BM Halliday: efb6cb2a
+      C Murray: 5a50471c
+      Eloise Sheridan: d8d43840
+      GE Plimmer: 575494db
+      GH Lewis: 1b9d1579
+      IC Gaze: 60c250bf
+      IG Sharp: 4de0779a
+      JM Kerr: 9af58032
+      L Little: 4f86926b
+      L Paul: '07248d8e'
+      LA McBride: 9bd0d19d
+      ML Green: 865eae1f
+      NH Patel: d945db3e
+      O Prendergast: d8f20ba5
+      R Stokell: def7b1bb
+      RA Mair: d5eb8b84
+      S Redfern: 5b038989
+      SA Fritz: d15e60c8
+      SW Bates: 89bbc67a
+      Shathira Jakir: 6b992a6f
+  team_type: international
+  teams:
+  - New Zealand
+  - Ireland
+  toss:
+    winner: Ireland
+    decision: field
+  umpires:
+  - Eloise Sheridan
+  - S Redfern
+  venue: The Rose Bowl, Southampton
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: GE Plimmer
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: IC Gaze
+    - 0.2:
+        non_striker: GE Plimmer
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.2'
+        batsman: IC Gaze
+    - 0.3:
+        non_striker: IC Gaze
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: GE Plimmer
+    - 0.4:
+        non_striker: IC Gaze
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.4'
+        batsman: GE Plimmer
+    - 0.5:
+        non_striker: IC Gaze
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: GE Plimmer
+    - 0.6:
+        non_striker: IC Gaze
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: GE Plimmer
+        wicket:
+          player_out: GE Plimmer
+          fielders:
+          - AN Kelly
+          kind: caught
+    - 1.1:
+        non_striker: AC Kerr
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.1'
+        batsman: IC Gaze
+    - 1.2:
+        non_striker: AC Kerr
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: IC Gaze
+        wicket:
+          player_out: IC Gaze
+          kind: bowled
+    - 1.3:
+        non_striker: AC Kerr
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: ML Green
+    - 1.4:
+        non_striker: AC Kerr
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: ML Green
+    - 1.5:
+        non_striker: AC Kerr
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: ML Green
+    - 1.6:
+        non_striker: AC Kerr
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: ML Green
+    - 1.7:
+        non_striker: ML Green
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: AC Kerr
+    - 2.1:
+        non_striker: ML Green
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: AC Kerr
+    - 2.2:
+        non_striker: ML Green
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: AC Kerr
+    - 2.3:
+        non_striker: ML Green
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: AC Kerr
+    - 2.4:
+        non_striker: AC Kerr
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: ML Green
+    - 2.5:
+        non_striker: AC Kerr
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: ML Green
+    - 2.6:
+        non_striker: AC Kerr
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: ML Green
+    - 3.1:
+        non_striker: AC Kerr
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: ML Green
+        wicket:
+          player_out: ML Green
+          kind: bowled
+    - 3.2:
+        non_striker: AC Kerr
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '3.2'
+        batsman: BM Halliday
+    - 3.3:
+        non_striker: BM Halliday
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.3'
+        batsman: AC Kerr
+    - 3.4:
+        non_striker: BM Halliday
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: AC Kerr
+    - 3.5:
+        non_striker: AC Kerr
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: BM Halliday
+    - 3.6:
+        non_striker: AC Kerr
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: BM Halliday
+    - 4.1:
+        non_striker: BM Halliday
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: AC Kerr
+    - 4.2:
+        non_striker: AC Kerr
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: BM Halliday
+    - 4.3:
+        non_striker: AC Kerr
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: BM Halliday
+    - 4.4:
+        non_striker: BM Halliday
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: AC Kerr
+    - 4.5:
+        non_striker: BM Halliday
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: AC Kerr
+    - 4.6:
+        non_striker: BM Halliday
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: AC Kerr
+    - 5.1:
+        non_striker: BM Halliday
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: AC Kerr
+    - 5.2:
+        non_striker: BM Halliday
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: AC Kerr
+    - 5.3:
+        non_striker: BM Halliday
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: AC Kerr
+    - 5.4:
+        non_striker: BM Halliday
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.4'
+        batsman: AC Kerr
+    - 5.5:
+        non_striker: BM Halliday
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: AC Kerr
+    - 5.6:
+        non_striker: BM Halliday
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.6'
+        batsman: AC Kerr
+    - 6.1:
+        non_striker: AC Kerr
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.1'
+        batsman: BM Halliday
+    - 6.2:
+        non_striker: AC Kerr
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: BM Halliday
+    - 6.3:
+        non_striker: BM Halliday
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: AC Kerr
+    - 6.4:
+        non_striker: AC Kerr
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: BM Halliday
+    - 6.5:
+        non_striker: BM Halliday
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.5'
+        batsman: AC Kerr
+    - 6.6:
+        non_striker: BM Halliday
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: AC Kerr
+    - 7.1:
+        non_striker: BM Halliday
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: AC Kerr
+    - 7.2:
+        non_striker: AC Kerr
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: BM Halliday
+    - 7.3:
+        non_striker: BM Halliday
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: AC Kerr
+    - 7.4:
+        non_striker: AC Kerr
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: BM Halliday
+    - 7.5:
+        non_striker: BM Halliday
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: AC Kerr
+    - 7.6:
+        non_striker: AC Kerr
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: BM Halliday
+    - 8.1:
+        non_striker: BM Halliday
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: AC Kerr
+    - 8.2:
+        non_striker: BM Halliday
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: AC Kerr
+        wicket:
+          player_out: AC Kerr
+          fielders:
+          - L Little
+          kind: caught
+    - 8.3:
+        non_striker: BM Halliday
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: IG Sharp
+    - 8.4:
+        non_striker: BM Halliday
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: IG Sharp
+    - 8.5:
+        non_striker: IG Sharp
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.5'
+        batsman: BM Halliday
+    - 8.6:
+        non_striker: IG Sharp
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: BM Halliday
+    - 9.1:
+        non_striker: BM Halliday
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: IG Sharp
+    - 9.2:
+        non_striker: BM Halliday
+        bowler: LA McBride
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.2'
+        batsman: IG Sharp
+    - 9.3:
+        non_striker: BM Halliday
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: IG Sharp
+    - 9.4:
+        non_striker: IG Sharp
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: BM Halliday
+    - 9.5:
+        non_striker: BM Halliday
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: IG Sharp
+    - 9.6:
+        non_striker: BM Halliday
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.5'
+        batsman: IG Sharp
+    - 9.7:
+        non_striker: BM Halliday
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: IG Sharp
+    - 10.1:
+        non_striker: BM Halliday
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: IG Sharp
+    - 10.2:
+        non_striker: BM Halliday
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: IG Sharp
+    - 10.3:
+        non_striker: IG Sharp
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: BM Halliday
+    - 10.4:
+        non_striker: IG Sharp
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.4'
+        batsman: BM Halliday
+    - 10.5:
+        non_striker: IG Sharp
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: BM Halliday
+    - 10.6:
+        non_striker: IG Sharp
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: BM Halliday
+    - 11.1:
+        non_striker: IG Sharp
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: BM Halliday
+    - 11.2:
+        non_striker: BM Halliday
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.2'
+        batsman: IG Sharp
+    - 11.3:
+        non_striker: BM Halliday
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: IG Sharp
+    - 11.4:
+        non_striker: BM Halliday
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: IG Sharp
+    - 11.5:
+        non_striker: IG Sharp
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: BM Halliday
+    - 11.6:
+        non_striker: BM Halliday
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: IG Sharp
+    - 12.1:
+        non_striker: BM Halliday
+        bowler: AK Maguire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.1'
+        batsman: IG Sharp
+    - 12.2:
+        non_striker: BM Halliday
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: IG Sharp
+    - 12.3:
+        non_striker: BM Halliday
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.2'
+        batsman: IG Sharp
+    - 12.4:
+        non_striker: BM Halliday
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.3'
+        batsman: IG Sharp
+    - 12.5:
+        non_striker: BM Halliday
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: IG Sharp
+    - 12.6:
+        non_striker: IG Sharp
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: BM Halliday
+    - 12.7:
+        non_striker: BM Halliday
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.6'
+        batsman: IG Sharp
+    - 13.1:
+        non_striker: IG Sharp
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.1'
+        batsman: BM Halliday
+    - 13.2:
+        non_striker: IG Sharp
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: BM Halliday
+    - 13.3:
+        non_striker: IG Sharp
+        bowler: LA McBride
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.3'
+        batsman: BM Halliday
+    - 13.4:
+        non_striker: IG Sharp
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: BM Halliday
+    - 13.5:
+        non_striker: IG Sharp
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: BM Halliday
+    - 13.6:
+        non_striker: BM Halliday
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: IG Sharp
+    - 13.7:
+        non_striker: IG Sharp
+        bowler: LA McBride
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: BM Halliday
+    - 14.1:
+        non_striker: IG Sharp
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: BM Halliday
+    - 14.2:
+        non_striker: IG Sharp
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.2'
+        batsman: BM Halliday
+    - 14.3:
+        non_striker: IG Sharp
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: BM Halliday
+    - 14.4:
+        non_striker: BM Halliday
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: IG Sharp
+    - 14.5:
+        non_striker: IG Sharp
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: BM Halliday
+    - 14.6:
+        non_striker: BM Halliday
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.6'
+        batsman: IG Sharp
+    - 15.1:
+        non_striker: IG Sharp
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: BM Halliday
+    - 15.2:
+        non_striker: BM Halliday
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: IG Sharp
+    - 15.3:
+        non_striker: IG Sharp
+        bowler: AN Kelly
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        actual_delivery: '15.3'
+        batsman: BM Halliday
+    - 15.4:
+        non_striker: IG Sharp
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: BM Halliday
+    - 15.5:
+        non_striker: BM Halliday
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: IG Sharp
+    - 15.6:
+        non_striker: IG Sharp
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: BM Halliday
+    - 16.1:
+        non_striker: IG Sharp
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: BM Halliday
+    - 16.2:
+        non_striker: BM Halliday
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: IG Sharp
+    - 16.3:
+        non_striker: IG Sharp
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.3'
+        batsman: BM Halliday
+    - 16.4:
+        non_striker: IG Sharp
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: BM Halliday
+        wicket:
+          player_out: BM Halliday
+          fielders:
+          - LA McBride
+          kind: caught
+    - 16.5:
+        non_striker: IG Sharp
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: SW Bates
+    - 16.6:
+        non_striker: IG Sharp
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: SW Bates
+    - 17.1:
+        non_striker: IG Sharp
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: SW Bates
+    - 17.2:
+        non_striker: SW Bates
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.2'
+        batsman: IG Sharp
+    - 17.3:
+        non_striker: SW Bates
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: IG Sharp
+    - 17.4:
+        non_striker: IG Sharp
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: SW Bates
+    - 17.5:
+        non_striker: SW Bates
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: IG Sharp
+    - 17.6:
+        non_striker: IG Sharp
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: SW Bates
+    - 18.1:
+        non_striker: IG Sharp
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: SW Bates
+    - 18.2:
+        non_striker: IG Sharp
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.2'
+        batsman: SW Bates
+    - 18.3:
+        non_striker: IG Sharp
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: SW Bates
+    - 18.4:
+        non_striker: SW Bates
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: IG Sharp
+        wicket:
+          player_out: IG Sharp
+          fielders:
+          - O Prendergast
+          kind: caught
+    - 18.5:
+        non_striker: SW Bates
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: JM Kerr
+    - 18.6:
+        non_striker: JM Kerr
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.6'
+        batsman: SW Bates
+    - 19.1:
+        non_striker: SW Bates
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.1'
+        batsman: JM Kerr
+    - 19.2:
+        non_striker: SW Bates
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: JM Kerr
+    - 19.3:
+        non_striker: JM Kerr
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '19.2'
+        batsman: SW Bates
+    - 19.4:
+        non_striker: SW Bates
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.3'
+        batsman: JM Kerr
+    - 19.5:
+        non_striker: SW Bates
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: JM Kerr
+    - 19.6:
+        non_striker: JM Kerr
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.5'
+        batsman: SW Bates
+    - 19.7:
+        non_striker: JM Kerr
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.6'
+        batsman: SW Bates
+- 2nd innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: GH Lewis
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.1'
+        batsman: A Hunter
+    - 0.2:
+        non_striker: A Hunter
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: GH Lewis
+    - 0.3:
+        non_striker: A Hunter
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: GH Lewis
+    - 0.4:
+        non_striker: A Hunter
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: GH Lewis
+    - 0.5:
+        non_striker: A Hunter
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: GH Lewis
+    - 0.6:
+        non_striker: A Hunter
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.6'
+        batsman: GH Lewis
+    - 1.1:
+        non_striker: GH Lewis
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: A Hunter
+    - 1.2:
+        non_striker: A Hunter
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: GH Lewis
+    - 1.3:
+        non_striker: A Hunter
+        bowler: BG Illing
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.3'
+        batsman: GH Lewis
+    - 1.4:
+        non_striker: A Hunter
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: GH Lewis
+    - 1.5:
+        non_striker: A Hunter
+        bowler: BG Illing
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '1.4'
+        batsman: GH Lewis
+    - 1.6:
+        non_striker: GH Lewis
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: A Hunter
+        wicket:
+          player_out: A Hunter
+          kind: bowled
+    - 1.7:
+        non_striker: GH Lewis
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: O Prendergast
+    - 2.1:
+        non_striker: O Prendergast
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.1'
+        batsman: GH Lewis
+    - 2.2:
+        non_striker: O Prendergast
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: GH Lewis
+    - 2.3:
+        non_striker: GH Lewis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: O Prendergast
+    - 2.4:
+        non_striker: O Prendergast
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.4'
+        batsman: GH Lewis
+    - 2.5:
+        non_striker: O Prendergast
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: GH Lewis
+    - 2.6:
+        non_striker: GH Lewis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: O Prendergast
+    - 3.1:
+        non_striker: O Prendergast
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: GH Lewis
+    - 3.2:
+        non_striker: O Prendergast
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: GH Lewis
+    - 3.3:
+        non_striker: GH Lewis
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: O Prendergast
+    - 3.4:
+        non_striker: GH Lewis
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.4'
+        batsman: O Prendergast
+    - 3.5:
+        non_striker: GH Lewis
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: O Prendergast
+    - 3.6:
+        non_striker: GH Lewis
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: O Prendergast
+    - 4.1:
+        non_striker: O Prendergast
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: GH Lewis
+    - 4.2:
+        non_striker: O Prendergast
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.2'
+        batsman: GH Lewis
+    - 4.3:
+        non_striker: O Prendergast
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: GH Lewis
+    - 4.4:
+        non_striker: GH Lewis
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: O Prendergast
+    - 4.5:
+        non_striker: GH Lewis
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: O Prendergast
+    - 4.6:
+        non_striker: GH Lewis
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: O Prendergast
+    - 5.1:
+        non_striker: GH Lewis
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: O Prendergast
+    - 5.2:
+        non_striker: GH Lewis
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.2'
+        batsman: O Prendergast
+    - 5.3:
+        non_striker: GH Lewis
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: O Prendergast
+    - 5.4:
+        non_striker: GH Lewis
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: O Prendergast
+    - 5.5:
+        non_striker: O Prendergast
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: GH Lewis
+    - 5.6:
+        non_striker: O Prendergast
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.6'
+        batsman: GH Lewis
+    - 6.1:
+        non_striker: GH Lewis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: O Prendergast
+    - 6.2:
+        non_striker: O Prendergast
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.2'
+        batsman: GH Lewis
+    - 6.3:
+        non_striker: O Prendergast
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: GH Lewis
+    - 6.4:
+        non_striker: O Prendergast
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: GH Lewis
+    - 6.5:
+        non_striker: GH Lewis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: O Prendergast
+    - 6.6:
+        non_striker: GH Lewis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: O Prendergast
+    - 7.1:
+        non_striker: GH Lewis
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: O Prendergast
+    - 7.2:
+        non_striker: GH Lewis
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: O Prendergast
+    - 7.3:
+        non_striker: GH Lewis
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: O Prendergast
+    - 7.4:
+        non_striker: O Prendergast
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: GH Lewis
+    - 7.5:
+        non_striker: O Prendergast
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: GH Lewis
+    - 7.6:
+        non_striker: GH Lewis
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.6'
+        batsman: O Prendergast
+    - 8.1:
+        non_striker: O Prendergast
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: GH Lewis
+    - 8.2:
+        non_striker: GH Lewis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: O Prendergast
+    - 8.3:
+        non_striker: O Prendergast
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: GH Lewis
+    - 8.4:
+        non_striker: O Prendergast
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.4'
+        batsman: GH Lewis
+    - 8.5:
+        non_striker: O Prendergast
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: GH Lewis
+    - 8.6:
+        non_striker: O Prendergast
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: GH Lewis
+    - 9.1:
+        non_striker: O Prendergast
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: GH Lewis
+    - 9.2:
+        non_striker: GH Lewis
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: O Prendergast
+    - 9.3:
+        non_striker: O Prendergast
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: GH Lewis
+    - 9.4:
+        non_striker: O Prendergast
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: GH Lewis
+    - 9.5:
+        non_striker: O Prendergast
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.5'
+        batsman: GH Lewis
+    - 9.6:
+        non_striker: O Prendergast
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: GH Lewis
+    - 10.1:
+        non_striker: GH Lewis
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: O Prendergast
+    - 10.2:
+        non_striker: O Prendergast
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: GH Lewis
+    - 10.3:
+        non_striker: GH Lewis
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.3'
+        batsman: O Prendergast
+    - 10.4:
+        non_striker: GH Lewis
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: O Prendergast
+    - 10.5:
+        non_striker: O Prendergast
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: GH Lewis
+    - 10.6:
+        non_striker: GH Lewis
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: O Prendergast
+    - 11.1:
+        non_striker: GH Lewis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: O Prendergast
+    - 11.2:
+        non_striker: O Prendergast
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: GH Lewis
+    - 11.3:
+        non_striker: GH Lewis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: O Prendergast
+    - 11.4:
+        non_striker: GH Lewis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: O Prendergast
+    - 11.5:
+        non_striker: GH Lewis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: O Prendergast
+    - 11.6:
+        non_striker: GH Lewis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: O Prendergast
+    - 12.1:
+        non_striker: GH Lewis
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.1'
+        batsman: O Prendergast
+    - 12.2:
+        non_striker: GH Lewis
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.2'
+        batsman: O Prendergast
+    - 12.3:
+        non_striker: GH Lewis
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: O Prendergast
+    - 12.4:
+        non_striker: O Prendergast
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.4'
+        batsman: GH Lewis
+    - 12.5:
+        non_striker: O Prendergast
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: GH Lewis
+    - 12.6:
+        non_striker: GH Lewis
+        bowler: NH Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: O Prendergast
+    - 13.1:
+        non_striker: GH Lewis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: O Prendergast
+    - 13.2:
+        non_striker: GH Lewis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: O Prendergast
+    - 13.3:
+        non_striker: GH Lewis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.3'
+        batsman: O Prendergast
+    - 13.4:
+        non_striker: GH Lewis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: O Prendergast
+    - 13.5:
+        non_striker: O Prendergast
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: GH Lewis
+    - 13.6:
+        non_striker: GH Lewis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: O Prendergast
+    - 14.1:
+        non_striker: GH Lewis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: O Prendergast
+    - 14.2:
+        non_striker: O Prendergast
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: GH Lewis
+    - 14.3:
+        non_striker: GH Lewis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: O Prendergast
+    - 14.4:
+        non_striker: GH Lewis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: O Prendergast
+    - 14.5:
+        non_striker: O Prendergast
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: GH Lewis
+    - 14.6:
+        non_striker: GH Lewis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.6'
+        batsman: O Prendergast
+    - 15.1:
+        non_striker: O Prendergast
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: GH Lewis
+    - 15.2:
+        non_striker: GH Lewis
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: O Prendergast
+    - 15.3:
+        non_striker: O Prendergast
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.3'
+        batsman: GH Lewis
+    - 15.4:
+        non_striker: O Prendergast
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.4'
+        batsman: GH Lewis
+    - 15.5:
+        non_striker: O Prendergast
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: GH Lewis
+    - 15.6:
+        non_striker: GH Lewis
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: O Prendergast
+    - 16.1:
+        non_striker: GH Lewis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: O Prendergast
+    - 16.2:
+        non_striker: O Prendergast
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: GH Lewis
+    - 16.3:
+        non_striker: O Prendergast
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: GH Lewis
+    - 16.4:
+        non_striker: O Prendergast
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.4'
+        batsman: GH Lewis
+    - 16.5:
+        non_striker: O Prendergast
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: GH Lewis
+    - 16.6:
+        non_striker: GH Lewis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: O Prendergast
+    - 17.1:
+        non_striker: GH Lewis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: O Prendergast
+    - 17.2:
+        non_striker: GH Lewis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.2'
+        batsman: O Prendergast
+    - 17.3:
+        non_striker: GH Lewis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.3'
+        batsman: O Prendergast
+    - 17.4:
+        non_striker: GH Lewis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: O Prendergast
+        wicket:
+          player_out: O Prendergast
+          fielders:
+          - ML Green
+          kind: caught
+    - 17.5:
+        non_striker: GH Lewis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: R Stokell
+    - 17.6:
+        non_striker: GH Lewis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: R Stokell
+        wicket:
+          player_out: R Stokell
+          fielders:
+          - JM Kerr
+          kind: caught
+    - 18.1:
+        non_striker: L Little
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: GH Lewis
+    - 18.2:
+        non_striker: GH Lewis
+        bowler: RA Mair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '18.2'
+        batsman: L Little
+    - 18.3:
+        non_striker: L Little
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.3'
+        batsman: GH Lewis
+    - 18.4:
+        non_striker: L Little
+        bowler: RA Mair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.4'
+        batsman: GH Lewis
+    - 18.5:
+        non_striker: L Little
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: GH Lewis
+        wicket:
+          player_out: GH Lewis
+          fielders:
+          - SW Bates
+          kind: caught
+    - 18.6:
+        non_striker: L Little
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: L Paul
+    - 18.7:
+        non_striker: L Paul
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.6'
+        batsman: L Little
+    - 19.1:
+        non_striker: L Little
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.1'
+        batsman: L Paul
+    - 19.2:
+        non_striker: L Little
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.2'
+        batsman: L Paul
+    - 19.3:
+        non_striker: L Little
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.3'
+        batsman: L Paul
+    - 19.4:
+        non_striker: L Little
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: L Paul
+    - 19.5:
+        non_striker: L Paul
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.5'
+        batsman: L Little
+    - 19.6:
+        non_striker: L Paul
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: L Little
+    target:
+      overs: 20
+      runs: 141

@@ -1,0 +1,1173 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangi
+  dates:
+  - '2026-06-06'
+  gender: female
+  match_type: T20
+  match_type_number: 2825
+  outcome:
+    winner: Oman
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - PE Mendonca
+  players:
+    Saudi Arabia:
+    - Mashael Waqas
+    - Abeer Maryam
+    - Najwa Akram
+    - Sara
+    - Laiba
+    - Nimra Ghazanfar
+    - Maheen Aamir
+    - Usrah Umar Farooq
+    - Ashmal Hashmi
+    - Mah Noor
+    - Laiba Nasrullah
+    Oman:
+    - J Gunasekar
+    - N Joshi
+    - Fiza
+    - PE Mendonca
+    - Sameera Khan
+    - A Dcosta
+    - CM Saldanha
+    - Alifiya Sayed
+    - Afida Afthab
+    - Javed Hina
+    - Lujaina
+  registry:
+    people:
+      A Dcosta: 3a4d914f
+      AS Guha: c21b184d
+      Abeer Maryam: 8067b378
+      Afida Afthab: 9446598e
+      Alifiya Sayed: '81423620'
+      Ashmal Hashmi: 9eaf6e16
+      CM Saldanha: aee1bc06
+      Edwin Seah: be24f868
+      Fiza: c7c60bc5
+      J Gunasekar: e50c13a5
+      Javed Hina: a487762e
+      L Poobalan: 93cc9718
+      LDVV Silva: 6e226c31
+      Laiba: 963b1a9d
+      Laiba Nasrullah: e7a3e3a0
+      Lujaina: 76a3af9b
+      Mah Noor: 1252c950
+      Maheen Aamir: 0246f4c3
+      Mashael Waqas: 7ea926c6
+      N Joshi: cfece11f
+      Najwa Akram: a1cb1472
+      Nimra Ghazanfar: 9b2159a6
+      PE Mendonca: 70bab30b
+      Sameera Khan: 237baa2c
+      Sara: 2c78e246
+      Usrah Umar Farooq: 0d0b8575
+  teams:
+  - Saudi Arabia
+  - Oman
+  toss:
+    winner: Oman
+    decision: field
+  umpires:
+  - AS Guha
+  - LDVV Silva
+  venue: YSD-UKM Cricket Oval, Bangi
+  team_type: international
+innings:
+- 1st innings:
+    team: Saudi Arabia
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Alifiya Sayed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Abeer Maryam
+        batsman: Mashael Waqas
+    - 0.2:
+        actual_delivery: '0.1'
+        bowler: Alifiya Sayed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Abeer Maryam
+        batsman: Mashael Waqas
+    - 0.3:
+        actual_delivery: '0.1'
+        non_striker: Abeer Maryam
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashael Waqas
+        wicket:
+          player_out: Mashael Waqas
+          fielders:
+          - Fiza
+          kind: caught
+    - 0.4:
+        actual_delivery: '0.2'
+        non_striker: Abeer Maryam
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najwa Akram
+    - 0.5:
+        actual_delivery: '0.3'
+        non_striker: Abeer Maryam
+        bowler: Alifiya Sayed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Najwa Akram
+    - 0.6:
+        actual_delivery: '0.3'
+        non_striker: Abeer Maryam
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najwa Akram
+    - 0.7:
+        actual_delivery: '0.4'
+        non_striker: Abeer Maryam
+        bowler: Alifiya Sayed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Najwa Akram
+    - 0.8:
+        actual_delivery: '0.4'
+        non_striker: Abeer Maryam
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najwa Akram
+    - 0.9:
+        actual_delivery: '0.5'
+        non_striker: Abeer Maryam
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najwa Akram
+    - 0.10:
+        actual_delivery: '0.6'
+        non_striker: Najwa Akram
+        bowler: Alifiya Sayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Abeer Maryam
+        bowler: Afida Afthab
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Najwa Akram
+    - 1.2:
+        actual_delivery: '1.1'
+        non_striker: Abeer Maryam
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najwa Akram
+    - 1.3:
+        actual_delivery: '1.2'
+        non_striker: Abeer Maryam
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najwa Akram
+    - 1.4:
+        actual_delivery: '1.3'
+        non_striker: Abeer Maryam
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najwa Akram
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: Abeer Maryam
+        bowler: Afida Afthab
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Najwa Akram
+    - 1.6:
+        actual_delivery: '1.4'
+        non_striker: Abeer Maryam
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najwa Akram
+    - 1.7:
+        actual_delivery: '1.5'
+        non_striker: Abeer Maryam
+        bowler: Afida Afthab
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Najwa Akram
+    - 1.8:
+        actual_delivery: '1.5'
+        non_striker: Abeer Maryam
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najwa Akram
+    - 1.9:
+        actual_delivery: '1.6'
+        non_striker: Abeer Maryam
+        bowler: Afida Afthab
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najwa Akram
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Najwa Akram
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Najwa Akram
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: Najwa Akram
+        bowler: A Dcosta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abeer Maryam
+    - 2.4:
+        actual_delivery: '2.3'
+        non_striker: Najwa Akram
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 2.5:
+        actual_delivery: '2.4'
+        non_striker: Najwa Akram
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeer Maryam
+    - 2.6:
+        actual_delivery: '2.5'
+        non_striker: Abeer Maryam
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Najwa Akram
+    - 2.7:
+        actual_delivery: '2.6'
+        non_striker: Abeer Maryam
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najwa Akram
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Najwa Akram
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Najwa Akram
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: Najwa Akram
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: Najwa Akram
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeer Maryam
+        wicket:
+          player_out: Abeer Maryam
+          fielders:
+          - CM Saldanha
+          kind: caught
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: Najwa Akram
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sara
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: Najwa Akram
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sara
+        wicket:
+          player_out: Sara
+          kind: lbw
+    - 4.1:
+        actual_delivery: '4.1'
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Laiba
+        batsman: Najwa Akram
+    - 4.2:
+        actual_delivery: '4.2'
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Laiba
+        batsman: Najwa Akram
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: Najwa Akram
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Laiba
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Najwa Akram
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Laiba
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: Najwa Akram
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Laiba
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: Najwa Akram
+        bowler: A Dcosta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Laiba
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Laiba
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najwa Akram
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Laiba
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najwa Akram
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Laiba
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najwa Akram
+        wicket:
+          player_out: Najwa Akram
+          kind: lbw
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Laiba
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nimra Ghazanfar
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: Laiba
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nimra Ghazanfar
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: Laiba
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nimra Ghazanfar
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: Nimra Ghazanfar
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Laiba
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: Nimra Ghazanfar
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Laiba
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: Laiba
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nimra Ghazanfar
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Laiba
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nimra Ghazanfar
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Laiba
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nimra Ghazanfar
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: Nimra Ghazanfar
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Laiba
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Laiba
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nimra Ghazanfar
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: Laiba
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nimra Ghazanfar
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: Laiba
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nimra Ghazanfar
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: Laiba
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nimra Ghazanfar
+        wicket:
+          player_out: Nimra Ghazanfar
+          fielders:
+          - Afida Afthab
+          kind: caught
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: Laiba
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maheen Aamir
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: Maheen Aamir
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Laiba
+        wicket:
+          player_out: Laiba
+          kind: bowled
+    - 8.1:
+        actual_delivery: '8.1'
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Usrah Umar Farooq
+        batsman: Maheen Aamir
+    - 8.2:
+        actual_delivery: '8.2'
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Usrah Umar Farooq
+        batsman: Maheen Aamir
+    - 8.3:
+        actual_delivery: '8.3'
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Usrah Umar Farooq
+        batsman: Maheen Aamir
+    - 8.4:
+        actual_delivery: '8.4'
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Usrah Umar Farooq
+        batsman: Maheen Aamir
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: Maheen Aamir
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usrah Umar Farooq
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: Maheen Aamir
+        bowler: J Gunasekar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Usrah Umar Farooq
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: Maheen Aamir
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usrah Umar Farooq
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: Maheen Aamir
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usrah Umar Farooq
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: Maheen Aamir
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usrah Umar Farooq
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: Usrah Umar Farooq
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maheen Aamir
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: Usrah Umar Farooq
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maheen Aamir
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: Usrah Umar Farooq
+        bowler: PE Mendonca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maheen Aamir
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Maheen Aamir
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usrah Umar Farooq
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Maheen Aamir
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usrah Umar Farooq
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: Maheen Aamir
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usrah Umar Farooq
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: Maheen Aamir
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usrah Umar Farooq
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: Maheen Aamir
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usrah Umar Farooq
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: Maheen Aamir
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usrah Umar Farooq
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Maheen Aamir
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usrah Umar Farooq
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Maheen Aamir
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usrah Umar Farooq
+        wicket:
+          player_out: Usrah Umar Farooq
+          kind: lbw
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: Maheen Aamir
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashmal Hashmi
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: Ashmal Hashmi
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maheen Aamir
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: Ashmal Hashmi
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maheen Aamir
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: Ashmal Hashmi
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maheen Aamir
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: Maheen Aamir
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashmal Hashmi
+        wicket:
+          player_out: Ashmal Hashmi
+          fielders:
+          - Lujaina
+          kind: caught
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Maheen Aamir
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mah Noor
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Maheen Aamir
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mah Noor
+        wicket:
+          player_out: Mah Noor
+          kind: bowled
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Maheen Aamir
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Laiba Nasrullah
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Maheen Aamir
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Laiba Nasrullah
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: Maheen Aamir
+        bowler: J Gunasekar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Laiba Nasrullah
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Laiba Nasrullah
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maheen Aamir
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Laiba Nasrullah
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maheen Aamir
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Laiba Nasrullah
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maheen Aamir
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Laiba Nasrullah
+        bowler: Fiza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Maheen Aamir
+    - 13.5:
+        actual_delivery: '13.4'
+        non_striker: Laiba Nasrullah
+        bowler: Fiza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maheen Aamir
+        wicket:
+          player_out: Maheen Aamir
+          kind: bowled
+- 2nd innings:
+    team: Oman
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: N Joshi
+        batsman: J Gunasekar
+    - 0.2:
+        actual_delivery: '0.1'
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: N Joshi
+        batsman: J Gunasekar
+    - 0.3:
+        actual_delivery: '0.2'
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: N Joshi
+        batsman: J Gunasekar
+    - 0.4:
+        actual_delivery: '0.3'
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Joshi
+        batsman: J Gunasekar
+    - 0.5:
+        actual_delivery: '0.4'
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Joshi
+        batsman: J Gunasekar
+    - 0.6:
+        actual_delivery: '0.5'
+        non_striker: J Gunasekar
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: N Joshi
+    - 0.7:
+        actual_delivery: '0.6'
+        non_striker: N Joshi
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: N Joshi
+        bowler: Najwa Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: J Gunasekar
+        bowler: Najwa Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Joshi
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: J Gunasekar
+        bowler: Najwa Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Joshi
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: J Gunasekar
+        bowler: Najwa Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Joshi
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: J Gunasekar
+        bowler: Najwa Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Joshi
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: J Gunasekar
+        bowler: Najwa Akram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Joshi
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: N Joshi
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Gunasekar
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: N Joshi
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Gunasekar
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: N Joshi
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gunasekar
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: N Joshi
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Gunasekar
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: N Joshi
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: J Gunasekar
+    - 2.6:
+        actual_delivery: '2.5'
+        non_striker: N Joshi
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Gunasekar
+    - 2.7:
+        actual_delivery: '2.6'
+        non_striker: N Joshi
+        bowler: Laiba Nasrullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: N Joshi
+        bowler: Najwa Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gunasekar
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: J Gunasekar
+        bowler: Najwa Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Joshi
+    target:
+      overs: 20
+      runs: 39

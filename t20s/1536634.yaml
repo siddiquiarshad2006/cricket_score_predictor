@@ -1,0 +1,2171 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2026-06-06'
+  gender: female
+  match_type: T20
+  match_type_number: 2826
+  outcome:
+    winner: Kuwait
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - SL Gomez
+  players:
+    Singapore:
+    - PSR Gurusinghe
+    - Shafina Mahesh
+    - A Tomar
+    - Vinu Kumar
+    - Rashmeka Badri Narayanan
+    - DA Galia
+    - RR Seth
+    - Riyaa Bhasin
+    - H Dhavina
+    - LAR Bommareddy
+    - E Ungerman
+    Kuwait:
+    - Priyada Murali
+    - SL Gomez
+    - Amna Tariq
+    - Khadija Khalil
+    - Maria Jasvi
+    - B Shanti
+    - Zeefa Jilani
+    - Maryam Omar
+    - S Lita D'Sa
+    - CJ Dias
+    - Mariamma Hyder
+  registry:
+    people:
+      A Tomar: 2af2427a
+      Afia Amin: 7fc47de1
+      Amna Tariq: 44b53fba
+      B Shanti: f50ca46d
+      CJ Dias: 7e6a3f17
+      DA Galia: ae0b5b95
+      E Ungerman: 3959c505
+      H Dhavina: cd12f384
+      Humaira Farah: 6b6d6623
+      Khadija Khalil: 7c61a686
+      LAR Bommareddy: 3da8cd3a
+      Maria Jasvi: 4bed6af7
+      Mariamma Hyder: c8ae2573
+      Maryam Omar: b4d08794
+      PSR Gurusinghe: 591a7004
+      Priyada Murali: f4b942ae
+      RR Seth: 7ccc0a38
+      Rashmeka Badri Narayanan: 56a660cc
+      Riyaa Bhasin: 3ff26cea
+      S Lita D'Sa: a289cfa0
+      SL Gomez: 02264be0
+      SR Das: f4e52218
+      Shafina Mahesh: 0c40b02d
+      V Krithika: bcbb203c
+      Vinu Kumar: 3775b9f9
+      Zeefa Jilani: 3f2b40f0
+  teams:
+  - Singapore
+  - Kuwait
+  toss:
+    winner: Kuwait
+    decision: field
+  umpires:
+  - Afia Amin
+  - V Krithika
+  venue: Selangor Turf Club, Kuala Lumpur
+  team_type: international
+innings:
+- 1st innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shafina Mahesh
+        batsman: PSR Gurusinghe
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shafina Mahesh
+        batsman: PSR Gurusinghe
+    - 0.3:
+        actual_delivery: '0.3'
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shafina Mahesh
+        batsman: PSR Gurusinghe
+    - 0.4:
+        actual_delivery: '0.4'
+        bowler: CJ Dias
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Shafina Mahesh
+        batsman: PSR Gurusinghe
+    - 0.5:
+        actual_delivery: '0.4'
+        non_striker: Shafina Mahesh
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+        wicket:
+          player_out: Shafina Mahesh
+          fielders:
+          - S Lita D'Sa
+          kind: run out
+    - 0.6:
+        actual_delivery: '0.5'
+        non_striker: PSR Gurusinghe
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Tomar
+    - 0.7:
+        actual_delivery: '0.6'
+        non_striker: PSR Gurusinghe
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Tomar
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: PSR Gurusinghe
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Tomar
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: PSR Gurusinghe
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Tomar
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: A Tomar
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: A Tomar
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: A Tomar
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: A Tomar
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: A Tomar
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: PSR Gurusinghe
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Tomar
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: PSR Gurusinghe
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Tomar
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: PSR Gurusinghe
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Tomar
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: PSR Gurusinghe
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Tomar
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: PSR Gurusinghe
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Tomar
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: A Tomar
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: A Tomar
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: A Tomar
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+        wicket:
+          player_out: PSR Gurusinghe
+          kind: caught and bowled
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: A Tomar
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: A Tomar
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: A Tomar
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Vinu Kumar
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Vinu Kumar
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Tomar
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: Vinu Kumar
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Tomar
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: Vinu Kumar
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Tomar
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Vinu Kumar
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Tomar
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: Vinu Kumar
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Tomar
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: Vinu Kumar
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Tomar
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: A Tomar
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: A Tomar
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vinu Kumar
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: A Tomar
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Vinu Kumar
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Tomar
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: Vinu Kumar
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Tomar
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: A Tomar
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: A Tomar
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: A Tomar
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: A Tomar
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+        wicket:
+          player_out: Vinu Kumar
+          fielders:
+          - Amna Tariq
+          kind: caught
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: A Tomar
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashmeka Badri Narayanan
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: A Tomar
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashmeka Badri Narayanan
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: A Tomar
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashmeka Badri Narayanan
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Rashmeka Badri Narayanan
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Tomar
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: Rashmeka Badri Narayanan
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Tomar
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: Rashmeka Badri Narayanan
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Tomar
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: Rashmeka Badri Narayanan
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Tomar
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: Rashmeka Badri Narayanan
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Tomar
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: Rashmeka Badri Narayanan
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Tomar
+        wicket:
+          player_out: A Tomar
+          kind: caught and bowled
+    - 8.1:
+        actual_delivery: '8.1'
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DA Galia
+        batsman: Rashmeka Badri Narayanan
+    - 8.2:
+        actual_delivery: '8.2'
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DA Galia
+        batsman: Rashmeka Badri Narayanan
+    - 8.3:
+        actual_delivery: '8.3'
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DA Galia
+        batsman: Rashmeka Badri Narayanan
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: DA Galia
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashmeka Badri Narayanan
+        wicket:
+          player_out: Rashmeka Badri Narayanan
+          fielders:
+          - Priyada Murali
+          kind: caught
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: DA Galia
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: RR Seth
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: DA Galia
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Seth
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: DA Galia
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: DA Galia
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: DA Galia
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Seth
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: DA Galia
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: DA Galia
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: DA Galia
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: DA Galia
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Seth
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: DA Galia
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Seth
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: DA Galia
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Seth
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: DA Galia
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Seth
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: DA Galia
+        bowler: Mariamma Hyder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Seth
+    - 10.7:
+        actual_delivery: '10.6'
+        non_striker: DA Galia
+        bowler: Mariamma Hyder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Seth
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: RR Seth
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: RR Seth
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: DA Galia
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: RR Seth
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: RR Seth
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: DA Galia
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: RR Seth
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: RR Seth
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: DA Galia
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: DA Galia
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: RR Seth
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: RR Seth
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: RR Seth
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: RR Seth
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Galia
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: RR Seth
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: RR Seth
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+        wicket:
+          player_out: DA Galia
+          kind: bowled
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: RR Seth
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: RR Seth
+        bowler: Maryam Omar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Riyaa Bhasin
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Riyaa Bhasin
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Riyaa Bhasin
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Seth
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: Riyaa Bhasin
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: RR Seth
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: RR Seth
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: RR Seth
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: RR Seth
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: Riyaa Bhasin
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: Riyaa Bhasin
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: RR Seth
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: Riyaa Bhasin
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: Riyaa Bhasin
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Riyaa Bhasin
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: Riyaa Bhasin
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: RR Seth
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: RR Seth
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: Riyaa Bhasin
+        bowler: Amna Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: RR Seth
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: RR Seth
+        bowler: Priyada Murali
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Riyaa Bhasin
+    - 17.3:
+        actual_delivery: '17.2'
+        non_striker: Riyaa Bhasin
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Seth
+    - 17.4:
+        actual_delivery: '17.3'
+        non_striker: Riyaa Bhasin
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 17.5:
+        actual_delivery: '17.4'
+        non_striker: RR Seth
+        bowler: Priyada Murali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Riyaa Bhasin
+    - 17.6:
+        actual_delivery: '17.5'
+        non_striker: Riyaa Bhasin
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 17.7:
+        actual_delivery: '17.6'
+        non_striker: RR Seth
+        bowler: Priyada Murali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: Riyaa Bhasin
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: RR Seth
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: Riyaa Bhasin
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Seth
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: Riyaa Bhasin
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Seth
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: Riyaa Bhasin
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Seth
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: Riyaa Bhasin
+        bowler: Maria Jasvi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: RR Seth
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: Riyaa Bhasin
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: RR Seth
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Riyaa Bhasin
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: RR Seth
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: Riyaa Bhasin
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Seth
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: Riyaa Bhasin
+        bowler: CJ Dias
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+- 2nd innings:
+    team: Kuwait
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SL Gomez
+        batsman: Priyada Murali
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SL Gomez
+        batsman: Priyada Murali
+    - 0.3:
+        actual_delivery: '0.3'
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SL Gomez
+        batsman: Priyada Murali
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: Priyada Murali
+        bowler: E Ungerman
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: SL Gomez
+    - 0.5:
+        actual_delivery: '0.4'
+        non_striker: SL Gomez
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 0.6:
+        actual_delivery: '0.5'
+        non_striker: SL Gomez
+        bowler: E Ungerman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Priyada Murali
+    - 0.7:
+        actual_delivery: '0.5'
+        non_striker: SL Gomez
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 0.8:
+        actual_delivery: '0.6'
+        non_striker: SL Gomez
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Priyada Murali
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: SL Gomez
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: SL Gomez
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Priyada Murali
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: SL Gomez
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyada Murali
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: SL Gomez
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyada Murali
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: Priyada Murali
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: SL Gomez
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: SL Gomez
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: SL Gomez
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: SL Gomez
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Priyada Murali
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: SL Gomez
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: SL Gomez
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyada Murali
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Priyada Murali
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Gomez
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Priyada Murali
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: Priyada Murali
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: SL Gomez
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyada Murali
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: SL Gomez
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Priyada Murali
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: Priyada Murali
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: SL Gomez
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: SL Gomez
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: SL Gomez
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: SL Gomez
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: SL Gomez
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyada Murali
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: SL Gomez
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Priyada Murali
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Gomez
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Priyada Murali
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Priyada Murali
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Priyada Murali
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: Priyada Murali
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: SL Gomez
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: Priyada Murali
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: Priyada Murali
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: SL Gomez
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: SL Gomez
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyada Murali
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Priyada Murali
+        bowler: Vinu Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Gomez
+    - 6.6:
+        actual_delivery: '6.5'
+        non_striker: Priyada Murali
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 6.7:
+        actual_delivery: '6.6'
+        non_striker: Priyada Murali
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Priyada Murali
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: Priyada Murali
+        bowler: RR Seth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Gomez
+    - 7.3:
+        actual_delivery: '7.2'
+        non_striker: Priyada Murali
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 7.4:
+        actual_delivery: '7.3'
+        non_striker: Priyada Murali
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 7.5:
+        actual_delivery: '7.4'
+        non_striker: SL Gomez
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyada Murali
+    - 7.6:
+        actual_delivery: '7.5'
+        non_striker: Priyada Murali
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 7.7:
+        actual_delivery: '7.6'
+        non_striker: SL Gomez
+        bowler: RR Seth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Priyada Murali
+    - 7.8:
+        actual_delivery: '7.6'
+        non_striker: SL Gomez
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Priyada Murali
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: Priyada Murali
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: Priyada Murali
+        bowler: Vinu Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Gomez
+    - 8.3:
+        actual_delivery: '8.2'
+        non_striker: Priyada Murali
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 8.4:
+        actual_delivery: '8.3'
+        non_striker: Priyada Murali
+        bowler: Vinu Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Gomez
+    - 8.5:
+        actual_delivery: '8.3'
+        non_striker: Priyada Murali
+        bowler: Vinu Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Gomez
+    - 8.6:
+        actual_delivery: '8.3'
+        non_striker: Priyada Murali
+        bowler: Vinu Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Gomez
+    - 8.7:
+        actual_delivery: '8.3'
+        non_striker: Priyada Murali
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 8.8:
+        actual_delivery: '8.4'
+        non_striker: SL Gomez
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 8.9:
+        actual_delivery: '8.5'
+        non_striker: SL Gomez
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyada Murali
+    - 8.10:
+        actual_delivery: '8.6'
+        non_striker: Priyada Murali
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: Priyada Murali
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: SL Gomez
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyada Murali
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: Priyada Murali
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: SL Gomez
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: SL Gomez
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyada Murali
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: Priyada Murali
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Priyada Murali
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: SL Gomez
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: SL Gomez
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: SL Gomez
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyada Murali
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: Priyada Murali
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Gomez
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: Priyada Murali
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Priyada Murali
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Gomez
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Priyada Murali
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: Priyada Murali
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: Priyada Murali
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Gomez
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: Priyada Murali
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: SL Gomez
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyada Murali
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: SL Gomez
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: SL Gomez
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyada Murali
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Priyada Murali
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: SL Gomez
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyada Murali
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Priyada Murali
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: SL Gomez
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Priyada Murali
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Priyada Murali
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Priyada Murali
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: SL Gomez
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyada Murali
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Priyada Murali
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: Priyada Murali
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: Priyada Murali
+        bowler: RR Seth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Gomez
+    - 13.7:
+        actual_delivery: '13.6'
+        non_striker: Priyada Murali
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Priyada Murali
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Gomez
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Priyada Murali
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Gomez
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: SL Gomez
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: SL Gomez
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyada Murali
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: Priyada Murali
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Priyada Murali
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Gomez
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: SL Gomez
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyada Murali
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: SL Gomez
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyada Murali
+    target:
+      overs: 20
+      runs: 95

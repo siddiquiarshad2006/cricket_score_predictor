@@ -1,0 +1,1099 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Singapore
+  dates:
+  - '2026-06-25'
+  gender: male
+  match_type: T20
+  match_type_number: 3986
+  outcome:
+    winner: Thailand
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - P Thongsa
+  players:
+    Uzbekistan:
+    - Luqman Hussan
+    - A Khakimov
+    - S Shermatov
+    - Saif Ullah
+    - Nikhil
+    - Syed Ahzamul Haq
+    - I Mustafoev
+    - A Musaev
+    - O Qudratov
+    - A Khasanov
+    - U Tuychiev
+    Thailand:
+    - AP Yadav
+    - C Chatphaisan
+    - P Suanchuai
+    - AV Lazarus
+    - A Wichakam
+    - C Pengkumta
+    - N Senamontree
+    - P Jirapatananukul
+    - P Thongsa
+    - P Donkaew
+    - S Rungrueang
+  registry:
+    people:
+      A Khakimov: 93883b6a
+      A Khasanov: c266599c
+      A Musaev: 19a51d59
+      A Wichakam: c9835e0a
+      AP Yadav: a5501504
+      AV Lazarus: 30c917bf
+      C Chatphaisan: 85c56be8
+      C Pengkumta: b3540b2a
+      I Mustafoev: eb45b187
+      KK Ghosh: eea3fd8e
+      Luqman Hussan: d33fce1b
+      N Senamontree: 44e00a4c
+      Nikhil: f4e3d407
+      O Qudratov: 41e04234
+      P Donkaew: 0f61aa94
+      P Jirapatananukul: f52961ea
+      P Suanchuai: e6948355
+      P Thongsa: '62318525'
+      S Rungrueang: 35ae9e8a
+      S Shermatov: a6941f24
+      Saif Ullah: '44756879'
+      Sathish Balasubramaniam: b4794f2a
+      Syed Ahzamul Haq: 7c05b23d
+      T Senthil Kumar: 961ddfac
+      U Tuychiev: c97539e6
+      VL Sinha: 93cfdc7e
+  team_type: international
+  teams:
+  - Uzbekistan
+  - Thailand
+  toss:
+    winner: Thailand
+    decision: field
+  umpires:
+  - T Senthil Kumar
+  - VL Sinha
+  venue: Singapore National Cricket Ground
+innings:
+- 1st innings:
+    team: Uzbekistan
+    deliveries:
+    - 0.1:
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: A Khakimov
+        actual_delivery: '0.1'
+        batsman: Luqman Hussan
+    - 0.2:
+        non_striker: A Khakimov
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: Luqman Hussan
+        wicket:
+          player_out: Luqman Hussan
+          fielders:
+          - P Thongsa
+          kind: caught
+    - 0.3:
+        non_striker: A Khakimov
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: S Shermatov
+    - 0.4:
+        non_striker: A Khakimov
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: S Shermatov
+    - 0.5:
+        non_striker: S Shermatov
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: A Khakimov
+    - 0.6:
+        non_striker: S Shermatov
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: A Khakimov
+    - 1.1:
+        non_striker: A Khakimov
+        bowler: A Wichakam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.1'
+        batsman: S Shermatov
+    - 1.2:
+        non_striker: A Khakimov
+        bowler: A Wichakam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: S Shermatov
+    - 1.3:
+        non_striker: A Khakimov
+        bowler: A Wichakam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: S Shermatov
+    - 1.4:
+        non_striker: A Khakimov
+        bowler: A Wichakam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: S Shermatov
+    - 1.5:
+        non_striker: A Khakimov
+        bowler: A Wichakam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: S Shermatov
+    - 1.6:
+        non_striker: S Shermatov
+        bowler: A Wichakam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: A Khakimov
+    - 1.7:
+        non_striker: S Shermatov
+        bowler: A Wichakam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: A Khakimov
+    - 2.1:
+        non_striker: A Khakimov
+        bowler: C Pengkumta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.1'
+        batsman: S Shermatov
+    - 2.2:
+        non_striker: A Khakimov
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: S Shermatov
+    - 2.3:
+        non_striker: A Khakimov
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: S Shermatov
+        wicket:
+          player_out: S Shermatov
+          fielders:
+          - P Thongsa
+          kind: caught
+    - 2.4:
+        non_striker: A Khakimov
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Saif Ullah
+    - 2.5:
+        non_striker: A Khakimov
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: Saif Ullah
+    - 2.6:
+        non_striker: Saif Ullah
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: A Khakimov
+    - 2.7:
+        non_striker: A Khakimov
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Saif Ullah
+    - 3.1:
+        non_striker: Saif Ullah
+        bowler: A Wichakam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: A Khakimov
+    - 3.2:
+        non_striker: Saif Ullah
+        bowler: A Wichakam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: A Khakimov
+    - 3.3:
+        non_striker: Saif Ullah
+        bowler: A Wichakam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: A Khakimov
+    - 3.4:
+        non_striker: Saif Ullah
+        bowler: A Wichakam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: A Khakimov
+    - 3.5:
+        non_striker: Saif Ullah
+        bowler: A Wichakam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: A Khakimov
+    - 3.6:
+        non_striker: A Khakimov
+        bowler: A Wichakam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.6'
+        batsman: Saif Ullah
+    - 4.1:
+        non_striker: Saif Ullah
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: A Khakimov
+    - 4.2:
+        non_striker: Saif Ullah
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: A Khakimov
+    - 4.3:
+        non_striker: Saif Ullah
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: A Khakimov
+    - 4.4:
+        non_striker: A Khakimov
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: Saif Ullah
+    - 4.5:
+        non_striker: A Khakimov
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Saif Ullah
+    - 4.6:
+        non_striker: A Khakimov
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Saif Ullah
+    - 5.1:
+        non_striker: Saif Ullah
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: A Khakimov
+    - 5.2:
+        non_striker: Saif Ullah
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: A Khakimov
+    - 5.3:
+        non_striker: Saif Ullah
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: A Khakimov
+    - 5.4:
+        non_striker: Saif Ullah
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: A Khakimov
+    - 5.5:
+        non_striker: Saif Ullah
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: A Khakimov
+    - 5.6:
+        non_striker: Saif Ullah
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: A Khakimov
+    - 6.1:
+        non_striker: Saif Ullah
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: A Khakimov
+        wicket:
+          player_out: A Khakimov
+          fielders:
+          - S Rungrueang
+          kind: caught
+    - 6.2:
+        non_striker: Saif Ullah
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: Nikhil
+    - 6.3:
+        non_striker: Saif Ullah
+        bowler: N Senamontree
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '6.3'
+        batsman: Nikhil
+    - 6.4:
+        non_striker: Nikhil
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Saif Ullah
+    - 6.5:
+        non_striker: Nikhil
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '6.5'
+        batsman: Saif Ullah
+    - 6.6:
+        non_striker: Nikhil
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.6'
+        batsman: Saif Ullah
+    - 7.1:
+        non_striker: Saif Ullah
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.1'
+        batsman: Nikhil
+    - 7.2:
+        non_striker: Saif Ullah
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: Nikhil
+    - 7.3:
+        non_striker: Saif Ullah
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: Nikhil
+    - 7.4:
+        non_striker: Saif Ullah
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: Nikhil
+        wicket:
+          player_out: Saif Ullah
+          fielders:
+          - AV Lazarus
+          - P Jirapatananukul
+          kind: run out
+    - 7.5:
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Syed Ahzamul Haq
+        actual_delivery: '7.5'
+        batsman: Nikhil
+    - 7.6:
+        bowler: P Jirapatananukul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Syed Ahzamul Haq
+        actual_delivery: '7.6'
+        batsman: Nikhil
+    - 7.7:
+        non_striker: Syed Ahzamul Haq
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: Nikhil
+        wicket:
+          player_out: Nikhil
+          kind: bowled
+    - 8.1:
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Mustafoev
+        actual_delivery: '8.1'
+        batsman: Syed Ahzamul Haq
+    - 8.2:
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Mustafoev
+        actual_delivery: '8.2'
+        batsman: Syed Ahzamul Haq
+    - 8.3:
+        non_striker: I Mustafoev
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: Syed Ahzamul Haq
+        wicket:
+          player_out: Syed Ahzamul Haq
+          fielders:
+          - C Pengkumta
+          kind: caught
+    - 8.4:
+        non_striker: I Mustafoev
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: A Musaev
+    - 8.5:
+        non_striker: A Musaev
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: I Mustafoev
+    - 8.6:
+        non_striker: A Musaev
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: I Mustafoev
+    - 9.1:
+        non_striker: I Mustafoev
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: A Musaev
+    - 9.2:
+        non_striker: I Mustafoev
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: A Musaev
+    - 9.3:
+        non_striker: I Mustafoev
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: A Musaev
+    - 9.4:
+        non_striker: I Mustafoev
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: A Musaev
+    - 9.5:
+        non_striker: I Mustafoev
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: A Musaev
+    - 9.6:
+        non_striker: A Musaev
+        bowler: P Jirapatananukul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: I Mustafoev
+    - 10.1:
+        non_striker: A Musaev
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: I Mustafoev
+    - 10.2:
+        non_striker: A Musaev
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: I Mustafoev
+    - 10.3:
+        non_striker: A Musaev
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: I Mustafoev
+    - 10.4:
+        non_striker: A Musaev
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: I Mustafoev
+    - 10.5:
+        non_striker: A Musaev
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: I Mustafoev
+        wicket:
+          player_out: I Mustafoev
+          kind: bowled
+    - 10.6:
+        non_striker: A Musaev
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: O Qudratov
+    - 11.1:
+        non_striker: O Qudratov
+        bowler: P Donkaew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: A Musaev
+    - 11.2:
+        non_striker: O Qudratov
+        bowler: P Donkaew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: A Musaev
+        wicket:
+          player_out: A Musaev
+          kind: bowled
+    - 11.3:
+        non_striker: O Qudratov
+        bowler: P Donkaew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: A Khasanov
+    - 11.4:
+        non_striker: O Qudratov
+        bowler: P Donkaew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: A Khasanov
+        wicket:
+          player_out: A Khasanov
+          kind: bowled
+    - 11.5:
+        non_striker: O Qudratov
+        bowler: P Donkaew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: U Tuychiev
+    - 11.6:
+        non_striker: O Qudratov
+        bowler: P Donkaew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: U Tuychiev
+    - 12.1:
+        non_striker: U Tuychiev
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: O Qudratov
+    - 12.2:
+        non_striker: O Qudratov
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: U Tuychiev
+    - 12.3:
+        non_striker: O Qudratov
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: U Tuychiev
+        wicket:
+          player_out: U Tuychiev
+          kind: bowled
+- 2nd innings:
+    team: Thailand
+    deliveries:
+    - 0.1:
+        bowler: A Khasanov
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: C Chatphaisan
+        actual_delivery: '0.1'
+        batsman: AP Yadav
+    - 0.2:
+        non_striker: AP Yadav
+        bowler: A Khasanov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.1'
+        batsman: C Chatphaisan
+    - 0.3:
+        non_striker: AP Yadav
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.1'
+        batsman: C Chatphaisan
+    - 0.4:
+        non_striker: C Chatphaisan
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: AP Yadav
+    - 0.5:
+        non_striker: C Chatphaisan
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: AP Yadav
+    - 0.6:
+        non_striker: AP Yadav
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: C Chatphaisan
+    - 0.7:
+        non_striker: AP Yadav
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: C Chatphaisan
+        wicket:
+          player_out: C Chatphaisan
+          fielders:
+          - Saif Ullah
+          kind: caught
+    - 0.8:
+        non_striker: AP Yadav
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.6'
+        batsman: P Suanchuai
+    - 1.1:
+        non_striker: P Suanchuai
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: AP Yadav
+    - 1.2:
+        non_striker: AP Yadav
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: P Suanchuai
+    - 1.3:
+        non_striker: AP Yadav
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: P Suanchuai
+    - 1.4:
+        non_striker: AP Yadav
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: P Suanchuai
+    - 1.5:
+        non_striker: AP Yadav
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.5'
+        batsman: P Suanchuai
+    - 1.6:
+        non_striker: AP Yadav
+        bowler: A Musaev
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.6'
+        batsman: P Suanchuai
+    - 1.7:
+        non_striker: AP Yadav
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.6'
+        batsman: P Suanchuai
+    - 2.1:
+        non_striker: P Suanchuai
+        bowler: A Khasanov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '2.1'
+        batsman: AP Yadav
+    - 2.2:
+        non_striker: AP Yadav
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: P Suanchuai
+    - 2.3:
+        non_striker: AP Yadav
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: P Suanchuai
+    - 2.4:
+        non_striker: AP Yadav
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        actual_delivery: '2.4'
+        batsman: P Suanchuai
+    - 2.5:
+        non_striker: P Suanchuai
+        bowler: A Khasanov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.5'
+        batsman: AP Yadav
+    - 2.6:
+        non_striker: P Suanchuai
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: AP Yadav
+    - 2.7:
+        non_striker: AP Yadav
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: P Suanchuai
+        wicket:
+          player_out: P Suanchuai
+          fielders:
+          - U Tuychiev
+          kind: caught
+    - 3.1:
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AV Lazarus
+        actual_delivery: '3.1'
+        batsman: AP Yadav
+    - 3.2:
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AV Lazarus
+        actual_delivery: '3.2'
+        batsman: AP Yadav
+    - 3.3:
+        non_striker: AP Yadav
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: AV Lazarus
+    - 3.4:
+        non_striker: AP Yadav
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.4'
+        batsman: AV Lazarus
+    target:
+      overs: 20
+      runs: 38

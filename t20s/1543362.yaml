@@ -1,0 +1,2186 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-07-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Koge
+  dates:
+  - '2026-07-08'
+  gender: male
+  match_type: T20
+  match_type_number: 4015
+  outcome:
+    winner: Belgium
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - Aziz Mohammad
+  players:
+    Gibraltar:
+    - BA Pai
+    - L Bruce
+    - KJ Stagno
+    - KJ Ferrary
+    - IDM Latin
+    - Anthony Hillman
+    - C Pyle
+    - JA Fitzgerald
+    - K Mirpuri
+    - Matthew Walker
+    - Mohamed Roshan
+    Belgium:
+    - A Raza
+    - Aziz Mohammad
+    - B Niaz
+    - Omid Mailk Khel
+    - Shaheryar Butt
+    - Khalid Ahmadi
+    - Sajad Ahmadzai
+    - Sheraz Sheikh
+    - R Thapliyal
+    - Saber Zakhil
+    - Zaki Ul Hassan
+  registry:
+    people:
+      A Raza: 838bc6ab
+      Aidan Seaver: 862c0b16
+      Anthony Hillman: '98062446'
+      Aziz Mohammad: b3e9555a
+      B Niaz: b7824537
+      BA Pai: 716bf559
+      C Pyle: d278b70b
+      DH Mclean: 281d4749
+      G McCrea: 46f4a901
+      IDM Latin: 78f719ea
+      JA Fitzgerald: 4e6ff836
+      K Mirpuri: 441006af
+      KJ Ferrary: 81898acc
+      KJ Stagno: 46ad7e01
+      Khalid Ahmadi: cf0b9a0d
+      L Bruce: 2a03bd2f
+      Matthew Walker: 3e331df6
+      Mohamed Roshan: 71f436db
+      Munib Haq: 5ac45f13
+      Omid Mailk Khel: 2d94751e
+      R Thapliyal: 5947220c
+      Saber Zakhil: 036dcf9b
+      Sajad Ahmadzai: 6978bff0
+      Shaheryar Butt: b6bad765
+      Sheraz Sheikh: 4aad6842
+      Zaki Ul Hassan: 1d6d8a8b
+  team_type: international
+  teams:
+  - Gibraltar
+  - Belgium
+  toss:
+    winner: Belgium
+    decision: field
+  umpires:
+  - DH Mclean
+  - Munib Haq
+  venue: Koge Cricket Club
+innings:
+- 1st innings:
+    team: Gibraltar
+    deliveries:
+    - 0.1:
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Bruce
+        actual_delivery: '0.1'
+        batsman: BA Pai
+    - 0.2:
+        non_striker: BA Pai
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.2'
+        batsman: L Bruce
+    - 0.3:
+        non_striker: L Bruce
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: BA Pai
+    - 0.4:
+        non_striker: BA Pai
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: L Bruce
+    - 0.5:
+        non_striker: BA Pai
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: L Bruce
+    - 0.6:
+        non_striker: L Bruce
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: BA Pai
+    - 1.1:
+        non_striker: BA Pai
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.1'
+        batsman: L Bruce
+    - 1.2:
+        non_striker: BA Pai
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.2'
+        batsman: L Bruce
+    - 1.3:
+        non_striker: BA Pai
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: L Bruce
+        wicket:
+          player_out: L Bruce
+          fielders:
+          - A Raza
+          kind: caught
+    - 1.4:
+        non_striker: BA Pai
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: KJ Stagno
+    - 1.5:
+        non_striker: BA Pai
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.4'
+        batsman: KJ Stagno
+    - 1.6:
+        non_striker: BA Pai
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: KJ Stagno
+    - 1.7:
+        non_striker: BA Pai
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: KJ Stagno
+    - 2.1:
+        non_striker: BA Pai
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: KJ Stagno
+    - 2.2:
+        non_striker: BA Pai
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: KJ Stagno
+    - 2.3:
+        non_striker: BA Pai
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: KJ Stagno
+    - 2.4:
+        non_striker: BA Pai
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: KJ Stagno
+    - 2.5:
+        non_striker: BA Pai
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.5'
+        batsman: KJ Stagno
+    - 2.6:
+        non_striker: BA Pai
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.6'
+        batsman: KJ Stagno
+    - 3.1:
+        non_striker: KJ Stagno
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: BA Pai
+    - 3.2:
+        non_striker: KJ Stagno
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: BA Pai
+    - 3.3:
+        non_striker: KJ Stagno
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: BA Pai
+    - 3.4:
+        non_striker: BA Pai
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.4'
+        batsman: KJ Stagno
+    - 3.5:
+        non_striker: BA Pai
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: KJ Stagno
+    - 3.6:
+        non_striker: BA Pai
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.6'
+        batsman: KJ Stagno
+    - 3.7:
+        non_striker: BA Pai
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: KJ Stagno
+    - 4.1:
+        non_striker: KJ Stagno
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: BA Pai
+    - 4.2:
+        non_striker: KJ Stagno
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: BA Pai
+    - 4.3:
+        non_striker: BA Pai
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.3'
+        batsman: KJ Stagno
+    - 4.4:
+        non_striker: BA Pai
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.4'
+        batsman: KJ Stagno
+    - 4.5:
+        non_striker: BA Pai
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: KJ Stagno
+    - 4.6:
+        non_striker: BA Pai
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: KJ Stagno
+    - 5.1:
+        non_striker: KJ Stagno
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: BA Pai
+    - 5.2:
+        non_striker: BA Pai
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.2'
+        batsman: KJ Stagno
+    - 5.3:
+        non_striker: BA Pai
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: KJ Stagno
+    - 5.4:
+        non_striker: KJ Stagno
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: BA Pai
+    - 5.5:
+        non_striker: KJ Stagno
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: BA Pai
+        wicket:
+          player_out: BA Pai
+          fielders:
+          - Saber Zakhil
+          kind: caught
+    - 5.6:
+        non_striker: KJ Stagno
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.5'
+        batsman: KJ Ferrary
+    - 5.7:
+        non_striker: KJ Stagno
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: KJ Ferrary
+    - 5.8:
+        non_striker: KJ Stagno
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: KJ Ferrary
+    - 6.1:
+        non_striker: KJ Stagno
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: KJ Ferrary
+    - 6.2:
+        non_striker: KJ Ferrary
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: KJ Stagno
+    - 6.3:
+        non_striker: KJ Ferrary
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: KJ Stagno
+    - 6.4:
+        non_striker: KJ Stagno
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: KJ Ferrary
+    - 6.5:
+        non_striker: KJ Ferrary
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: KJ Stagno
+    - 6.6:
+        non_striker: KJ Stagno
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.6'
+        batsman: KJ Ferrary
+    - 7.1:
+        non_striker: KJ Ferrary
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.1'
+        batsman: KJ Stagno
+    - 7.2:
+        non_striker: KJ Ferrary
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: KJ Stagno
+    - 7.3:
+        non_striker: KJ Ferrary
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        actual_delivery: '7.3'
+        batsman: KJ Stagno
+    - 7.4:
+        non_striker: KJ Ferrary
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: KJ Stagno
+    - 7.5:
+        non_striker: KJ Ferrary
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: KJ Stagno
+    - 7.6:
+        non_striker: KJ Ferrary
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: KJ Stagno
+    - 8.1:
+        non_striker: KJ Stagno
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: KJ Ferrary
+    - 8.2:
+        non_striker: KJ Ferrary
+        bowler: Aziz Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.2'
+        batsman: KJ Stagno
+    - 8.3:
+        non_striker: KJ Ferrary
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: KJ Stagno
+    - 8.4:
+        non_striker: KJ Stagno
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: KJ Ferrary
+    - 8.5:
+        non_striker: KJ Ferrary
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.4'
+        batsman: KJ Stagno
+    - 8.6:
+        non_striker: KJ Ferrary
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.5'
+        batsman: KJ Stagno
+    - 8.7:
+        non_striker: KJ Ferrary
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: KJ Stagno
+    - 9.1:
+        non_striker: KJ Ferrary
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.1'
+        batsman: KJ Stagno
+    - 9.2:
+        non_striker: KJ Ferrary
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: KJ Stagno
+    - 9.3:
+        non_striker: KJ Ferrary
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: KJ Stagno
+        wicket:
+          player_out: KJ Stagno
+          fielders:
+          - " (sub)"
+          kind: caught
+    - 9.4:
+        non_striker: KJ Ferrary
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: IDM Latin
+    - 9.5:
+        non_striker: KJ Ferrary
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: IDM Latin
+    - 9.6:
+        non_striker: KJ Ferrary
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: IDM Latin
+    - 10.1:
+        non_striker: KJ Ferrary
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: IDM Latin
+    - 10.2:
+        non_striker: KJ Ferrary
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: IDM Latin
+    - 10.3:
+        non_striker: IDM Latin
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: KJ Ferrary
+    - 10.4:
+        non_striker: IDM Latin
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.4'
+        batsman: KJ Ferrary
+    - 10.5:
+        non_striker: IDM Latin
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: KJ Ferrary
+    - 10.6:
+        non_striker: IDM Latin
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: KJ Ferrary
+    - 11.1:
+        non_striker: IDM Latin
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: KJ Ferrary
+    - 11.2:
+        non_striker: IDM Latin
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: KJ Ferrary
+    - 11.3:
+        non_striker: IDM Latin
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: KJ Ferrary
+        wicket:
+          player_out: KJ Ferrary
+          fielders:
+          - Zaki Ul Hassan
+          kind: caught
+    - 11.4:
+        non_striker: IDM Latin
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: Anthony Hillman
+    - 11.5:
+        non_striker: IDM Latin
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Anthony Hillman
+    - 11.6:
+        non_striker: IDM Latin
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: Anthony Hillman
+    - 12.1:
+        non_striker: Anthony Hillman
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: IDM Latin
+    - 12.2:
+        non_striker: Anthony Hillman
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: IDM Latin
+    - 12.3:
+        non_striker: IDM Latin
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: Anthony Hillman
+    - 12.4:
+        non_striker: Anthony Hillman
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: IDM Latin
+    - 12.5:
+        non_striker: Anthony Hillman
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: IDM Latin
+    - 12.6:
+        non_striker: IDM Latin
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.6'
+        batsman: Anthony Hillman
+    - 13.1:
+        non_striker: Anthony Hillman
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: IDM Latin
+    - 13.2:
+        non_striker: IDM Latin
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: Anthony Hillman
+    - 13.3:
+        non_striker: IDM Latin
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Anthony Hillman
+    - 13.4:
+        non_striker: Anthony Hillman
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: IDM Latin
+    - 13.5:
+        non_striker: IDM Latin
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: Anthony Hillman
+    - 13.6:
+        non_striker: Anthony Hillman
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: IDM Latin
+    - 14.1:
+        non_striker: Anthony Hillman
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: IDM Latin
+    - 14.2:
+        non_striker: IDM Latin
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: Anthony Hillman
+    - 14.3:
+        non_striker: Anthony Hillman
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: IDM Latin
+    - 14.4:
+        non_striker: Anthony Hillman
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: IDM Latin
+    - 14.5:
+        non_striker: IDM Latin
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.5'
+        batsman: Anthony Hillman
+    - 14.6:
+        non_striker: IDM Latin
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: Anthony Hillman
+    - 15.1:
+        non_striker: Anthony Hillman
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: IDM Latin
+    - 15.2:
+        non_striker: IDM Latin
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: Anthony Hillman
+    - 15.3:
+        non_striker: Anthony Hillman
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.3'
+        batsman: IDM Latin
+    - 15.4:
+        non_striker: Anthony Hillman
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.4'
+        batsman: IDM Latin
+    - 15.5:
+        non_striker: Anthony Hillman
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: IDM Latin
+    - 15.6:
+        non_striker: Anthony Hillman
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: IDM Latin
+        wicket:
+          player_out: IDM Latin
+          fielders:
+          - A Raza
+          kind: stumped
+    - 16.1:
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Pyle
+        actual_delivery: '16.1'
+        batsman: Anthony Hillman
+    - 16.2:
+        non_striker: Anthony Hillman
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: C Pyle
+    - 16.3:
+        non_striker: C Pyle
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: Anthony Hillman
+    - 16.4:
+        non_striker: Anthony Hillman
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: C Pyle
+    - 16.5:
+        non_striker: Anthony Hillman
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: C Pyle
+    - 16.6:
+        non_striker: C Pyle
+        bowler: Saber Zakhil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: Anthony Hillman
+    - 17.1:
+        non_striker: C Pyle
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: Anthony Hillman
+    - 17.2:
+        non_striker: Anthony Hillman
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: C Pyle
+    - 17.3:
+        non_striker: C Pyle
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: Anthony Hillman
+    - 17.4:
+        non_striker: Anthony Hillman
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '17.4'
+        batsman: C Pyle
+    - 17.5:
+        non_striker: C Pyle
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: Anthony Hillman
+    - 17.6:
+        non_striker: Anthony Hillman
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.6'
+        batsman: C Pyle
+        wicket:
+          player_out: C Pyle
+          kind: retired hurt
+    - 18.1:
+        non_striker: JA Fitzgerald
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: Anthony Hillman
+    - 18.2:
+        non_striker: Anthony Hillman
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.2'
+        batsman: JA Fitzgerald
+    - 18.3:
+        non_striker: Anthony Hillman
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: JA Fitzgerald
+    - 18.4:
+        non_striker: JA Fitzgerald
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: Anthony Hillman
+    - 18.5:
+        non_striker: Anthony Hillman
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: JA Fitzgerald
+    - 18.6:
+        non_striker: Anthony Hillman
+        bowler: Khalid Ahmadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: JA Fitzgerald
+        wicket:
+          player_out: JA Fitzgerald
+          fielders:
+          - Zaki Ul Hassan
+          kind: caught
+    - 19.1:
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: K Mirpuri
+        actual_delivery: '19.1'
+        batsman: Anthony Hillman
+    - 19.2:
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Mirpuri
+        actual_delivery: '19.2'
+        batsman: Anthony Hillman
+    - 19.3:
+        non_striker: Anthony Hillman
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: K Mirpuri
+        wicket:
+          player_out: K Mirpuri
+          kind: bowled
+    - 19.4:
+        non_striker: Anthony Hillman
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: Matthew Walker
+    - 19.5:
+        non_striker: Matthew Walker
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.5'
+        batsman: Anthony Hillman
+    - 19.6:
+        non_striker: Anthony Hillman
+        bowler: Zaki Ul Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: Matthew Walker
+        wicket:
+          player_out: Matthew Walker
+          fielders:
+          - B Niaz
+          kind: caught
+- 2nd innings:
+    team: Belgium
+    deliveries:
+    - 0.1:
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aziz Mohammad
+        actual_delivery: '0.1'
+        batsman: A Raza
+    - 0.2:
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Aziz Mohammad
+        actual_delivery: '0.2'
+        batsman: A Raza
+    - 0.3:
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aziz Mohammad
+        actual_delivery: '0.3'
+        batsman: A Raza
+    - 0.4:
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Aziz Mohammad
+        actual_delivery: '0.4'
+        batsman: A Raza
+    - 0.5:
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aziz Mohammad
+        actual_delivery: '0.5'
+        batsman: A Raza
+    - 0.6:
+        non_striker: Aziz Mohammad
+        bowler: L Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: A Raza
+    - 1.1:
+        non_striker: A Raza
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: Aziz Mohammad
+    - 1.2:
+        non_striker: A Raza
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: Aziz Mohammad
+    - 1.3:
+        non_striker: Aziz Mohammad
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: A Raza
+    - 1.4:
+        non_striker: Aziz Mohammad
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: A Raza
+    - 1.5:
+        non_striker: Aziz Mohammad
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: A Raza
+        wicket:
+          player_out: A Raza
+          kind: bowled
+    - 1.6:
+        non_striker: Aziz Mohammad
+        bowler: BA Pai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.6'
+        batsman: B Niaz
+    - 1.7:
+        non_striker: Aziz Mohammad
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: B Niaz
+    - 2.1:
+        non_striker: B Niaz
+        bowler: Mohamed Roshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: Aziz Mohammad
+    - 2.2:
+        non_striker: B Niaz
+        bowler: Mohamed Roshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: Aziz Mohammad
+    - 2.3:
+        non_striker: B Niaz
+        bowler: Mohamed Roshan
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        actual_delivery: '2.3'
+        batsman: Aziz Mohammad
+    - 2.4:
+        non_striker: B Niaz
+        bowler: Mohamed Roshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Aziz Mohammad
+    - 2.5:
+        non_striker: B Niaz
+        bowler: Mohamed Roshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.4'
+        batsman: Aziz Mohammad
+    - 2.6:
+        non_striker: B Niaz
+        bowler: Mohamed Roshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.5'
+        batsman: Aziz Mohammad
+    - 2.7:
+        non_striker: B Niaz
+        bowler: Mohamed Roshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: Aziz Mohammad
+    - 3.1:
+        non_striker: B Niaz
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Aziz Mohammad
+    - 3.2:
+        non_striker: B Niaz
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Aziz Mohammad
+    - 3.3:
+        non_striker: B Niaz
+        bowler: BA Pai
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        actual_delivery: '3.3'
+        batsman: Aziz Mohammad
+    - 3.4:
+        non_striker: B Niaz
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Aziz Mohammad
+    - 3.5:
+        non_striker: B Niaz
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Aziz Mohammad
+    - 3.6:
+        non_striker: B Niaz
+        bowler: BA Pai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Aziz Mohammad
+    - 4.1:
+        non_striker: Aziz Mohammad
+        bowler: Mohamed Roshan
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        actual_delivery: '4.1'
+        batsman: B Niaz
+    - 4.2:
+        non_striker: Aziz Mohammad
+        bowler: Mohamed Roshan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.1'
+        batsman: B Niaz
+    - 4.3:
+        non_striker: Aziz Mohammad
+        bowler: Mohamed Roshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: B Niaz
+    - 4.4:
+        non_striker: B Niaz
+        bowler: Mohamed Roshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.3'
+        batsman: Aziz Mohammad
+    - 4.5:
+        non_striker: B Niaz
+        bowler: Mohamed Roshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: Aziz Mohammad
+    - 4.6:
+        non_striker: B Niaz
+        bowler: Mohamed Roshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: Aziz Mohammad
+    - 4.7:
+        non_striker: B Niaz
+        bowler: Mohamed Roshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.6'
+        batsman: Aziz Mohammad
+    - 5.1:
+        non_striker: Aziz Mohammad
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: B Niaz
+    - 5.2:
+        non_striker: Aziz Mohammad
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: B Niaz
+    - 5.3:
+        non_striker: Aziz Mohammad
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.3'
+        batsman: B Niaz
+    - 5.4:
+        non_striker: Aziz Mohammad
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: B Niaz
+    - 5.5:
+        non_striker: Aziz Mohammad
+        bowler: IDM Latin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.5'
+        batsman: B Niaz
+    - 5.6:
+        non_striker: Aziz Mohammad
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: B Niaz
+        wicket:
+          player_out: B Niaz
+          kind: bowled
+    - 5.7:
+        non_striker: Aziz Mohammad
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Omid Mailk Khel
+    - 6.1:
+        non_striker: Omid Mailk Khel
+        bowler: Matthew Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: Aziz Mohammad
+    - 6.2:
+        non_striker: Omid Mailk Khel
+        bowler: Matthew Walker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.2'
+        batsman: Aziz Mohammad
+    - 6.3:
+        non_striker: Omid Mailk Khel
+        bowler: Matthew Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Aziz Mohammad
+    - 6.4:
+        non_striker: Omid Mailk Khel
+        bowler: Matthew Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Aziz Mohammad
+    - 6.5:
+        non_striker: Omid Mailk Khel
+        bowler: Matthew Walker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '6.5'
+        batsman: Aziz Mohammad
+    - 6.6:
+        non_striker: Omid Mailk Khel
+        bowler: Matthew Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: Aziz Mohammad
+    - 7.1:
+        non_striker: Omid Mailk Khel
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: Aziz Mohammad
+    - 7.2:
+        non_striker: Aziz Mohammad
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: Omid Mailk Khel
+    - 7.3:
+        non_striker: Omid Mailk Khel
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.3'
+        batsman: Aziz Mohammad
+    - 7.4:
+        non_striker: Omid Mailk Khel
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.4'
+        batsman: Aziz Mohammad
+    - 7.5:
+        non_striker: Omid Mailk Khel
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.5'
+        batsman: Aziz Mohammad
+    - 7.6:
+        non_striker: Omid Mailk Khel
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: Aziz Mohammad
+    - 8.1:
+        non_striker: Omid Mailk Khel
+        bowler: Matthew Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Aziz Mohammad
+    - 8.2:
+        non_striker: Omid Mailk Khel
+        bowler: Matthew Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Aziz Mohammad
+    - 8.3:
+        non_striker: Aziz Mohammad
+        bowler: Matthew Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: Omid Mailk Khel
+    - 8.4:
+        non_striker: Omid Mailk Khel
+        bowler: Matthew Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: Aziz Mohammad
+    - 8.5:
+        non_striker: Omid Mailk Khel
+        bowler: Matthew Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Aziz Mohammad
+    - 8.6:
+        non_striker: Aziz Mohammad
+        bowler: Matthew Walker
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '8.6'
+        batsman: Omid Mailk Khel
+    - 8.7:
+        non_striker: Omid Mailk Khel
+        bowler: Matthew Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: Aziz Mohammad
+    - 9.1:
+        non_striker: Omid Mailk Khel
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: Aziz Mohammad
+    - 9.2:
+        non_striker: Aziz Mohammad
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: Omid Mailk Khel
+    - 9.3:
+        non_striker: Omid Mailk Khel
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: Aziz Mohammad
+    - 9.4:
+        non_striker: Aziz Mohammad
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: Omid Mailk Khel
+    - 9.5:
+        non_striker: Omid Mailk Khel
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: Aziz Mohammad
+    - 9.6:
+        non_striker: Aziz Mohammad
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: Omid Mailk Khel
+    - 10.1:
+        non_striker: Aziz Mohammad
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.1'
+        batsman: Omid Mailk Khel
+    - 10.2:
+        non_striker: Aziz Mohammad
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.2'
+        batsman: Omid Mailk Khel
+    - 10.3:
+        non_striker: Aziz Mohammad
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: Omid Mailk Khel
+    - 10.4:
+        non_striker: Aziz Mohammad
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.4'
+        batsman: Omid Mailk Khel
+    - 10.5:
+        non_striker: Aziz Mohammad
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: Omid Mailk Khel
+    - 10.6:
+        non_striker: Omid Mailk Khel
+        bowler: IDM Latin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Aziz Mohammad
+    - 11.1:
+        non_striker: Aziz Mohammad
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: Omid Mailk Khel
+    - 11.2:
+        non_striker: Omid Mailk Khel
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: Aziz Mohammad
+    - 11.3:
+        non_striker: Aziz Mohammad
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.3'
+        batsman: Omid Mailk Khel
+    - 11.4:
+        non_striker: Aziz Mohammad
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: Omid Mailk Khel
+    - 11.5:
+        non_striker: Aziz Mohammad
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.5'
+        batsman: Omid Mailk Khel
+    - 11.6:
+        non_striker: Aziz Mohammad
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: Omid Mailk Khel
+        wicket:
+          player_out: Omid Mailk Khel
+          kind: bowled
+    - 12.1:
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shaheryar Butt
+        actual_delivery: '12.1'
+        batsman: Aziz Mohammad
+    - 12.2:
+        non_striker: Aziz Mohammad
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.2'
+        batsman: Shaheryar Butt
+    - 12.3:
+        non_striker: Aziz Mohammad
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: Shaheryar Butt
+    - 12.4:
+        non_striker: Aziz Mohammad
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: Shaheryar Butt
+    - 12.5:
+        non_striker: Aziz Mohammad
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Shaheryar Butt
+    - 12.6:
+        non_striker: Aziz Mohammad
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: Shaheryar Butt
+    - 13.1:
+        non_striker: Aziz Mohammad
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: Shaheryar Butt
+    - 13.2:
+        non_striker: Aziz Mohammad
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: Shaheryar Butt
+    - 13.3:
+        non_striker: Shaheryar Butt
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: Aziz Mohammad
+    - 13.4:
+        non_striker: Shaheryar Butt
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: Aziz Mohammad
+    - 13.5:
+        non_striker: Aziz Mohammad
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Shaheryar Butt
+    - 13.6:
+        non_striker: Aziz Mohammad
+        bowler: KJ Ferrary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Shaheryar Butt
+    - 14.1:
+        non_striker: Aziz Mohammad
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: Shaheryar Butt
+    - 14.2:
+        non_striker: Aziz Mohammad
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.2'
+        batsman: Shaheryar Butt
+    - 14.3:
+        non_striker: Aziz Mohammad
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: Shaheryar Butt
+    - 14.4:
+        non_striker: Shaheryar Butt
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: Aziz Mohammad
+    - 14.5:
+        non_striker: Aziz Mohammad
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: Shaheryar Butt
+    - 14.6:
+        non_striker: Shaheryar Butt
+        bowler: K Mirpuri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '14.6'
+        batsman: Aziz Mohammad
+    - 15.1:
+        non_striker: Aziz Mohammad
+        bowler: Mohamed Roshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: Shaheryar Butt
+    - 15.2:
+        non_striker: Aziz Mohammad
+        bowler: Mohamed Roshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: Shaheryar Butt
+    - 15.3:
+        non_striker: Aziz Mohammad
+        bowler: Mohamed Roshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: Shaheryar Butt
+    - 15.4:
+        non_striker: Aziz Mohammad
+        bowler: Mohamed Roshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.4'
+        batsman: Shaheryar Butt
+    target:
+      overs: 20
+      runs: 140

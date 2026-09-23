@@ -1,0 +1,2395 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Prague
+  dates:
+  - '2026-06-26'
+  gender: male
+  match_type: T20
+  match_type_number: 3994
+  outcome:
+    winner: Luxembourg
+    by:
+      wickets: 2
+  overs: 20
+  player_of_match:
+  - Kamal Soukhiya
+  players:
+    Czech Republic:
+    - Ratul Khan
+    - S Grover
+    - Ritik Tomar
+    - Sazib Bhuiyan
+    - S Davizi
+    - V Marghashayam
+    - RM Magare
+    - JR Cope
+    - Sojib Miah
+    - N Tyagi
+    - D Ramani
+    Luxembourg:
+    - TC Barker
+    - G Venkateswaran
+    - SKS Gill
+    - Asghar Ali Khan
+    - WJ Cope
+    - V Vijh
+    - E Packard
+    - Kamal Soukhiya
+    - Vivek Dixit
+    - J Madan
+    - Milad Momend
+  registry:
+    people:
+      Asghar Ali Khan: 71b7b75a
+      D Ramani: dacf556b
+      E Packard: 03b9ec54
+      G Venkateswaran: a4bcaba7
+      J Madan: 79c2f9bf
+      JR Cope: d22960d9
+      Kamal Soukhiya: 64457c72
+      Milad Momend: 84880baf
+      N Tyagi: 53984f75
+      RM Magare: d5966b42
+      Ratul Khan: 75855e23
+      Ritik Tomar: 6de51a8e
+      S Davizi: 5787be00
+      S Grover: c2a6e61f
+      S Wickramasekara: a9a09cb8
+      SKS Gill: faef026c
+      Sazib Bhuiyan: e5464794
+      Sojib Miah: 2c1f0acf
+      TC Barker: c31adb5c
+      V Marghashayam: 0d7e506a
+      V Vijh: b857468a
+      Vivek Dixit: d42de283
+      WJ Cope: fb34b0ec
+  team_type: international
+  teams:
+  - Czech Republic
+  - Luxembourg
+  toss:
+    winner: Luxembourg
+    decision: field
+  venue: Scott Page Field, Vinor
+innings:
+- 1st innings:
+    team: Czech Republic
+    deliveries:
+    - 0.1:
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Grover
+        actual_delivery: '0.1'
+        batsman: Ratul Khan
+    - 0.2:
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Grover
+        actual_delivery: '0.2'
+        batsman: Ratul Khan
+    - 0.3:
+        non_striker: Ratul Khan
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.3'
+        batsman: S Grover
+    - 0.4:
+        non_striker: Ratul Khan
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: S Grover
+    - 0.5:
+        non_striker: Ratul Khan
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '0.5'
+        batsman: S Grover
+    - 0.6:
+        non_striker: Ratul Khan
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '0.6'
+        batsman: S Grover
+    - 1.1:
+        non_striker: S Grover
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: Ratul Khan
+    - 1.2:
+        non_striker: S Grover
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.2'
+        batsman: Ratul Khan
+    - 1.3:
+        non_striker: S Grover
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: Ratul Khan
+    - 1.4:
+        non_striker: Ratul Khan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.3'
+        batsman: S Grover
+    - 1.5:
+        non_striker: Ratul Khan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.3'
+        batsman: S Grover
+    - 1.6:
+        non_striker: Ratul Khan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: S Grover
+    - 1.7:
+        non_striker: S Grover
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: Ratul Khan
+    - 1.8:
+        non_striker: Ratul Khan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.6'
+        batsman: S Grover
+    - 2.1:
+        non_striker: S Grover
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.1'
+        batsman: Ratul Khan
+    - 2.2:
+        non_striker: S Grover
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.2'
+        batsman: Ratul Khan
+    - 2.3:
+        non_striker: S Grover
+        bowler: J Madan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.3'
+        batsman: Ratul Khan
+    - 2.4:
+        non_striker: S Grover
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: Ratul Khan
+    - 2.5:
+        non_striker: Ratul Khan
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: S Grover
+    - 2.6:
+        non_striker: S Grover
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: Ratul Khan
+    - 2.7:
+        non_striker: Ratul Khan
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: S Grover
+    - 3.1:
+        non_striker: Ratul Khan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        actual_delivery: '3.1'
+        batsman: S Grover
+    - 3.2:
+        non_striker: Ratul Khan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.2'
+        batsman: S Grover
+    - 3.3:
+        non_striker: Ratul Khan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: S Grover
+        wicket:
+          player_out: S Grover
+          kind: lbw
+    - 3.4:
+        non_striker: Ratul Khan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Ritik Tomar
+        wicket:
+          player_out: Ritik Tomar
+          fielders:
+          - WJ Cope
+          kind: run out
+    - 3.5:
+        non_striker: Sazib Bhuiyan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Ratul Khan
+        wicket:
+          player_out: Ratul Khan
+          fielders:
+          - J Madan
+          kind: caught
+    - 3.6:
+        non_striker: Sazib Bhuiyan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: S Davizi
+    - 4.1:
+        non_striker: Sazib Bhuiyan
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: S Davizi
+    - 4.2:
+        non_striker: S Davizi
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.2'
+        batsman: Sazib Bhuiyan
+    - 4.3:
+        non_striker: S Davizi
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.3'
+        batsman: Sazib Bhuiyan
+    - 4.4:
+        non_striker: S Davizi
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.4'
+        batsman: Sazib Bhuiyan
+    - 4.5:
+        non_striker: S Davizi
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: Sazib Bhuiyan
+    - 4.6:
+        non_striker: Sazib Bhuiyan
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: S Davizi
+    - 5.1:
+        non_striker: S Davizi
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Sazib Bhuiyan
+    - 5.2:
+        non_striker: S Davizi
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: Sazib Bhuiyan
+    - 5.3:
+        non_striker: S Davizi
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.3'
+        batsman: Sazib Bhuiyan
+    - 5.4:
+        non_striker: S Davizi
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Sazib Bhuiyan
+        wicket:
+          player_out: Sazib Bhuiyan
+          fielders:
+          - SKS Gill
+          kind: caught
+    - 5.5:
+        non_striker: S Davizi
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: V Marghashayam
+    - 5.6:
+        non_striker: S Davizi
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: V Marghashayam
+    - 6.1:
+        non_striker: V Marghashayam
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: S Davizi
+    - 6.2:
+        non_striker: V Marghashayam
+        bowler: V Vijh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '6.2'
+        batsman: S Davizi
+    - 6.3:
+        non_striker: S Davizi
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: V Marghashayam
+    - 6.4:
+        non_striker: S Davizi
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: V Marghashayam
+    - 6.5:
+        non_striker: V Marghashayam
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: S Davizi
+    - 6.6:
+        non_striker: V Marghashayam
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: S Davizi
+    - 7.1:
+        non_striker: S Davizi
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: V Marghashayam
+    - 7.2:
+        non_striker: V Marghashayam
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.2'
+        batsman: S Davizi
+    - 7.3:
+        non_striker: V Marghashayam
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: S Davizi
+    - 7.4:
+        non_striker: S Davizi
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: V Marghashayam
+    - 7.5:
+        non_striker: V Marghashayam
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.5'
+        batsman: S Davizi
+    - 7.6:
+        non_striker: V Marghashayam
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: S Davizi
+    - 8.1:
+        non_striker: V Marghashayam
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.1'
+        batsman: S Davizi
+    - 8.2:
+        non_striker: V Marghashayam
+        bowler: V Vijh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.2'
+        batsman: S Davizi
+    - 8.3:
+        non_striker: V Marghashayam
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.2'
+        batsman: S Davizi
+    - 8.4:
+        non_striker: V Marghashayam
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: S Davizi
+        wicket:
+          player_out: S Davizi
+          fielders:
+          - Asghar Ali Khan
+          kind: caught
+    - 8.5:
+        non_striker: V Marghashayam
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: RM Magare
+    - 8.6:
+        non_striker: RM Magare
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: V Marghashayam
+    - 8.7:
+        non_striker: RM Magare
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: V Marghashayam
+    - 9.1:
+        non_striker: V Marghashayam
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: RM Magare
+    - 9.2:
+        non_striker: V Marghashayam
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: RM Magare
+    - 9.3:
+        non_striker: V Marghashayam
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: RM Magare
+    - 9.4:
+        non_striker: RM Magare
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: V Marghashayam
+    - 9.5:
+        non_striker: RM Magare
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: V Marghashayam
+    - 9.6:
+        non_striker: RM Magare
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: V Marghashayam
+    - 10.1:
+        non_striker: RM Magare
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: V Marghashayam
+    - 10.2:
+        non_striker: V Marghashayam
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.2'
+        batsman: RM Magare
+    - 10.3:
+        non_striker: V Marghashayam
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.3'
+        batsman: RM Magare
+    - 10.4:
+        non_striker: V Marghashayam
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: RM Magare
+    - 10.5:
+        non_striker: RM Magare
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: V Marghashayam
+    - 10.6:
+        non_striker: RM Magare
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.6'
+        batsman: V Marghashayam
+    - 11.1:
+        non_striker: V Marghashayam
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: RM Magare
+        wicket:
+          player_out: RM Magare
+          kind: lbw
+    - 11.2:
+        non_striker: V Marghashayam
+        bowler: E Packard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.2'
+        batsman: JR Cope
+    - 11.3:
+        non_striker: V Marghashayam
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: JR Cope
+    - 11.4:
+        non_striker: JR Cope
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: V Marghashayam
+    - 11.5:
+        non_striker: JR Cope
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: V Marghashayam
+    - 11.6:
+        non_striker: JR Cope
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: V Marghashayam
+    - 11.7:
+        non_striker: V Marghashayam
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: JR Cope
+    - 12.1:
+        non_striker: JR Cope
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: V Marghashayam
+        wicket:
+          player_out: V Marghashayam
+          fielders:
+          - WJ Cope
+          kind: caught
+    - 12.2:
+        non_striker: JR Cope
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.2'
+        batsman: Sojib Miah
+    - 12.3:
+        non_striker: JR Cope
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.3'
+        batsman: Sojib Miah
+    - 12.4:
+        non_striker: JR Cope
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.4'
+        batsman: Sojib Miah
+    - 12.5:
+        non_striker: JR Cope
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: Sojib Miah
+    - 12.6:
+        non_striker: Sojib Miah
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: JR Cope
+    - 13.1:
+        non_striker: Sojib Miah
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: JR Cope
+    - 13.2:
+        non_striker: Sojib Miah
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: JR Cope
+    - 13.3:
+        non_striker: JR Cope
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Sojib Miah
+    - 13.4:
+        non_striker: Sojib Miah
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: JR Cope
+    - 13.5:
+        non_striker: Sojib Miah
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: JR Cope
+    - 13.6:
+        non_striker: Sojib Miah
+        bowler: E Packard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: JR Cope
+    - 14.1:
+        non_striker: Sojib Miah
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: JR Cope
+    - 14.2:
+        non_striker: JR Cope
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.2'
+        batsman: Sojib Miah
+    - 14.3:
+        non_striker: JR Cope
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: Sojib Miah
+    - 14.4:
+        non_striker: Sojib Miah
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: JR Cope
+    - 14.5:
+        non_striker: JR Cope
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: Sojib Miah
+    - 14.6:
+        non_striker: JR Cope
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: Sojib Miah
+    - 15.1:
+        non_striker: Sojib Miah
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: JR Cope
+    - 15.2:
+        non_striker: JR Cope
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: Sojib Miah
+        wicket:
+          player_out: Sojib Miah
+          kind: caught and bowled
+    - 15.3:
+        non_striker: JR Cope
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: N Tyagi
+    - 15.4:
+        non_striker: JR Cope
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.4'
+        batsman: N Tyagi
+    - 15.5:
+        non_striker: JR Cope
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.5'
+        batsman: N Tyagi
+    - 15.6:
+        non_striker: JR Cope
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: N Tyagi
+    - 15.7:
+        non_striker: JR Cope
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: N Tyagi
+    - 16.1:
+        non_striker: N Tyagi
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: JR Cope
+    - 16.2:
+        non_striker: N Tyagi
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: JR Cope
+    - 16.3:
+        non_striker: JR Cope
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: N Tyagi
+    - 16.4:
+        non_striker: JR Cope
+        bowler: Milad Momend
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '16.4'
+        batsman: N Tyagi
+    - 16.5:
+        non_striker: N Tyagi
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: JR Cope
+    - 16.6:
+        non_striker: N Tyagi
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: JR Cope
+    - 17.1:
+        non_striker: N Tyagi
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: JR Cope
+    - 17.2:
+        non_striker: N Tyagi
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: JR Cope
+    - 17.3:
+        non_striker: JR Cope
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: N Tyagi
+    - 17.4:
+        non_striker: JR Cope
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: N Tyagi
+    - 17.5:
+        non_striker: JR Cope
+        bowler: V Vijh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '17.5'
+        batsman: N Tyagi
+    - 17.6:
+        non_striker: N Tyagi
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: JR Cope
+    - 18.1:
+        non_striker: N Tyagi
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: JR Cope
+    - 18.2:
+        non_striker: JR Cope
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.2'
+        batsman: N Tyagi
+    - 18.3:
+        non_striker: JR Cope
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: N Tyagi
+    - 18.4:
+        non_striker: JR Cope
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: N Tyagi
+    - 18.5:
+        non_striker: JR Cope
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.5'
+        batsman: N Tyagi
+    - 18.6:
+        non_striker: JR Cope
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: N Tyagi
+    - 19.1:
+        non_striker: N Tyagi
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.1'
+        batsman: JR Cope
+    - 19.2:
+        non_striker: N Tyagi
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: JR Cope
+    - 19.3:
+        non_striker: JR Cope
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.3'
+        batsman: N Tyagi
+    - 19.4:
+        non_striker: JR Cope
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: N Tyagi
+    - 19.5:
+        non_striker: N Tyagi
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.5'
+        batsman: JR Cope
+    - 19.6:
+        non_striker: N Tyagi
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: JR Cope
+- 2nd innings:
+    team: Luxembourg
+    deliveries:
+    - 0.1:
+        bowler: JR Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: G Venkateswaran
+        actual_delivery: '0.1'
+        batsman: TC Barker
+    - 0.2:
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: G Venkateswaran
+        actual_delivery: '0.1'
+        batsman: TC Barker
+    - 0.3:
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Venkateswaran
+        actual_delivery: '0.2'
+        batsman: TC Barker
+    - 0.4:
+        non_striker: TC Barker
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: G Venkateswaran
+    - 0.5:
+        non_striker: TC Barker
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: G Venkateswaran
+    - 0.6:
+        non_striker: TC Barker
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: G Venkateswaran
+    - 0.7:
+        non_striker: TC Barker
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: G Venkateswaran
+    - 1.1:
+        non_striker: TC Barker
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: G Venkateswaran
+    - 1.2:
+        non_striker: TC Barker
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: G Venkateswaran
+    - 1.3:
+        non_striker: G Venkateswaran
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: TC Barker
+    - 1.4:
+        non_striker: G Venkateswaran
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: TC Barker
+        wicket:
+          player_out: TC Barker
+          kind: bowled
+    - 1.5:
+        non_striker: G Venkateswaran
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.5'
+        batsman: SKS Gill
+    - 1.6:
+        non_striker: G Venkateswaran
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.6'
+        batsman: SKS Gill
+    - 2.1:
+        non_striker: SKS Gill
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: G Venkateswaran
+    - 2.2:
+        non_striker: G Venkateswaran
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: SKS Gill
+    - 2.3:
+        non_striker: SKS Gill
+        bowler: JR Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.3'
+        batsman: G Venkateswaran
+    - 2.4:
+        non_striker: SKS Gill
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: G Venkateswaran
+    - 2.5:
+        non_striker: SKS Gill
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: G Venkateswaran
+    - 2.6:
+        non_striker: SKS Gill
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: G Venkateswaran
+    - 2.7:
+        non_striker: SKS Gill
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: G Venkateswaran
+    - 3.1:
+        non_striker: G Venkateswaran
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: SKS Gill
+    - 3.2:
+        non_striker: SKS Gill
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.2'
+        batsman: G Venkateswaran
+    - 3.3:
+        non_striker: SKS Gill
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: G Venkateswaran
+    - 3.4:
+        non_striker: SKS Gill
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: G Venkateswaran
+    - 3.5:
+        non_striker: SKS Gill
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: G Venkateswaran
+    - 3.6:
+        non_striker: SKS Gill
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: G Venkateswaran
+    - 4.1:
+        non_striker: SKS Gill
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: G Venkateswaran
+    - 4.2:
+        non_striker: SKS Gill
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: G Venkateswaran
+    - 4.3:
+        non_striker: G Venkateswaran
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: SKS Gill
+    - 4.4:
+        non_striker: G Venkateswaran
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: SKS Gill
+    - 4.5:
+        non_striker: SKS Gill
+        bowler: JR Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.5'
+        batsman: G Venkateswaran
+    - 4.6:
+        non_striker: SKS Gill
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: G Venkateswaran
+    - 4.7:
+        non_striker: G Venkateswaran
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: SKS Gill
+    - 5.1:
+        non_striker: G Venkateswaran
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.1'
+        batsman: SKS Gill
+    - 5.2:
+        non_striker: G Venkateswaran
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: SKS Gill
+    - 5.3:
+        non_striker: G Venkateswaran
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: SKS Gill
+    - 5.4:
+        non_striker: SKS Gill
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: G Venkateswaran
+    - 5.5:
+        non_striker: G Venkateswaran
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: SKS Gill
+    - 5.6:
+        non_striker: SKS Gill
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: G Venkateswaran
+    - 6.1:
+        non_striker: SKS Gill
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: G Venkateswaran
+    - 6.2:
+        non_striker: SKS Gill
+        bowler: N Tyagi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '6.2'
+        batsman: G Venkateswaran
+    - 6.3:
+        non_striker: G Venkateswaran
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: SKS Gill
+    - 6.4:
+        non_striker: SKS Gill
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: G Venkateswaran
+    - 6.5:
+        non_striker: G Venkateswaran
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: SKS Gill
+    - 6.6:
+        non_striker: G Venkateswaran
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: SKS Gill
+    - 7.1:
+        non_striker: SKS Gill
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.1'
+        batsman: G Venkateswaran
+    - 7.2:
+        non_striker: SKS Gill
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: G Venkateswaran
+        wicket:
+          player_out: G Venkateswaran
+          kind: caught and bowled
+    - 7.3:
+        non_striker: SKS Gill
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.3'
+        batsman: Asghar Ali Khan
+    - 7.4:
+        non_striker: SKS Gill
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: Asghar Ali Khan
+    - 7.5:
+        non_striker: SKS Gill
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: Asghar Ali Khan
+    - 7.6:
+        non_striker: Asghar Ali Khan
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: SKS Gill
+    - 8.1:
+        non_striker: Asghar Ali Khan
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: SKS Gill
+    - 8.2:
+        non_striker: SKS Gill
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Asghar Ali Khan
+    - 8.3:
+        non_striker: Asghar Ali Khan
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: SKS Gill
+        wicket:
+          player_out: SKS Gill
+          fielders:
+          - Ritik Tomar
+          kind: caught
+    - 8.4:
+        non_striker: Asghar Ali Khan
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: WJ Cope
+    - 8.5:
+        non_striker: Asghar Ali Khan
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: WJ Cope
+    - 8.6:
+        non_striker: Asghar Ali Khan
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.6'
+        batsman: WJ Cope
+    - 9.1:
+        non_striker: WJ Cope
+        bowler: V Marghashayam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: Asghar Ali Khan
+    - 9.2:
+        non_striker: Asghar Ali Khan
+        bowler: V Marghashayam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: WJ Cope
+    - 9.3:
+        non_striker: Asghar Ali Khan
+        bowler: V Marghashayam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: WJ Cope
+    - 9.4:
+        non_striker: Asghar Ali Khan
+        bowler: V Marghashayam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: WJ Cope
+    - 9.5:
+        non_striker: WJ Cope
+        bowler: V Marghashayam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.5'
+        batsman: Asghar Ali Khan
+    - 9.6:
+        non_striker: WJ Cope
+        bowler: V Marghashayam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: Asghar Ali Khan
+        wicket:
+          player_out: Asghar Ali Khan
+          fielders:
+          - Ritik Tomar
+          kind: caught
+    - 10.1:
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: V Vijh
+        actual_delivery: '10.1'
+        batsman: WJ Cope
+    - 10.2:
+        non_striker: WJ Cope
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: V Vijh
+    - 10.3:
+        non_striker: V Vijh
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: WJ Cope
+    - 10.4:
+        non_striker: V Vijh
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: WJ Cope
+    - 10.5:
+        non_striker: V Vijh
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: WJ Cope
+    - 10.6:
+        non_striker: WJ Cope
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: V Vijh
+    - 11.1:
+        non_striker: WJ Cope
+        bowler: V Marghashayam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: V Vijh
+    - 11.2:
+        non_striker: WJ Cope
+        bowler: V Marghashayam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.2'
+        batsman: V Vijh
+    - 11.3:
+        non_striker: WJ Cope
+        bowler: V Marghashayam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: V Vijh
+    - 11.4:
+        non_striker: WJ Cope
+        bowler: V Marghashayam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: V Vijh
+    - 11.5:
+        non_striker: V Vijh
+        bowler: V Marghashayam
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        actual_delivery: '11.5'
+        batsman: WJ Cope
+    - 11.6:
+        non_striker: V Vijh
+        bowler: V Marghashayam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: WJ Cope
+    - 11.7:
+        non_striker: V Vijh
+        bowler: V Marghashayam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.6'
+        batsman: WJ Cope
+    - 12.1:
+        non_striker: WJ Cope
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: V Vijh
+    - 12.2:
+        non_striker: V Vijh
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: WJ Cope
+    - 12.3:
+        non_striker: WJ Cope
+        bowler: N Tyagi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '12.3'
+        batsman: V Vijh
+    - 12.4:
+        non_striker: V Vijh
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.3'
+        batsman: WJ Cope
+    - 12.5:
+        non_striker: V Vijh
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.4'
+        batsman: WJ Cope
+    - 12.6:
+        non_striker: V Vijh
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.5'
+        batsman: WJ Cope
+    - 12.7:
+        non_striker: V Vijh
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: WJ Cope
+    - 13.1:
+        non_striker: V Vijh
+        bowler: V Marghashayam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: WJ Cope
+        wicket:
+          player_out: WJ Cope
+          kind: bowled
+    - 13.2:
+        non_striker: V Vijh
+        bowler: V Marghashayam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: E Packard
+    - 13.3:
+        non_striker: V Vijh
+        bowler: V Marghashayam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.3'
+        batsman: E Packard
+    - 13.4:
+        non_striker: V Vijh
+        bowler: V Marghashayam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: E Packard
+    - 13.5:
+        non_striker: E Packard
+        bowler: V Marghashayam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.5'
+        batsman: V Vijh
+    - 13.6:
+        non_striker: E Packard
+        bowler: V Marghashayam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: V Vijh
+    - 14.1:
+        non_striker: E Packard
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: V Vijh
+    - 14.2:
+        non_striker: V Vijh
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: E Packard
+    - 14.3:
+        non_striker: E Packard
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: V Vijh
+    - 14.4:
+        non_striker: V Vijh
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: E Packard
+    - 14.5:
+        non_striker: E Packard
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.5'
+        batsman: V Vijh
+    - 14.6:
+        non_striker: E Packard
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: V Vijh
+        wicket:
+          player_out: V Vijh
+          fielders:
+          - S Wickramasekara (sub)
+          kind: caught
+    - 15.1:
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Kamal Soukhiya
+        actual_delivery: '15.1'
+        batsman: E Packard
+    - 15.2:
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Kamal Soukhiya
+        actual_delivery: '15.2'
+        batsman: E Packard
+    - 15.3:
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Kamal Soukhiya
+        actual_delivery: '15.3'
+        batsman: E Packard
+    - 15.4:
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kamal Soukhiya
+        actual_delivery: '15.4'
+        batsman: E Packard
+    - 15.5:
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kamal Soukhiya
+        actual_delivery: '15.5'
+        batsman: E Packard
+    - 15.6:
+        non_striker: Kamal Soukhiya
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: E Packard
+    - 16.1:
+        non_striker: E Packard
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: Kamal Soukhiya
+    - 16.2:
+        non_striker: Kamal Soukhiya
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: E Packard
+    - 16.3:
+        non_striker: E Packard
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: Kamal Soukhiya
+    - 16.4:
+        non_striker: E Packard
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: Kamal Soukhiya
+        wicket:
+          player_out: Kamal Soukhiya
+          fielders:
+          - Ratul Khan
+          kind: caught
+    - 16.5:
+        non_striker: E Packard
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.5'
+        batsman: Vivek Dixit
+    - 16.6:
+        non_striker: E Packard
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: Vivek Dixit
+    - 17.1:
+        non_striker: E Packard
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.1'
+        batsman: Vivek Dixit
+    - 17.2:
+        non_striker: E Packard
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.2'
+        batsman: Vivek Dixit
+    - 17.3:
+        non_striker: E Packard
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: Vivek Dixit
+        wicket:
+          player_out: Vivek Dixit
+          fielders:
+          - Sojib Miah
+          kind: caught
+    - 17.4:
+        non_striker: E Packard
+        bowler: D Ramani
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        actual_delivery: '17.4'
+        batsman: J Madan
+    - 17.5:
+        non_striker: E Packard
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: J Madan
+    - 17.6:
+        non_striker: E Packard
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: J Madan
+    - 18.1:
+        non_striker: E Packard
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: J Madan
+    - 18.2:
+        non_striker: J Madan
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: E Packard
+    - 18.3:
+        non_striker: E Packard
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.3'
+        batsman: J Madan
+    - 18.4:
+        non_striker: E Packard
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.4'
+        batsman: J Madan
+    - 18.5:
+        non_striker: E Packard
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.5'
+        batsman: J Madan
+    - 18.6:
+        non_striker: E Packard
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.6'
+        batsman: J Madan
+    target:
+      overs: 20
+      runs: 165

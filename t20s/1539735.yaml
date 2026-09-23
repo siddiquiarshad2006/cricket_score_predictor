@@ -1,0 +1,1470 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hamilton
+  dates:
+  - '2026-06-25'
+  gender: male
+  match_type: T20
+  match_type_number: 3988
+  outcome:
+    winner: Bermuda
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - DMW Rawlins
+  players:
+    Panama:
+    - Sohel Patel
+    - P Jayeshbhai Patel
+    - MY Bawa
+    - A Natubhai Ahir
+    - Irfan Hafejee
+    - Nathan Ingleston
+    - FL Patel
+    - P Suman Bhai Ahir
+    - Abdulla Bhoola
+    - Rizwan Mangera
+    - Sagar Kumar Ahir
+    Bermuda:
+    - OGL Bascome
+    - DMW Rawlins
+    - C Trott
+    - DL Brangman
+    - D Sabir
+    - Isaiah O'Brien
+    - Jonte Smith
+    - L Horan
+    - TS Fray
+    - Z Burgess
+    - S Smith
+  registry:
+    people:
+      A Natubhai Ahir: 9c91218d
+      Abdulla Bhoola: 6ef9a32f
+      C Trott: ae624b05
+      D Sabir: 04bc296f
+      DL Brangman: dab18aa5
+      DMW Rawlins: f1eb3c73
+      FL Patel: e205ce8b
+      Irfan Hafejee: 244009ae
+      Isaiah O'Brien: 967801f4
+      Jonte Smith: ae4d0b45
+      L Horan: 16d43e12
+      MY Bawa: 8ca63417
+      Nathan Ingleston: d84a1af0
+      OGL Bascome: 94a1827c
+      P Jayeshbhai Patel: 3317dc7a
+      P Suman Bhai Ahir: af3042f1
+      Rizwan Mangera: 74d63a44
+      S Smith: 18a0ba24
+      Sagar Kumar Ahir: 7babb041
+      Sohel Patel: 9ac70727
+      TS Fray: c7537f8a
+      Z Burgess: d0042e16
+  team_type: international
+  teams:
+  - Panama
+  - Bermuda
+  toss:
+    winner: Panama
+    decision: bat
+  venue: White Hill Field, Sandys Parish
+innings:
+- 1st innings:
+    team: Panama
+    deliveries:
+    - 0.1:
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Jayeshbhai Patel
+        actual_delivery: '0.1'
+        batsman: Sohel Patel
+    - 0.2:
+        bowler: Z Burgess
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: P Jayeshbhai Patel
+        actual_delivery: '0.2'
+        batsman: Sohel Patel
+    - 0.3:
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Jayeshbhai Patel
+        actual_delivery: '0.2'
+        batsman: Sohel Patel
+    - 0.4:
+        non_striker: Sohel Patel
+        bowler: Z Burgess
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '0.3'
+        batsman: P Jayeshbhai Patel
+    - 0.5:
+        non_striker: P Jayeshbhai Patel
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Sohel Patel
+    - 0.6:
+        non_striker: P Jayeshbhai Patel
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Sohel Patel
+        wicket:
+          player_out: Sohel Patel
+          kind: bowled
+    - 0.7:
+        non_striker: P Jayeshbhai Patel
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: MY Bawa
+    - 1.1:
+        non_striker: MY Bawa
+        bowler: L Horan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.1'
+        batsman: P Jayeshbhai Patel
+    - 1.2:
+        non_striker: MY Bawa
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: P Jayeshbhai Patel
+    - 1.3:
+        non_striker: MY Bawa
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: P Jayeshbhai Patel
+    - 1.4:
+        non_striker: MY Bawa
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '1.3'
+        batsman: P Jayeshbhai Patel
+    - 1.5:
+        non_striker: P Jayeshbhai Patel
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: MY Bawa
+    - 1.6:
+        non_striker: P Jayeshbhai Patel
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: MY Bawa
+    - 1.7:
+        non_striker: P Jayeshbhai Patel
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: MY Bawa
+    - 2.1:
+        non_striker: MY Bawa
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: P Jayeshbhai Patel
+    - 2.2:
+        non_striker: MY Bawa
+        bowler: Z Burgess
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.2'
+        batsman: P Jayeshbhai Patel
+    - 2.3:
+        non_striker: MY Bawa
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: P Jayeshbhai Patel
+    - 2.4:
+        non_striker: P Jayeshbhai Patel
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: MY Bawa
+    - 2.5:
+        non_striker: P Jayeshbhai Patel
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: MY Bawa
+    - 2.6:
+        non_striker: MY Bawa
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.5'
+        batsman: P Jayeshbhai Patel
+    - 2.7:
+        non_striker: MY Bawa
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: P Jayeshbhai Patel
+    - 3.1:
+        non_striker: P Jayeshbhai Patel
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: MY Bawa
+    - 3.2:
+        non_striker: P Jayeshbhai Patel
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: MY Bawa
+    - 3.3:
+        non_striker: P Jayeshbhai Patel
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: MY Bawa
+    - 3.4:
+        non_striker: MY Bawa
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: P Jayeshbhai Patel
+    - 3.5:
+        non_striker: MY Bawa
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: P Jayeshbhai Patel
+    - 3.6:
+        non_striker: MY Bawa
+        bowler: L Horan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.6'
+        batsman: P Jayeshbhai Patel
+    - 3.7:
+        non_striker: MY Bawa
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: P Jayeshbhai Patel
+    - 4.1:
+        non_striker: P Jayeshbhai Patel
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: MY Bawa
+    - 4.2:
+        non_striker: P Jayeshbhai Patel
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: MY Bawa
+    - 4.3:
+        non_striker: P Jayeshbhai Patel
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: MY Bawa
+    - 4.4:
+        non_striker: P Jayeshbhai Patel
+        bowler: Z Burgess
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.4'
+        batsman: MY Bawa
+    - 4.5:
+        non_striker: P Jayeshbhai Patel
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: MY Bawa
+    - 4.6:
+        non_striker: P Jayeshbhai Patel
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: MY Bawa
+    - 4.7:
+        non_striker: P Jayeshbhai Patel
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: MY Bawa
+        wicket:
+          player_out: MY Bawa
+          fielders:
+          - OGL Bascome
+          kind: caught
+    - 5.1:
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Natubhai Ahir
+        actual_delivery: '5.1'
+        batsman: P Jayeshbhai Patel
+    - 5.2:
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Natubhai Ahir
+        actual_delivery: '5.2'
+        batsman: P Jayeshbhai Patel
+    - 5.3:
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Natubhai Ahir
+        actual_delivery: '5.3'
+        batsman: P Jayeshbhai Patel
+    - 5.4:
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: A Natubhai Ahir
+        actual_delivery: '5.4'
+        batsman: P Jayeshbhai Patel
+    - 5.5:
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Natubhai Ahir
+        actual_delivery: '5.5'
+        batsman: P Jayeshbhai Patel
+    - 5.6:
+        non_striker: A Natubhai Ahir
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: P Jayeshbhai Patel
+    - 6.1:
+        non_striker: P Jayeshbhai Patel
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: A Natubhai Ahir
+    - 6.2:
+        non_striker: P Jayeshbhai Patel
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: A Natubhai Ahir
+    - 6.3:
+        non_striker: P Jayeshbhai Patel
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: A Natubhai Ahir
+    - 6.4:
+        non_striker: A Natubhai Ahir
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: P Jayeshbhai Patel
+    - 6.5:
+        non_striker: A Natubhai Ahir
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: P Jayeshbhai Patel
+    - 6.6:
+        non_striker: P Jayeshbhai Patel
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: A Natubhai Ahir
+    - 7.1:
+        non_striker: A Natubhai Ahir
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.1'
+        batsman: P Jayeshbhai Patel
+    - 7.2:
+        non_striker: A Natubhai Ahir
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: P Jayeshbhai Patel
+    - 7.3:
+        non_striker: A Natubhai Ahir
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: P Jayeshbhai Patel
+    - 7.4:
+        non_striker: P Jayeshbhai Patel
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: A Natubhai Ahir
+    - 7.5:
+        non_striker: P Jayeshbhai Patel
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: A Natubhai Ahir
+    - 7.6:
+        non_striker: P Jayeshbhai Patel
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: A Natubhai Ahir
+    - 8.1:
+        non_striker: P Jayeshbhai Patel
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: A Natubhai Ahir
+    - 8.2:
+        non_striker: P Jayeshbhai Patel
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: A Natubhai Ahir
+    - 8.3:
+        non_striker: P Jayeshbhai Patel
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: A Natubhai Ahir
+    - 8.4:
+        non_striker: A Natubhai Ahir
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: P Jayeshbhai Patel
+    - 8.5:
+        non_striker: A Natubhai Ahir
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: P Jayeshbhai Patel
+    - 8.6:
+        non_striker: A Natubhai Ahir
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: P Jayeshbhai Patel
+        wicket:
+          player_out: P Jayeshbhai Patel
+          fielders:
+          - Isaiah O'Brien
+          kind: caught
+    - 9.1:
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Irfan Hafejee
+        actual_delivery: '9.1'
+        batsman: A Natubhai Ahir
+    - 9.2:
+        non_striker: A Natubhai Ahir
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: Irfan Hafejee
+    - 9.3:
+        non_striker: Irfan Hafejee
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: A Natubhai Ahir
+    - 9.4:
+        non_striker: Irfan Hafejee
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: A Natubhai Ahir
+    - 9.5:
+        non_striker: Irfan Hafejee
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: A Natubhai Ahir
+    - 9.6:
+        non_striker: A Natubhai Ahir
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.6'
+        batsman: Irfan Hafejee
+    - 10.1:
+        non_striker: Irfan Hafejee
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: A Natubhai Ahir
+    - 10.2:
+        non_striker: Irfan Hafejee
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: A Natubhai Ahir
+    - 10.3:
+        non_striker: A Natubhai Ahir
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: Irfan Hafejee
+    - 10.4:
+        non_striker: A Natubhai Ahir
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: Irfan Hafejee
+    - 10.5:
+        non_striker: A Natubhai Ahir
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: Irfan Hafejee
+        wicket:
+          player_out: Irfan Hafejee
+          fielders:
+          - DL Brangman
+          kind: caught
+    - 10.6:
+        non_striker: A Natubhai Ahir
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Nathan Ingleston
+    - 11.1:
+        non_striker: Nathan Ingleston
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: A Natubhai Ahir
+    - 11.2:
+        non_striker: Nathan Ingleston
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: A Natubhai Ahir
+    - 11.3:
+        non_striker: A Natubhai Ahir
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: Nathan Ingleston
+    - 11.4:
+        non_striker: A Natubhai Ahir
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: Nathan Ingleston
+    - 11.5:
+        non_striker: A Natubhai Ahir
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Nathan Ingleston
+    - 11.6:
+        non_striker: A Natubhai Ahir
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Nathan Ingleston
+    - 12.1:
+        non_striker: A Natubhai Ahir
+        bowler: D Sabir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '12.1'
+        batsman: Nathan Ingleston
+    - 12.2:
+        non_striker: Nathan Ingleston
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: A Natubhai Ahir
+    - 12.3:
+        non_striker: A Natubhai Ahir
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: Nathan Ingleston
+    - 12.4:
+        non_striker: Nathan Ingleston
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: A Natubhai Ahir
+    - 12.5:
+        non_striker: A Natubhai Ahir
+        bowler: D Sabir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.5'
+        batsman: Nathan Ingleston
+    - 12.6:
+        non_striker: A Natubhai Ahir
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: Nathan Ingleston
+    - 12.7:
+        non_striker: Nathan Ingleston
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: A Natubhai Ahir
+    - 13.1:
+        non_striker: Nathan Ingleston
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: A Natubhai Ahir
+    - 13.2:
+        non_striker: Nathan Ingleston
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: A Natubhai Ahir
+    - 13.3:
+        non_striker: Nathan Ingleston
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: A Natubhai Ahir
+    - 13.4:
+        non_striker: Nathan Ingleston
+        bowler: C Trott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.4'
+        batsman: A Natubhai Ahir
+    - 13.5:
+        non_striker: Nathan Ingleston
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: A Natubhai Ahir
+    - 13.6:
+        non_striker: A Natubhai Ahir
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: Nathan Ingleston
+    - 13.7:
+        non_striker: Nathan Ingleston
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: A Natubhai Ahir
+    - 14.1:
+        non_striker: Nathan Ingleston
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: A Natubhai Ahir
+        wicket:
+          player_out: A Natubhai Ahir
+          fielders:
+          - S Smith
+          kind: stumped
+    - 14.2:
+        non_striker: Nathan Ingleston
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.2'
+        batsman: FL Patel
+    - 14.3:
+        non_striker: Nathan Ingleston
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: FL Patel
+    - 14.4:
+        non_striker: FL Patel
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: Nathan Ingleston
+    - 14.5:
+        non_striker: FL Patel
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: Nathan Ingleston
+        wicket:
+          player_out: Nathan Ingleston
+          fielders:
+          - Jonte Smith
+          kind: caught
+    - 14.6:
+        non_striker: FL Patel
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: P Suman Bhai Ahir
+    - 15.1:
+        non_striker: P Suman Bhai Ahir
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.1'
+        batsman: FL Patel
+    - 15.2:
+        non_striker: P Suman Bhai Ahir
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: FL Patel
+    - 15.3:
+        non_striker: FL Patel
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: P Suman Bhai Ahir
+    - 15.4:
+        non_striker: FL Patel
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: P Suman Bhai Ahir
+    - 15.5:
+        non_striker: P Suman Bhai Ahir
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: FL Patel
+    - 15.6:
+        non_striker: FL Patel
+        bowler: C Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: P Suman Bhai Ahir
+    - 16.1:
+        non_striker: P Suman Bhai Ahir
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: FL Patel
+    - 16.2:
+        non_striker: FL Patel
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: P Suman Bhai Ahir
+    - 16.3:
+        non_striker: P Suman Bhai Ahir
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: FL Patel
+    - 16.4:
+        non_striker: FL Patel
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: P Suman Bhai Ahir
+        wicket:
+          player_out: P Suman Bhai Ahir
+          kind: lbw
+    - 16.5:
+        non_striker: FL Patel
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: Abdulla Bhoola
+    - 16.6:
+        non_striker: FL Patel
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: Abdulla Bhoola
+    - 17.1:
+        non_striker: Abdulla Bhoola
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: FL Patel
+        wicket:
+          player_out: FL Patel
+          fielders:
+          - L Horan
+          kind: caught
+    - 17.2:
+        non_striker: Abdulla Bhoola
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: Rizwan Mangera
+    - 17.3:
+        non_striker: Abdulla Bhoola
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: Rizwan Mangera
+    - 17.4:
+        non_striker: Abdulla Bhoola
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: Rizwan Mangera
+        wicket:
+          player_out: Rizwan Mangera
+          kind: caught and bowled
+    - 17.5:
+        non_striker: Abdulla Bhoola
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: Sagar Kumar Ahir
+    - 17.6:
+        non_striker: Abdulla Bhoola
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: Sagar Kumar Ahir
+    - 18.1:
+        non_striker: Sagar Kumar Ahir
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.1'
+        batsman: Abdulla Bhoola
+    - 18.2:
+        non_striker: Sagar Kumar Ahir
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: Abdulla Bhoola
+    - 18.3:
+        non_striker: Sagar Kumar Ahir
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: Abdulla Bhoola
+    - 18.4:
+        non_striker: Sagar Kumar Ahir
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: Abdulla Bhoola
+    - 18.5:
+        non_striker: Abdulla Bhoola
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: Sagar Kumar Ahir
+        wicket:
+          player_out: Sagar Kumar Ahir
+          kind: caught and bowled
+- 2nd innings:
+    team: Bermuda
+    deliveries:
+    - 0.1:
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DMW Rawlins
+        actual_delivery: '0.1'
+        batsman: OGL Bascome
+    - 0.2:
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DMW Rawlins
+        actual_delivery: '0.2'
+        batsman: OGL Bascome
+    - 0.3:
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DMW Rawlins
+        actual_delivery: '0.3'
+        batsman: OGL Bascome
+    - 0.4:
+        non_striker: OGL Bascome
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: DMW Rawlins
+    - 0.5:
+        non_striker: OGL Bascome
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: DMW Rawlins
+    - 0.6:
+        non_striker: OGL Bascome
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: DMW Rawlins
+    - 1.1:
+        non_striker: DMW Rawlins
+        bowler: Nathan Ingleston
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.1'
+        batsman: OGL Bascome
+    - 1.2:
+        non_striker: DMW Rawlins
+        bowler: Nathan Ingleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: OGL Bascome
+    - 1.3:
+        non_striker: DMW Rawlins
+        bowler: Nathan Ingleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: OGL Bascome
+    - 1.4:
+        non_striker: DMW Rawlins
+        bowler: Nathan Ingleston
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.4'
+        batsman: OGL Bascome
+    - 1.5:
+        non_striker: DMW Rawlins
+        bowler: Nathan Ingleston
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.5'
+        batsman: OGL Bascome
+    - 1.6:
+        non_striker: DMW Rawlins
+        bowler: Nathan Ingleston
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.6'
+        batsman: OGL Bascome
+    - 2.1:
+        non_striker: OGL Bascome
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.1'
+        batsman: DMW Rawlins
+    - 2.2:
+        non_striker: OGL Bascome
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.2'
+        batsman: DMW Rawlins
+    - 2.3:
+        non_striker: OGL Bascome
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: DMW Rawlins
+    - 2.4:
+        non_striker: OGL Bascome
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.4'
+        batsman: DMW Rawlins
+    - 2.5:
+        non_striker: OGL Bascome
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.5'
+        batsman: DMW Rawlins
+    - 2.6:
+        non_striker: OGL Bascome
+        bowler: A Natubhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: DMW Rawlins
+    - 3.1:
+        non_striker: OGL Bascome
+        bowler: Sagar Kumar Ahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.1'
+        batsman: DMW Rawlins
+    - 3.2:
+        non_striker: OGL Bascome
+        bowler: Sagar Kumar Ahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.2'
+        batsman: DMW Rawlins
+    - 3.3:
+        non_striker: OGL Bascome
+        bowler: Sagar Kumar Ahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: DMW Rawlins
+    - 3.4:
+        non_striker: OGL Bascome
+        bowler: Sagar Kumar Ahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.4'
+        batsman: DMW Rawlins
+    - 3.5:
+        non_striker: OGL Bascome
+        bowler: Sagar Kumar Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: DMW Rawlins
+    - 3.6:
+        non_striker: DMW Rawlins
+        bowler: Sagar Kumar Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: OGL Bascome
+    - 4.1:
+        non_striker: OGL Bascome
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: DMW Rawlins
+    - 4.2:
+        non_striker: OGL Bascome
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.2'
+        batsman: DMW Rawlins
+    - 4.3:
+        non_striker: OGL Bascome
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.3'
+        batsman: DMW Rawlins
+    target:
+      overs: 20
+      runs: 70

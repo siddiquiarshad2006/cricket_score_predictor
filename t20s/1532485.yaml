@@ -1,0 +1,1892 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Chattogram
+  dates:
+  - '2026-06-21'
+  gender: male
+  match_type: T20
+  match_type_number: 3972
+  outcome:
+    winner: Australia
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - MR Marsh
+  players:
+    Bangladesh:
+    - Tanzid Hasan
+    - Saif Hassan
+    - Parvez Hossain Emon
+    - Towhid Hridoy
+    - Nurul Hasan
+    - Shamim Hossain
+    - Rishad Hossain
+    - Nasum Ahmed
+    - Shoriful Islam
+    - Taskin Ahmed
+    - Nahid Rana
+    Australia:
+    - MR Marsh
+    - JP Inglis
+    - C Connolly
+    - MT Renshaw
+    - TH David
+    - Nikhil Chaudhary
+    - JA Davies
+    - AM Hardie
+    - NT Ellis
+    - A Zampa
+    - SH Johnson
+  registry:
+    people:
+      A Zampa: 14f96089
+      AM Hardie: d405c0d5
+      C Connolly: fe366f34
+      Gazi Sohel: f0df3ed7
+      JA Davies: 5cdf8304
+      JP Inglis: 989889ff
+      MR Marsh: 3d8feaf8
+      MT Renshaw: 218d4d78
+      Masudur Rahman: 9581ac6b
+      Morshed Ali Khan: a7c3cf5f
+      NT Ellis: 9eb1455b
+      Nahid Rana: 5318ee68
+      Nasum Ahmed: 37654b75
+      Nikhil Chaudhary: 1f84183a
+      Nurul Hasan: d365d463
+      Parvez Hossain Emon: 489aaf0a
+      Prakash Bhatt: f848ab0b
+      Rishad Hossain: 5935d694
+      SH Johnson: 83c3e8e3
+      Saif Hassan: bb95564b
+      Shamim Hossain: 711249d1
+      Shoriful Islam: bb34fd31
+      TH David: f1f99156
+      Tanvir Ahmed: ea2df1f1
+      Tanzid Hasan: 80fe764d
+      Taskin Ahmed: ef18b66e
+      Towhid Hridoy: 9e52a414
+  team_type: international
+  teams:
+  - Bangladesh
+  - Australia
+  toss:
+    winner: Bangladesh
+    decision: bat
+  umpires:
+  - Gazi Sohel
+  - Morshed Ali Khan
+  venue: Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram
+innings:
+- 1st innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Saif Hassan
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.1'
+        batsman: Tanzid Hasan
+    - 0.2:
+        non_striker: Tanzid Hasan
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: Saif Hassan
+    - 0.3:
+        non_striker: Tanzid Hasan
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: Saif Hassan
+    - 0.4:
+        non_striker: Tanzid Hasan
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Saif Hassan
+    - 0.5:
+        non_striker: Tanzid Hasan
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: Saif Hassan
+    - 0.6:
+        non_striker: Saif Hassan
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.6'
+        batsman: Tanzid Hasan
+    - 1.1:
+        non_striker: Tanzid Hasan
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: Saif Hassan
+    - 1.2:
+        non_striker: Tanzid Hasan
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: Saif Hassan
+    - 1.3:
+        non_striker: Tanzid Hasan
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: Saif Hassan
+        wicket:
+          player_out: Tanzid Hasan
+          fielders:
+          - SH Johnson
+          kind: run out
+    - 1.4:
+        non_striker: Parvez Hossain Emon
+        bowler: SH Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.4'
+        batsman: Saif Hassan
+    - 1.5:
+        non_striker: Parvez Hossain Emon
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: Saif Hassan
+    - 1.6:
+        non_striker: Parvez Hossain Emon
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Saif Hassan
+        wicket:
+          player_out: Saif Hassan
+          fielders:
+          - MR Marsh
+          kind: caught
+    - 1.7:
+        non_striker: Parvez Hossain Emon
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Towhid Hridoy
+    - 2.1:
+        non_striker: Towhid Hridoy
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: Parvez Hossain Emon
+    - 2.2:
+        non_striker: Parvez Hossain Emon
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: Towhid Hridoy
+    - 2.3:
+        non_striker: Parvez Hossain Emon
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: Towhid Hridoy
+    - 2.4:
+        non_striker: Towhid Hridoy
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Parvez Hossain Emon
+    - 2.5:
+        non_striker: Towhid Hridoy
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: Parvez Hossain Emon
+    - 2.6:
+        non_striker: Towhid Hridoy
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Parvez Hossain Emon
+    - 3.1:
+        non_striker: Parvez Hossain Emon
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: Towhid Hridoy
+    - 3.2:
+        non_striker: Towhid Hridoy
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Parvez Hossain Emon
+    - 3.3:
+        non_striker: Towhid Hridoy
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Parvez Hossain Emon
+    - 3.4:
+        non_striker: Towhid Hridoy
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Parvez Hossain Emon
+    - 3.5:
+        non_striker: Towhid Hridoy
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Parvez Hossain Emon
+    - 3.6:
+        non_striker: Towhid Hridoy
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Parvez Hossain Emon
+    - 4.1:
+        non_striker: Parvez Hossain Emon
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: Towhid Hridoy
+    - 4.2:
+        non_striker: Parvez Hossain Emon
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: Towhid Hridoy
+    - 4.3:
+        non_striker: Towhid Hridoy
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: Parvez Hossain Emon
+    - 4.4:
+        non_striker: Towhid Hridoy
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: Parvez Hossain Emon
+    - 4.5:
+        non_striker: Towhid Hridoy
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Parvez Hossain Emon
+    - 4.6:
+        non_striker: Towhid Hridoy
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Parvez Hossain Emon
+        wicket:
+          player_out: Parvez Hossain Emon
+          fielders:
+          - JA Davies
+          kind: caught
+    - 5.1:
+        non_striker: Nurul Hasan
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: Towhid Hridoy
+    - 5.2:
+        non_striker: Towhid Hridoy
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.2'
+        batsman: Nurul Hasan
+    - 5.3:
+        non_striker: Towhid Hridoy
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: Nurul Hasan
+    - 5.4:
+        non_striker: Towhid Hridoy
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Nurul Hasan
+    - 5.5:
+        non_striker: Towhid Hridoy
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: Nurul Hasan
+    - 5.6:
+        non_striker: Nurul Hasan
+        bowler: JA Davies
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.6'
+        batsman: Towhid Hridoy
+    - 5.7:
+        non_striker: Nurul Hasan
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: Towhid Hridoy
+    - 6.1:
+        non_striker: Towhid Hridoy
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        actual_delivery: '6.1'
+        batsman: Nurul Hasan
+    - 6.2:
+        non_striker: Towhid Hridoy
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: Nurul Hasan
+    - 6.3:
+        non_striker: Nurul Hasan
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Towhid Hridoy
+    - 6.4:
+        non_striker: Nurul Hasan
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.4'
+        batsman: Towhid Hridoy
+    - 6.5:
+        non_striker: Nurul Hasan
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Towhid Hridoy
+    - 6.6:
+        non_striker: Nurul Hasan
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Towhid Hridoy
+    - 6.7:
+        non_striker: Nurul Hasan
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '6.6'
+        batsman: Towhid Hridoy
+    - 7.1:
+        non_striker: Towhid Hridoy
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: Nurul Hasan
+    - 7.2:
+        non_striker: Towhid Hridoy
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: Nurul Hasan
+        wicket:
+          player_out: Nurul Hasan
+          kind: bowled
+    - 7.3:
+        non_striker: Towhid Hridoy
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: Shamim Hossain
+    - 7.4:
+        non_striker: Towhid Hridoy
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: Shamim Hossain
+    - 7.5:
+        non_striker: Towhid Hridoy
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: Shamim Hossain
+    - 7.6:
+        non_striker: Towhid Hridoy
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: Shamim Hossain
+    - 8.1:
+        non_striker: Shamim Hossain
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Towhid Hridoy
+    - 8.2:
+        non_striker: Shamim Hossain
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: Towhid Hridoy
+    - 8.3:
+        non_striker: Shamim Hossain
+        bowler: SH Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '8.3'
+        batsman: Towhid Hridoy
+    - 8.4:
+        non_striker: Shamim Hossain
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: Towhid Hridoy
+    - 8.5:
+        non_striker: Towhid Hridoy
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: Shamim Hossain
+        wicket:
+          player_out: Shamim Hossain
+          fielders:
+          - JP Inglis
+          kind: caught
+    - 8.6:
+        non_striker: Towhid Hridoy
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: Rishad Hossain
+    - 8.7:
+        non_striker: Towhid Hridoy
+        bowler: SH Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '8.6'
+        batsman: Rishad Hossain
+    - 9.1:
+        non_striker: Towhid Hridoy
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: Rishad Hossain
+    - 9.2:
+        non_striker: Rishad Hossain
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: Towhid Hridoy
+    - 9.3:
+        non_striker: Towhid Hridoy
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: Rishad Hossain
+    - 9.4:
+        non_striker: Rishad Hossain
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: Towhid Hridoy
+    - 9.5:
+        non_striker: Towhid Hridoy
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: Rishad Hossain
+    - 9.6:
+        non_striker: Towhid Hridoy
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: Rishad Hossain
+    - 10.1:
+        non_striker: Towhid Hridoy
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: Rishad Hossain
+    - 10.2:
+        non_striker: Towhid Hridoy
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '10.2'
+        batsman: Rishad Hossain
+    - 10.3:
+        non_striker: Towhid Hridoy
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Rishad Hossain
+    - 10.4:
+        non_striker: Rishad Hossain
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: Towhid Hridoy
+    - 10.5:
+        non_striker: Towhid Hridoy
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: Rishad Hossain
+    - 10.6:
+        non_striker: Towhid Hridoy
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: Rishad Hossain
+    - 11.1:
+        non_striker: Towhid Hridoy
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.1'
+        batsman: Rishad Hossain
+    - 11.2:
+        non_striker: Towhid Hridoy
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: Rishad Hossain
+    - 11.3:
+        non_striker: Rishad Hossain
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.2'
+        batsman: Towhid Hridoy
+    - 11.4:
+        non_striker: Rishad Hossain
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: Towhid Hridoy
+    - 11.5:
+        non_striker: Rishad Hossain
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: Towhid Hridoy
+    - 11.6:
+        non_striker: Towhid Hridoy
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.5'
+        batsman: Rishad Hossain
+    - 11.7:
+        non_striker: Towhid Hridoy
+        bowler: Nikhil Chaudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: Rishad Hossain
+        wicket:
+          player_out: Rishad Hossain
+          kind: caught and bowled
+    - 12.1:
+        non_striker: Nasum Ahmed
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Towhid Hridoy
+    - 12.2:
+        non_striker: Nasum Ahmed
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.2'
+        batsman: Towhid Hridoy
+    - 12.3:
+        non_striker: Nasum Ahmed
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: Towhid Hridoy
+    - 12.4:
+        non_striker: Nasum Ahmed
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: Towhid Hridoy
+    - 12.5:
+        non_striker: Towhid Hridoy
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Nasum Ahmed
+    - 12.6:
+        non_striker: Towhid Hridoy
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Nasum Ahmed
+        wicket:
+          player_out: Nasum Ahmed
+          fielders:
+          - TH David
+          kind: caught
+    - 13.1:
+        non_striker: Shoriful Islam
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: Towhid Hridoy
+    - 13.2:
+        non_striker: Towhid Hridoy
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: Shoriful Islam
+    - 13.3:
+        non_striker: Towhid Hridoy
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Shoriful Islam
+    - 13.4:
+        non_striker: Shoriful Islam
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: Towhid Hridoy
+    - 13.5:
+        non_striker: Towhid Hridoy
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Shoriful Islam
+    - 13.6:
+        non_striker: Towhid Hridoy
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Shoriful Islam
+    - 14.1:
+        non_striker: Towhid Hridoy
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: Shoriful Islam
+    - 14.2:
+        non_striker: Towhid Hridoy
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: Shoriful Islam
+    - 14.3:
+        non_striker: Shoriful Islam
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: Towhid Hridoy
+    - 14.4:
+        non_striker: Towhid Hridoy
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: Shoriful Islam
+    - 14.5:
+        non_striker: Towhid Hridoy
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: Shoriful Islam
+    - 14.6:
+        non_striker: Shoriful Islam
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: Towhid Hridoy
+    - 15.1:
+        non_striker: Shoriful Islam
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: Towhid Hridoy
+    - 15.2:
+        non_striker: Towhid Hridoy
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: Shoriful Islam
+    - 15.3:
+        non_striker: Shoriful Islam
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.3'
+        batsman: Towhid Hridoy
+    - 15.4:
+        non_striker: Shoriful Islam
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: Towhid Hridoy
+    - 15.5:
+        non_striker: Towhid Hridoy
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: Shoriful Islam
+    - 15.6:
+        non_striker: Towhid Hridoy
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: Shoriful Islam
+    - 16.1:
+        non_striker: Shoriful Islam
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.1'
+        batsman: Towhid Hridoy
+    - 16.2:
+        non_striker: Shoriful Islam
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: Towhid Hridoy
+    - 16.3:
+        non_striker: Shoriful Islam
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: Towhid Hridoy
+    - 16.4:
+        non_striker: Towhid Hridoy
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: Shoriful Islam
+    - 16.5:
+        non_striker: Shoriful Islam
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: Towhid Hridoy
+    - 16.6:
+        non_striker: Towhid Hridoy
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: Shoriful Islam
+    - 17.1:
+        non_striker: Towhid Hridoy
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: Shoriful Islam
+        wicket:
+          player_out: Shoriful Islam
+          fielders:
+          - JA Davies
+          kind: caught
+    - 17.2:
+        non_striker: Towhid Hridoy
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: Taskin Ahmed
+    - 17.3:
+        non_striker: Towhid Hridoy
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: Taskin Ahmed
+    - 17.4:
+        non_striker: Taskin Ahmed
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.4'
+        batsman: Towhid Hridoy
+    - 17.5:
+        non_striker: Taskin Ahmed
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.5'
+        batsman: Towhid Hridoy
+    - 17.6:
+        non_striker: Taskin Ahmed
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: Towhid Hridoy
+    - 18.1:
+        non_striker: Taskin Ahmed
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.1'
+        batsman: Towhid Hridoy
+    - 18.2:
+        non_striker: Taskin Ahmed
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: Towhid Hridoy
+    - 18.3:
+        non_striker: Taskin Ahmed
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.3'
+        batsman: Towhid Hridoy
+    - 18.4:
+        non_striker: Taskin Ahmed
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: Towhid Hridoy
+    - 18.5:
+        non_striker: Taskin Ahmed
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.5'
+        batsman: Towhid Hridoy
+    - 18.6:
+        non_striker: Taskin Ahmed
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: Towhid Hridoy
+    - 19.1:
+        non_striker: Taskin Ahmed
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.1'
+        batsman: Towhid Hridoy
+    - 19.2:
+        non_striker: Taskin Ahmed
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: Towhid Hridoy
+    - 19.3:
+        non_striker: Taskin Ahmed
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: Towhid Hridoy
+    - 19.4:
+        non_striker: Taskin Ahmed
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: Towhid Hridoy
+    - 19.5:
+        non_striker: Taskin Ahmed
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.5'
+        batsman: Towhid Hridoy
+    - 19.6:
+        non_striker: Towhid Hridoy
+        bowler: SH Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: Taskin Ahmed
+- 2nd innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: JP Inglis
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.1'
+        batsman: MR Marsh
+    - 0.2:
+        non_striker: JP Inglis
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: MR Marsh
+    - 0.3:
+        non_striker: JP Inglis
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.3'
+        batsman: MR Marsh
+    - 0.4:
+        non_striker: JP Inglis
+        bowler: Shoriful Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '0.4'
+        batsman: MR Marsh
+    - 0.5:
+        non_striker: MR Marsh
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.5'
+        batsman: JP Inglis
+    - 0.6:
+        non_striker: MR Marsh
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.6'
+        batsman: JP Inglis
+    - 1.1:
+        non_striker: JP Inglis
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: MR Marsh
+    - 1.2:
+        non_striker: MR Marsh
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: JP Inglis
+    - 1.3:
+        non_striker: MR Marsh
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: JP Inglis
+    - 1.4:
+        non_striker: MR Marsh
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: JP Inglis
+    - 1.5:
+        non_striker: MR Marsh
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: JP Inglis
+    - 1.6:
+        non_striker: JP Inglis
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: MR Marsh
+    - 2.1:
+        non_striker: MR Marsh
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: JP Inglis
+    - 2.2:
+        non_striker: JP Inglis
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: MR Marsh
+    - 2.3:
+        non_striker: JP Inglis
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: MR Marsh
+    - 2.4:
+        non_striker: JP Inglis
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.4'
+        batsman: MR Marsh
+    - 2.5:
+        non_striker: JP Inglis
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: MR Marsh
+    - 2.6:
+        non_striker: MR Marsh
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: JP Inglis
+    - 3.1:
+        non_striker: MR Marsh
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: JP Inglis
+    - 3.2:
+        non_striker: JP Inglis
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: MR Marsh
+    - 3.3:
+        non_striker: MR Marsh
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.3'
+        batsman: JP Inglis
+    - 3.4:
+        non_striker: MR Marsh
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: JP Inglis
+    - 3.5:
+        non_striker: JP Inglis
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: MR Marsh
+    - 3.6:
+        non_striker: JP Inglis
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: MR Marsh
+    - 4.1:
+        non_striker: JP Inglis
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.1'
+        batsman: MR Marsh
+    - 4.2:
+        non_striker: JP Inglis
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.2'
+        batsman: MR Marsh
+    - 4.3:
+        non_striker: JP Inglis
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: MR Marsh
+    - 4.4:
+        non_striker: MR Marsh
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: JP Inglis
+    - 4.5:
+        non_striker: JP Inglis
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: MR Marsh
+    - 4.6:
+        non_striker: JP Inglis
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.6'
+        batsman: MR Marsh
+    - 5.1:
+        non_striker: MR Marsh
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: JP Inglis
+    - 5.2:
+        non_striker: JP Inglis
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: MR Marsh
+    - 5.3:
+        non_striker: MR Marsh
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: JP Inglis
+    - 5.4:
+        non_striker: MR Marsh
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: JP Inglis
+    - 5.5:
+        non_striker: MR Marsh
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: JP Inglis
+        wicket:
+          player_out: JP Inglis
+          fielders:
+          - Shamim Hossain
+          kind: caught
+    - 5.6:
+        non_striker: MR Marsh
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: C Connolly
+    - 6.1:
+        non_striker: C Connolly
+        bowler: Nahid Rana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '6.1'
+        batsman: MR Marsh
+    - 6.2:
+        non_striker: C Connolly
+        bowler: Nahid Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.2'
+        batsman: MR Marsh
+    - 6.3:
+        non_striker: C Connolly
+        bowler: Nahid Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: MR Marsh
+    - 6.4:
+        non_striker: MR Marsh
+        bowler: Nahid Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.4'
+        batsman: C Connolly
+    - 6.5:
+        non_striker: MR Marsh
+        bowler: Nahid Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.5'
+        batsman: C Connolly
+    - 6.6:
+        non_striker: MR Marsh
+        bowler: Nahid Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: C Connolly
+    - 7.1:
+        non_striker: MR Marsh
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: C Connolly
+    - 7.2:
+        non_striker: MR Marsh
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: C Connolly
+    - 7.3:
+        non_striker: C Connolly
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.3'
+        batsman: MR Marsh
+    - 7.4:
+        non_striker: C Connolly
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: MR Marsh
+    - 7.5:
+        non_striker: C Connolly
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: MR Marsh
+    - 7.6:
+        non_striker: C Connolly
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: MR Marsh
+    - 8.1:
+        non_striker: C Connolly
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.1'
+        batsman: MR Marsh
+    - 8.2:
+        non_striker: C Connolly
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: MR Marsh
+        wicket:
+          player_out: MR Marsh
+          fielders:
+          - Shamim Hossain
+          kind: caught
+    - 8.3:
+        non_striker: C Connolly
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: MT Renshaw
+    - 8.4:
+        non_striker: MT Renshaw
+        bowler: Shoriful Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.4'
+        batsman: C Connolly
+    - 8.5:
+        non_striker: MT Renshaw
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: C Connolly
+    - 8.6:
+        non_striker: MT Renshaw
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: C Connolly
+    - 8.7:
+        non_striker: C Connolly
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: MT Renshaw
+    - 9.1:
+        non_striker: C Connolly
+        bowler: Saif Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: MT Renshaw
+    - 9.2:
+        non_striker: MT Renshaw
+        bowler: Saif Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: C Connolly
+    - 9.3:
+        non_striker: C Connolly
+        bowler: Saif Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: MT Renshaw
+    - 9.4:
+        non_striker: MT Renshaw
+        bowler: Saif Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: C Connolly
+    - 9.5:
+        non_striker: C Connolly
+        bowler: Saif Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: MT Renshaw
+    - 9.6:
+        non_striker: MT Renshaw
+        bowler: Saif Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: C Connolly
+    - 10.1:
+        non_striker: MT Renshaw
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: C Connolly
+    - 10.2:
+        non_striker: C Connolly
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: MT Renshaw
+    - 10.3:
+        non_striker: MT Renshaw
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: C Connolly
+        wicket:
+          player_out: C Connolly
+          fielders:
+          - Saif Hassan
+          kind: caught
+    - 10.4:
+        non_striker: MT Renshaw
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '10.4'
+        batsman: TH David
+    - 10.5:
+        non_striker: MT Renshaw
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: TH David
+    - 10.6:
+        non_striker: MT Renshaw
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '10.6'
+        batsman: TH David
+    target:
+      overs: 20
+      runs: 110

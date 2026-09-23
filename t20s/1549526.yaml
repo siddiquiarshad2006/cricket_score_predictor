@@ -1,0 +1,2451 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-08-31'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Windhoek
+  dates:
+  - '2026-08-31'
+  gender: male
+  match_type: T20
+  match_type_number: 4099
+  outcome:
+    winner: Zimbabwe
+    by:
+      runs: 5
+  overs: 20
+  player_of_match:
+  - B Evans
+  players:
+    Zimbabwe:
+    - BJ Curran
+    - BJ Bennett
+    - D Myers
+    - Sikandar Raza
+    - RP Burl
+    - W Madhevere
+    - T Marumani
+    - B Evans
+    - NT Nyamhuri
+    - WP Masakadza
+    - B Muzarabani
+    Namibia:
+    - L Steenkamp
+    - JN Frylinck
+    - MG Erasmus
+    - JN Loftie-Eaton
+    - JJ Smit
+    - R Trumpelmann
+    - ZE Green
+    - A Busing-Volschenk
+    - BM Scholtz
+    - JT Brassell
+    - M Heingo
+  registry:
+    people:
+      A Busing-Volschenk: e9e37173
+      B Evans: e7e86505
+      B Muzarabani: 449f4e3c
+      BJ Bennett: eaa36b2a
+      BJ Curran: 1786a21b
+      BM Scholtz: e85d03d6
+      Claus Schumacher: 85645e62
+      D Myers: d96165b5
+      E Lassen: a476d6d0
+      GF Labrooy: 8e088dbc
+      JJ Smit: bb134e5c
+      JN Frylinck: 3c87f0c3
+      JN Loftie-Eaton: f468293b
+      JT Brassell: 537021f5
+      L Rusere: 6a4734ae
+      L Steenkamp: 8bd9fd13
+      M Heingo: 0abb2525
+      MG Erasmus: 95a5e066
+      NT Nyamhuri: 943ca0cd
+      R Trumpelmann: ff6a7ab5
+      RP Burl: b08252b8
+      Sikandar Raza: 26d041c4
+      T Marumani: 3d5d51a5
+      W Madhevere: a879b92c
+      WP Masakadza: 4bc0a378
+      ZE Green: 8716233e
+  team_type: international
+  teams:
+  - Zimbabwe
+  - Namibia
+  toss:
+    winner: Namibia
+    decision: field
+  umpires:
+  - E Lassen
+  - L Rusere
+  venue: Namibia Cricket Ground, Windhoek
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: BJ Bennett
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.1'
+        batsman: BJ Curran
+    - 0.2:
+        non_striker: BJ Curran
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: BJ Bennett
+    - 0.3:
+        non_striker: BJ Curran
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: BJ Bennett
+    - 0.4:
+        non_striker: BJ Bennett
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: BJ Curran
+    - 0.5:
+        non_striker: BJ Bennett
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: BJ Curran
+    - 0.6:
+        non_striker: BJ Bennett
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '0.6'
+        batsman: BJ Curran
+    - 1.1:
+        non_striker: BJ Curran
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: BJ Bennett
+    - 1.2:
+        non_striker: BJ Curran
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.2'
+        batsman: BJ Bennett
+    - 1.3:
+        non_striker: BJ Curran
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: BJ Bennett
+    - 1.4:
+        non_striker: BJ Curran
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: BJ Bennett
+    - 1.5:
+        non_striker: BJ Curran
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: BJ Bennett
+    - 1.6:
+        non_striker: BJ Bennett
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: BJ Curran
+    - 1.7:
+        non_striker: BJ Curran
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: BJ Bennett
+    - 2.1:
+        non_striker: BJ Curran
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: BJ Bennett
+    - 2.2:
+        non_striker: BJ Bennett
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.2'
+        batsman: BJ Curran
+    - 2.3:
+        non_striker: BJ Bennett
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: BJ Curran
+    - 2.4:
+        non_striker: BJ Curran
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: BJ Bennett
+    - 2.5:
+        non_striker: BJ Bennett
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.5'
+        batsman: BJ Curran
+    - 2.6:
+        non_striker: BJ Bennett
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.6'
+        batsman: BJ Curran
+    - 3.1:
+        non_striker: BJ Curran
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: BJ Bennett
+    - 3.2:
+        non_striker: BJ Curran
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: BJ Bennett
+    - 3.3:
+        non_striker: BJ Curran
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: BJ Bennett
+    - 3.4:
+        non_striker: BJ Curran
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: BJ Bennett
+    - 3.5:
+        non_striker: BJ Bennett
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: BJ Curran
+    - 3.6:
+        non_striker: BJ Bennett
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: BJ Curran
+    - 4.1:
+        non_striker: BJ Curran
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.1'
+        batsman: BJ Bennett
+    - 4.2:
+        non_striker: BJ Curran
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.2'
+        batsman: BJ Bennett
+    - 4.3:
+        non_striker: BJ Curran
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: BJ Bennett
+    - 4.4:
+        non_striker: BJ Curran
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.4'
+        batsman: BJ Bennett
+    - 4.5:
+        non_striker: BJ Curran
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: BJ Bennett
+    - 4.6:
+        non_striker: BJ Curran
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: BJ Bennett
+    - 4.7:
+        non_striker: BJ Bennett
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.6'
+        batsman: BJ Curran
+    - 5.1:
+        non_striker: BJ Curran
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: BJ Bennett
+    - 5.2:
+        non_striker: BJ Bennett
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.2'
+        batsman: BJ Curran
+    - 5.3:
+        non_striker: BJ Bennett
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.3'
+        batsman: BJ Curran
+    - 5.4:
+        non_striker: BJ Bennett
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: BJ Curran
+    - 5.5:
+        non_striker: BJ Curran
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: BJ Bennett
+    - 5.6:
+        non_striker: BJ Curran
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: BJ Bennett
+        wicket:
+          player_out: BJ Bennett
+          fielders:
+          - JN Frylinck
+          kind: caught
+    - 6.1:
+        non_striker: D Myers
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: BJ Curran
+    - 6.2:
+        non_striker: BJ Curran
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: D Myers
+    - 6.3:
+        non_striker: D Myers
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: BJ Curran
+    - 6.4:
+        non_striker: BJ Curran
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: D Myers
+    - 6.5:
+        non_striker: D Myers
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: BJ Curran
+    - 6.6:
+        non_striker: BJ Curran
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: D Myers
+        wicket:
+          player_out: D Myers
+          kind: bowled
+    - 7.1:
+        non_striker: Sikandar Raza
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '7.1'
+        batsman: BJ Curran
+    - 7.2:
+        non_striker: BJ Curran
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          fielders:
+          - JN Frylinck
+          kind: caught
+    - 7.3:
+        non_striker: BJ Curran
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: RP Burl
+    - 7.4:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: BJ Curran
+    - 7.5:
+        non_striker: BJ Curran
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: RP Burl
+    - 7.6:
+        non_striker: BJ Curran
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: RP Burl
+    - 8.1:
+        non_striker: RP Burl
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: BJ Curran
+    - 8.2:
+        non_striker: BJ Curran
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: RP Burl
+    - 8.3:
+        non_striker: RP Burl
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: BJ Curran
+        wicket:
+          player_out: BJ Curran
+          fielders:
+          - JT Brassell
+          kind: caught
+    - 8.4:
+        non_striker: RP Burl
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: W Madhevere
+    - 8.5:
+        non_striker: RP Burl
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: W Madhevere
+    - 8.6:
+        non_striker: RP Burl
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: W Madhevere
+    - 9.1:
+        non_striker: W Madhevere
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: RP Burl
+    - 9.2:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: W Madhevere
+    - 9.3:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.3'
+        batsman: W Madhevere
+    - 9.4:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: W Madhevere
+        wicket:
+          player_out: W Madhevere
+          fielders:
+          - JJ Smit
+          kind: caught
+    - 9.5:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.5'
+        batsman: T Marumani
+    - 9.6:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.6'
+        batsman: T Marumani
+    - 9.7:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.6'
+        batsman: T Marumani
+    - 9.8:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: T Marumani
+    - 10.1:
+        non_striker: T Marumani
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: RP Burl
+    - 10.2:
+        non_striker: RP Burl
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: T Marumani
+    - 10.3:
+        non_striker: RP Burl
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: T Marumani
+    - 10.4:
+        non_striker: T Marumani
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: RP Burl
+    - 10.5:
+        non_striker: T Marumani
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: RP Burl
+    - 10.6:
+        non_striker: RP Burl
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: T Marumani
+    - 11.1:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: T Marumani
+    - 11.2:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.2'
+        batsman: T Marumani
+    - 11.3:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.3'
+        batsman: T Marumani
+    - 11.4:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.4'
+        batsman: T Marumani
+    - 11.5:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '11.5'
+        batsman: T Marumani
+    - 11.6:
+        non_striker: RP Burl
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: T Marumani
+        wicket:
+          player_out: T Marumani
+          fielders:
+          - JN Frylinck
+          kind: caught
+    - 12.1:
+        non_striker: B Evans
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: RP Burl
+    - 12.2:
+        non_striker: RP Burl
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: B Evans
+    - 12.3:
+        non_striker: B Evans
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.3'
+        batsman: RP Burl
+    - 12.4:
+        non_striker: B Evans
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.4'
+        batsman: RP Burl
+    - 12.5:
+        non_striker: B Evans
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: RP Burl
+    - 12.6:
+        non_striker: RP Burl
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: B Evans
+    - 13.1:
+        non_striker: RP Burl
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: B Evans
+    - 13.2:
+        non_striker: RP Burl
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: B Evans
+    - 13.3:
+        non_striker: B Evans
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: RP Burl
+    - 13.4:
+        non_striker: B Evans
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: RP Burl
+    - 13.5:
+        non_striker: RP Burl
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.5'
+        batsman: B Evans
+    - 13.6:
+        non_striker: RP Burl
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.6'
+        batsman: B Evans
+    - 14.1:
+        non_striker: B Evans
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: RP Burl
+    - 14.2:
+        non_striker: RP Burl
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: B Evans
+    - 14.3:
+        non_striker: B Evans
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '14.3'
+        batsman: RP Burl
+    - 14.4:
+        non_striker: RP Burl
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: B Evans
+    - 14.5:
+        non_striker: B Evans
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.5'
+        batsman: RP Burl
+    - 14.6:
+        non_striker: B Evans
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: RP Burl
+    - 15.1:
+        non_striker: RP Burl
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: B Evans
+    - 15.2:
+        non_striker: B Evans
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: RP Burl
+    - 15.3:
+        non_striker: RP Burl
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: B Evans
+    - 15.4:
+        non_striker: B Evans
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: RP Burl
+    - 15.5:
+        non_striker: RP Burl
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: B Evans
+    - 15.6:
+        non_striker: B Evans
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.6'
+        batsman: RP Burl
+    - 16.1:
+        non_striker: RP Burl
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.1'
+        batsman: B Evans
+    - 16.2:
+        non_striker: RP Burl
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: B Evans
+    - 16.3:
+        non_striker: B Evans
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: RP Burl
+    - 16.4:
+        non_striker: RP Burl
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: B Evans
+    - 16.5:
+        non_striker: RP Burl
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.5'
+        batsman: B Evans
+    - 16.6:
+        non_striker: RP Burl
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: B Evans
+    - 17.1:
+        non_striker: RP Burl
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: B Evans
+    - 17.2:
+        non_striker: B Evans
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: RP Burl
+    - 17.3:
+        non_striker: RP Burl
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.3'
+        batsman: B Evans
+    - 17.4:
+        non_striker: RP Burl
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: B Evans
+    - 17.5:
+        non_striker: B Evans
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.5'
+        batsman: RP Burl
+    - 17.6:
+        non_striker: B Evans
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.6'
+        batsman: RP Burl
+    - 18.1:
+        non_striker: RP Burl
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: B Evans
+    - 18.2:
+        non_striker: RP Burl
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: B Evans
+    - 18.3:
+        non_striker: B Evans
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: RP Burl
+    - 18.4:
+        non_striker: RP Burl
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.4'
+        batsman: B Evans
+    - 18.5:
+        non_striker: RP Burl
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: B Evans
+    - 18.6:
+        non_striker: RP Burl
+        bowler: R Trumpelmann
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        actual_delivery: '18.5'
+        batsman: B Evans
+    - 18.7:
+        non_striker: RP Burl
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.6'
+        batsman: B Evans
+    - 19.1:
+        non_striker: B Evans
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.1'
+        batsman: RP Burl
+    - 19.2:
+        non_striker: B Evans
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.2'
+        batsman: RP Burl
+    - 19.3:
+        non_striker: B Evans
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.3'
+        batsman: RP Burl
+    - 19.4:
+        non_striker: B Evans
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.4'
+        batsman: RP Burl
+    - 19.5:
+        non_striker: B Evans
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: RP Burl
+    - 19.6:
+        non_striker: B Evans
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.6'
+        batsman: RP Burl
+- 2nd innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        non_striker: JN Frylinck
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.1'
+        batsman: L Steenkamp
+    - 0.2:
+        non_striker: L Steenkamp
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: JN Frylinck
+    - 0.3:
+        non_striker: L Steenkamp
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: JN Frylinck
+    - 0.4:
+        non_striker: L Steenkamp
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: JN Frylinck
+    - 0.5:
+        non_striker: L Steenkamp
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: JN Frylinck
+    - 0.6:
+        non_striker: JN Frylinck
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: L Steenkamp
+    - 1.1:
+        non_striker: L Steenkamp
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: JN Frylinck
+    - 1.2:
+        non_striker: JN Frylinck
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: L Steenkamp
+    - 1.3:
+        non_striker: L Steenkamp
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: JN Frylinck
+    - 1.4:
+        non_striker: L Steenkamp
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: JN Frylinck
+    - 1.5:
+        non_striker: L Steenkamp
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: JN Frylinck
+    - 1.6:
+        non_striker: JN Frylinck
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: L Steenkamp
+    - 2.1:
+        non_striker: L Steenkamp
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: JN Frylinck
+    - 2.2:
+        non_striker: JN Frylinck
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.2'
+        batsman: L Steenkamp
+    - 2.3:
+        non_striker: JN Frylinck
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: L Steenkamp
+    - 2.4:
+        non_striker: JN Frylinck
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: L Steenkamp
+        wicket:
+          player_out: L Steenkamp
+          fielders:
+          - W Madhevere
+          kind: caught
+    - 2.5:
+        non_striker: JN Frylinck
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: MG Erasmus
+    - 2.6:
+        non_striker: MG Erasmus
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: JN Frylinck
+    - 3.1:
+        non_striker: JN Frylinck
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.1'
+        batsman: MG Erasmus
+    - 3.2:
+        non_striker: JN Frylinck
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: MG Erasmus
+    - 3.3:
+        non_striker: JN Frylinck
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: MG Erasmus
+    - 3.4:
+        non_striker: JN Frylinck
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: MG Erasmus
+    - 3.5:
+        non_striker: MG Erasmus
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: JN Frylinck
+    - 3.6:
+        non_striker: JN Frylinck
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: MG Erasmus
+    - 4.1:
+        non_striker: JN Frylinck
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: MG Erasmus
+    - 4.2:
+        non_striker: MG Erasmus
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: JN Frylinck
+    - 4.3:
+        non_striker: MG Erasmus
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: JN Frylinck
+    - 4.4:
+        non_striker: JN Frylinck
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: MG Erasmus
+        wicket:
+          player_out: MG Erasmus
+          fielders:
+          - BJ Bennett
+          kind: caught
+    - 4.5:
+        non_striker: JN Frylinck
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: JN Loftie-Eaton
+    - 4.6:
+        non_striker: JN Loftie-Eaton
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.6'
+        batsman: JN Frylinck
+    - 5.1:
+        non_striker: JN Frylinck
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: JN Loftie-Eaton
+    - 5.2:
+        non_striker: JN Loftie-Eaton
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: JN Frylinck
+    - 5.3:
+        non_striker: JN Loftie-Eaton
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: JN Frylinck
+    - 5.4:
+        non_striker: JN Loftie-Eaton
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: JN Frylinck
+    - 5.5:
+        non_striker: JN Loftie-Eaton
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: JN Frylinck
+    - 5.6:
+        non_striker: JN Loftie-Eaton
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: JN Frylinck
+    - 6.1:
+        non_striker: JN Frylinck
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.1'
+        batsman: JN Loftie-Eaton
+    - 6.2:
+        non_striker: JN Frylinck
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: JN Loftie-Eaton
+    - 6.3:
+        non_striker: JN Loftie-Eaton
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: JN Frylinck
+    - 6.4:
+        non_striker: JN Frylinck
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: JN Loftie-Eaton
+    - 6.5:
+        non_striker: JN Loftie-Eaton
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: JN Frylinck
+    - 6.6:
+        non_striker: JN Loftie-Eaton
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: JN Frylinck
+    - 7.1:
+        non_striker: JN Loftie-Eaton
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: JN Frylinck
+    - 7.2:
+        non_striker: JN Frylinck
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: JN Loftie-Eaton
+    - 7.3:
+        non_striker: JN Loftie-Eaton
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: JN Frylinck
+    - 7.4:
+        non_striker: JN Frylinck
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.4'
+        batsman: JN Loftie-Eaton
+    - 7.5:
+        non_striker: JN Frylinck
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: JN Loftie-Eaton
+    - 7.6:
+        non_striker: JN Loftie-Eaton
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: JN Frylinck
+    - 8.1:
+        non_striker: JN Loftie-Eaton
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: JN Frylinck
+    - 8.2:
+        non_striker: JN Frylinck
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.2'
+        batsman: JN Loftie-Eaton
+    - 8.3:
+        non_striker: JN Frylinck
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: JN Loftie-Eaton
+    - 8.4:
+        non_striker: JN Frylinck
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: JN Loftie-Eaton
+    - 8.5:
+        non_striker: JN Loftie-Eaton
+        bowler: Sikandar Raza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.5'
+        batsman: JN Frylinck
+    - 8.6:
+        non_striker: JN Loftie-Eaton
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: JN Frylinck
+    - 8.7:
+        non_striker: JN Frylinck
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: JN Loftie-Eaton
+    - 9.1:
+        non_striker: JN Frylinck
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: JN Loftie-Eaton
+        wicket:
+          player_out: JN Loftie-Eaton
+          kind: lbw
+    - 9.2:
+        non_striker: JN Frylinck
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '9.2'
+        batsman: JJ Smit
+    - 9.3:
+        non_striker: JN Frylinck
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: JJ Smit
+        wicket:
+          player_out: JJ Smit
+          fielders:
+          - RP Burl
+          kind: caught
+    - 9.4:
+        non_striker: JN Frylinck
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: R Trumpelmann
+    - 9.5:
+        non_striker: JN Frylinck
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: R Trumpelmann
+    - 9.6:
+        non_striker: R Trumpelmann
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: JN Frylinck
+    - 10.1:
+        non_striker: R Trumpelmann
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: JN Frylinck
+        wicket:
+          player_out: JN Frylinck
+          fielders:
+          - BJ Curran
+          kind: caught
+    - 10.2:
+        non_striker: R Trumpelmann
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: ZE Green
+    - 10.3:
+        non_striker: ZE Green
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: R Trumpelmann
+    - 10.4:
+        non_striker: ZE Green
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '10.4'
+        batsman: R Trumpelmann
+    - 10.5:
+        non_striker: ZE Green
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: R Trumpelmann
+    - 10.6:
+        non_striker: R Trumpelmann
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: ZE Green
+    - 11.1:
+        non_striker: ZE Green
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: R Trumpelmann
+        wicket:
+          player_out: R Trumpelmann
+          fielders:
+          - BJ Curran
+          kind: caught
+    - 11.2:
+        non_striker: ZE Green
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: A Busing-Volschenk
+    - 11.3:
+        non_striker: ZE Green
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: A Busing-Volschenk
+    - 11.4:
+        non_striker: ZE Green
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: A Busing-Volschenk
+    - 11.5:
+        non_striker: ZE Green
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: A Busing-Volschenk
+    - 11.6:
+        non_striker: A Busing-Volschenk
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: ZE Green
+    - 12.1:
+        non_striker: ZE Green
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: A Busing-Volschenk
+    - 12.2:
+        non_striker: A Busing-Volschenk
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: ZE Green
+    - 12.3:
+        non_striker: ZE Green
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '12.3'
+        batsman: A Busing-Volschenk
+    - 12.4:
+        non_striker: ZE Green
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: A Busing-Volschenk
+    - 12.5:
+        non_striker: ZE Green
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '12.5'
+        batsman: A Busing-Volschenk
+    - 12.6:
+        non_striker: ZE Green
+        bowler: WP Masakadza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.6'
+        batsman: A Busing-Volschenk
+    - 12.7:
+        non_striker: ZE Green
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.6'
+        batsman: A Busing-Volschenk
+    - 13.1:
+        non_striker: A Busing-Volschenk
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: ZE Green
+    - 13.2:
+        non_striker: ZE Green
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.2'
+        batsman: A Busing-Volschenk
+    - 13.3:
+        non_striker: ZE Green
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.3'
+        batsman: A Busing-Volschenk
+    - 13.4:
+        non_striker: ZE Green
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.4'
+        batsman: A Busing-Volschenk
+    - 13.5:
+        non_striker: ZE Green
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: A Busing-Volschenk
+    - 13.6:
+        non_striker: ZE Green
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: A Busing-Volschenk
+    - 14.1:
+        non_striker: ZE Green
+        bowler: B Muzarabani
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '14.1'
+        batsman: A Busing-Volschenk
+    - 14.2:
+        non_striker: A Busing-Volschenk
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: ZE Green
+    - 14.3:
+        non_striker: A Busing-Volschenk
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.2'
+        batsman: ZE Green
+    - 14.4:
+        non_striker: A Busing-Volschenk
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.3'
+        batsman: ZE Green
+    - 14.5:
+        non_striker: A Busing-Volschenk
+        bowler: B Muzarabani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.4'
+        batsman: ZE Green
+    - 14.6:
+        non_striker: A Busing-Volschenk
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: ZE Green
+    - 14.7:
+        non_striker: ZE Green
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: A Busing-Volschenk
+    - 14.8:
+        non_striker: ZE Green
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.6'
+        batsman: A Busing-Volschenk
+    - 15.1:
+        non_striker: A Busing-Volschenk
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: ZE Green
+    - 15.2:
+        non_striker: A Busing-Volschenk
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.2'
+        batsman: ZE Green
+    - 15.3:
+        non_striker: A Busing-Volschenk
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: ZE Green
+    - 15.4:
+        non_striker: ZE Green
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: A Busing-Volschenk
+    - 15.5:
+        non_striker: A Busing-Volschenk
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: ZE Green
+    - 15.6:
+        non_striker: ZE Green
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.6'
+        batsman: A Busing-Volschenk
+    - 16.1:
+        non_striker: A Busing-Volschenk
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: ZE Green
+    - 16.2:
+        non_striker: ZE Green
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: A Busing-Volschenk
+    - 16.3:
+        non_striker: A Busing-Volschenk
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.3'
+        batsman: ZE Green
+    - 16.4:
+        non_striker: A Busing-Volschenk
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: ZE Green
+    - 16.5:
+        non_striker: ZE Green
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.5'
+        batsman: A Busing-Volschenk
+    - 16.6:
+        non_striker: ZE Green
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: A Busing-Volschenk
+    - 17.1:
+        non_striker: ZE Green
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: A Busing-Volschenk
+    - 17.2:
+        non_striker: A Busing-Volschenk
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.2'
+        batsman: ZE Green
+    - 17.3:
+        non_striker: A Busing-Volschenk
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.3'
+        batsman: ZE Green
+    - 17.4:
+        non_striker: A Busing-Volschenk
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.4'
+        batsman: ZE Green
+    - 17.5:
+        non_striker: A Busing-Volschenk
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.5'
+        batsman: ZE Green
+    - 17.6:
+        non_striker: A Busing-Volschenk
+        bowler: NT Nyamhuri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: ZE Green
+    - 18.1:
+        non_striker: A Busing-Volschenk
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.1'
+        batsman: ZE Green
+    - 18.2:
+        non_striker: A Busing-Volschenk
+        bowler: B Muzarabani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.2'
+        batsman: ZE Green
+    - 18.3:
+        non_striker: A Busing-Volschenk
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.2'
+        batsman: ZE Green
+    - 18.4:
+        non_striker: A Busing-Volschenk
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: ZE Green
+    - 18.5:
+        non_striker: A Busing-Volschenk
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.4'
+        batsman: ZE Green
+    - 18.6:
+        non_striker: A Busing-Volschenk
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: ZE Green
+    - 18.7:
+        non_striker: ZE Green
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: A Busing-Volschenk
+    - 19.1:
+        non_striker: ZE Green
+        bowler: B Evans
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        actual_delivery: '19.1'
+        batsman: A Busing-Volschenk
+    - 19.2:
+        non_striker: ZE Green
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.1'
+        batsman: A Busing-Volschenk
+    - 19.3:
+        non_striker: ZE Green
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: A Busing-Volschenk
+        wicket:
+          player_out: ZE Green
+          fielders:
+          - Sikandar Raza
+          kind: run out
+    - 19.4:
+        non_striker: BM Scholtz
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.3'
+        batsman: A Busing-Volschenk
+    - 19.5:
+        non_striker: BM Scholtz
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: A Busing-Volschenk
+        wicket:
+          player_out: A Busing-Volschenk
+          fielders:
+          - T Marumani
+          kind: caught
+    - 19.6:
+        non_striker: BM Scholtz
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: JT Brassell
+        wicket:
+          player_out: BM Scholtz
+          fielders:
+          - B Evans
+          kind: run out
+    - 19.7:
+        non_striker: M Heingo
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: JT Brassell
+        wicket:
+          player_out: JT Brassell
+          kind: bowled
+    target:
+      overs: 20
+      runs: 196

@@ -1,0 +1,2195 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-08-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kerava
+  dates:
+  - '2026-08-14'
+  gender: male
+  match_type: T20
+  match_type_number: 4072
+  outcome:
+    winner: Isle of Man
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - C Liebenberg
+  players:
+    Luxembourg:
+    - TC Barker
+    - G Venkateswaran
+    - SKS Gill
+    - Asghar Ali Khan
+    - WJ Cope
+    - V Vijh
+    - Vivek Dixit
+    - Mayank Nagayach
+    - J Madan
+    - Kamal Soukhiya
+    - Milad Momend
+    Isle of Man:
+    - A McAuley
+    - C Hartmann
+    - D Jansen
+    - C Webster
+    - C Liebenberg
+    - CJ Langford
+    - G Newton
+    - J Butler
+    - J Clough
+    - MJ Ansell
+    - N Knights
+  registry:
+    people:
+      A McAuley: 39e599c8
+      Asghar Ali Khan: 71b7b75a
+      C Hartmann: 467c28f9
+      C Liebenberg: 83f0b848
+      C Webster: f7bf6004
+      CJ Langford: 3967b66f
+      D Jansen: c90346a0
+      G Newton: '57618587'
+      G Venkateswaran: a4bcaba7
+      J Butler: efcb778e
+      J Clough: 1f08084c
+      J Madan: 79c2f9bf
+      Kamal Soukhiya: 64457c72
+      MJ Ansell: 6e60a792
+      MS Sathe: 7c82e11b
+      Mayank Nagayach: e401f8a5
+      Milad Momend: 84880baf
+      N Knights: b0aadf4f
+      Prakash Bhatt: f848ab0b
+      SG Chandiramani: 4fa795d2
+      SKS Gill: faef026c
+      TC Barker: c31adb5c
+      V Vijh: b857468a
+      Vinay Malhotra: 452837d1
+      Vivek Dixit: d42de283
+      WJ Cope: fb34b0ec
+  team_type: international
+  teams:
+  - Luxembourg
+  - Isle of Man
+  toss:
+    winner: Isle of Man
+    decision: field
+  umpires:
+  - SG Chandiramani
+  - Vinay Malhotra
+  venue: Kerava National Cricket Ground
+innings:
+- 1st innings:
+    team: Luxembourg
+    deliveries:
+    - 0.1:
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Venkateswaran
+        actual_delivery: '0.1'
+        batsman: TC Barker
+    - 0.2:
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Venkateswaran
+        actual_delivery: '0.2'
+        batsman: TC Barker
+    - 0.3:
+        non_striker: TC Barker
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: G Venkateswaran
+    - 0.4:
+        non_striker: TC Barker
+        bowler: MJ Ansell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.4'
+        batsman: G Venkateswaran
+    - 0.5:
+        non_striker: TC Barker
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: G Venkateswaran
+        wicket:
+          player_out: G Venkateswaran
+          kind: lbw
+    - 0.6:
+        non_striker: TC Barker
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: SKS Gill
+    - 0.7:
+        non_striker: TC Barker
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: SKS Gill
+    - 1.1:
+        non_striker: TC Barker
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: SKS Gill
+    - 1.2:
+        non_striker: TC Barker
+        bowler: G Newton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.2'
+        batsman: SKS Gill
+    - 1.3:
+        non_striker: TC Barker
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: SKS Gill
+    - 1.4:
+        non_striker: TC Barker
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: SKS Gill
+    - 1.5:
+        non_striker: TC Barker
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: SKS Gill
+    - 1.6:
+        non_striker: TC Barker
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: SKS Gill
+    - 1.7:
+        non_striker: TC Barker
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: SKS Gill
+    - 2.1:
+        non_striker: TC Barker
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: SKS Gill
+    - 2.2:
+        non_striker: SKS Gill
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: TC Barker
+    - 2.3:
+        non_striker: TC Barker
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: SKS Gill
+    - 2.4:
+        non_striker: TC Barker
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: SKS Gill
+    - 2.5:
+        non_striker: TC Barker
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: SKS Gill
+    - 2.6:
+        non_striker: SKS Gill
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.6'
+        batsman: TC Barker
+    - 3.1:
+        non_striker: TC Barker
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: SKS Gill
+    - 3.2:
+        non_striker: TC Barker
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: SKS Gill
+    - 3.3:
+        non_striker: TC Barker
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: SKS Gill
+    - 3.4:
+        non_striker: TC Barker
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.4'
+        batsman: SKS Gill
+    - 3.5:
+        non_striker: TC Barker
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: SKS Gill
+    - 3.6:
+        non_striker: TC Barker
+        bowler: G Newton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.6'
+        batsman: SKS Gill
+    - 3.7:
+        non_striker: TC Barker
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: SKS Gill
+    - 4.1:
+        non_striker: SKS Gill
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: TC Barker
+    - 4.2:
+        non_striker: SKS Gill
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.2'
+        batsman: TC Barker
+    - 4.3:
+        non_striker: SKS Gill
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: TC Barker
+    - 4.4:
+        non_striker: TC Barker
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: SKS Gill
+        wicket:
+          player_out: SKS Gill
+          fielders:
+          - C Liebenberg
+          kind: caught
+    - 4.5:
+        non_striker: TC Barker
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Asghar Ali Khan
+    - 4.6:
+        non_striker: TC Barker
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.6'
+        batsman: Asghar Ali Khan
+    - 5.1:
+        non_striker: Asghar Ali Khan
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: TC Barker
+    - 5.2:
+        non_striker: TC Barker
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: Asghar Ali Khan
+    - 5.3:
+        non_striker: Asghar Ali Khan
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: TC Barker
+    - 5.4:
+        non_striker: TC Barker
+        bowler: G Newton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.4'
+        batsman: Asghar Ali Khan
+    - 5.5:
+        non_striker: TC Barker
+        bowler: G Newton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.4'
+        batsman: Asghar Ali Khan
+    - 5.6:
+        non_striker: TC Barker
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.4'
+        batsman: Asghar Ali Khan
+    - 5.7:
+        non_striker: TC Barker
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Asghar Ali Khan
+    - 5.8:
+        non_striker: TC Barker
+        bowler: G Newton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.6'
+        batsman: Asghar Ali Khan
+    - 6.1:
+        non_striker: Asghar Ali Khan
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.1'
+        batsman: TC Barker
+    - 6.2:
+        non_striker: Asghar Ali Khan
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: TC Barker
+    - 6.3:
+        non_striker: TC Barker
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: Asghar Ali Khan
+    - 6.4:
+        non_striker: Asghar Ali Khan
+        bowler: D Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '6.4'
+        batsman: TC Barker
+    - 6.5:
+        non_striker: TC Barker
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.5'
+        batsman: Asghar Ali Khan
+    - 6.6:
+        non_striker: TC Barker
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: Asghar Ali Khan
+    - 7.1:
+        non_striker: TC Barker
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: Asghar Ali Khan
+    - 7.2:
+        non_striker: TC Barker
+        bowler: CJ Langford
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '7.2'
+        batsman: Asghar Ali Khan
+    - 7.3:
+        non_striker: Asghar Ali Khan
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.2'
+        batsman: TC Barker
+    - 7.4:
+        non_striker: Asghar Ali Khan
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: TC Barker
+    - 7.5:
+        non_striker: TC Barker
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: Asghar Ali Khan
+    - 7.6:
+        non_striker: Asghar Ali Khan
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: TC Barker
+    - 7.7:
+        non_striker: Asghar Ali Khan
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.6'
+        batsman: TC Barker
+    - 8.1:
+        non_striker: TC Barker
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: Asghar Ali Khan
+    - 8.2:
+        non_striker: Asghar Ali Khan
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.2'
+        batsman: TC Barker
+    - 8.3:
+        non_striker: Asghar Ali Khan
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: TC Barker
+    - 8.4:
+        non_striker: Asghar Ali Khan
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.4'
+        batsman: TC Barker
+    - 8.5:
+        non_striker: Asghar Ali Khan
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: TC Barker
+    - 8.6:
+        non_striker: TC Barker
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.6'
+        batsman: Asghar Ali Khan
+    - 9.1:
+        non_striker: Asghar Ali Khan
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: TC Barker
+    - 9.2:
+        non_striker: TC Barker
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: Asghar Ali Khan
+    - 9.3:
+        non_striker: Asghar Ali Khan
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: TC Barker
+    - 9.4:
+        non_striker: TC Barker
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: Asghar Ali Khan
+    - 9.5:
+        non_striker: Asghar Ali Khan
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.5'
+        batsman: TC Barker
+    - 9.6:
+        non_striker: Asghar Ali Khan
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: TC Barker
+    - 10.1:
+        non_striker: Asghar Ali Khan
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: TC Barker
+    - 10.2:
+        non_striker: TC Barker
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: Asghar Ali Khan
+    - 10.3:
+        non_striker: Asghar Ali Khan
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '10.3'
+        batsman: TC Barker
+    - 10.4:
+        non_striker: Asghar Ali Khan
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: TC Barker
+    - 10.5:
+        non_striker: TC Barker
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: Asghar Ali Khan
+        wicket:
+          player_out: Asghar Ali Khan
+          kind: bowled
+    - 10.6:
+        non_striker: TC Barker
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: WJ Cope
+    - 11.1:
+        non_striker: TC Barker
+        bowler: N Knights
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: WJ Cope
+    - 11.2:
+        non_striker: WJ Cope
+        bowler: N Knights
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: TC Barker
+    - 11.3:
+        non_striker: TC Barker
+        bowler: N Knights
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: WJ Cope
+    - 11.4:
+        non_striker: WJ Cope
+        bowler: N Knights
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: TC Barker
+        wicket:
+          player_out: TC Barker
+          fielders:
+          - D Jansen
+          kind: caught
+    - 11.5:
+        non_striker: WJ Cope
+        bowler: N Knights
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: V Vijh
+    - 11.6:
+        non_striker: WJ Cope
+        bowler: N Knights
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: V Vijh
+    - 12.1:
+        non_striker: V Vijh
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: WJ Cope
+    - 12.2:
+        non_striker: WJ Cope
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: V Vijh
+    - 12.3:
+        non_striker: V Vijh
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: WJ Cope
+        wicket:
+          player_out: WJ Cope
+          kind: bowled
+    - 12.4:
+        non_striker: V Vijh
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: Vivek Dixit
+    - 12.5:
+        non_striker: V Vijh
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Vivek Dixit
+    - 12.6:
+        non_striker: V Vijh
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Vivek Dixit
+    - 13.1:
+        non_striker: Vivek Dixit
+        bowler: N Knights
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: V Vijh
+    - 13.2:
+        non_striker: V Vijh
+        bowler: N Knights
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: Vivek Dixit
+    - 13.3:
+        non_striker: Vivek Dixit
+        bowler: N Knights
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.3'
+        batsman: V Vijh
+    - 13.4:
+        non_striker: Vivek Dixit
+        bowler: N Knights
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: V Vijh
+    - 13.5:
+        non_striker: Vivek Dixit
+        bowler: N Knights
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: V Vijh
+    - 13.6:
+        non_striker: Vivek Dixit
+        bowler: N Knights
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: V Vijh
+    - 13.7:
+        non_striker: V Vijh
+        bowler: N Knights
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Vivek Dixit
+    - 14.1:
+        non_striker: V Vijh
+        bowler: C Liebenberg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.1'
+        batsman: Vivek Dixit
+    - 14.2:
+        non_striker: V Vijh
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: Vivek Dixit
+    - 14.3:
+        non_striker: Vivek Dixit
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: V Vijh
+    - 14.4:
+        non_striker: Vivek Dixit
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: V Vijh
+        wicket:
+          player_out: V Vijh
+          kind: bowled
+    - 14.5:
+        non_striker: Vivek Dixit
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: Mayank Nagayach
+    - 14.6:
+        non_striker: Mayank Nagayach
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.5'
+        batsman: Vivek Dixit
+    - 14.7:
+        non_striker: Mayank Nagayach
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: Vivek Dixit
+        wicket:
+          player_out: Vivek Dixit
+          fielders:
+          - C Hartmann
+          kind: caught
+    - 15.1:
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Madan
+        actual_delivery: '15.1'
+        batsman: Mayank Nagayach
+    - 15.2:
+        non_striker: Mayank Nagayach
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: J Madan
+        wicket:
+          player_out: J Madan
+          fielders:
+          - C Hartmann
+          kind: caught
+    - 15.3:
+        non_striker: Mayank Nagayach
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: Kamal Soukhiya
+        wicket:
+          player_out: Kamal Soukhiya
+          fielders:
+          - C Liebenberg
+          kind: caught
+    - 15.4:
+        non_striker: Mayank Nagayach
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: Milad Momend
+    - 15.5:
+        non_striker: Mayank Nagayach
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: Milad Momend
+    - 15.6:
+        non_striker: Mayank Nagayach
+        bowler: MJ Ansell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: Milad Momend
+    - 16.1:
+        non_striker: Milad Momend
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: Mayank Nagayach
+    - 16.2:
+        non_striker: Mayank Nagayach
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: Milad Momend
+    - 16.3:
+        non_striker: Mayank Nagayach
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: Milad Momend
+    - 16.4:
+        non_striker: Milad Momend
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: Mayank Nagayach
+    - 16.5:
+        non_striker: Milad Momend
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: Mayank Nagayach
+    - 16.6:
+        non_striker: Mayank Nagayach
+        bowler: C Liebenberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: Milad Momend
+    - 17.1:
+        non_striker: Milad Momend
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.1'
+        batsman: Mayank Nagayach
+    - 17.2:
+        non_striker: Milad Momend
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: Mayank Nagayach
+    - 17.3:
+        non_striker: Mayank Nagayach
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: Milad Momend
+    - 17.4:
+        non_striker: Mayank Nagayach
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: Milad Momend
+    - 17.5:
+        non_striker: Milad Momend
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: Mayank Nagayach
+    - 17.6:
+        non_striker: Mayank Nagayach
+        bowler: CJ Langford
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.6'
+        batsman: Milad Momend
+    - 18.1:
+        non_striker: Milad Momend
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.1'
+        batsman: Mayank Nagayach
+    - 18.2:
+        non_striker: Milad Momend
+        bowler: D Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: Mayank Nagayach
+        wicket:
+          player_out: Mayank Nagayach
+          kind: caught and bowled
+- 2nd innings:
+    team: Isle of Man
+    deliveries:
+    - 0.1:
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Hartmann
+        actual_delivery: '0.1'
+        batsman: A McAuley
+    - 0.2:
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Hartmann
+        actual_delivery: '0.2'
+        batsman: A McAuley
+    - 0.3:
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Hartmann
+        actual_delivery: '0.3'
+        batsman: A McAuley
+    - 0.4:
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Hartmann
+        actual_delivery: '0.4'
+        batsman: A McAuley
+    - 0.5:
+        non_striker: A McAuley
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: C Hartmann
+    - 0.6:
+        non_striker: A McAuley
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: C Hartmann
+    - 1.1:
+        non_striker: A McAuley
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: C Hartmann
+    - 1.2:
+        non_striker: A McAuley
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: C Hartmann
+    - 1.3:
+        non_striker: C Hartmann
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: A McAuley
+    - 1.4:
+        non_striker: C Hartmann
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: A McAuley
+    - 1.5:
+        non_striker: C Hartmann
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.5'
+        batsman: A McAuley
+    - 1.6:
+        non_striker: C Hartmann
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: A McAuley
+    - 2.1:
+        non_striker: C Hartmann
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: A McAuley
+    - 2.2:
+        non_striker: C Hartmann
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.2'
+        batsman: A McAuley
+    - 2.3:
+        non_striker: C Hartmann
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: A McAuley
+    - 2.4:
+        non_striker: C Hartmann
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: A McAuley
+    - 2.5:
+        non_striker: A McAuley
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.5'
+        batsman: C Hartmann
+    - 2.6:
+        non_striker: A McAuley
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: C Hartmann
+    - 3.1:
+        non_striker: A McAuley
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: C Hartmann
+    - 3.2:
+        non_striker: C Hartmann
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.2'
+        batsman: A McAuley
+    - 3.3:
+        non_striker: C Hartmann
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: A McAuley
+    - 3.4:
+        non_striker: C Hartmann
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: A McAuley
+    - 3.5:
+        non_striker: A McAuley
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: C Hartmann
+    - 3.6:
+        non_striker: A McAuley
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: C Hartmann
+    - 4.1:
+        non_striker: A McAuley
+        bowler: Mayank Nagayach
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.1'
+        batsman: C Hartmann
+    - 4.2:
+        non_striker: A McAuley
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.1'
+        batsman: C Hartmann
+    - 4.3:
+        non_striker: A McAuley
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.2'
+        batsman: C Hartmann
+    - 4.4:
+        non_striker: A McAuley
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: C Hartmann
+    - 4.5:
+        non_striker: A McAuley
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: C Hartmann
+    - 4.6:
+        non_striker: C Hartmann
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.5'
+        batsman: A McAuley
+    - 4.7:
+        non_striker: C Hartmann
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: A McAuley
+    - 5.1:
+        non_striker: A McAuley
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: C Hartmann
+    - 5.2:
+        non_striker: C Hartmann
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.2'
+        batsman: A McAuley
+    - 5.3:
+        non_striker: C Hartmann
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.3'
+        batsman: A McAuley
+    - 5.4:
+        non_striker: C Hartmann
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: A McAuley
+    - 5.5:
+        non_striker: A McAuley
+        bowler: Milad Momend
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.5'
+        batsman: C Hartmann
+    - 5.6:
+        non_striker: A McAuley
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: C Hartmann
+    - 5.7:
+        non_striker: C Hartmann
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: A McAuley
+    - 6.1:
+        non_striker: C Hartmann
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: A McAuley
+    - 6.2:
+        non_striker: C Hartmann
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: A McAuley
+    - 6.3:
+        non_striker: C Hartmann
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.3'
+        batsman: A McAuley
+    - 6.4:
+        non_striker: C Hartmann
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: A McAuley
+    - 6.5:
+        non_striker: C Hartmann
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: A McAuley
+    - 6.6:
+        non_striker: A McAuley
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: C Hartmann
+    - 7.1:
+        non_striker: A McAuley
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: C Hartmann
+    - 7.2:
+        non_striker: A McAuley
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: C Hartmann
+    - 7.3:
+        non_striker: A McAuley
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: C Hartmann
+    - 7.4:
+        non_striker: C Hartmann
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: A McAuley
+    - 7.5:
+        non_striker: A McAuley
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: C Hartmann
+    - 7.6:
+        non_striker: C Hartmann
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: A McAuley
+    - 8.1:
+        non_striker: C Hartmann
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: A McAuley
+    - 8.2:
+        non_striker: A McAuley
+        bowler: Vivek Dixit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.2'
+        batsman: C Hartmann
+    - 8.3:
+        non_striker: A McAuley
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: C Hartmann
+        wicket:
+          player_out: C Hartmann
+          kind: caught and bowled
+    - 8.4:
+        non_striker: A McAuley
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: D Jansen
+    - 8.5:
+        non_striker: D Jansen
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: A McAuley
+    - 8.6:
+        non_striker: A McAuley
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: D Jansen
+    - 8.7:
+        non_striker: A McAuley
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: D Jansen
+    - 9.1:
+        non_striker: A McAuley
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: D Jansen
+    - 9.2:
+        non_striker: D Jansen
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: A McAuley
+    - 9.3:
+        non_striker: A McAuley
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: D Jansen
+    - 9.4:
+        non_striker: D Jansen
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: A McAuley
+    - 9.5:
+        non_striker: A McAuley
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: D Jansen
+    - 9.6:
+        non_striker: D Jansen
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: A McAuley
+    - 10.1:
+        non_striker: A McAuley
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: D Jansen
+    - 10.2:
+        non_striker: D Jansen
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: A McAuley
+    - 10.3:
+        non_striker: A McAuley
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: D Jansen
+    - 10.4:
+        non_striker: D Jansen
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.4'
+        batsman: A McAuley
+    - 10.5:
+        non_striker: D Jansen
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.5'
+        batsman: A McAuley
+    - 10.6:
+        non_striker: D Jansen
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.6'
+        batsman: A McAuley
+    - 11.1:
+        non_striker: A McAuley
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: D Jansen
+    - 11.2:
+        non_striker: D Jansen
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: A McAuley
+    - 11.3:
+        non_striker: A McAuley
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.3'
+        batsman: D Jansen
+    - 11.4:
+        non_striker: A McAuley
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: D Jansen
+    - 11.5:
+        non_striker: D Jansen
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: A McAuley
+    - 11.6:
+        non_striker: A McAuley
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: D Jansen
+    - 12.1:
+        non_striker: A McAuley
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.1'
+        batsman: D Jansen
+    - 12.2:
+        non_striker: A McAuley
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: D Jansen
+    - 12.3:
+        non_striker: A McAuley
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.3'
+        batsman: D Jansen
+    - 12.4:
+        non_striker: A McAuley
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.4'
+        batsman: D Jansen
+    - 12.5:
+        non_striker: A McAuley
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: D Jansen
+    - 12.6:
+        non_striker: D Jansen
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: A McAuley
+    - 13.1:
+        non_striker: A McAuley
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: D Jansen
+    - 13.2:
+        non_striker: A McAuley
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: D Jansen
+    - 13.3:
+        non_striker: A McAuley
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.3'
+        batsman: D Jansen
+    - 13.4:
+        non_striker: A McAuley
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: D Jansen
+    - 13.5:
+        non_striker: A McAuley
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: D Jansen
+    - 13.6:
+        non_striker: D Jansen
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: A McAuley
+        wicket:
+          player_out: A McAuley
+          kind: bowled
+    - 13.7:
+        non_striker: D Jansen
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: C Webster
+    - 14.1:
+        non_striker: C Webster
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: D Jansen
+    - 14.2:
+        non_striker: C Webster
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: D Jansen
+    - 14.3:
+        non_striker: D Jansen
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.3'
+        batsman: C Webster
+    - 14.4:
+        non_striker: D Jansen
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.4'
+        batsman: C Webster
+    - 14.5:
+        non_striker: D Jansen
+        bowler: Mayank Nagayach
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '14.5'
+        batsman: C Webster
+    - 14.6:
+        non_striker: C Webster
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: D Jansen
+    - 15.1:
+        non_striker: D Jansen
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: C Webster
+    - 15.2:
+        non_striker: D Jansen
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.2'
+        batsman: C Webster
+    - 15.3:
+        non_striker: D Jansen
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: C Webster
+    - 15.4:
+        non_striker: C Webster
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: D Jansen
+    - 15.5:
+        non_striker: D Jansen
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: C Webster
+    - 15.6:
+        non_striker: C Webster
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: D Jansen
+    - 15.7:
+        non_striker: C Webster
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: D Jansen
+    - 16.1:
+        non_striker: C Webster
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: D Jansen
+    - 16.2:
+        non_striker: C Webster
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: D Jansen
+    - 16.3:
+        non_striker: C Webster
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: D Jansen
+    - 16.4:
+        non_striker: C Webster
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: D Jansen
+    - 16.5:
+        non_striker: C Webster
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: D Jansen
+    - 16.6:
+        non_striker: C Webster
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.6'
+        batsman: D Jansen
+    target:
+      overs: 20
+      runs: 117

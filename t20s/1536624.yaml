@@ -1,0 +1,2653 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2026-06-04'
+  gender: female
+  match_type: T20
+  match_type_number: 2815
+  outcome:
+    winner: Japan
+    by:
+      runs: 116
+  overs: 20
+  player_of_match:
+  - A Kato-Stafford
+  players:
+    Japan:
+    - H Iwasaki
+    - Erika Oda
+    - M Yanagida
+    - A Kato-Stafford
+    - K Ota
+    - Seika Sumi
+    - A Fujikawa
+    - H Goto
+    - M Kaswan
+    - E Kusuda-Nairn
+    - Nonoha Yasumoto
+    Mongolia:
+    - N Erdenebat
+    - B Ichinkhorloo
+    - O Amarjargal
+    - G Anujin
+    - J Tugsjargal
+    - Sunjidmaa Phillips
+    - M Batnasan
+    - E Khaliunaa
+    - G Urjindulam
+    - B Unenchtseceg
+    - U Bayarjavkhlan
+  registry:
+    people:
+      A Fujikawa: 9543a4fe
+      A Kato-Stafford: 034e7939
+      AK Rana: 562d74d0
+      Afia Amin: 7fc47de1
+      B Ichinkhorloo: 3cc55f88
+      B Unenchtseceg: 93b40209
+      E Khaliunaa: 1349b940
+      E Kusuda-Nairn: 95c5ce07
+      Erika Oda: 4c8a1197
+      G Anujin: e749f016
+      G Urjindulam: a51e7c73
+      H Goto: b3af5bff
+      H Iwasaki: f2698c78
+      Humaira Farah: 6b6d6623
+      J Tugsjargal: e7af8a61
+      K Ota: 211f48fe
+      M Batnasan: 0e01e881
+      M Kaswan: da76ae8f
+      M Yanagida: f20e7e23
+      N Erdenebat: 9e1e821f
+      Nonoha Yasumoto: eb33378d
+      O Amarjargal: c054cf6f
+      Seika Sumi: 704b4c30
+      Sunjidmaa Phillips: d5b6cb2e
+      U Bayarjavkhlan: 92c81a4f
+      VR Nagre: fadaac76
+  teams:
+  - Japan
+  - Mongolia
+  toss:
+    winner: Mongolia
+    decision: field
+  umpires:
+  - Afia Amin
+  - Humaira Farah
+  venue: Bayuemas Oval, Kuala Lumpur
+  team_type: international
+innings:
+- 1st innings:
+    team: Japan
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: O Amarjargal
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        non_striker: Erika Oda
+        batsman: H Iwasaki
+    - 0.2:
+        actual_delivery: '0.1'
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Erika Oda
+        batsman: H Iwasaki
+    - 0.3:
+        actual_delivery: '0.2'
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Erika Oda
+        batsman: H Iwasaki
+    - 0.4:
+        actual_delivery: '0.3'
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Erika Oda
+        batsman: H Iwasaki
+    - 0.5:
+        actual_delivery: '0.4'
+        non_striker: H Iwasaki
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Erika Oda
+    - 0.6:
+        actual_delivery: '0.5'
+        non_striker: H Iwasaki
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 0.7:
+        actual_delivery: '0.6'
+        non_striker: H Iwasaki
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: H Iwasaki
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: H Iwasaki
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: H Iwasaki
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: Erika Oda
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Iwasaki
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: Erika Oda
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: Erika Oda
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Iwasaki
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: H Iwasaki
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: H Iwasaki
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: Erika Oda
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: Erika Oda
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Iwasaki
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: Erika Oda
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+        wicket:
+          player_out: H Iwasaki
+          kind: bowled
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: Erika Oda
+        bowler: O Amarjargal
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: M Yanagida
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: M Yanagida
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: M Yanagida
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Erika Oda
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: M Yanagida
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: M Yanagida
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: Erika Oda
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: Erika Oda
+        bowler: U Bayarjavkhlan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: M Yanagida
+        bowler: B Unenchtseceg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Erika Oda
+    - 4.2:
+        actual_delivery: '4.1'
+        non_striker: M Yanagida
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Erika Oda
+    - 4.3:
+        actual_delivery: '4.2'
+        non_striker: M Yanagida
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Erika Oda
+    - 4.4:
+        actual_delivery: '4.3'
+        non_striker: M Yanagida
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 4.5:
+        actual_delivery: '4.4'
+        non_striker: Erika Oda
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 4.6:
+        actual_delivery: '4.5'
+        non_striker: Erika Oda
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 4.7:
+        actual_delivery: '4.6'
+        non_striker: M Yanagida
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: M Yanagida
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+        wicket:
+          player_out: Erika Oda
+          kind: bowled
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: M Yanagida
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: M Yanagida
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Kato-Stafford
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: A Kato-Stafford
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Yanagida
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: A Kato-Stafford
+        bowler: M Batnasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Yanagida
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: M Yanagida
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: A Kato-Stafford
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: A Kato-Stafford
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Yanagida
+    - 6.3:
+        actual_delivery: '6.2'
+        non_striker: A Kato-Stafford
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 6.4:
+        actual_delivery: '6.3'
+        non_striker: M Yanagida
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 6.5:
+        actual_delivery: '6.4'
+        non_striker: A Kato-Stafford
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Yanagida
+    - 6.6:
+        actual_delivery: '6.5'
+        non_striker: A Kato-Stafford
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Yanagida
+    - 6.7:
+        actual_delivery: '6.6'
+        non_striker: M Yanagida
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kato-Stafford
+    - 6.8:
+        actual_delivery: '6.6'
+        non_striker: M Yanagida
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Kato-Stafford
+    - 6.9:
+        actual_delivery: '6.6'
+        non_striker: M Yanagida
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Kato-Stafford
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: M Yanagida
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: A Kato-Stafford
+        bowler: M Batnasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: M Yanagida
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: M Yanagida
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: A Kato-Stafford
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: A Kato-Stafford
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: A Kato-Stafford
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: M Yanagida
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: M Yanagida
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Kato-Stafford
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: A Kato-Stafford
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: A Kato-Stafford
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Yanagida
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: A Kato-Stafford
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: M Yanagida
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: M Yanagida
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: M Yanagida
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: A Kato-Stafford
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: M Yanagida
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kato-Stafford
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: M Yanagida
+        bowler: M Batnasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Kato-Stafford
+    - 9.6:
+        actual_delivery: '9.5'
+        non_striker: M Yanagida
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kato-Stafford
+    - 9.7:
+        actual_delivery: '9.6'
+        non_striker: M Yanagida
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: M Yanagida
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: A Kato-Stafford
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: M Yanagida
+        bowler: O Amarjargal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Kato-Stafford
+    - 10.4:
+        actual_delivery: '10.3'
+        non_striker: M Yanagida
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 10.5:
+        actual_delivery: '10.4'
+        non_striker: M Yanagida
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 10.6:
+        actual_delivery: '10.5'
+        non_striker: M Yanagida
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 10.7:
+        actual_delivery: '10.6'
+        non_striker: M Yanagida
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: M Yanagida
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: A Kato-Stafford
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: M Yanagida
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Kato-Stafford
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: A Kato-Stafford
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Yanagida
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: A Kato-Stafford
+        bowler: B Unenchtseceg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Yanagida
+    - 11.6:
+        actual_delivery: '11.5'
+        non_striker: A Kato-Stafford
+        bowler: B Unenchtseceg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Yanagida
+    - 11.7:
+        actual_delivery: '11.5'
+        non_striker: A Kato-Stafford
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 11.8:
+        actual_delivery: '11.6'
+        non_striker: A Kato-Stafford
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: M Yanagida
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kato-Stafford
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: M Yanagida
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: M Yanagida
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: M Yanagida
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kato-Stafford
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: M Yanagida
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: M Yanagida
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: A Kato-Stafford
+        bowler: G Urjindulam
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Yanagida
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: M Yanagida
+        bowler: G Urjindulam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kato-Stafford
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: M Yanagida
+        bowler: G Urjindulam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: A Kato-Stafford
+        bowler: G Urjindulam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Yanagida
+    - 13.5:
+        actual_delivery: '13.4'
+        non_striker: A Kato-Stafford
+        bowler: G Urjindulam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 13.6:
+        actual_delivery: '13.5'
+        non_striker: M Yanagida
+        bowler: G Urjindulam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kato-Stafford
+    - 13.7:
+        actual_delivery: '13.5'
+        non_striker: M Yanagida
+        bowler: G Urjindulam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kato-Stafford
+    - 13.8:
+        actual_delivery: '13.5'
+        non_striker: M Yanagida
+        bowler: G Urjindulam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kato-Stafford
+    - 13.9:
+        actual_delivery: '13.5'
+        non_striker: M Yanagida
+        bowler: G Urjindulam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 13.10:
+        actual_delivery: '13.6'
+        non_striker: A Kato-Stafford
+        bowler: G Urjindulam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Yanagida
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: M Yanagida
+        bowler: B Unenchtseceg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Kato-Stafford
+    - 14.2:
+        actual_delivery: '14.1'
+        non_striker: M Yanagida
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 14.3:
+        actual_delivery: '14.2'
+        non_striker: M Yanagida
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 14.4:
+        actual_delivery: '14.3'
+        non_striker: A Kato-Stafford
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Yanagida
+    - 14.5:
+        actual_delivery: '14.4'
+        non_striker: M Yanagida
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 14.6:
+        actual_delivery: '14.5'
+        non_striker: M Yanagida
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 14.7:
+        actual_delivery: '14.6'
+        non_striker: M Yanagida
+        bowler: B Unenchtseceg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: A Kato-Stafford
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: A Kato-Stafford
+        bowler: M Batnasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Yanagida
+    - 15.3:
+        actual_delivery: '15.2'
+        non_striker: A Kato-Stafford
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Yanagida
+        wicket:
+          player_out: M Yanagida
+          fielders:
+          - M Batnasan
+          kind: run out
+    - 15.4:
+        actual_delivery: '15.3'
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: K Ota
+        batsman: A Kato-Stafford
+    - 15.5:
+        actual_delivery: '15.4'
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: K Ota
+        batsman: A Kato-Stafford
+    - 15.6:
+        actual_delivery: '15.5'
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: K Ota
+        batsman: A Kato-Stafford
+    - 15.7:
+        actual_delivery: '15.6'
+        non_striker: K Ota
+        bowler: M Batnasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: K Ota
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kato-Stafford
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: K Ota
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: A Kato-Stafford
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: K Ota
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kato-Stafford
+    - 16.5:
+        actual_delivery: '16.4'
+        non_striker: K Ota
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 16.6:
+        actual_delivery: '16.5'
+        non_striker: A Kato-Stafford
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Ota
+    - 16.7:
+        actual_delivery: '16.6'
+        non_striker: A Kato-Stafford
+        bowler: Sunjidmaa Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: K Ota
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kato-Stafford
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: K Ota
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: A Kato-Stafford
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ota
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: A Kato-Stafford
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: A Kato-Stafford
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ota
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: A Kato-Stafford
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ota
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: K Ota
+        bowler: O Amarjargal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kato-Stafford
+    - 18.2:
+        actual_delivery: '18.1'
+        non_striker: K Ota
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kato-Stafford
+    - 18.3:
+        actual_delivery: '18.2'
+        non_striker: K Ota
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 18.4:
+        actual_delivery: '18.3'
+        non_striker: K Ota
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 18.5:
+        actual_delivery: '18.4'
+        non_striker: A Kato-Stafford
+        bowler: O Amarjargal
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: K Ota
+    - 18.6:
+        actual_delivery: '18.4'
+        non_striker: K Ota
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 18.7:
+        actual_delivery: '18.5'
+        non_striker: A Kato-Stafford
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 18.8:
+        actual_delivery: '18.6'
+        non_striker: K Ota
+        bowler: O Amarjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: A Kato-Stafford
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ota
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: K Ota
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kato-Stafford
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: K Ota
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+        wicket:
+          player_out: A Kato-Stafford
+          kind: bowled
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: K Ota
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Seika Sumi
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: K Ota
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Seika Sumi
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: K Ota
+        bowler: J Tugsjargal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Seika Sumi
+- 2nd innings:
+    team: Mongolia
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Ichinkhorloo
+        batsman: N Erdenebat
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Ichinkhorloo
+        batsman: N Erdenebat
+    - 0.3:
+        actual_delivery: '0.3'
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: B Ichinkhorloo
+        batsman: N Erdenebat
+    - 0.4:
+        actual_delivery: '0.4'
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Ichinkhorloo
+        batsman: N Erdenebat
+    - 0.5:
+        actual_delivery: '0.5'
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Ichinkhorloo
+        batsman: N Erdenebat
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: B Ichinkhorloo
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Erdenebat
+        wicket:
+          player_out: N Erdenebat
+          kind: bowled
+    - 1.1:
+        actual_delivery: '1.1'
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Amarjargal
+        batsman: B Ichinkhorloo
+    - 1.2:
+        actual_delivery: '1.2'
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Amarjargal
+        batsman: B Ichinkhorloo
+    - 1.3:
+        actual_delivery: '1.3'
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Amarjargal
+        batsman: B Ichinkhorloo
+    - 1.4:
+        actual_delivery: '1.4'
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Amarjargal
+        batsman: B Ichinkhorloo
+    - 1.5:
+        actual_delivery: '1.5'
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Amarjargal
+        batsman: B Ichinkhorloo
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: O Amarjargal
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: B Ichinkhorloo
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: B Ichinkhorloo
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: B Ichinkhorloo
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: B Ichinkhorloo
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: B Ichinkhorloo
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: B Ichinkhorloo
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: O Amarjargal
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Ichinkhorloo
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: O Amarjargal
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: O Amarjargal
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: O Amarjargal
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: O Amarjargal
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: O Amarjargal
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: B Ichinkhorloo
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: B Ichinkhorloo
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: B Ichinkhorloo
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Amarjargal
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: O Amarjargal
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Ichinkhorloo
+    - 4.5:
+        actual_delivery: '4.4'
+        non_striker: O Amarjargal
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 4.6:
+        actual_delivery: '4.5'
+        non_striker: O Amarjargal
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Ichinkhorloo
+    - 4.7:
+        actual_delivery: '4.5'
+        non_striker: O Amarjargal
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 4.8:
+        actual_delivery: '4.6'
+        non_striker: O Amarjargal
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Ichinkhorloo
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: B Ichinkhorloo
+        bowler: M Kaswan
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: O Amarjargal
+    - 5.2:
+        actual_delivery: '5.1'
+        non_striker: B Ichinkhorloo
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+    - 5.3:
+        actual_delivery: '5.2'
+        non_striker: B Ichinkhorloo
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Amarjargal
+        wicket:
+          player_out: O Amarjargal
+          kind: lbw
+    - 5.4:
+        actual_delivery: '5.3'
+        non_striker: B Ichinkhorloo
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Anujin
+    - 5.5:
+        actual_delivery: '5.4'
+        non_striker: B Ichinkhorloo
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Anujin
+    - 5.6:
+        actual_delivery: '5.5'
+        non_striker: B Ichinkhorloo
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Anujin
+    - 5.7:
+        actual_delivery: '5.6'
+        non_striker: B Ichinkhorloo
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Anujin
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: G Anujin
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: G Anujin
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: G Anujin
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: G Anujin
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: G Anujin
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: G Anujin
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: B Ichinkhorloo
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Anujin
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: B Ichinkhorloo
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Anujin
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: B Ichinkhorloo
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Anujin
+        wicket:
+          player_out: G Anujin
+          fielders:
+          - K Ota
+          kind: caught
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: B Ichinkhorloo
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tugsjargal
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: B Ichinkhorloo
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tugsjargal
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: B Ichinkhorloo
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tugsjargal
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: J Tugsjargal
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: J Tugsjargal
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ichinkhorloo
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: B Ichinkhorloo
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Tugsjargal
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: B Ichinkhorloo
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Tugsjargal
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: J Tugsjargal
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ichinkhorloo
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: B Ichinkhorloo
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tugsjargal
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: B Ichinkhorloo
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tugsjargal
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: J Tugsjargal
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: J Tugsjargal
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ichinkhorloo
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: B Ichinkhorloo
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tugsjargal
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: B Ichinkhorloo
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tugsjargal
+        wicket:
+          player_out: J Tugsjargal
+          kind: bowled
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: B Ichinkhorloo
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunjidmaa Phillips
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Sunjidmaa Phillips
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Sunjidmaa Phillips
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ichinkhorloo
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: B Ichinkhorloo
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunjidmaa Phillips
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: B Ichinkhorloo
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sunjidmaa Phillips
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: B Ichinkhorloo
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunjidmaa Phillips
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: B Ichinkhorloo
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunjidmaa Phillips
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Sunjidmaa Phillips
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Sunjidmaa Phillips
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: Sunjidmaa Phillips
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: Sunjidmaa Phillips
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: Sunjidmaa Phillips
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: Sunjidmaa Phillips
+        bowler: M Kaswan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ichinkhorloo
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: Sunjidmaa Phillips
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ichinkhorloo
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: B Ichinkhorloo
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunjidmaa Phillips
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: B Ichinkhorloo
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunjidmaa Phillips
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: B Ichinkhorloo
+        bowler: K Ota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sunjidmaa Phillips
+    - 12.5:
+        actual_delivery: '12.4'
+        non_striker: B Ichinkhorloo
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunjidmaa Phillips
+    - 12.6:
+        actual_delivery: '12.5'
+        non_striker: B Ichinkhorloo
+        bowler: K Ota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sunjidmaa Phillips
+    - 12.7:
+        actual_delivery: '12.5'
+        non_striker: B Ichinkhorloo
+        bowler: K Ota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sunjidmaa Phillips
+    - 12.8:
+        actual_delivery: '12.5'
+        non_striker: B Ichinkhorloo
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunjidmaa Phillips
+    - 12.9:
+        actual_delivery: '12.6'
+        non_striker: B Ichinkhorloo
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunjidmaa Phillips
+        wicket:
+          player_out: Sunjidmaa Phillips
+          fielders:
+          - Erika Oda
+          kind: caught
+    - 13.1:
+        actual_delivery: '13.1'
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Batnasan
+        batsman: B Ichinkhorloo
+    - 13.2:
+        actual_delivery: '13.2'
+        bowler: A Fujikawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Batnasan
+        batsman: B Ichinkhorloo
+    - 13.3:
+        actual_delivery: '13.2'
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Batnasan
+        batsman: B Ichinkhorloo
+    - 13.4:
+        actual_delivery: '13.3'
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Batnasan
+        batsman: B Ichinkhorloo
+    - 13.5:
+        actual_delivery: '13.4'
+        non_striker: B Ichinkhorloo
+        bowler: A Fujikawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Batnasan
+    - 13.6:
+        actual_delivery: '13.4'
+        non_striker: B Ichinkhorloo
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Batnasan
+    - 13.7:
+        actual_delivery: '13.5'
+        non_striker: B Ichinkhorloo
+        bowler: A Fujikawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Batnasan
+    - 13.8:
+        actual_delivery: '13.5'
+        non_striker: B Ichinkhorloo
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Batnasan
+    - 13.9:
+        actual_delivery: '13.6'
+        non_striker: B Ichinkhorloo
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Batnasan
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: M Batnasan
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: M Batnasan
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: M Batnasan
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: M Batnasan
+        bowler: K Ota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Ichinkhorloo
+    - 14.5:
+        actual_delivery: '14.4'
+        non_striker: M Batnasan
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ichinkhorloo
+    - 14.6:
+        actual_delivery: '14.5'
+        non_striker: B Ichinkhorloo
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Batnasan
+    - 14.7:
+        actual_delivery: '14.6'
+        non_striker: B Ichinkhorloo
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Batnasan
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: B Ichinkhorloo
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Batnasan
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: B Ichinkhorloo
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Batnasan
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: B Ichinkhorloo
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Batnasan
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: M Batnasan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: M Batnasan
+        bowler: A Fujikawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Ichinkhorloo
+    - 15.6:
+        actual_delivery: '15.5'
+        non_striker: M Batnasan
+        bowler: A Fujikawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Ichinkhorloo
+    - 15.7:
+        actual_delivery: '15.5'
+        non_striker: M Batnasan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ichinkhorloo
+    - 15.8:
+        actual_delivery: '15.6'
+        non_striker: B Ichinkhorloo
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Batnasan
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: M Batnasan
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: M Batnasan
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Ichinkhorloo
+    - 16.3:
+        actual_delivery: '16.2'
+        non_striker: M Batnasan
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+    - 16.4:
+        actual_delivery: '16.3'
+        non_striker: M Batnasan
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ichinkhorloo
+        wicket:
+          player_out: B Ichinkhorloo
+          fielders:
+          - Erika Oda
+          kind: run out
+    - 16.5:
+        actual_delivery: '16.4'
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Khaliunaa
+        batsman: M Batnasan
+    - 16.6:
+        actual_delivery: '16.5'
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Khaliunaa
+        batsman: M Batnasan
+    - 16.7:
+        actual_delivery: '16.6'
+        non_striker: M Batnasan
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Khaliunaa
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: M Batnasan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Khaliunaa
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: M Batnasan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Khaliunaa
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: M Batnasan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Khaliunaa
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: E Khaliunaa
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Batnasan
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: M Batnasan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Khaliunaa
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: M Batnasan
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Khaliunaa
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: E Khaliunaa
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: M Batnasan
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: M Batnasan
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Khaliunaa
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: E Khaliunaa
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Batnasan
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: M Batnasan
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Khaliunaa
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: E Khaliunaa
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Batnasan
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: E Khaliunaa
+        bowler: Nonoha Yasumoto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Batnasan
+        wicket:
+          player_out: M Batnasan
+          kind: bowled
+    - 19.1:
+        actual_delivery: '19.1'
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Urjindulam
+        batsman: E Khaliunaa
+    - 19.2:
+        actual_delivery: '19.2'
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Urjindulam
+        batsman: E Khaliunaa
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: E Khaliunaa
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Urjindulam
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: E Khaliunaa
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Urjindulam
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: E Khaliunaa
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Urjindulam
+        wicket:
+          player_out: G Urjindulam
+          fielders:
+          - H Goto
+          kind: stumped
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: E Khaliunaa
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Unenchtseceg
+    target:
+      overs: 20
+      runs: 189

@@ -1,0 +1,2940 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sofia
+  dates:
+  - '2026-06-26'
+  gender: female
+  match_type: T20
+  match_type_number: 2889
+  outcome:
+    winner: Serbia
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - N Nojic
+  players:
+    Bulgaria:
+    - B Shotorova
+    - S Sarandeva
+    - V Nikolova
+    - A Stoilova
+    - D Ruynekova
+    - S Galabova
+    - M Abadjieva
+    - G Ilarionova
+    - K Marinkova
+    - Deya Stefanova
+    - N Tropolova
+    Serbia:
+    - M Perisic
+    - D Demic
+    - S Matijevic
+    - M Stevanovic
+    - B Ercegovcevic
+    - N Nojic
+    - E Prokic
+    - M Trajkovic
+    - A Djordjevic
+    - B Radevic
+    - K Ristic
+  registry:
+    people:
+      A Djordjevic: '86514032'
+      A Stoilova: c602c725
+      B Ercegovcevic: be5b6d0d
+      B Radevic: 819d26f0
+      B Shotorova: cbef9f64
+      D Demic: 618327de
+      D Ruynekova: c3890e1e
+      Deya Stefanova: 9328878b
+      E Prokic: 6153ce0d
+      G Ilarionova: b56786e5
+      K Marinkova: 4f252971
+      K Ristic: f3d2b7ea
+      M Abadjieva: f37f1c61
+      M Perisic: 81599c08
+      M Stevanovic: 5f40b4da
+      M Trajkovic: 75ae53e0
+      N Nojic: ef537c2e
+      N Tropolova: 55c9fffb
+      S Galabova: 21bcbbdd
+      S Matijevic: eae6959b
+      S Sarandeva: dacecca3
+      V Nikolova: '078d1eb5'
+  team_type: international
+  teams:
+  - Bulgaria
+  - Serbia
+  toss:
+    winner: Serbia
+    decision: field
+  venue: Vassil Levski National Sports Academy, Sofia
+innings:
+- 1st innings:
+    team: Bulgaria
+    deliveries:
+    - 0.1:
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Sarandeva
+        actual_delivery: '0.1'
+        batsman: B Shotorova
+    - 0.2:
+        non_striker: B Shotorova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: S Sarandeva
+    - 0.3:
+        non_striker: B Shotorova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: S Sarandeva
+    - 0.4:
+        non_striker: B Shotorova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: S Sarandeva
+        wicket:
+          player_out: S Sarandeva
+          kind: bowled
+    - 0.5:
+        non_striker: B Shotorova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: V Nikolova
+    - 0.6:
+        non_striker: B Shotorova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: V Nikolova
+    - 1.1:
+        non_striker: V Nikolova
+        bowler: M Trajkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: B Shotorova
+    - 1.2:
+        non_striker: B Shotorova
+        bowler: M Trajkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: V Nikolova
+    - 1.3:
+        non_striker: B Shotorova
+        bowler: M Trajkovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: V Nikolova
+    - 1.4:
+        non_striker: B Shotorova
+        bowler: M Trajkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: V Nikolova
+        wicket:
+          player_out: V Nikolova
+          fielders:
+          - S Matijevic
+          kind: caught
+    - 1.5:
+        non_striker: B Shotorova
+        bowler: M Trajkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: A Stoilova
+    - 1.6:
+        non_striker: B Shotorova
+        bowler: M Trajkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: A Stoilova
+    - 2.1:
+        non_striker: A Stoilova
+        bowler: M Stevanovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: B Shotorova
+    - 2.2:
+        non_striker: B Shotorova
+        bowler: M Stevanovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: A Stoilova
+    - 2.3:
+        non_striker: B Shotorova
+        bowler: M Stevanovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: A Stoilova
+    - 2.4:
+        non_striker: B Shotorova
+        bowler: M Stevanovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: A Stoilova
+    - 2.5:
+        non_striker: B Shotorova
+        bowler: M Stevanovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '2.5'
+        batsman: A Stoilova
+    - 2.6:
+        non_striker: A Stoilova
+        bowler: M Stevanovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.6'
+        batsman: B Shotorova
+    - 2.7:
+        non_striker: A Stoilova
+        bowler: M Stevanovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.6'
+        batsman: B Shotorova
+    - 2.8:
+        non_striker: A Stoilova
+        bowler: M Stevanovic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.6'
+        batsman: B Shotorova
+    - 3.1:
+        non_striker: B Shotorova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: A Stoilova
+    - 3.2:
+        non_striker: B Shotorova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: A Stoilova
+    - 3.3:
+        non_striker: A Stoilova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: B Shotorova
+    - 3.4:
+        non_striker: A Stoilova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: B Shotorova
+    - 3.5:
+        non_striker: A Stoilova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.5'
+        batsman: B Shotorova
+    - 3.6:
+        non_striker: A Stoilova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: B Shotorova
+    - 4.1:
+        non_striker: B Shotorova
+        bowler: M Trajkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: A Stoilova
+    - 4.2:
+        non_striker: B Shotorova
+        bowler: M Trajkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: A Stoilova
+    - 4.3:
+        non_striker: B Shotorova
+        bowler: M Trajkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: A Stoilova
+    - 4.4:
+        non_striker: B Shotorova
+        bowler: M Trajkovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: A Stoilova
+    - 4.5:
+        non_striker: A Stoilova
+        bowler: M Trajkovic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.5'
+        batsman: B Shotorova
+    - 4.6:
+        non_striker: A Stoilova
+        bowler: M Trajkovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: B Shotorova
+        wicket:
+          player_out: B Shotorova
+          kind: bowled
+    - 5.1:
+        bowler: M Stevanovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Ruynekova
+        actual_delivery: '5.1'
+        batsman: A Stoilova
+    - 5.2:
+        non_striker: A Stoilova
+        bowler: M Stevanovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: D Ruynekova
+    - 5.3:
+        non_striker: A Stoilova
+        bowler: M Stevanovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '5.3'
+        batsman: D Ruynekova
+    - 5.4:
+        non_striker: D Ruynekova
+        bowler: M Stevanovic
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        actual_delivery: '5.4'
+        batsman: A Stoilova
+    - 5.5:
+        non_striker: A Stoilova
+        bowler: M Stevanovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: D Ruynekova
+    - 5.6:
+        non_striker: D Ruynekova
+        bowler: M Stevanovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: A Stoilova
+    - 5.7:
+        non_striker: A Stoilova
+        bowler: M Stevanovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: D Ruynekova
+        wicket:
+          player_out: D Ruynekova
+          fielders:
+          - D Demic
+          kind: caught
+    - 6.1:
+        non_striker: S Galabova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: A Stoilova
+        wicket:
+          player_out: A Stoilova
+          fielders:
+          - K Ristic
+          kind: caught
+    - 6.2:
+        non_striker: S Galabova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: M Abadjieva
+    - 6.3:
+        non_striker: S Galabova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: M Abadjieva
+    - 6.4:
+        non_striker: M Abadjieva
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: S Galabova
+    - 6.5:
+        non_striker: M Abadjieva
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: S Galabova
+    - 6.6:
+        non_striker: S Galabova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: M Abadjieva
+    - 7.1:
+        non_striker: M Abadjieva
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: S Galabova
+    - 7.2:
+        non_striker: M Abadjieva
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: S Galabova
+    - 7.3:
+        non_striker: S Galabova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: M Abadjieva
+    - 7.4:
+        non_striker: S Galabova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: M Abadjieva
+    - 7.5:
+        non_striker: S Galabova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: M Abadjieva
+    - 7.6:
+        non_striker: M Abadjieva
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.6'
+        batsman: S Galabova
+    - 8.1:
+        non_striker: S Galabova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: M Abadjieva
+    - 8.2:
+        non_striker: S Galabova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: M Abadjieva
+    - 8.3:
+        non_striker: M Abadjieva
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: S Galabova
+        wicket:
+          player_out: S Galabova
+          fielders:
+          - M Stevanovic
+          kind: caught
+    - 8.4:
+        non_striker: M Abadjieva
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: G Ilarionova
+    - 8.5:
+        non_striker: M Abadjieva
+        bowler: E Prokic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.5'
+        batsman: G Ilarionova
+    - 8.6:
+        non_striker: M Abadjieva
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.5'
+        batsman: G Ilarionova
+    - 8.7:
+        non_striker: M Abadjieva
+        bowler: E Prokic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '8.6'
+        batsman: G Ilarionova
+    - 8.8:
+        non_striker: M Abadjieva
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: G Ilarionova
+    - 9.1:
+        non_striker: M Abadjieva
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: G Ilarionova
+    - 9.2:
+        non_striker: G Ilarionova
+        bowler: S Matijevic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.2'
+        batsman: M Abadjieva
+    - 9.3:
+        non_striker: G Ilarionova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: M Abadjieva
+        wicket:
+          player_out: M Abadjieva
+          kind: bowled
+    - 9.4:
+        non_striker: G Ilarionova
+        bowler: S Matijevic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.3'
+        batsman: K Marinkova
+    - 9.5:
+        non_striker: G Ilarionova
+        bowler: S Matijevic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.3'
+        batsman: K Marinkova
+    - 9.6:
+        non_striker: G Ilarionova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: K Marinkova
+    - 9.7:
+        non_striker: K Marinkova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: G Ilarionova
+    - 9.8:
+        non_striker: G Ilarionova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: K Marinkova
+    - 9.9:
+        non_striker: G Ilarionova
+        bowler: S Matijevic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '9.6'
+        batsman: K Marinkova
+    - 10.1:
+        non_striker: G Ilarionova
+        bowler: E Prokic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.1'
+        batsman: K Marinkova
+    - 10.2:
+        non_striker: G Ilarionova
+        bowler: E Prokic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '10.1'
+        batsman: K Marinkova
+    - 10.3:
+        non_striker: G Ilarionova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: K Marinkova
+    - 10.4:
+        non_striker: K Marinkova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.2'
+        batsman: G Ilarionova
+    - 10.5:
+        non_striker: K Marinkova
+        bowler: E Prokic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.3'
+        batsman: G Ilarionova
+    - 10.6:
+        non_striker: K Marinkova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: G Ilarionova
+    - 10.7:
+        non_striker: G Ilarionova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: K Marinkova
+    - 10.8:
+        non_striker: K Marinkova
+        bowler: E Prokic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.5'
+        batsman: G Ilarionova
+    - 10.9:
+        non_striker: K Marinkova
+        bowler: E Prokic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.5'
+        batsman: G Ilarionova
+    - 10.10:
+        non_striker: K Marinkova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.5'
+        batsman: G Ilarionova
+    - 10.11:
+        non_striker: K Marinkova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: G Ilarionova
+    - 11.1:
+        non_striker: G Ilarionova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: K Marinkova
+    - 11.2:
+        non_striker: G Ilarionova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: K Marinkova
+    - 11.3:
+        non_striker: K Marinkova
+        bowler: N Nojic
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '11.3'
+        batsman: G Ilarionova
+    - 11.4:
+        non_striker: G Ilarionova
+        bowler: N Nojic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.3'
+        batsman: K Marinkova
+    - 11.5:
+        non_striker: G Ilarionova
+        bowler: N Nojic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.3'
+        batsman: K Marinkova
+    - 11.6:
+        non_striker: G Ilarionova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: K Marinkova
+    - 11.7:
+        non_striker: G Ilarionova
+        bowler: N Nojic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.4'
+        batsman: K Marinkova
+    - 11.8:
+        non_striker: G Ilarionova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: K Marinkova
+    - 11.9:
+        non_striker: G Ilarionova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: K Marinkova
+    - 11.10:
+        non_striker: G Ilarionova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: K Marinkova
+    - 12.1:
+        non_striker: G Ilarionova
+        bowler: M Stevanovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: K Marinkova
+    - 12.2:
+        non_striker: G Ilarionova
+        bowler: M Stevanovic
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '12.2'
+        batsman: K Marinkova
+    - 12.3:
+        non_striker: K Marinkova
+        bowler: M Stevanovic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '12.2'
+        batsman: G Ilarionova
+    - 12.4:
+        non_striker: G Ilarionova
+        bowler: M Stevanovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: K Marinkova
+    - 12.5:
+        non_striker: G Ilarionova
+        bowler: M Stevanovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: K Marinkova
+    - 12.6:
+        non_striker: G Ilarionova
+        bowler: M Stevanovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: K Marinkova
+    - 12.7:
+        non_striker: K Marinkova
+        bowler: M Stevanovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: G Ilarionova
+    - 13.1:
+        non_striker: G Ilarionova
+        bowler: N Nojic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '13.1'
+        batsman: K Marinkova
+    - 13.2:
+        non_striker: G Ilarionova
+        bowler: N Nojic
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '13.1'
+        batsman: K Marinkova
+    - 13.3:
+        non_striker: K Marinkova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: G Ilarionova
+    - 13.4:
+        non_striker: K Marinkova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: G Ilarionova
+    - 13.5:
+        non_striker: K Marinkova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.3'
+        batsman: G Ilarionova
+    - 13.6:
+        non_striker: K Marinkova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: G Ilarionova
+    - 13.7:
+        non_striker: K Marinkova
+        bowler: N Nojic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.5'
+        batsman: G Ilarionova
+    - 13.8:
+        non_striker: K Marinkova
+        bowler: N Nojic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.5'
+        batsman: G Ilarionova
+    - 13.9:
+        non_striker: K Marinkova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: G Ilarionova
+    - 13.10:
+        non_striker: K Marinkova
+        bowler: N Nojic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: G Ilarionova
+    - 14.1:
+        non_striker: K Marinkova
+        bowler: M Stevanovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: G Ilarionova
+    - 14.2:
+        non_striker: K Marinkova
+        bowler: M Stevanovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: G Ilarionova
+    - 14.3:
+        non_striker: K Marinkova
+        bowler: M Stevanovic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: G Ilarionova
+    - 14.4:
+        non_striker: G Ilarionova
+        bowler: M Stevanovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: K Marinkova
+    - 14.5:
+        non_striker: G Ilarionova
+        bowler: M Stevanovic
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        actual_delivery: '14.5'
+        batsman: K Marinkova
+    - 14.6:
+        non_striker: G Ilarionova
+        bowler: M Stevanovic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: K Marinkova
+    - 15.1:
+        non_striker: K Marinkova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: G Ilarionova
+    - 15.2:
+        non_striker: K Marinkova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: G Ilarionova
+    - 15.3:
+        non_striker: K Marinkova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: G Ilarionova
+    - 15.4:
+        non_striker: K Marinkova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.4'
+        batsman: G Ilarionova
+    - 15.5:
+        non_striker: K Marinkova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: G Ilarionova
+    - 15.6:
+        non_striker: K Marinkova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.6'
+        batsman: G Ilarionova
+    - 16.1:
+        non_striker: G Ilarionova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: K Marinkova
+    - 16.2:
+        non_striker: K Marinkova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.2'
+        batsman: G Ilarionova
+    - 16.3:
+        non_striker: K Marinkova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: G Ilarionova
+    - 16.4:
+        non_striker: G Ilarionova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: K Marinkova
+    - 16.5:
+        non_striker: K Marinkova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: G Ilarionova
+    - 16.6:
+        non_striker: K Marinkova
+        bowler: E Prokic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: G Ilarionova
+    - 17.1:
+        non_striker: G Ilarionova
+        bowler: M Perisic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '17.1'
+        batsman: K Marinkova
+    - 17.2:
+        non_striker: G Ilarionova
+        bowler: M Perisic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: K Marinkova
+    - 17.3:
+        non_striker: G Ilarionova
+        bowler: M Perisic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: K Marinkova
+    - 17.4:
+        non_striker: K Marinkova
+        bowler: M Perisic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: G Ilarionova
+    - 17.5:
+        non_striker: K Marinkova
+        bowler: M Perisic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: G Ilarionova
+        wicket:
+          player_out: G Ilarionova
+          kind: caught and bowled
+    - 17.6:
+        non_striker: K Marinkova
+        bowler: M Perisic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.5'
+        batsman: Deya Stefanova
+    - 17.7:
+        non_striker: K Marinkova
+        bowler: M Perisic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: Deya Stefanova
+    - 17.8:
+        non_striker: K Marinkova
+        bowler: M Perisic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.6'
+        batsman: Deya Stefanova
+    - 17.9:
+        non_striker: K Marinkova
+        bowler: M Perisic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: Deya Stefanova
+    - 18.1:
+        non_striker: Deya Stefanova
+        bowler: S Matijevic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.1'
+        batsman: K Marinkova
+    - 18.2:
+        non_striker: Deya Stefanova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: K Marinkova
+    - 18.3:
+        non_striker: Deya Stefanova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: K Marinkova
+    - 18.4:
+        non_striker: Deya Stefanova
+        bowler: S Matijevic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.3'
+        batsman: K Marinkova
+    - 18.5:
+        non_striker: Deya Stefanova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: K Marinkova
+    - 18.6:
+        non_striker: Deya Stefanova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: K Marinkova
+    - 18.7:
+        non_striker: Deya Stefanova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: K Marinkova
+    - 18.8:
+        non_striker: Deya Stefanova
+        bowler: S Matijevic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: K Marinkova
+    - 19.1:
+        non_striker: K Marinkova
+        bowler: M Perisic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.1'
+        batsman: Deya Stefanova
+    - 19.2:
+        non_striker: K Marinkova
+        bowler: M Perisic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.1'
+        batsman: Deya Stefanova
+    - 19.3:
+        non_striker: K Marinkova
+        bowler: M Perisic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.2'
+        batsman: Deya Stefanova
+    - 19.4:
+        non_striker: K Marinkova
+        bowler: M Perisic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: Deya Stefanova
+    - 19.5:
+        non_striker: Deya Stefanova
+        bowler: M Perisic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: K Marinkova
+    - 19.6:
+        non_striker: Deya Stefanova
+        bowler: M Perisic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: K Marinkova
+        wicket:
+          player_out: K Marinkova
+          fielders:
+          - A Djordjevic
+          kind: caught
+    - 19.7:
+        non_striker: Deya Stefanova
+        bowler: M Perisic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: N Tropolova
+    - 19.8:
+        non_striker: Deya Stefanova
+        bowler: M Perisic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: N Tropolova
+- 2nd innings:
+    team: Serbia
+    deliveries:
+    - 0.1:
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: D Demic
+        actual_delivery: '0.1'
+        batsman: M Perisic
+    - 0.2:
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: D Demic
+        actual_delivery: '0.1'
+        batsman: M Perisic
+    - 0.3:
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Demic
+        actual_delivery: '0.1'
+        batsman: M Perisic
+    - 0.4:
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Demic
+        actual_delivery: '0.2'
+        batsman: M Perisic
+    - 0.5:
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: D Demic
+        actual_delivery: '0.3'
+        batsman: M Perisic
+    - 0.6:
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Demic
+        actual_delivery: '0.3'
+        batsman: M Perisic
+    - 0.7:
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Demic
+        actual_delivery: '0.4'
+        batsman: M Perisic
+    - 0.8:
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Demic
+        actual_delivery: '0.5'
+        batsman: M Perisic
+    - 0.9:
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: D Demic
+        actual_delivery: '0.6'
+        batsman: M Perisic
+    - 0.10:
+        non_striker: D Demic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: M Perisic
+    - 1.1:
+        non_striker: M Perisic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: D Demic
+    - 1.2:
+        non_striker: M Perisic
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.2'
+        batsman: D Demic
+    - 1.3:
+        non_striker: M Perisic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: D Demic
+    - 1.4:
+        non_striker: D Demic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: M Perisic
+    - 1.5:
+        non_striker: D Demic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: M Perisic
+    - 1.6:
+        non_striker: D Demic
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.5'
+        batsman: M Perisic
+    - 1.7:
+        non_striker: D Demic
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.5'
+        batsman: M Perisic
+    - 1.8:
+        non_striker: D Demic
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.5'
+        batsman: M Perisic
+    - 1.9:
+        non_striker: D Demic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: M Perisic
+    - 1.10:
+        non_striker: D Demic
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.6'
+        batsman: M Perisic
+    - 1.11:
+        non_striker: D Demic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: M Perisic
+    - 2.1:
+        non_striker: D Demic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: M Perisic
+    - 2.2:
+        non_striker: D Demic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: M Perisic
+    - 2.3:
+        non_striker: M Perisic
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.3'
+        batsman: D Demic
+    - 2.4:
+        non_striker: M Perisic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: D Demic
+    - 2.5:
+        non_striker: D Demic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: M Perisic
+        wicket:
+          player_out: M Perisic
+          fielders:
+          - S Sarandeva
+          kind: caught
+    - 2.6:
+        non_striker: D Demic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: S Matijevic
+    - 2.7:
+        non_striker: D Demic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: S Matijevic
+    - 3.1:
+        non_striker: S Matijevic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.1'
+        batsman: D Demic
+    - 3.2:
+        non_striker: S Matijevic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: D Demic
+    - 3.3:
+        non_striker: D Demic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: S Matijevic
+    - 3.4:
+        non_striker: D Demic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: S Matijevic
+    - 3.5:
+        non_striker: D Demic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: S Matijevic
+    - 3.6:
+        non_striker: S Matijevic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: D Demic
+    - 4.1:
+        non_striker: D Demic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: S Matijevic
+    - 4.2:
+        non_striker: D Demic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: S Matijevic
+    - 4.3:
+        non_striker: S Matijevic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: D Demic
+    - 4.4:
+        non_striker: S Matijevic
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.4'
+        batsman: D Demic
+    - 4.5:
+        non_striker: S Matijevic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: D Demic
+    - 4.6:
+        non_striker: S Matijevic
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.5'
+        batsman: D Demic
+    - 4.7:
+        non_striker: S Matijevic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: D Demic
+    - 4.8:
+        non_striker: S Matijevic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: D Demic
+    - 5.1:
+        non_striker: D Demic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: S Matijevic
+    - 5.2:
+        non_striker: D Demic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: S Matijevic
+    - 5.3:
+        non_striker: D Demic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.3'
+        batsman: S Matijevic
+    - 5.4:
+        non_striker: D Demic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: S Matijevic
+        wicket:
+          player_out: S Matijevic
+          fielders:
+          - V Nikolova
+          kind: caught
+    - 5.5:
+        non_striker: D Demic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: M Stevanovic
+    - 5.6:
+        non_striker: D Demic
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.6'
+        batsman: M Stevanovic
+    - 5.7:
+        non_striker: D Demic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: M Stevanovic
+    - 6.1:
+        non_striker: M Stevanovic
+        bowler: Deya Stefanova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.1'
+        batsman: D Demic
+    - 6.2:
+        non_striker: M Stevanovic
+        bowler: Deya Stefanova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.1'
+        batsman: D Demic
+    - 6.3:
+        non_striker: M Stevanovic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: D Demic
+    - 6.4:
+        non_striker: M Stevanovic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: D Demic
+    - 6.5:
+        non_striker: M Stevanovic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: D Demic
+    - 6.6:
+        non_striker: D Demic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: M Stevanovic
+    - 6.7:
+        non_striker: M Stevanovic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: D Demic
+        wicket:
+          player_out: D Demic
+          fielders:
+          - D Ruynekova
+          kind: caught
+    - 6.8:
+        non_striker: M Stevanovic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: B Ercegovcevic
+    - 7.1:
+        non_striker: B Ercegovcevic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: M Stevanovic
+    - 7.2:
+        non_striker: B Ercegovcevic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: M Stevanovic
+    - 7.3:
+        non_striker: M Stevanovic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: B Ercegovcevic
+    - 7.4:
+        non_striker: M Stevanovic
+        bowler: B Shotorova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.4'
+        batsman: B Ercegovcevic
+    - 7.5:
+        non_striker: M Stevanovic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: B Ercegovcevic
+    - 7.6:
+        non_striker: B Ercegovcevic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: M Stevanovic
+    - 7.7:
+        non_striker: M Stevanovic
+        bowler: B Shotorova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: B Ercegovcevic
+    - 8.1:
+        non_striker: B Ercegovcevic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: M Stevanovic
+        wicket:
+          player_out: M Stevanovic
+          kind: bowled
+    - 8.2:
+        non_striker: B Ercegovcevic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: N Nojic
+    - 8.3:
+        non_striker: N Nojic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: B Ercegovcevic
+    - 8.4:
+        non_striker: N Nojic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: B Ercegovcevic
+    - 8.5:
+        non_striker: N Nojic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: B Ercegovcevic
+    - 8.6:
+        non_striker: N Nojic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: B Ercegovcevic
+    - 9.1:
+        non_striker: B Ercegovcevic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: N Nojic
+    - 9.2:
+        non_striker: B Ercegovcevic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: N Nojic
+    - 9.3:
+        non_striker: B Ercegovcevic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: N Nojic
+    - 9.4:
+        non_striker: B Ercegovcevic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: N Nojic
+    - 9.5:
+        non_striker: N Nojic
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.5'
+        batsman: B Ercegovcevic
+    - 9.6:
+        non_striker: N Nojic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: B Ercegovcevic
+    - 9.7:
+        non_striker: N Nojic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: B Ercegovcevic
+    - 10.1:
+        non_striker: B Ercegovcevic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: N Nojic
+    - 10.2:
+        non_striker: B Ercegovcevic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.2'
+        batsman: N Nojic
+    - 10.3:
+        non_striker: B Ercegovcevic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: N Nojic
+    - 10.4:
+        non_striker: B Ercegovcevic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: N Nojic
+    - 10.5:
+        non_striker: N Nojic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: B Ercegovcevic
+    - 10.6:
+        non_striker: B Ercegovcevic
+        bowler: Deya Stefanova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.6'
+        batsman: N Nojic
+    - 10.7:
+        non_striker: B Ercegovcevic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.6'
+        batsman: N Nojic
+    - 11.1:
+        non_striker: N Nojic
+        bowler: G Ilarionova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.1'
+        batsman: B Ercegovcevic
+    - 11.2:
+        non_striker: N Nojic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: B Ercegovcevic
+    - 11.3:
+        non_striker: B Ercegovcevic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.2'
+        batsman: N Nojic
+    - 11.4:
+        non_striker: B Ercegovcevic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: N Nojic
+    - 11.5:
+        non_striker: B Ercegovcevic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.4'
+        batsman: N Nojic
+    - 11.6:
+        non_striker: B Ercegovcevic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: N Nojic
+    - 11.7:
+        non_striker: B Ercegovcevic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: N Nojic
+    - 12.1:
+        non_striker: B Ercegovcevic
+        bowler: N Tropolova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: N Nojic
+    - 12.2:
+        non_striker: B Ercegovcevic
+        bowler: N Tropolova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.2'
+        batsman: N Nojic
+    - 12.3:
+        non_striker: B Ercegovcevic
+        bowler: N Tropolova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.2'
+        batsman: N Nojic
+    - 12.4:
+        non_striker: B Ercegovcevic
+        bowler: N Tropolova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: N Nojic
+    - 12.5:
+        non_striker: B Ercegovcevic
+        bowler: N Tropolova
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.4'
+        batsman: N Nojic
+    - 12.6:
+        non_striker: B Ercegovcevic
+        bowler: N Tropolova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.5'
+        batsman: N Nojic
+    - 12.7:
+        non_striker: B Ercegovcevic
+        bowler: N Tropolova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: N Nojic
+    - 12.8:
+        non_striker: B Ercegovcevic
+        bowler: N Tropolova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.6'
+        batsman: N Nojic
+    - 12.9:
+        non_striker: B Ercegovcevic
+        bowler: N Tropolova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.6'
+        batsman: N Nojic
+    - 13.1:
+        non_striker: N Nojic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: B Ercegovcevic
+    - 13.2:
+        non_striker: B Ercegovcevic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: N Nojic
+    - 13.3:
+        non_striker: B Ercegovcevic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: N Nojic
+    - 13.4:
+        non_striker: N Nojic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: B Ercegovcevic
+    - 13.5:
+        non_striker: B Ercegovcevic
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.5'
+        batsman: N Nojic
+    - 13.6:
+        non_striker: B Ercegovcevic
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.5'
+        batsman: N Nojic
+    - 13.7:
+        non_striker: B Ercegovcevic
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '13.5'
+        batsman: N Nojic
+    - 13.8:
+        non_striker: B Ercegovcevic
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.5'
+        batsman: N Nojic
+    - 13.9:
+        non_striker: B Ercegovcevic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: N Nojic
+    - 13.10:
+        non_striker: N Nojic
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.6'
+        batsman: B Ercegovcevic
+    - 13.11:
+        non_striker: N Nojic
+        bowler: S Sarandeva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.6'
+        batsman: B Ercegovcevic
+    - 13.12:
+        non_striker: N Nojic
+        bowler: S Sarandeva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: B Ercegovcevic
+    - 14.1:
+        non_striker: N Nojic
+        bowler: N Tropolova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.1'
+        batsman: B Ercegovcevic
+    - 14.2:
+        non_striker: N Nojic
+        bowler: N Tropolova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.1'
+        batsman: B Ercegovcevic
+    - 14.3:
+        non_striker: N Nojic
+        bowler: N Tropolova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: B Ercegovcevic
+    - 14.4:
+        non_striker: N Nojic
+        bowler: N Tropolova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.2'
+        batsman: B Ercegovcevic
+    - 14.5:
+        non_striker: N Nojic
+        bowler: N Tropolova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.2'
+        batsman: B Ercegovcevic
+    - 14.6:
+        non_striker: N Nojic
+        bowler: N Tropolova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.2'
+        batsman: B Ercegovcevic
+    - 14.7:
+        non_striker: N Nojic
+        bowler: N Tropolova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '14.2'
+        batsman: B Ercegovcevic
+    - 14.8:
+        non_striker: N Nojic
+        bowler: N Tropolova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '14.2'
+        batsman: B Ercegovcevic
+    - 14.9:
+        non_striker: N Nojic
+        bowler: N Tropolova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: B Ercegovcevic
+    - 14.10:
+        non_striker: B Ercegovcevic
+        bowler: N Tropolova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: N Nojic
+    - 14.11:
+        non_striker: B Ercegovcevic
+        bowler: N Tropolova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: N Nojic
+    - 14.12:
+        non_striker: N Nojic
+        bowler: N Tropolova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: B Ercegovcevic
+    - 14.13:
+        non_striker: N Nojic
+        bowler: N Tropolova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: B Ercegovcevic
+    - 15.1:
+        non_striker: B Ercegovcevic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: N Nojic
+    - 15.2:
+        non_striker: B Ercegovcevic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: N Nojic
+    - 15.3:
+        non_striker: N Nojic
+        bowler: Deya Stefanova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.3'
+        batsman: B Ercegovcevic
+    - 15.4:
+        non_striker: N Nojic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: B Ercegovcevic
+    - 15.5:
+        non_striker: N Nojic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.4'
+        batsman: B Ercegovcevic
+    - 15.6:
+        non_striker: N Nojic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: B Ercegovcevic
+    - 15.7:
+        non_striker: B Ercegovcevic
+        bowler: Deya Stefanova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.6'
+        batsman: N Nojic
+    - 15.8:
+        non_striker: B Ercegovcevic
+        bowler: Deya Stefanova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: N Nojic
+    - 16.1:
+        non_striker: B Ercegovcevic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: N Nojic
+    - 16.2:
+        non_striker: B Ercegovcevic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: N Nojic
+    - 16.3:
+        non_striker: B Ercegovcevic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: N Nojic
+    - 16.4:
+        non_striker: B Ercegovcevic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: N Nojic
+    - 16.5:
+        non_striker: B Ercegovcevic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: N Nojic
+    - 16.6:
+        non_striker: B Ercegovcevic
+        bowler: G Ilarionova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: N Nojic
+    - 17.1:
+        non_striker: B Ercegovcevic
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: N Nojic
+    - 17.2:
+        non_striker: B Ercegovcevic
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: N Nojic
+    - 17.3:
+        non_striker: N Nojic
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.3'
+        batsman: B Ercegovcevic
+    - 17.4:
+        non_striker: N Nojic
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: B Ercegovcevic
+    - 17.5:
+        non_striker: N Nojic
+        bowler: D Ruynekova
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: B Ercegovcevic
+        wicket:
+          player_out: B Ercegovcevic
+          fielders:
+          - G Ilarionova
+          kind: caught
+    - 17.6:
+        non_striker: N Nojic
+        bowler: D Ruynekova
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.5'
+        batsman: E Prokic
+    target:
+      overs: 20
+      runs: 107

@@ -1,0 +1,2480 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-07-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Tallinn
+  dates:
+  - '2026-07-25'
+  gender: female
+  match_type: T20
+  match_type_number: 2923
+  outcome:
+    winner: Finland
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - T Mulepati
+  players:
+    Estonia:
+    - A Vessik
+    - H Kerge
+    - E Ellermaa
+    - C Lokuge
+    - G Madanayake
+    - M Valner
+    - Ragne Hallik
+    - Aryaa Kulkarni
+    - S Pattenden
+    - Kadri Just
+    - Laura-Anette Taei
+    Finland:
+    - S Sheridan
+    - Elina Rama
+    - T Mulepati
+    - H Nguyen
+    - L Martin
+    - Malyun Hassan
+    - M Kaitaranta
+    - M Stolt
+    - R Khullar
+    - T Leskinen
+    - M Kojo
+  registry:
+    people:
+      A Vessik: d30d4a0c
+      Aryaa Kulkarni: ab42bc93
+      C Lokuge: f805e474
+      E Ellermaa: 37c085d2
+      Elina Rama: '43490928'
+      G Madanayake: cc72f8df
+      H Kerge: 76207d36
+      H Nguyen: 8047ca8c
+      Kadri Just: 8c9a7c92
+      L Martin: 1c19e5eb
+      Laura-Anette Taei: fa21c431
+      M Kaitaranta: 25f2e969
+      M Kojo: 7a652afa
+      M Stolt: e7cae029
+      M Valner: b5472435
+      Malyun Hassan: 22cbe7fb
+      R Khullar: 76a5e857
+      Ragne Hallik: 1ac4b030
+      S Pattenden: b7880d1d
+      S Sheridan: 2d093c80
+      T Leskinen: 9fd62e40
+      T Mulepati: cb83a7df
+  team_type: international
+  teams:
+  - Estonia
+  - Finland
+  toss:
+    winner: Estonia
+    decision: bat
+  venue: Estonian National Cricket and Rugby Field
+innings:
+- 1st innings:
+    team: Estonia
+    deliveries:
+    - 0.1:
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: H Kerge
+        actual_delivery: '0.1'
+        batsman: A Vessik
+    - 0.2:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: H Kerge
+    - 0.3:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: H Kerge
+        wicket:
+          player_out: H Kerge
+          kind: bowled
+    - 0.4:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.4'
+        batsman: E Ellermaa
+    - 0.5:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.4'
+        batsman: E Ellermaa
+    - 0.6:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.4'
+        batsman: E Ellermaa
+    - 0.7:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: E Ellermaa
+    - 0.8:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.5'
+        batsman: E Ellermaa
+    - 0.9:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: E Ellermaa
+    - 0.10:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.6'
+        batsman: E Ellermaa
+    - 0.11:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: E Ellermaa
+    - 1.1:
+        non_striker: E Ellermaa
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: A Vessik
+    - 1.2:
+        non_striker: E Ellermaa
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.2'
+        batsman: A Vessik
+    - 1.3:
+        non_striker: E Ellermaa
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: A Vessik
+    - 1.4:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.3'
+        batsman: E Ellermaa
+    - 1.5:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: E Ellermaa
+    - 1.6:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: E Ellermaa
+    - 1.7:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.5'
+        batsman: E Ellermaa
+    - 1.8:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: E Ellermaa
+    - 1.9:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '1.6'
+        batsman: E Ellermaa
+    - 1.10:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.6'
+        batsman: E Ellermaa
+    - 1.11:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: E Ellermaa
+    - 2.1:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.1'
+        batsman: E Ellermaa
+    - 2.2:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: E Ellermaa
+    - 2.3:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.2'
+        batsman: E Ellermaa
+    - 2.4:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: E Ellermaa
+    - 2.5:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: E Ellermaa
+    - 2.6:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: E Ellermaa
+        wicket:
+          player_out: E Ellermaa
+          kind: bowled
+    - 2.7:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: C Lokuge
+    - 2.8:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: C Lokuge
+    - 3.1:
+        non_striker: C Lokuge
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.1'
+        batsman: A Vessik
+    - 3.2:
+        non_striker: C Lokuge
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: A Vessik
+    - 3.3:
+        non_striker: C Lokuge
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.3'
+        batsman: A Vessik
+    - 3.4:
+        non_striker: C Lokuge
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: A Vessik
+    - 3.5:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: C Lokuge
+    - 3.6:
+        non_striker: C Lokuge
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: A Vessik
+    - 3.7:
+        non_striker: C Lokuge
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: A Vessik
+    - 4.1:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: C Lokuge
+    - 4.2:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: C Lokuge
+    - 4.3:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: C Lokuge
+    - 4.4:
+        non_striker: C Lokuge
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: A Vessik
+    - 4.5:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: C Lokuge
+    - 4.6:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.6'
+        batsman: C Lokuge
+    - 4.7:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.6'
+        batsman: C Lokuge
+    - 4.8:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.6'
+        batsman: C Lokuge
+    - 4.9:
+        non_striker: A Vessik
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: C Lokuge
+    - 5.1:
+        non_striker: C Lokuge
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.1'
+        batsman: A Vessik
+    - 5.2:
+        non_striker: C Lokuge
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: A Vessik
+    - 5.3:
+        non_striker: C Lokuge
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: A Vessik
+    - 5.4:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: C Lokuge
+    - 5.5:
+        non_striker: C Lokuge
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.4'
+        batsman: A Vessik
+    - 5.6:
+        non_striker: C Lokuge
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: A Vessik
+    - 5.7:
+        non_striker: C Lokuge
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: A Vessik
+    - 5.8:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: C Lokuge
+    - 6.1:
+        non_striker: C Lokuge
+        bowler: Elina Rama
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.1'
+        batsman: A Vessik
+    - 6.2:
+        non_striker: C Lokuge
+        bowler: Elina Rama
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.1'
+        batsman: A Vessik
+    - 6.3:
+        non_striker: C Lokuge
+        bowler: Elina Rama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: A Vessik
+    - 6.4:
+        non_striker: C Lokuge
+        bowler: Elina Rama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: A Vessik
+    - 6.5:
+        non_striker: C Lokuge
+        bowler: Elina Rama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: A Vessik
+    - 6.6:
+        non_striker: A Vessik
+        bowler: Elina Rama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: C Lokuge
+    - 6.7:
+        non_striker: C Lokuge
+        bowler: Elina Rama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: A Vessik
+    - 6.8:
+        non_striker: C Lokuge
+        bowler: Elina Rama
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.6'
+        batsman: A Vessik
+    - 6.9:
+        non_striker: C Lokuge
+        bowler: Elina Rama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: A Vessik
+    - 7.1:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: C Lokuge
+        wicket:
+          player_out: C Lokuge
+          kind: caught and bowled
+    - 7.2:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: G Madanayake
+    - 7.3:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.3'
+        batsman: G Madanayake
+    - 7.4:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: G Madanayake
+    - 7.5:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.4'
+        batsman: G Madanayake
+    - 7.6:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.4'
+        batsman: G Madanayake
+    - 7.7:
+        non_striker: A Vessik
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: G Madanayake
+    - 7.8:
+        non_striker: G Madanayake
+        bowler: L Martin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.5'
+        batsman: A Vessik
+    - 7.9:
+        non_striker: G Madanayake
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: A Vessik
+        wicket:
+          player_out: A Vessik
+          fielders:
+          - S Sheridan
+          kind: run out
+    - 7.10:
+        non_striker: M Valner
+        bowler: L Martin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: G Madanayake
+    - 8.1:
+        non_striker: G Madanayake
+        bowler: M Kaitaranta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: M Valner
+    - 8.2:
+        non_striker: G Madanayake
+        bowler: M Kaitaranta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: M Valner
+    - 8.3:
+        non_striker: G Madanayake
+        bowler: M Kaitaranta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: M Valner
+    - 8.4:
+        non_striker: G Madanayake
+        bowler: M Kaitaranta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: M Valner
+    - 8.5:
+        non_striker: G Madanayake
+        bowler: M Kaitaranta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: M Valner
+    - 8.6:
+        non_striker: M Valner
+        bowler: M Kaitaranta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.6'
+        batsman: G Madanayake
+    - 8.7:
+        non_striker: M Valner
+        bowler: M Kaitaranta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.6'
+        batsman: G Madanayake
+    - 8.8:
+        non_striker: M Valner
+        bowler: M Kaitaranta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.6'
+        batsman: G Madanayake
+    - 8.9:
+        non_striker: M Valner
+        bowler: M Kaitaranta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: G Madanayake
+    - 9.1:
+        non_striker: M Valner
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: G Madanayake
+    - 9.2:
+        non_striker: M Valner
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: G Madanayake
+    - 9.3:
+        non_striker: M Valner
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: G Madanayake
+    - 9.4:
+        non_striker: M Valner
+        bowler: T Mulepati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.4'
+        batsman: G Madanayake
+    - 9.5:
+        non_striker: M Valner
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: G Madanayake
+    - 9.6:
+        non_striker: M Valner
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: G Madanayake
+        wicket:
+          player_out: G Madanayake
+          fielders:
+          - Malyun Hassan
+          kind: caught
+    - 9.7:
+        non_striker: M Valner
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: Ragne Hallik
+    - 10.1:
+        non_striker: M Valner
+        bowler: M Kaitaranta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: Ragne Hallik
+    - 10.2:
+        non_striker: M Valner
+        bowler: M Kaitaranta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.2'
+        batsman: Ragne Hallik
+    - 10.3:
+        non_striker: M Valner
+        bowler: M Kaitaranta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.2'
+        batsman: Ragne Hallik
+    - 10.4:
+        non_striker: M Valner
+        bowler: M Kaitaranta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: Ragne Hallik
+    - 10.5:
+        non_striker: M Valner
+        bowler: M Kaitaranta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: Ragne Hallik
+    - 10.6:
+        non_striker: M Valner
+        bowler: M Kaitaranta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: Ragne Hallik
+    - 10.7:
+        non_striker: M Valner
+        bowler: M Kaitaranta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.6'
+        batsman: Ragne Hallik
+    - 10.8:
+        non_striker: M Valner
+        bowler: M Kaitaranta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.6'
+        batsman: Ragne Hallik
+    - 10.9:
+        non_striker: M Valner
+        bowler: M Kaitaranta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Ragne Hallik
+    - 11.1:
+        non_striker: Ragne Hallik
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: M Valner
+    - 11.2:
+        non_striker: Ragne Hallik
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: M Valner
+        wicket:
+          player_out: M Valner
+          kind: bowled
+    - 11.3:
+        non_striker: Ragne Hallik
+        bowler: T Mulepati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.3'
+        batsman: Aryaa Kulkarni
+    - 11.4:
+        non_striker: Ragne Hallik
+        bowler: T Mulepati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.3'
+        batsman: Aryaa Kulkarni
+    - 11.5:
+        non_striker: Ragne Hallik
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: Aryaa Kulkarni
+    - 11.6:
+        non_striker: Ragne Hallik
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: Aryaa Kulkarni
+    - 11.7:
+        non_striker: Ragne Hallik
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Aryaa Kulkarni
+        wicket:
+          player_out: Aryaa Kulkarni
+          kind: bowled
+    - 11.8:
+        non_striker: Ragne Hallik
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: S Pattenden
+    - 12.1:
+        non_striker: S Pattenden
+        bowler: Elina Rama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.1'
+        batsman: Ragne Hallik
+    - 12.2:
+        non_striker: S Pattenden
+        bowler: Elina Rama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: Ragne Hallik
+    - 12.3:
+        non_striker: Ragne Hallik
+        bowler: Elina Rama
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '12.3'
+        batsman: S Pattenden
+    - 12.4:
+        non_striker: S Pattenden
+        bowler: Elina Rama
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.4'
+        batsman: Ragne Hallik
+    - 12.5:
+        non_striker: S Pattenden
+        bowler: Elina Rama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: Ragne Hallik
+    - 12.6:
+        non_striker: S Pattenden
+        bowler: Elina Rama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: Ragne Hallik
+    - 12.7:
+        non_striker: Ragne Hallik
+        bowler: Elina Rama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: S Pattenden
+    - 13.1:
+        non_striker: S Pattenden
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: Ragne Hallik
+    - 13.2:
+        non_striker: S Pattenden
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: Ragne Hallik
+    - 13.3:
+        non_striker: S Pattenden
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: Ragne Hallik
+    - 13.4:
+        non_striker: S Pattenden
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Ragne Hallik
+    - 13.5:
+        non_striker: S Pattenden
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Ragne Hallik
+    - 13.6:
+        non_striker: S Pattenden
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Ragne Hallik
+    - 14.1:
+        non_striker: S Pattenden
+        bowler: S Sheridan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.1'
+        batsman: Ragne Hallik
+    - 14.2:
+        non_striker: S Pattenden
+        bowler: S Sheridan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '14.1'
+        batsman: Ragne Hallik
+    - 14.3:
+        non_striker: S Pattenden
+        bowler: S Sheridan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: Ragne Hallik
+    - 14.4:
+        non_striker: Ragne Hallik
+        bowler: S Sheridan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: S Pattenden
+    - 14.5:
+        non_striker: Ragne Hallik
+        bowler: S Sheridan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.3'
+        batsman: S Pattenden
+    - 14.6:
+        non_striker: Ragne Hallik
+        bowler: S Sheridan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: S Pattenden
+    - 14.7:
+        non_striker: Ragne Hallik
+        bowler: S Sheridan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: S Pattenden
+    - 14.8:
+        non_striker: Ragne Hallik
+        bowler: S Sheridan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: S Pattenden
+    - 14.9:
+        non_striker: S Pattenden
+        bowler: S Sheridan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: Ragne Hallik
+    - 15.1:
+        non_striker: Ragne Hallik
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: S Pattenden
+    - 15.2:
+        non_striker: S Pattenden
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: Ragne Hallik
+    - 15.3:
+        non_striker: S Pattenden
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: Ragne Hallik
+    - 15.4:
+        non_striker: S Pattenden
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.4'
+        batsman: Ragne Hallik
+    - 15.5:
+        non_striker: S Pattenden
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: Ragne Hallik
+        wicket:
+          player_out: Ragne Hallik
+          kind: bowled
+    - 15.6:
+        non_striker: S Pattenden
+        bowler: T Mulepati
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.6'
+        batsman: Kadri Just
+    - 15.7:
+        non_striker: S Pattenden
+        bowler: T Mulepati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: Kadri Just
+    - 16.1:
+        non_striker: Kadri Just
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: S Pattenden
+    - 16.2:
+        non_striker: Kadri Just
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: S Pattenden
+    - 16.3:
+        non_striker: Kadri Just
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: S Pattenden
+        wicket:
+          player_out: S Pattenden
+          fielders:
+          - M Stolt
+          kind: caught
+    - 16.4:
+        non_striker: Kadri Just
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: Laura-Anette Taei
+    - 16.5:
+        non_striker: Kadri Just
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: Laura-Anette Taei
+    - 16.6:
+        non_striker: Kadri Just
+        bowler: R Khullar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: Laura-Anette Taei
+    - 17.1:
+        non_striker: Laura-Anette Taei
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: Kadri Just
+    - 17.2:
+        non_striker: Laura-Anette Taei
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: Kadri Just
+    - 17.3:
+        non_striker: Laura-Anette Taei
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: Kadri Just
+    - 17.4:
+        non_striker: Laura-Anette Taei
+        bowler: Malyun Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.4'
+        batsman: Kadri Just
+    - 17.5:
+        non_striker: Laura-Anette Taei
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: Kadri Just
+    - 17.6:
+        non_striker: Laura-Anette Taei
+        bowler: Malyun Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.5'
+        batsman: Kadri Just
+    - 17.7:
+        non_striker: Laura-Anette Taei
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: Kadri Just
+    - 17.8:
+        non_striker: Laura-Anette Taei
+        bowler: Malyun Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.6'
+        batsman: Kadri Just
+    - 17.9:
+        non_striker: Laura-Anette Taei
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: Kadri Just
+    - 18.1:
+        non_striker: Kadri Just
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: Laura-Anette Taei
+    - 18.2:
+        non_striker: Kadri Just
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: Laura-Anette Taei
+    - 18.3:
+        non_striker: Kadri Just
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: Laura-Anette Taei
+    - 18.4:
+        non_striker: Laura-Anette Taei
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: Kadri Just
+    - 18.5:
+        non_striker: Laura-Anette Taei
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: Kadri Just
+    - 18.6:
+        non_striker: Laura-Anette Taei
+        bowler: M Kojo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.6'
+        batsman: Kadri Just
+    - 18.7:
+        non_striker: Laura-Anette Taei
+        bowler: M Kojo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: Kadri Just
+    - 19.1:
+        non_striker: Kadri Just
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: Laura-Anette Taei
+    - 19.2:
+        non_striker: Laura-Anette Taei
+        bowler: Malyun Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.2'
+        batsman: Kadri Just
+    - 19.3:
+        non_striker: Laura-Anette Taei
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: Kadri Just
+    - 19.4:
+        non_striker: Laura-Anette Taei
+        bowler: Malyun Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: Kadri Just
+        wicket:
+          player_out: Kadri Just
+          kind: caught and bowled
+- 2nd innings:
+    team: Finland
+    deliveries:
+    - 0.1:
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Elina Rama
+        actual_delivery: '0.1'
+        batsman: S Sheridan
+    - 0.2:
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Elina Rama
+        actual_delivery: '0.2'
+        batsman: S Sheridan
+    - 0.3:
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Elina Rama
+        actual_delivery: '0.3'
+        batsman: S Sheridan
+    - 0.4:
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Elina Rama
+        actual_delivery: '0.4'
+        batsman: S Sheridan
+    - 0.5:
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Elina Rama
+        actual_delivery: '0.5'
+        batsman: S Sheridan
+    - 0.6:
+        bowler: M Valner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Elina Rama
+        actual_delivery: '0.6'
+        batsman: S Sheridan
+    - 0.7:
+        non_striker: Elina Rama
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.6'
+        batsman: S Sheridan
+    - 1.1:
+        non_striker: S Sheridan
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: Elina Rama
+    - 1.2:
+        non_striker: Elina Rama
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: S Sheridan
+    - 1.3:
+        non_striker: Elina Rama
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: S Sheridan
+    - 1.4:
+        non_striker: S Sheridan
+        bowler: A Vessik
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        actual_delivery: '1.4'
+        batsman: Elina Rama
+    - 1.5:
+        non_striker: S Sheridan
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Elina Rama
+    - 1.6:
+        non_striker: S Sheridan
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Elina Rama
+    - 2.1:
+        non_striker: Elina Rama
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: S Sheridan
+    - 2.2:
+        non_striker: Elina Rama
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: S Sheridan
+        wicket:
+          player_out: S Sheridan
+          fielders:
+          - Laura-Anette Taei
+          kind: caught
+    - 2.3:
+        non_striker: Elina Rama
+        bowler: M Valner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.3'
+        batsman: T Mulepati
+    - 2.4:
+        non_striker: Elina Rama
+        bowler: M Valner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.3'
+        batsman: T Mulepati
+    - 2.5:
+        non_striker: Elina Rama
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: T Mulepati
+    - 2.6:
+        non_striker: Elina Rama
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: T Mulepati
+    - 2.7:
+        non_striker: Elina Rama
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: T Mulepati
+    - 2.8:
+        non_striker: Elina Rama
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: T Mulepati
+    - 3.1:
+        non_striker: T Mulepati
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.1'
+        batsman: Elina Rama
+    - 3.2:
+        non_striker: T Mulepati
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: Elina Rama
+    - 3.3:
+        non_striker: Elina Rama
+        bowler: A Vessik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.3'
+        batsman: T Mulepati
+    - 3.4:
+        non_striker: Elina Rama
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: T Mulepati
+    - 3.5:
+        non_striker: Elina Rama
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: T Mulepati
+    - 3.6:
+        non_striker: Elina Rama
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: T Mulepati
+    - 3.7:
+        non_striker: Elina Rama
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: T Mulepati
+    - 4.1:
+        non_striker: T Mulepati
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: Elina Rama
+    - 4.2:
+        non_striker: T Mulepati
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.2'
+        batsman: Elina Rama
+    - 4.3:
+        non_striker: T Mulepati
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.3'
+        batsman: Elina Rama
+    - 4.4:
+        non_striker: T Mulepati
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: Elina Rama
+    - 4.5:
+        non_striker: T Mulepati
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: Elina Rama
+    - 4.6:
+        non_striker: Elina Rama
+        bowler: M Valner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: T Mulepati
+    - 5.1:
+        non_striker: Elina Rama
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: T Mulepati
+    - 5.2:
+        non_striker: Elina Rama
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: T Mulepati
+    - 5.3:
+        non_striker: Elina Rama
+        bowler: A Vessik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.3'
+        batsman: T Mulepati
+    - 5.4:
+        non_striker: Elina Rama
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: T Mulepati
+    - 5.5:
+        non_striker: T Mulepati
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.4'
+        batsman: Elina Rama
+    - 5.6:
+        non_striker: T Mulepati
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Elina Rama
+    - 5.7:
+        non_striker: T Mulepati
+        bowler: A Vessik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Elina Rama
+    - 6.1:
+        non_striker: Elina Rama
+        bowler: Ragne Hallik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.1'
+        batsman: T Mulepati
+    - 6.2:
+        non_striker: Elina Rama
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: T Mulepati
+    - 6.3:
+        non_striker: T Mulepati
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.2'
+        batsman: Elina Rama
+    - 6.4:
+        non_striker: T Mulepati
+        bowler: Ragne Hallik
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        actual_delivery: '6.3'
+        batsman: Elina Rama
+    - 6.5:
+        non_striker: T Mulepati
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: Elina Rama
+    - 6.6:
+        non_striker: Elina Rama
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: T Mulepati
+    - 6.7:
+        non_striker: T Mulepati
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Elina Rama
+    - 6.8:
+        non_striker: T Mulepati
+        bowler: Ragne Hallik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '6.6'
+        batsman: Elina Rama
+    - 6.9:
+        non_striker: T Mulepati
+        bowler: Ragne Hallik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.6'
+        batsman: Elina Rama
+    - 7.1:
+        non_striker: Elina Rama
+        bowler: Aryaa Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: T Mulepati
+    - 7.2:
+        non_striker: Elina Rama
+        bowler: Aryaa Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: T Mulepati
+    - 7.3:
+        non_striker: Elina Rama
+        bowler: Aryaa Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: T Mulepati
+    - 7.4:
+        non_striker: Elina Rama
+        bowler: Aryaa Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: T Mulepati
+    - 7.5:
+        non_striker: Elina Rama
+        bowler: Aryaa Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: T Mulepati
+    - 7.6:
+        non_striker: Elina Rama
+        bowler: Aryaa Kulkarni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.6'
+        batsman: T Mulepati
+    - 8.1:
+        non_striker: T Mulepati
+        bowler: S Pattenden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Elina Rama
+    - 8.2:
+        non_striker: T Mulepati
+        bowler: S Pattenden
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '8.2'
+        batsman: Elina Rama
+    - 8.3:
+        non_striker: Elina Rama
+        bowler: S Pattenden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.2'
+        batsman: T Mulepati
+    - 8.4:
+        non_striker: Elina Rama
+        bowler: S Pattenden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: T Mulepati
+    - 8.5:
+        non_striker: T Mulepati
+        bowler: S Pattenden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: Elina Rama
+    - 8.6:
+        non_striker: T Mulepati
+        bowler: S Pattenden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '8.4'
+        batsman: Elina Rama
+    - 8.7:
+        non_striker: T Mulepati
+        bowler: S Pattenden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.4'
+        batsman: Elina Rama
+    - 8.8:
+        non_striker: T Mulepati
+        bowler: S Pattenden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Elina Rama
+    - 8.9:
+        non_striker: Elina Rama
+        bowler: S Pattenden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: T Mulepati
+    - 9.1:
+        non_striker: T Mulepati
+        bowler: Aryaa Kulkarni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: Elina Rama
+    - 9.2:
+        non_striker: Elina Rama
+        bowler: Aryaa Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: T Mulepati
+    - 9.3:
+        non_striker: Elina Rama
+        bowler: Aryaa Kulkarni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '9.3'
+        batsman: T Mulepati
+    - 9.4:
+        non_striker: Elina Rama
+        bowler: Aryaa Kulkarni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.3'
+        batsman: T Mulepati
+    - 9.5:
+        non_striker: Elina Rama
+        bowler: Aryaa Kulkarni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: T Mulepati
+    - 9.6:
+        non_striker: T Mulepati
+        bowler: Aryaa Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: Elina Rama
+    - 9.7:
+        non_striker: T Mulepati
+        bowler: Aryaa Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: Elina Rama
+        wicket:
+          player_out: Elina Rama
+          kind: bowled
+    - 9.8:
+        non_striker: T Mulepati
+        bowler: Aryaa Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: H Nguyen
+    - 10.1:
+        non_striker: H Nguyen
+        bowler: G Madanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '10.1'
+        batsman: T Mulepati
+    - 10.2:
+        non_striker: H Nguyen
+        bowler: G Madanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '10.1'
+        batsman: T Mulepati
+    - 10.3:
+        non_striker: H Nguyen
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: T Mulepati
+    - 10.4:
+        non_striker: T Mulepati
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.2'
+        batsman: H Nguyen
+    - 10.5:
+        non_striker: T Mulepati
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.3'
+        batsman: H Nguyen
+    - 10.6:
+        non_striker: T Mulepati
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: H Nguyen
+    - 10.7:
+        non_striker: T Mulepati
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.5'
+        batsman: H Nguyen
+    - 10.8:
+        non_striker: T Mulepati
+        bowler: G Madanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: H Nguyen
+    - 11.1:
+        non_striker: H Nguyen
+        bowler: Aryaa Kulkarni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: T Mulepati
+    - 11.2:
+        non_striker: H Nguyen
+        bowler: Aryaa Kulkarni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.2'
+        batsman: T Mulepati
+    - 11.3:
+        non_striker: H Nguyen
+        bowler: Aryaa Kulkarni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: T Mulepati
+    - 11.4:
+        non_striker: T Mulepati
+        bowler: Aryaa Kulkarni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.3'
+        batsman: H Nguyen
+    - 11.5:
+        non_striker: H Nguyen
+        bowler: Aryaa Kulkarni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '11.4'
+        batsman: T Mulepati
+    target:
+      overs: 20
+      runs: 78

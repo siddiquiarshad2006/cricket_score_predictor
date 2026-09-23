@@ -1,0 +1,1591 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-07-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Brondby
+  dates:
+  - '2026-07-14'
+  gender: male
+  match_type: T20
+  match_type_number: 4032
+  outcome:
+    winner: Belgium
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - Ahmad Khalid Ahmadzai
+  players:
+    Hungary:
+    - V Ravindran
+    - Zahir Mohammed
+    - Muhammad Soban
+    - M Bhaiji
+    - Kasir Ahmed
+    - RJ Ainsworth
+    - Kamran Wahid
+    - L Bloomfield
+    - Amal Jacob
+    - SA Mohandas
+    - Muhammad Saqlain
+    Belgium:
+    - Walid Sahibzada
+    - Aziz Mohammad
+    - A Raza
+    - Shaheryar Butt
+    - Sheraz Sheikh
+    - Omid Mailk Khel
+    - Sajad Ahmadzai
+    - Saber Zakhil
+    - Ahmad Khalid Ahmadzai
+    - R Thapliyal
+    - Shagharai Sefat
+  registry:
+    people:
+      A Raza: 838bc6ab
+      Ahmad Khalid Ahmadzai: e4ad57ea
+      Amal Jacob: 5772882c
+      Aziz Mohammad: b3e9555a
+      DH Mclean: 281d4749
+      G McCrea: 46f4a901
+      Jonathan Kennedy: f7ad4494
+      Kamran Wahid: 5592153b
+      Kasir Ahmed: 2619e00c
+      L Bloomfield: ea926d4f
+      M Bhaiji: a06c81fd
+      M Prabhudesa: c36bcd1e
+      Muhammad Saqlain: f094e3b8
+      Muhammad Soban: a5e1e2d4
+      Omid Mailk Khel: 2d94751e
+      R Thapliyal: 5947220c
+      RJ Ainsworth: b6924e3f
+      SA Mohandas: 8b0b3bba
+      Saber Zakhil: 036dcf9b
+      Sajad Ahmadzai: 6978bff0
+      Shagharai Sefat: 5e0bb751
+      Shaheryar Butt: b6bad765
+      Sheraz Sheikh: 4aad6842
+      V Ravindran: e5ecb1ef
+      Walid Sahibzada: 523c8494
+      Zahir Mohammed: 7c38942a
+  team_type: international
+  teams:
+  - Hungary
+  - Belgium
+  toss:
+    winner: Hungary
+    decision: bat
+  umpires:
+  - Jonathan Kennedy
+  - M Prabhudesa
+  venue: Svanholm Park, Brondby
+innings:
+- 1st innings:
+    team: Hungary
+    deliveries:
+    - 0.1:
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zahir Mohammed
+        actual_delivery: '0.1'
+        batsman: V Ravindran
+    - 0.2:
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zahir Mohammed
+        actual_delivery: '0.2'
+        batsman: V Ravindran
+    - 0.3:
+        non_striker: V Ravindran
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: Zahir Mohammed
+    - 0.4:
+        non_striker: Zahir Mohammed
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.4'
+        batsman: V Ravindran
+    - 0.5:
+        non_striker: Zahir Mohammed
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: V Ravindran
+    - 0.6:
+        non_striker: V Ravindran
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Zahir Mohammed
+    - 1.1:
+        non_striker: Zahir Mohammed
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: V Ravindran
+    - 1.2:
+        non_striker: Zahir Mohammed
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: V Ravindran
+    - 1.3:
+        non_striker: Zahir Mohammed
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: V Ravindran
+    - 1.4:
+        non_striker: Zahir Mohammed
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.4'
+        batsman: V Ravindran
+    - 1.5:
+        non_striker: Zahir Mohammed
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: V Ravindran
+    - 1.6:
+        non_striker: Zahir Mohammed
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: V Ravindran
+        wicket:
+          player_out: V Ravindran
+          fielders:
+          - A Raza
+          kind: caught
+    - 2.1:
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Soban
+        actual_delivery: '2.1'
+        batsman: Zahir Mohammed
+    - 2.2:
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Muhammad Soban
+        actual_delivery: '2.2'
+        batsman: Zahir Mohammed
+    - 2.3:
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Muhammad Soban
+        actual_delivery: '2.3'
+        batsman: Zahir Mohammed
+    - 2.4:
+        non_striker: Zahir Mohammed
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Muhammad Soban
+    - 2.5:
+        non_striker: Zahir Mohammed
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: Muhammad Soban
+    - 2.6:
+        non_striker: Zahir Mohammed
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: Muhammad Soban
+    - 3.1:
+        non_striker: Zahir Mohammed
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Muhammad Soban
+    - 3.2:
+        non_striker: Zahir Mohammed
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Muhammad Soban
+    - 3.3:
+        non_striker: Zahir Mohammed
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: Muhammad Soban
+    - 3.4:
+        non_striker: Muhammad Soban
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Zahir Mohammed
+    - 3.5:
+        non_striker: Muhammad Soban
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: Zahir Mohammed
+    - 3.6:
+        non_striker: Zahir Mohammed
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Muhammad Soban
+    - 4.1:
+        non_striker: Muhammad Soban
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.1'
+        batsman: Zahir Mohammed
+    - 4.2:
+        non_striker: Muhammad Soban
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: Zahir Mohammed
+    - 4.3:
+        non_striker: Zahir Mohammed
+        bowler: Shagharai Sefat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.3'
+        batsman: Muhammad Soban
+    - 4.4:
+        non_striker: Zahir Mohammed
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: Muhammad Soban
+    - 4.5:
+        non_striker: Zahir Mohammed
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: Muhammad Soban
+    - 4.6:
+        non_striker: Muhammad Soban
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Zahir Mohammed
+    - 4.7:
+        non_striker: Muhammad Soban
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Zahir Mohammed
+    - 5.1:
+        non_striker: Zahir Mohammed
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Muhammad Soban
+    - 5.2:
+        non_striker: Zahir Mohammed
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: Muhammad Soban
+    - 5.3:
+        non_striker: Muhammad Soban
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.3'
+        batsman: Zahir Mohammed
+    - 5.4:
+        non_striker: Muhammad Soban
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '5.4'
+        batsman: Zahir Mohammed
+    - 5.5:
+        non_striker: Zahir Mohammed
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Muhammad Soban
+    - 5.6:
+        non_striker: Zahir Mohammed
+        bowler: Sajad Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: Muhammad Soban
+    - 6.1:
+        non_striker: Zahir Mohammed
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: Muhammad Soban
+    - 6.2:
+        non_striker: Zahir Mohammed
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: Muhammad Soban
+        wicket:
+          player_out: Muhammad Soban
+          fielders:
+          - Shaheryar Butt
+          kind: caught
+    - 6.3:
+        non_striker: Zahir Mohammed
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: M Bhaiji
+    - 6.4:
+        non_striker: Zahir Mohammed
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: M Bhaiji
+    - 6.5:
+        non_striker: M Bhaiji
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: Zahir Mohammed
+    - 6.6:
+        non_striker: Zahir Mohammed
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: M Bhaiji
+    - 7.1:
+        non_striker: Zahir Mohammed
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.1'
+        batsman: M Bhaiji
+    - 7.2:
+        non_striker: Zahir Mohammed
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.2'
+        batsman: M Bhaiji
+    - 7.3:
+        non_striker: Zahir Mohammed
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: M Bhaiji
+    - 7.4:
+        non_striker: M Bhaiji
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: Zahir Mohammed
+    - 7.5:
+        non_striker: Zahir Mohammed
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: M Bhaiji
+    - 7.6:
+        non_striker: Zahir Mohammed
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: M Bhaiji
+    - 8.1:
+        non_striker: M Bhaiji
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Zahir Mohammed
+    - 8.2:
+        non_striker: M Bhaiji
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Zahir Mohammed
+    - 8.3:
+        non_striker: Zahir Mohammed
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: M Bhaiji
+    - 8.4:
+        non_striker: M Bhaiji
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: Zahir Mohammed
+    - 8.5:
+        non_striker: Zahir Mohammed
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: M Bhaiji
+    - 8.6:
+        non_striker: Zahir Mohammed
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: M Bhaiji
+    - 9.1:
+        non_striker: Zahir Mohammed
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: M Bhaiji
+    - 9.2:
+        non_striker: Zahir Mohammed
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: M Bhaiji
+        wicket:
+          player_out: M Bhaiji
+          kind: bowled
+    - 9.3:
+        non_striker: Zahir Mohammed
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: Kasir Ahmed
+    - 9.4:
+        non_striker: Kasir Ahmed
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.4'
+        batsman: Zahir Mohammed
+    - 9.5:
+        non_striker: Kasir Ahmed
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: Zahir Mohammed
+        wicket:
+          player_out: Zahir Mohammed
+          kind: bowled
+    - 9.6:
+        non_striker: Kasir Ahmed
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: RJ Ainsworth
+        wicket:
+          player_out: RJ Ainsworth
+          kind: bowled
+    - 10.1:
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Kamran Wahid
+        actual_delivery: '10.1'
+        batsman: Kasir Ahmed
+    - 10.2:
+        non_striker: Kasir Ahmed
+        bowler: R Thapliyal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '10.2'
+        batsman: Kamran Wahid
+    - 10.3:
+        non_striker: Kamran Wahid
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Kasir Ahmed
+    - 10.4:
+        non_striker: Kasir Ahmed
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: Kamran Wahid
+    - 10.5:
+        non_striker: Kasir Ahmed
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: Kamran Wahid
+    - 10.6:
+        non_striker: Kamran Wahid
+        bowler: R Thapliyal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Kasir Ahmed
+        wicket:
+          player_out: Kasir Ahmed
+          kind: caught and bowled
+    - 11.1:
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Bloomfield
+        actual_delivery: '11.1'
+        batsman: Kamran Wahid
+    - 11.2:
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Bloomfield
+        actual_delivery: '11.2'
+        batsman: Kamran Wahid
+    - 11.3:
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Bloomfield
+        actual_delivery: '11.3'
+        batsman: Kamran Wahid
+    - 11.4:
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Bloomfield
+        actual_delivery: '11.4'
+        batsman: Kamran Wahid
+    - 11.5:
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Bloomfield
+        actual_delivery: '11.5'
+        batsman: Kamran Wahid
+    - 11.6:
+        non_striker: Kamran Wahid
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: L Bloomfield
+    - 12.1:
+        non_striker: L Bloomfield
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Kamran Wahid
+    - 12.2:
+        non_striker: L Bloomfield
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: Kamran Wahid
+    - 12.3:
+        non_striker: Kamran Wahid
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: L Bloomfield
+    - 12.4:
+        non_striker: Kamran Wahid
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: L Bloomfield
+    - 12.5:
+        non_striker: L Bloomfield
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Kamran Wahid
+    - 12.6:
+        non_striker: L Bloomfield
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Kamran Wahid
+        wicket:
+          player_out: L Bloomfield
+          fielders:
+          - Aziz Mohammad
+          - A Raza
+          kind: run out
+    - 13.1:
+        non_striker: Amal Jacob
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: Kamran Wahid
+        wicket:
+          player_out: Kamran Wahid
+          kind: bowled
+    - 13.2:
+        non_striker: Amal Jacob
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: SA Mohandas
+    - 13.3:
+        non_striker: Amal Jacob
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: SA Mohandas
+    - 13.4:
+        non_striker: SA Mohandas
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Amal Jacob
+    - 13.5:
+        non_striker: SA Mohandas
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Amal Jacob
+    - 13.6:
+        non_striker: SA Mohandas
+        bowler: Ahmad Khalid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: Amal Jacob
+    - 14.1:
+        non_striker: Amal Jacob
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.1'
+        batsman: SA Mohandas
+    - 14.2:
+        non_striker: Amal Jacob
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.2'
+        batsman: SA Mohandas
+    - 14.3:
+        non_striker: Amal Jacob
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: SA Mohandas
+    - 14.4:
+        non_striker: SA Mohandas
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: Amal Jacob
+    - 14.5:
+        non_striker: Amal Jacob
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: SA Mohandas
+    - 14.6:
+        non_striker: Amal Jacob
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: SA Mohandas
+    - 15.1:
+        non_striker: SA Mohandas
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: Amal Jacob
+    - 15.2:
+        non_striker: Amal Jacob
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: SA Mohandas
+    - 15.3:
+        non_striker: SA Mohandas
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: Amal Jacob
+    - 15.4:
+        non_striker: SA Mohandas
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: Amal Jacob
+    - 15.5:
+        non_striker: SA Mohandas
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: Amal Jacob
+    - 15.6:
+        non_striker: SA Mohandas
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: Amal Jacob
+    - 16.1:
+        non_striker: Amal Jacob
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: SA Mohandas
+    - 16.2:
+        non_striker: Amal Jacob
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: SA Mohandas
+    - 16.3:
+        non_striker: Amal Jacob
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: SA Mohandas
+    - 16.4:
+        non_striker: SA Mohandas
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: Amal Jacob
+    - 16.5:
+        non_striker: SA Mohandas
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: Amal Jacob
+    - 16.6:
+        non_striker: SA Mohandas
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: Amal Jacob
+    - 17.1:
+        non_striker: Amal Jacob
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: SA Mohandas
+    - 17.2:
+        non_striker: Amal Jacob
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: SA Mohandas
+    - 17.3:
+        non_striker: Amal Jacob
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: SA Mohandas
+    - 17.4:
+        non_striker: Amal Jacob
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: SA Mohandas
+    - 17.5:
+        non_striker: Amal Jacob
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: SA Mohandas
+        wicket:
+          player_out: SA Mohandas
+          kind: bowled
+    - 17.6:
+        non_striker: Amal Jacob
+        bowler: Shagharai Sefat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: Muhammad Saqlain
+    - 18.1:
+        non_striker: Muhammad Saqlain
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.1'
+        batsman: Amal Jacob
+    - 18.2:
+        non_striker: Muhammad Saqlain
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: Amal Jacob
+    - 18.3:
+        non_striker: Amal Jacob
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: Muhammad Saqlain
+    - 18.4:
+        non_striker: Amal Jacob
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: Muhammad Saqlain
+    - 18.5:
+        non_striker: Amal Jacob
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: Muhammad Saqlain
+    - 18.6:
+        non_striker: Amal Jacob
+        bowler: Sheraz Sheikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: Muhammad Saqlain
+    - 19.1:
+        non_striker: Muhammad Saqlain
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.1'
+        batsman: Amal Jacob
+    - 19.2:
+        non_striker: Muhammad Saqlain
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: Amal Jacob
+    - 19.3:
+        non_striker: Muhammad Saqlain
+        bowler: Aziz Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: Amal Jacob
+        wicket:
+          player_out: Amal Jacob
+          kind: bowled
+- 2nd innings:
+    team: Belgium
+    deliveries:
+    - 0.1:
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aziz Mohammad
+        actual_delivery: '0.1'
+        batsman: Walid Sahibzada
+    - 0.2:
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Aziz Mohammad
+        actual_delivery: '0.2'
+        batsman: Walid Sahibzada
+    - 0.3:
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        non_striker: Aziz Mohammad
+        actual_delivery: '0.3'
+        batsman: Walid Sahibzada
+    - 0.4:
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Aziz Mohammad
+        actual_delivery: '0.3'
+        batsman: Walid Sahibzada
+    - 0.5:
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Aziz Mohammad
+        actual_delivery: '0.3'
+        batsman: Walid Sahibzada
+    - 0.6:
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Aziz Mohammad
+        actual_delivery: '0.3'
+        batsman: Walid Sahibzada
+    - 0.7:
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aziz Mohammad
+        actual_delivery: '0.4'
+        batsman: Walid Sahibzada
+    - 0.8:
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Aziz Mohammad
+        actual_delivery: '0.5'
+        batsman: Walid Sahibzada
+    - 0.9:
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Aziz Mohammad
+        actual_delivery: '0.6'
+        batsman: Walid Sahibzada
+    - 0.10:
+        non_striker: Aziz Mohammad
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: Walid Sahibzada
+    - 1.1:
+        non_striker: Aziz Mohammad
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.1'
+        batsman: Walid Sahibzada
+    - 1.2:
+        non_striker: Aziz Mohammad
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: Walid Sahibzada
+    - 1.3:
+        non_striker: Aziz Mohammad
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: Walid Sahibzada
+    - 1.4:
+        non_striker: Aziz Mohammad
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.4'
+        batsman: Walid Sahibzada
+    - 1.5:
+        non_striker: Aziz Mohammad
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: Walid Sahibzada
+    - 1.6:
+        non_striker: Walid Sahibzada
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Aziz Mohammad
+    - 2.1:
+        non_striker: Aziz Mohammad
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '2.1'
+        batsman: Walid Sahibzada
+    - 2.2:
+        non_striker: Walid Sahibzada
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.2'
+        batsman: Aziz Mohammad
+    - 2.3:
+        non_striker: Walid Sahibzada
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: Aziz Mohammad
+    - 2.4:
+        non_striker: Walid Sahibzada
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        actual_delivery: '2.4'
+        batsman: Aziz Mohammad
+    - 2.5:
+        non_striker: Aziz Mohammad
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Walid Sahibzada
+    - 2.6:
+        non_striker: Aziz Mohammad
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.5'
+        batsman: Walid Sahibzada
+    - 2.7:
+        non_striker: Aziz Mohammad
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: Walid Sahibzada
+    - 2.8:
+        non_striker: Walid Sahibzada
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Aziz Mohammad
+    - 3.1:
+        non_striker: Aziz Mohammad
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.1'
+        batsman: Walid Sahibzada
+    - 3.2:
+        non_striker: Aziz Mohammad
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Walid Sahibzada
+    - 3.3:
+        non_striker: Aziz Mohammad
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: Walid Sahibzada
+    - 3.4:
+        non_striker: Aziz Mohammad
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: Walid Sahibzada
+    - 3.5:
+        non_striker: Walid Sahibzada
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Aziz Mohammad
+    - 3.6:
+        non_striker: Walid Sahibzada
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Aziz Mohammad
+    - 4.1:
+        non_striker: Aziz Mohammad
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.1'
+        batsman: Walid Sahibzada
+    - 4.2:
+        non_striker: Aziz Mohammad
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.2'
+        batsman: Walid Sahibzada
+    - 4.3:
+        non_striker: Aziz Mohammad
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: Walid Sahibzada
+    - 4.4:
+        non_striker: Aziz Mohammad
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: Walid Sahibzada
+    - 4.5:
+        non_striker: Aziz Mohammad
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Walid Sahibzada
+    - 4.6:
+        non_striker: Aziz Mohammad
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Walid Sahibzada
+    - 5.1:
+        non_striker: Walid Sahibzada
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: Aziz Mohammad
+    - 5.2:
+        non_striker: Aziz Mohammad
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.2'
+        batsman: Walid Sahibzada
+    - 5.3:
+        non_striker: Aziz Mohammad
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.3'
+        batsman: Walid Sahibzada
+    - 5.4:
+        non_striker: Aziz Mohammad
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: Walid Sahibzada
+    - 5.5:
+        non_striker: Walid Sahibzada
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: Aziz Mohammad
+    - 5.6:
+        non_striker: Aziz Mohammad
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: Walid Sahibzada
+    target:
+      overs: 20
+      runs: 78

@@ -1,0 +1,1615 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-07-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Brondby
+  dates:
+  - '2026-07-12'
+  gender: male
+  match_type: T20
+  match_type_number: 4028
+  outcome:
+    winner: Hungary
+    by:
+      runs: 20
+    method: D/L
+  overs: 20
+  players:
+    Hungary:
+    - V Ravindran
+    - Zahir Mohammed
+    - Muhammad Soban
+    - M Bhaiji
+    - Ali Nawaz
+    - Kamran Wahid
+    - RJ Ainsworth
+    - Amal Jacob
+    - Muhammad Saqlain
+    - SA Mohandas
+    - L Bloomfield
+    Turkey:
+    - Abdullah Khan Lodhi
+    - Muhammad Fahad
+    - I Elec
+    - Furkan Tuskan
+    - Ilyas Ataullah
+    - A Turkmen
+    - Ibrahim Kursad Dalyan
+    - M Ozturk
+    - Mertcan Donmez
+    - Omer Kutuk
+    - Murat Yilmaz
+  registry:
+    people:
+      A Turkmen: e56f4180
+      Abdullah Khan Lodhi: 6d8b7ac4
+      Ali Nawaz: deef8879
+      Amal Jacob: 5772882c
+      Furkan Tuskan: 32009b6a
+      G McCrea: 46f4a901
+      I Elec: 4d0d5b7d
+      Ibrahim Kursad Dalyan: f0f20cf8
+      Ilyas Ataullah: 357484e9
+      Jonathan Kennedy: f7ad4494
+      Kamran Wahid: 5592153b
+      L Bloomfield: ea926d4f
+      M Bhaiji: a06c81fd
+      M Ozturk: d62f04f5
+      M Prabhudesa: c36bcd1e
+      Mertcan Donmez: fb5a5fe3
+      Muhammad Fahad: 3f778477
+      Muhammad Saqlain: f094e3b8
+      Muhammad Soban: a5e1e2d4
+      Munib Haq: 5ac45f13
+      Murat Yilmaz: f2990906
+      Omer Kutuk: c9a05046
+      RJ Ainsworth: b6924e3f
+      SA Mohandas: 8b0b3bba
+      V Ravindran: e5ecb1ef
+      Zahir Mohammed: 7c38942a
+  team_type: international
+  teams:
+  - Hungary
+  - Turkey
+  toss:
+    winner: Hungary
+    decision: bat
+  umpires:
+  - M Prabhudesa
+  - Munib Haq
+  venue: Svanholm Park, Brondby
+innings:
+- 1st innings:
+    team: Hungary
+    deliveries:
+    - 0.1:
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zahir Mohammed
+        actual_delivery: '0.1'
+        batsman: V Ravindran
+    - 0.2:
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zahir Mohammed
+        actual_delivery: '0.2'
+        batsman: V Ravindran
+    - 0.3:
+        non_striker: Zahir Mohammed
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: V Ravindran
+        wicket:
+          player_out: V Ravindran
+          fielders:
+          - Ilyas Ataullah
+          kind: caught
+    - 0.4:
+        non_striker: Zahir Mohammed
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: Muhammad Soban
+    - 0.5:
+        non_striker: Muhammad Soban
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Zahir Mohammed
+    - 0.6:
+        non_striker: Muhammad Soban
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Zahir Mohammed
+    - 1.1:
+        non_striker: Zahir Mohammed
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: Muhammad Soban
+    - 1.2:
+        non_striker: Zahir Mohammed
+        bowler: Furkan Tuskan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.2'
+        batsman: Muhammad Soban
+    - 1.3:
+        non_striker: Zahir Mohammed
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: Muhammad Soban
+    - 1.4:
+        non_striker: Zahir Mohammed
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: Muhammad Soban
+    - 1.5:
+        non_striker: Zahir Mohammed
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: Muhammad Soban
+    - 1.6:
+        non_striker: Zahir Mohammed
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Muhammad Soban
+    - 1.7:
+        non_striker: Zahir Mohammed
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.6'
+        batsman: Muhammad Soban
+    - 2.1:
+        non_striker: Muhammad Soban
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.1'
+        batsman: Zahir Mohammed
+    - 2.2:
+        non_striker: Muhammad Soban
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: Zahir Mohammed
+    - 2.3:
+        non_striker: Zahir Mohammed
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Muhammad Soban
+    - 2.4:
+        non_striker: Zahir Mohammed
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: Muhammad Soban
+    - 2.5:
+        non_striker: Muhammad Soban
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: Zahir Mohammed
+    - 2.6:
+        non_striker: Zahir Mohammed
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.6'
+        batsman: Muhammad Soban
+    - 3.1:
+        non_striker: Muhammad Soban
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.1'
+        batsman: Zahir Mohammed
+    - 3.2:
+        non_striker: Muhammad Soban
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Zahir Mohammed
+    - 3.3:
+        non_striker: Muhammad Soban
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Zahir Mohammed
+        wicket:
+          player_out: Zahir Mohammed
+          kind: bowled
+    - 3.4:
+        non_striker: Muhammad Soban
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: M Bhaiji
+    - 3.5:
+        non_striker: Muhammad Soban
+        bowler: Furkan Tuskan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.5'
+        batsman: M Bhaiji
+    - 3.6:
+        non_striker: Muhammad Soban
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: M Bhaiji
+    - 3.7:
+        non_striker: Muhammad Soban
+        bowler: Furkan Tuskan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.6'
+        batsman: M Bhaiji
+    - 3.8:
+        non_striker: Muhammad Soban
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: M Bhaiji
+    - 4.1:
+        non_striker: Muhammad Soban
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: M Bhaiji
+    - 4.2:
+        non_striker: M Bhaiji
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.2'
+        batsman: Muhammad Soban
+    - 4.3:
+        non_striker: M Bhaiji
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: Muhammad Soban
+    - 4.4:
+        non_striker: M Bhaiji
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: Muhammad Soban
+    - 4.5:
+        non_striker: M Bhaiji
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Muhammad Soban
+    - 4.6:
+        non_striker: M Bhaiji
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Muhammad Soban
+    - 5.1:
+        non_striker: Muhammad Soban
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: M Bhaiji
+    - 5.2:
+        non_striker: Muhammad Soban
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.2'
+        batsman: M Bhaiji
+    - 5.3:
+        non_striker: Muhammad Soban
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: M Bhaiji
+    - 5.4:
+        non_striker: M Bhaiji
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Muhammad Soban
+    - 5.5:
+        non_striker: M Bhaiji
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Muhammad Soban
+    - 5.6:
+        non_striker: M Bhaiji
+        bowler: Furkan Tuskan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Muhammad Soban
+    - 6.1:
+        non_striker: Muhammad Soban
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.1'
+        batsman: M Bhaiji
+    - 6.2:
+        non_striker: Muhammad Soban
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.2'
+        batsman: M Bhaiji
+    - 6.3:
+        non_striker: Muhammad Soban
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: M Bhaiji
+    - 6.4:
+        non_striker: Muhammad Soban
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: M Bhaiji
+    - 6.5:
+        non_striker: M Bhaiji
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: Muhammad Soban
+    - 6.6:
+        non_striker: Muhammad Soban
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: M Bhaiji
+    - 7.1:
+        non_striker: Muhammad Soban
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.1'
+        batsman: M Bhaiji
+    - 7.2:
+        non_striker: Muhammad Soban
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: M Bhaiji
+    - 7.3:
+        non_striker: Muhammad Soban
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: M Bhaiji
+    - 7.4:
+        non_striker: M Bhaiji
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.4'
+        batsman: Muhammad Soban
+    - 7.5:
+        non_striker: M Bhaiji
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: Muhammad Soban
+    - 7.6:
+        non_striker: Muhammad Soban
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.5'
+        batsman: M Bhaiji
+    - 7.7:
+        non_striker: Muhammad Soban
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: M Bhaiji
+    - 8.1:
+        non_striker: Muhammad Soban
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: M Bhaiji
+    - 8.2:
+        non_striker: Muhammad Soban
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: M Bhaiji
+    - 8.3:
+        non_striker: Muhammad Soban
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: M Bhaiji
+    - 8.4:
+        non_striker: M Bhaiji
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: Muhammad Soban
+    - 8.5:
+        non_striker: Muhammad Soban
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: M Bhaiji
+    - 8.6:
+        non_striker: Muhammad Soban
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: M Bhaiji
+    - 9.1:
+        non_striker: M Bhaiji
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: Muhammad Soban
+    - 9.2:
+        non_striker: Muhammad Soban
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: M Bhaiji
+    - 9.3:
+        non_striker: Muhammad Soban
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: M Bhaiji
+    - 9.4:
+        non_striker: M Bhaiji
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: Muhammad Soban
+    - 9.5:
+        non_striker: M Bhaiji
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.5'
+        batsman: Muhammad Soban
+    - 9.6:
+        non_striker: M Bhaiji
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.6'
+        batsman: Muhammad Soban
+    - 10.1:
+        non_striker: Muhammad Soban
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: M Bhaiji
+    - 10.2:
+        non_striker: M Bhaiji
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: Muhammad Soban
+    - 10.3:
+        non_striker: Muhammad Soban
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: M Bhaiji
+    - 10.4:
+        non_striker: M Bhaiji
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: Muhammad Soban
+    - 10.5:
+        non_striker: Muhammad Soban
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: M Bhaiji
+    - 10.6:
+        non_striker: M Bhaiji
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Muhammad Soban
+    - 11.1:
+        non_striker: Muhammad Soban
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '11.1'
+        batsman: M Bhaiji
+    - 11.2:
+        non_striker: Muhammad Soban
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.2'
+        batsman: M Bhaiji
+    - 11.3:
+        non_striker: Muhammad Soban
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: M Bhaiji
+    - 11.4:
+        non_striker: Muhammad Soban
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: M Bhaiji
+    - 11.5:
+        non_striker: M Bhaiji
+        bowler: M Ozturk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.5'
+        batsman: Muhammad Soban
+    - 11.6:
+        non_striker: M Bhaiji
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: Muhammad Soban
+    - 11.7:
+        non_striker: Muhammad Soban
+        bowler: M Ozturk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.6'
+        batsman: M Bhaiji
+    - 11.8:
+        non_striker: Muhammad Soban
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: M Bhaiji
+    - 12.1:
+        non_striker: M Bhaiji
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: Muhammad Soban
+    - 12.2:
+        non_striker: Muhammad Soban
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: M Bhaiji
+    - 12.3:
+        non_striker: M Bhaiji
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: Muhammad Soban
+    - 12.4:
+        non_striker: Muhammad Soban
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: M Bhaiji
+    - 12.5:
+        non_striker: M Bhaiji
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: Muhammad Soban
+    - 12.6:
+        non_striker: Muhammad Soban
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.6'
+        batsman: M Bhaiji
+    - 13.1:
+        non_striker: M Bhaiji
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: Muhammad Soban
+    - 13.2:
+        non_striker: Muhammad Soban
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.2'
+        batsman: M Bhaiji
+    - 13.3:
+        non_striker: Muhammad Soban
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: M Bhaiji
+    - 13.4:
+        non_striker: M Bhaiji
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.4'
+        batsman: Muhammad Soban
+    - 13.5:
+        non_striker: M Bhaiji
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: Muhammad Soban
+    - 13.6:
+        non_striker: Muhammad Soban
+        bowler: Ilyas Ataullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: M Bhaiji
+    - 14.1:
+        non_striker: Muhammad Soban
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.1'
+        batsman: M Bhaiji
+    - 14.2:
+        non_striker: Muhammad Soban
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '14.2'
+        batsman: M Bhaiji
+    - 14.3:
+        non_striker: M Bhaiji
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: Muhammad Soban
+    - 14.4:
+        non_striker: Muhammad Soban
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.4'
+        batsman: M Bhaiji
+    - 14.5:
+        non_striker: Muhammad Soban
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: M Bhaiji
+    - 14.6:
+        non_striker: M Bhaiji
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: Muhammad Soban
+    - 15.1:
+        non_striker: Muhammad Soban
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: M Bhaiji
+    - 15.2:
+        non_striker: Muhammad Soban
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.2'
+        batsman: M Bhaiji
+    - 15.3:
+        non_striker: Muhammad Soban
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.3'
+        batsman: M Bhaiji
+    - 15.4:
+        non_striker: Muhammad Soban
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.4'
+        batsman: M Bhaiji
+    - 15.5:
+        non_striker: Muhammad Soban
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.5'
+        batsman: M Bhaiji
+    - 15.6:
+        non_striker: Muhammad Soban
+        bowler: Ibrahim Kursad Dalyan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        actual_delivery: '15.6'
+        batsman: M Bhaiji
+    - 16.1:
+        non_striker: M Bhaiji
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: Muhammad Soban
+    - 16.2:
+        non_striker: Muhammad Soban
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: M Bhaiji
+    - 16.3:
+        non_striker: Muhammad Soban
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: M Bhaiji
+    - 16.4:
+        non_striker: Muhammad Soban
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: M Bhaiji
+    - 16.5:
+        non_striker: Muhammad Soban
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: M Bhaiji
+        wicket:
+          player_out: M Bhaiji
+          fielders:
+          - Murat Yilmaz
+          kind: caught
+    - 16.6:
+        non_striker: Muhammad Soban
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: Ali Nawaz
+    - 17.1:
+        non_striker: Muhammad Soban
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: Ali Nawaz
+    - 17.2:
+        non_striker: Muhammad Soban
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: Ali Nawaz
+    - 17.3:
+        non_striker: Muhammad Soban
+        bowler: A Turkmen
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '17.3'
+        batsman: Ali Nawaz
+    - 17.4:
+        non_striker: Ali Nawaz
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: Muhammad Soban
+    - 17.5:
+        non_striker: Muhammad Soban
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: Ali Nawaz
+        wicket:
+          player_out: Ali Nawaz
+          fielders:
+          - Murat Yilmaz
+          kind: caught
+    - 17.6:
+        non_striker: Muhammad Soban
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: Kamran Wahid
+    - 17.7:
+        non_striker: Muhammad Soban
+        bowler: A Turkmen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: Kamran Wahid
+    - 18.1:
+        non_striker: Kamran Wahid
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: Muhammad Soban
+    - 18.2:
+        non_striker: Kamran Wahid
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: Muhammad Soban
+    - 18.3:
+        non_striker: Muhammad Soban
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.3'
+        batsman: Kamran Wahid
+    - 18.4:
+        non_striker: Muhammad Soban
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.4'
+        batsman: Kamran Wahid
+    - 18.5:
+        non_striker: Muhammad Soban
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: Kamran Wahid
+        wicket:
+          player_out: Kamran Wahid
+          fielders:
+          - Muhammad Fahad
+          kind: caught
+    - 18.6:
+        non_striker: Muhammad Soban
+        bowler: M Ozturk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: RJ Ainsworth
+    - 19.1:
+        non_striker: RJ Ainsworth
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.1'
+        batsman: Muhammad Soban
+    - 19.2:
+        non_striker: RJ Ainsworth
+        bowler: Muhammad Fahad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '19.2'
+        batsman: Muhammad Soban
+    - 19.3:
+        non_striker: Muhammad Soban
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.3'
+        batsman: RJ Ainsworth
+    - 19.4:
+        non_striker: RJ Ainsworth
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: Muhammad Soban
+    - 19.5:
+        non_striker: RJ Ainsworth
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.5'
+        batsman: Muhammad Soban
+    - 19.6:
+        non_striker: RJ Ainsworth
+        bowler: Muhammad Fahad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: Muhammad Soban
+        wicket:
+          player_out: Muhammad Soban
+          fielders:
+          - Ilyas Ataullah
+          - Omer Kutuk
+          kind: run out
+- 2nd innings:
+    team: Turkey
+    deliveries:
+    - 0.1:
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Muhammad Fahad
+        actual_delivery: '0.1'
+        batsman: Abdullah Khan Lodhi
+    - 0.2:
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Fahad
+        actual_delivery: '0.1'
+        batsman: Abdullah Khan Lodhi
+    - 0.3:
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Fahad
+        actual_delivery: '0.2'
+        batsman: Abdullah Khan Lodhi
+    - 0.4:
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Muhammad Fahad
+        actual_delivery: '0.3'
+        batsman: Abdullah Khan Lodhi
+    - 0.5:
+        non_striker: Abdullah Khan Lodhi
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Muhammad Fahad
+    - 0.6:
+        non_striker: Abdullah Khan Lodhi
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.5'
+        batsman: Muhammad Fahad
+    - 0.7:
+        non_striker: Abdullah Khan Lodhi
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.6'
+        batsman: Muhammad Fahad
+    - 1.1:
+        non_striker: Muhammad Fahad
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.1'
+        batsman: Abdullah Khan Lodhi
+    - 1.2:
+        non_striker: Muhammad Fahad
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: Abdullah Khan Lodhi
+    - 1.3:
+        non_striker: Abdullah Khan Lodhi
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: Muhammad Fahad
+    - 1.4:
+        non_striker: Muhammad Fahad
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: Abdullah Khan Lodhi
+    - 1.5:
+        non_striker: Muhammad Fahad
+        bowler: SA Mohandas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.5'
+        batsman: Abdullah Khan Lodhi
+    - 1.6:
+        non_striker: Muhammad Fahad
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Abdullah Khan Lodhi
+    - 1.7:
+        non_striker: Muhammad Fahad
+        bowler: SA Mohandas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.6'
+        batsman: Abdullah Khan Lodhi
+    - 1.8:
+        non_striker: Muhammad Fahad
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Abdullah Khan Lodhi
+        wicket:
+          player_out: Abdullah Khan Lodhi
+          fielders:
+          - Muhammad Soban
+          - L Bloomfield
+          kind: run out
+    - 2.1:
+        non_striker: I Elec
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: Muhammad Fahad
+        wicket:
+          player_out: Muhammad Fahad
+          fielders:
+          - L Bloomfield
+          kind: caught
+    - 2.2:
+        non_striker: I Elec
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: Furkan Tuskan
+    - 2.3:
+        non_striker: I Elec
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Furkan Tuskan
+    - 2.4:
+        non_striker: I Elec
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Furkan Tuskan
+    - 2.5:
+        non_striker: I Elec
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: Furkan Tuskan
+    - 2.6:
+        non_striker: I Elec
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Furkan Tuskan
+    - 3.1:
+        non_striker: Furkan Tuskan
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: I Elec
+    - 3.2:
+        non_striker: I Elec
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Furkan Tuskan
+    - 3.3:
+        non_striker: I Elec
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: Furkan Tuskan
+    - 3.4:
+        non_striker: Furkan Tuskan
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.4'
+        batsman: I Elec
+    - 3.5:
+        non_striker: Furkan Tuskan
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: I Elec
+        wicket:
+          player_out: Furkan Tuskan
+          fielders:
+          - Muhammad Saqlain
+          - SA Mohandas
+          kind: run out
+    - 3.6:
+        non_striker: Ilyas Ataullah
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: I Elec
+    - 4.1:
+        non_striker: I Elec
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.1'
+        batsman: Ilyas Ataullah
+    - 4.2:
+        non_striker: I Elec
+        bowler: Kamran Wahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '4.2'
+        batsman: Ilyas Ataullah
+    - 4.3:
+        non_striker: Ilyas Ataullah
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: I Elec
+        wicket:
+          player_out: I Elec
+          fielders:
+          - L Bloomfield
+          kind: caught
+    - 4.4:
+        non_striker: Ilyas Ataullah
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: A Turkmen
+    - 4.5:
+        non_striker: A Turkmen
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Ilyas Ataullah
+        wicket:
+          player_out: Ilyas Ataullah
+          fielders:
+          - RJ Ainsworth
+          kind: caught
+    - 4.6:
+        non_striker: A Turkmen
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Ibrahim Kursad Dalyan
+    target:
+      overs: 5
+      runs: 51

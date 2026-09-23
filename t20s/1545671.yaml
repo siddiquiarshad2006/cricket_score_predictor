@@ -1,0 +1,2170 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-08-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Vantaa
+  dates:
+  - '2026-08-17'
+  gender: male
+  match_type: T20
+  match_type_number: 4085
+  outcome:
+    winner: Spain
+    by:
+      runs: 141
+  overs: 20
+  players:
+    Spain:
+    - Mohammad Ihsan
+    - GS Bajwa
+    - Mohammad Kamran
+    - Yasir Ali
+    - D Doyle-Calle
+    - Hamza Dar
+    - C Munoz-Mills
+    - A Davidson Soler
+    - LA Burns
+    - Mohammad Atif
+    - SJ Hughes-Pinan
+    Luxembourg:
+    - TC Barker
+    - G Venkateswaran
+    - Asghar Ali Khan
+    - SKS Gill
+    - WJ Cope
+    - V Vijh
+    - Mayank Nagayach
+    - Vivek Dixit
+    - Kamal Soukhiya
+    - J Madan
+    - Milad Momend
+  registry:
+    people:
+      A Davidson Soler: 524943f1
+      Asghar Ali Khan: 71b7b75a
+      C Munoz-Mills: 17bc032c
+      D Doyle-Calle: 74be2916
+      G Venkateswaran: a4bcaba7
+      GS Bajwa: a2621507
+      Hamza Dar: 557550a4
+      J Madan: 79c2f9bf
+      Kamal Soukhiya: 64457c72
+      LA Burns: 5b616bf0
+      Mayank Nagayach: e401f8a5
+      Milad Momend: 84880baf
+      Mohammad Atif: 705b8c5c
+      Mohammad Ihsan: 510e33d3
+      Mohammad Kamran: 1a628a92
+      Prakash Bhatt: f848ab0b
+      SB Ravindra: 394ba7a8
+      SG Chandiramani: 4fa795d2
+      SJ Hughes-Pinan: ca72ea31
+      SKS Gill: faef026c
+      TC Barker: c31adb5c
+      V Vijh: b857468a
+      Vinay Malhotra: 452837d1
+      Vivek Dixit: d42de283
+      WJ Cope: fb34b0ec
+      Yasir Ali: '79209272'
+  team_type: international
+  teams:
+  - Spain
+  - Luxembourg
+  toss:
+    winner: Luxembourg
+    decision: field
+  umpires:
+  - SB Ravindra
+  - SG Chandiramani
+  venue: Tikkurila Cricket Ground
+innings:
+- 1st innings:
+    team: Spain
+    deliveries:
+    - 0.1:
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GS Bajwa
+        actual_delivery: '0.1'
+        batsman: Mohammad Ihsan
+    - 0.2:
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GS Bajwa
+        actual_delivery: '0.2'
+        batsman: Mohammad Ihsan
+    - 0.3:
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GS Bajwa
+        actual_delivery: '0.3'
+        batsman: Mohammad Ihsan
+    - 0.4:
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GS Bajwa
+        actual_delivery: '0.4'
+        batsman: Mohammad Ihsan
+    - 0.5:
+        non_striker: Mohammad Ihsan
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: GS Bajwa
+    - 0.6:
+        non_striker: Mohammad Ihsan
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: GS Bajwa
+    - 1.1:
+        non_striker: GS Bajwa
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: Mohammad Ihsan
+    - 1.2:
+        non_striker: GS Bajwa
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: Mohammad Ihsan
+    - 1.3:
+        non_striker: GS Bajwa
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: Mohammad Ihsan
+    - 1.4:
+        non_striker: GS Bajwa
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.4'
+        batsman: Mohammad Ihsan
+    - 1.5:
+        non_striker: GS Bajwa
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: Mohammad Ihsan
+    - 1.6:
+        non_striker: Mohammad Ihsan
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.6'
+        batsman: GS Bajwa
+    - 2.1:
+        non_striker: GS Bajwa
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: Mohammad Ihsan
+        wicket:
+          player_out: Mohammad Ihsan
+          kind: bowled
+    - 2.2:
+        non_striker: GS Bajwa
+        bowler: J Madan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.2'
+        batsman: Mohammad Kamran
+    - 2.3:
+        non_striker: GS Bajwa
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: Mohammad Kamran
+    - 2.4:
+        non_striker: GS Bajwa
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: Mohammad Kamran
+    - 2.5:
+        non_striker: GS Bajwa
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Mohammad Kamran
+    - 2.6:
+        non_striker: GS Bajwa
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: Mohammad Kamran
+    - 2.7:
+        non_striker: GS Bajwa
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.6'
+        batsman: Mohammad Kamran
+    - 3.1:
+        non_striker: Mohammad Kamran
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: GS Bajwa
+    - 3.2:
+        non_striker: Mohammad Kamran
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: GS Bajwa
+    - 3.3:
+        non_striker: Mohammad Kamran
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: GS Bajwa
+    - 3.4:
+        non_striker: GS Bajwa
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Mohammad Kamran
+        wicket:
+          player_out: Mohammad Kamran
+          fielders:
+          - SKS Gill
+          - WJ Cope
+          kind: run out
+    - 3.5:
+        non_striker: GS Bajwa
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: Yasir Ali
+    - 3.6:
+        non_striker: Yasir Ali
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: GS Bajwa
+    - 4.1:
+        non_striker: GS Bajwa
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: Yasir Ali
+    - 4.2:
+        non_striker: GS Bajwa
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: Yasir Ali
+    - 4.3:
+        non_striker: Yasir Ali
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: GS Bajwa
+    - 4.4:
+        non_striker: Yasir Ali
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: GS Bajwa
+    - 4.5:
+        non_striker: Yasir Ali
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: GS Bajwa
+    - 4.6:
+        non_striker: Yasir Ali
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: GS Bajwa
+    - 5.1:
+        non_striker: GS Bajwa
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.1'
+        batsman: Yasir Ali
+    - 5.2:
+        non_striker: GS Bajwa
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: Yasir Ali
+    - 5.3:
+        non_striker: GS Bajwa
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: Yasir Ali
+    - 5.4:
+        non_striker: GS Bajwa
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Yasir Ali
+    - 5.5:
+        non_striker: GS Bajwa
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: Yasir Ali
+    - 5.6:
+        non_striker: Yasir Ali
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.6'
+        batsman: GS Bajwa
+    - 6.1:
+        non_striker: GS Bajwa
+        bowler: Mayank Nagayach
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.1'
+        batsman: Yasir Ali
+    - 6.2:
+        non_striker: GS Bajwa
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: Yasir Ali
+    - 6.3:
+        non_striker: Yasir Ali
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.2'
+        batsman: GS Bajwa
+    - 6.4:
+        non_striker: Yasir Ali
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: GS Bajwa
+    - 6.5:
+        non_striker: GS Bajwa
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: Yasir Ali
+    - 6.6:
+        non_striker: Yasir Ali
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: GS Bajwa
+    - 6.7:
+        non_striker: GS Bajwa
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: Yasir Ali
+    - 7.1:
+        non_striker: Yasir Ali
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: GS Bajwa
+    - 7.2:
+        non_striker: GS Bajwa
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.2'
+        batsman: Yasir Ali
+    - 7.3:
+        non_striker: GS Bajwa
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: Yasir Ali
+    - 7.4:
+        non_striker: Yasir Ali
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: GS Bajwa
+    - 7.5:
+        non_striker: GS Bajwa
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: Yasir Ali
+    - 7.6:
+        non_striker: GS Bajwa
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.6'
+        batsman: Yasir Ali
+    - 8.1:
+        non_striker: Yasir Ali
+        bowler: Mayank Nagayach
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.1'
+        batsman: GS Bajwa
+    - 8.2:
+        non_striker: Yasir Ali
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.1'
+        batsman: GS Bajwa
+    - 8.3:
+        non_striker: Yasir Ali
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.2'
+        batsman: GS Bajwa
+    - 8.4:
+        non_striker: Yasir Ali
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: GS Bajwa
+    - 8.5:
+        non_striker: GS Bajwa
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: Yasir Ali
+    - 8.6:
+        non_striker: Yasir Ali
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: GS Bajwa
+    - 8.7:
+        non_striker: GS Bajwa
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Yasir Ali
+    - 9.1:
+        non_striker: Yasir Ali
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.1'
+        batsman: GS Bajwa
+    - 9.2:
+        non_striker: Yasir Ali
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.2'
+        batsman: GS Bajwa
+    - 9.3:
+        non_striker: Yasir Ali
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: GS Bajwa
+    - 9.4:
+        non_striker: Yasir Ali
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: GS Bajwa
+    - 9.5:
+        non_striker: GS Bajwa
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: Yasir Ali
+    - 9.6:
+        non_striker: GS Bajwa
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.6'
+        batsman: Yasir Ali
+    - 10.1:
+        non_striker: Yasir Ali
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: GS Bajwa
+        wicket:
+          player_out: GS Bajwa
+          kind: lbw
+    - 10.2:
+        non_striker: Yasir Ali
+        bowler: Vivek Dixit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.2'
+        batsman: D Doyle-Calle
+    - 10.3:
+        non_striker: Yasir Ali
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: D Doyle-Calle
+    - 10.4:
+        non_striker: Yasir Ali
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: D Doyle-Calle
+    - 10.5:
+        non_striker: D Doyle-Calle
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: Yasir Ali
+    - 10.6:
+        non_striker: Yasir Ali
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: D Doyle-Calle
+    - 10.7:
+        non_striker: D Doyle-Calle
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.6'
+        batsman: Yasir Ali
+    - 11.1:
+        non_striker: Yasir Ali
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: D Doyle-Calle
+    - 11.2:
+        non_striker: D Doyle-Calle
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: Yasir Ali
+    - 11.3:
+        non_striker: Yasir Ali
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.3'
+        batsman: D Doyle-Calle
+    - 11.4:
+        non_striker: Yasir Ali
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: D Doyle-Calle
+    - 11.5:
+        non_striker: D Doyle-Calle
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: Yasir Ali
+    - 11.6:
+        non_striker: Yasir Ali
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: D Doyle-Calle
+    - 12.1:
+        non_striker: Yasir Ali
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: D Doyle-Calle
+    - 12.2:
+        non_striker: D Doyle-Calle
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.2'
+        batsman: Yasir Ali
+    - 12.3:
+        non_striker: D Doyle-Calle
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: Yasir Ali
+    - 12.4:
+        non_striker: D Doyle-Calle
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.4'
+        batsman: Yasir Ali
+    - 12.5:
+        non_striker: D Doyle-Calle
+        bowler: Vivek Dixit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.5'
+        batsman: Yasir Ali
+    - 12.6:
+        non_striker: D Doyle-Calle
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: Yasir Ali
+    - 12.7:
+        non_striker: Yasir Ali
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.6'
+        batsman: D Doyle-Calle
+    - 13.1:
+        non_striker: D Doyle-Calle
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.1'
+        batsman: Yasir Ali
+    - 13.2:
+        non_striker: D Doyle-Calle
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.2'
+        batsman: Yasir Ali
+    - 13.3:
+        non_striker: D Doyle-Calle
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Yasir Ali
+    - 13.4:
+        non_striker: Yasir Ali
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: D Doyle-Calle
+    - 13.5:
+        non_striker: D Doyle-Calle
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.5'
+        batsman: Yasir Ali
+    - 13.6:
+        non_striker: D Doyle-Calle
+        bowler: V Vijh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.6'
+        batsman: Yasir Ali
+    - 13.7:
+        non_striker: D Doyle-Calle
+        bowler: V Vijh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: Yasir Ali
+    - 14.1:
+        non_striker: Yasir Ali
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '14.1'
+        batsman: D Doyle-Calle
+    - 14.2:
+        non_striker: D Doyle-Calle
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: Yasir Ali
+    - 14.3:
+        non_striker: Yasir Ali
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: D Doyle-Calle
+    - 14.4:
+        non_striker: D Doyle-Calle
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: Yasir Ali
+    - 14.5:
+        non_striker: Yasir Ali
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '14.5'
+        batsman: D Doyle-Calle
+    - 14.6:
+        non_striker: Yasir Ali
+        bowler: Vivek Dixit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: D Doyle-Calle
+    - 15.1:
+        non_striker: Yasir Ali
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: D Doyle-Calle
+    - 15.2:
+        non_striker: D Doyle-Calle
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.2'
+        batsman: Yasir Ali
+    - 15.3:
+        non_striker: D Doyle-Calle
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: Yasir Ali
+    - 15.4:
+        non_striker: D Doyle-Calle
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.4'
+        batsman: Yasir Ali
+    - 15.5:
+        non_striker: D Doyle-Calle
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.5'
+        batsman: Yasir Ali
+    - 15.6:
+        non_striker: D Doyle-Calle
+        bowler: Milad Momend
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.6'
+        batsman: Yasir Ali
+    - 16.1:
+        non_striker: Yasir Ali
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: D Doyle-Calle
+    - 16.2:
+        non_striker: D Doyle-Calle
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: Yasir Ali
+    - 16.3:
+        non_striker: Yasir Ali
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: D Doyle-Calle
+    - 16.4:
+        non_striker: Yasir Ali
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.4'
+        batsman: D Doyle-Calle
+    - 16.5:
+        non_striker: Yasir Ali
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.5'
+        batsman: D Doyle-Calle
+    - 16.6:
+        non_striker: Yasir Ali
+        bowler: Mayank Nagayach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: D Doyle-Calle
+    - 17.1:
+        non_striker: D Doyle-Calle
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: Yasir Ali
+    - 17.2:
+        non_striker: D Doyle-Calle
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.2'
+        batsman: Yasir Ali
+    - 17.3:
+        non_striker: D Doyle-Calle
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: Yasir Ali
+    - 17.4:
+        non_striker: D Doyle-Calle
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: Yasir Ali
+    - 17.5:
+        non_striker: Yasir Ali
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.5'
+        batsman: D Doyle-Calle
+    - 17.6:
+        non_striker: Yasir Ali
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.6'
+        batsman: D Doyle-Calle
+    - 18.1:
+        non_striker: D Doyle-Calle
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: Yasir Ali
+        wicket:
+          player_out: Yasir Ali
+          kind: bowled
+    - 18.2:
+        non_striker: D Doyle-Calle
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.2'
+        batsman: Hamza Dar
+    - 18.3:
+        non_striker: D Doyle-Calle
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.3'
+        batsman: Hamza Dar
+    - 18.4:
+        non_striker: D Doyle-Calle
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: Hamza Dar
+        wicket:
+          player_out: Hamza Dar
+          fielders:
+          - Mayank Nagayach
+          kind: caught
+    - 18.5:
+        non_striker: D Doyle-Calle
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.5'
+        batsman: C Munoz-Mills
+    - 18.6:
+        non_striker: D Doyle-Calle
+        bowler: J Madan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.6'
+        batsman: C Munoz-Mills
+    - 19.1:
+        non_striker: C Munoz-Mills
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.1'
+        batsman: D Doyle-Calle
+    - 19.2:
+        non_striker: C Munoz-Mills
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.2'
+        batsman: D Doyle-Calle
+    - 19.3:
+        non_striker: C Munoz-Mills
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.3'
+        batsman: D Doyle-Calle
+    - 19.4:
+        non_striker: C Munoz-Mills
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.4'
+        batsman: D Doyle-Calle
+    - 19.5:
+        non_striker: C Munoz-Mills
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: D Doyle-Calle
+        wicket:
+          player_out: D Doyle-Calle
+          fielders:
+          - Milad Momend
+          kind: caught
+    - 19.6:
+        non_striker: C Munoz-Mills
+        bowler: Kamal Soukhiya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.6'
+        batsman: A Davidson Soler
+- 2nd innings:
+    team: Luxembourg
+    deliveries:
+    - 0.1:
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Venkateswaran
+        actual_delivery: '0.1'
+        batsman: TC Barker
+    - 0.2:
+        non_striker: TC Barker
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.2'
+        batsman: G Venkateswaran
+    - 0.3:
+        non_striker: G Venkateswaran
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: TC Barker
+    - 0.4:
+        non_striker: TC Barker
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.4'
+        batsman: G Venkateswaran
+    - 0.5:
+        non_striker: TC Barker
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: G Venkateswaran
+    - 0.6:
+        non_striker: TC Barker
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.6'
+        batsman: G Venkateswaran
+    - 1.1:
+        non_striker: G Venkateswaran
+        bowler: Hamza Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: TC Barker
+    - 1.2:
+        non_striker: TC Barker
+        bowler: Hamza Dar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.2'
+        batsman: G Venkateswaran
+    - 1.3:
+        non_striker: TC Barker
+        bowler: Hamza Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: G Venkateswaran
+    - 1.4:
+        non_striker: TC Barker
+        bowler: Hamza Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: G Venkateswaran
+    - 1.5:
+        non_striker: TC Barker
+        bowler: Hamza Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: G Venkateswaran
+    - 1.6:
+        non_striker: G Venkateswaran
+        bowler: Hamza Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: TC Barker
+    - 1.7:
+        non_striker: G Venkateswaran
+        bowler: Hamza Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.6'
+        batsman: TC Barker
+    - 2.1:
+        non_striker: TC Barker
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: G Venkateswaran
+    - 2.2:
+        non_striker: G Venkateswaran
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: TC Barker
+        wicket:
+          player_out: TC Barker
+          fielders:
+          - A Davidson Soler
+          kind: caught
+    - 2.3:
+        non_striker: G Venkateswaran
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Asghar Ali Khan
+    - 2.4:
+        non_striker: G Venkateswaran
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.4'
+        batsman: Asghar Ali Khan
+    - 2.5:
+        non_striker: G Venkateswaran
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: Asghar Ali Khan
+    - 2.6:
+        non_striker: G Venkateswaran
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Asghar Ali Khan
+    - 3.1:
+        non_striker: Asghar Ali Khan
+        bowler: Hamza Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: G Venkateswaran
+    - 3.2:
+        non_striker: G Venkateswaran
+        bowler: Hamza Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Asghar Ali Khan
+    - 3.3:
+        non_striker: G Venkateswaran
+        bowler: Hamza Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Asghar Ali Khan
+        wicket:
+          player_out: Asghar Ali Khan
+          fielders:
+          - A Davidson Soler
+          kind: caught
+    - 3.4:
+        non_striker: G Venkateswaran
+        bowler: Hamza Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: SKS Gill
+    - 3.5:
+        non_striker: G Venkateswaran
+        bowler: Hamza Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: SKS Gill
+    - 3.6:
+        non_striker: G Venkateswaran
+        bowler: Hamza Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: SKS Gill
+    - 4.1:
+        non_striker: SKS Gill
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.1'
+        batsman: G Venkateswaran
+    - 4.2:
+        non_striker: SKS Gill
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: G Venkateswaran
+    - 4.3:
+        non_striker: G Venkateswaran
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: SKS Gill
+        wicket:
+          player_out: SKS Gill
+          fielders:
+          - A Davidson Soler
+          kind: caught
+    - 4.4:
+        non_striker: G Venkateswaran
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: WJ Cope
+        wicket:
+          player_out: WJ Cope
+          kind: bowled
+    - 4.5:
+        non_striker: G Venkateswaran
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: V Vijh
+        wicket:
+          player_out: V Vijh
+          kind: lbw
+    - 4.6:
+        non_striker: G Venkateswaran
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Mayank Nagayach
+    - 5.1:
+        non_striker: Mayank Nagayach
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: G Venkateswaran
+    - 5.2:
+        non_striker: G Venkateswaran
+        bowler: Mohammad Atif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.2'
+        batsman: Mayank Nagayach
+    - 5.3:
+        non_striker: G Venkateswaran
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: Mayank Nagayach
+    - 5.4:
+        non_striker: G Venkateswaran
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: Mayank Nagayach
+    - 5.5:
+        non_striker: G Venkateswaran
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Mayank Nagayach
+    - 5.6:
+        non_striker: G Venkateswaran
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Mayank Nagayach
+    - 5.7:
+        non_striker: G Venkateswaran
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Mayank Nagayach
+    - 6.1:
+        non_striker: Mayank Nagayach
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: G Venkateswaran
+        wicket:
+          player_out: G Venkateswaran
+          fielders:
+          - Mohammad Ihsan
+          kind: caught
+    - 6.2:
+        non_striker: Mayank Nagayach
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: Vivek Dixit
+    - 6.3:
+        non_striker: Mayank Nagayach
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: Vivek Dixit
+    - 6.4:
+        non_striker: Vivek Dixit
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: Mayank Nagayach
+    - 6.5:
+        non_striker: Mayank Nagayach
+        bowler: Mohammad Kamran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.5'
+        batsman: Vivek Dixit
+    - 6.6:
+        non_striker: Mayank Nagayach
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Vivek Dixit
+    - 6.7:
+        non_striker: Mayank Nagayach
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: Vivek Dixit
+        wicket:
+          player_out: Vivek Dixit
+          fielders:
+          - Mohammad Atif
+          kind: caught
+    - 7.1:
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kamal Soukhiya
+        actual_delivery: '7.1'
+        batsman: Mayank Nagayach
+    - 7.2:
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kamal Soukhiya
+        actual_delivery: '7.2'
+        batsman: Mayank Nagayach
+    - 7.3:
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kamal Soukhiya
+        actual_delivery: '7.3'
+        batsman: Mayank Nagayach
+    - 7.4:
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kamal Soukhiya
+        actual_delivery: '7.4'
+        batsman: Mayank Nagayach
+    - 7.5:
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kamal Soukhiya
+        actual_delivery: '7.5'
+        batsman: Mayank Nagayach
+    - 7.6:
+        non_striker: Kamal Soukhiya
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: Mayank Nagayach
+    - 8.1:
+        non_striker: Mayank Nagayach
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Kamal Soukhiya
+    - 8.2:
+        non_striker: Mayank Nagayach
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: Kamal Soukhiya
+    - 8.3:
+        non_striker: Mayank Nagayach
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: Kamal Soukhiya
+        wicket:
+          player_out: Kamal Soukhiya
+          kind: lbw
+    - 8.4:
+        non_striker: Mayank Nagayach
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: J Madan
+    - 8.5:
+        non_striker: J Madan
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: Mayank Nagayach
+    - 8.6:
+        non_striker: J Madan
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Mayank Nagayach
+    - 9.1:
+        non_striker: Mayank Nagayach
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: J Madan
+    - 9.2:
+        non_striker: J Madan
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.2'
+        batsman: Mayank Nagayach
+    - 9.3:
+        non_striker: J Madan
+        bowler: Mohammad Atif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.3'
+        batsman: Mayank Nagayach
+    - 9.4:
+        non_striker: J Madan
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: Mayank Nagayach
+    - 9.5:
+        non_striker: J Madan
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: Mayank Nagayach
+    - 9.6:
+        non_striker: J Madan
+        bowler: Mohammad Atif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.5'
+        batsman: Mayank Nagayach
+    - 9.7:
+        non_striker: J Madan
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: Mayank Nagayach
+    - 9.8:
+        non_striker: Mayank Nagayach
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: J Madan
+    - 10.1:
+        non_striker: J Madan
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: Mayank Nagayach
+    - 10.2:
+        non_striker: J Madan
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.2'
+        batsman: Mayank Nagayach
+    - 10.3:
+        non_striker: J Madan
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Mayank Nagayach
+    - 10.4:
+        non_striker: Mayank Nagayach
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: J Madan
+    - 10.5:
+        non_striker: Mayank Nagayach
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: J Madan
+    - 10.6:
+        non_striker: Mayank Nagayach
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: J Madan
+    - 11.1:
+        non_striker: J Madan
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: Mayank Nagayach
+    - 11.2:
+        non_striker: J Madan
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: Mayank Nagayach
+    - 11.3:
+        non_striker: J Madan
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.3'
+        batsman: Mayank Nagayach
+    - 11.4:
+        non_striker: J Madan
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.4'
+        batsman: Mayank Nagayach
+    - 11.5:
+        non_striker: J Madan
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Mayank Nagayach
+    - 11.6:
+        non_striker: J Madan
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Mayank Nagayach
+    - 12.1:
+        non_striker: J Madan
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.1'
+        batsman: Mayank Nagayach
+    - 12.2:
+        non_striker: J Madan
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.2'
+        batsman: Mayank Nagayach
+    - 12.3:
+        non_striker: J Madan
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: Mayank Nagayach
+    - 12.4:
+        non_striker: J Madan
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: Mayank Nagayach
+    - 12.5:
+        non_striker: J Madan
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: Mayank Nagayach
+    - 12.6:
+        non_striker: Mayank Nagayach
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: J Madan
+    - 13.1:
+        non_striker: J Madan
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: Mayank Nagayach
+    - 13.2:
+        non_striker: Mayank Nagayach
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: J Madan
+    - 13.3:
+        non_striker: Mayank Nagayach
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: J Madan
+    - 13.4:
+        non_striker: J Madan
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Mayank Nagayach
+    - 13.5:
+        non_striker: J Madan
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Mayank Nagayach
+    - 13.6:
+        non_striker: J Madan
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Mayank Nagayach
+    - 14.1:
+        non_striker: J Madan
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.1'
+        batsman: Mayank Nagayach
+    - 14.2:
+        non_striker: J Madan
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: Mayank Nagayach
+    - 14.3:
+        non_striker: J Madan
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: Mayank Nagayach
+        wicket:
+          player_out: Mayank Nagayach
+          fielders:
+          - A Davidson Soler
+          kind: caught
+    - 14.4:
+        non_striker: J Madan
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: Milad Momend
+    - 14.5:
+        non_striker: J Madan
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: Milad Momend
+    - 14.6:
+        non_striker: J Madan
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: Milad Momend
+        wicket:
+          player_out: Milad Momend
+          kind: lbw
+    target:
+      overs: 20
+      runs: 207

@@ -1,0 +1,2399 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-05-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Nisshin
+  dates:
+  - '2026-05-09'
+  gender: male
+  match_type: T20
+  match_type_number: 3848
+  outcome:
+    winner: Papua New Guinea
+    by:
+      runs: 136
+  overs: 20
+  player_of_match:
+  - TP Ura
+  players:
+    Papua New Guinea:
+    - S Bau
+    - TP Ura
+    - Ryan Ani
+    - L Siaka
+    - Patrick Nou
+    - A Vala
+    - Boio Ray
+    - HGV Vare
+    - Aue Oru
+    - J Kariko
+    - A Nao
+    South Korea:
+    - DVD Madampage
+    - BI Dilruksha
+    - Sageer Ahmad
+    - HMHE Parsons
+    - Jun Hyunwoo
+    - ASH Parsons
+    - S Maduranga
+    - Muhammad Nadeem
+    - AS Broomfield
+    - Kuldeep Gurjar
+    - CV Ranasinghe
+  registry:
+    people:
+      A Nao: 4d1ec7eb
+      A Vala: 72e60730
+      AS Broomfield: 4b8e8f64
+      ASH Parsons: ee572df8
+      Aue Oru: '09ecc596'
+      BI Dilruksha: bf60e1d2
+      Boio Ray: 9cf15e95
+      CV Ranasinghe: b1a4226c
+      DM Koch: 6d10c034
+      DVD Madampage: f681fa6e
+      HGV Vare: 98299b67
+      HMHE Parsons: 0ca1ea55
+      J Kariko: cde067e1
+      Jun Hyunwoo: 431f2dd4
+      Kent Hannam: 8cc171e7
+      Kuldeep Gurjar: 2306b48a
+      L Siaka: 6b4593ee
+      Muhammad Nadeem: f681481e
+      Patrick Nou: '75657526'
+      Ryan Ani: 668404df
+      S Bau: 9a95bebb
+      S Maduranga: 68f24545
+      Sageer Ahmad: fb266d70
+      TP Ura: a82eb3fb
+      Tabarak Dar: 2259c12d
+      V Kalidas: 42d76418
+  teams:
+  - Papua New Guinea
+  - South Korea
+  toss:
+    winner: Papua New Guinea
+    decision: bat
+  umpires:
+  - DM Koch
+  - Tabarak Dar
+  venue: Korogi Sports Park, Nisshin
+  team_type: international
+innings:
+- 1st innings:
+    team: Papua New Guinea
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: CV Ranasinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: TP Ura
+        batsman: S Bau
+    - 0.2:
+        actual_delivery: '0.1'
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TP Ura
+        batsman: S Bau
+    - 0.3:
+        actual_delivery: '0.2'
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: TP Ura
+        batsman: S Bau
+    - 0.4:
+        actual_delivery: '0.3'
+        bowler: CV Ranasinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: TP Ura
+        batsman: S Bau
+    - 0.5:
+        actual_delivery: '0.3'
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TP Ura
+        batsman: S Bau
+    - 0.6:
+        actual_delivery: '0.4'
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TP Ura
+        batsman: S Bau
+    - 0.7:
+        actual_delivery: '0.5'
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TP Ura
+        batsman: S Bau
+    - 0.8:
+        actual_delivery: '0.6'
+        non_striker: S Bau
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: S Bau
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ura
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: S Bau
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Ura
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: S Bau
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ura
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: S Bau
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: TP Ura
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: S Bau
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TP Ura
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: S Bau
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TP Ura
+    - 1.7:
+        actual_delivery: '1.6'
+        non_striker: S Bau
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Ura
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: TP Ura
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Bau
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: TP Ura
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: S Bau
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: TP Ura
+        bowler: CV Ranasinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Bau
+    - 2.5:
+        actual_delivery: '2.4'
+        non_striker: TP Ura
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 2.6:
+        actual_delivery: '2.5'
+        non_striker: TP Ura
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 2.7:
+        actual_delivery: '2.6'
+        non_striker: S Bau
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Ura
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: TP Ura
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: TP Ura
+        bowler: S Maduranga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Bau
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: S Bau
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Ura
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: S Bau
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ura
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: S Bau
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: TP Ura
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: S Bau
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: TP Ura
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: S Bau
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: TP Ura
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: S Bau
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Ura
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: S Bau
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Ura
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: TP Ura
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: S Bau
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: TP Ura
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Bau
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: TP Ura
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Bau
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: TP Ura
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: S Bau
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TP Ura
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: S Bau
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: TP Ura
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Bau
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: TP Ura
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: TP Ura
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: TP Ura
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: TP Ura
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Bau
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: S Bau
+        bowler: Sageer Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Ura
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: S Bau
+        bowler: Sageer Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: TP Ura
+        bowler: Sageer Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: S Bau
+        bowler: Sageer Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Ura
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: S Bau
+        bowler: Sageer Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: TP Ura
+        bowler: Sageer Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: S Bau
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: TP Ura
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: S Bau
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: TP Ura
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Bau
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: TP Ura
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: S Bau
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ura
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: TP Ura
+        bowler: Sageer Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: TP Ura
+        bowler: Sageer Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Bau
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: TP Ura
+        bowler: Sageer Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Bau
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: TP Ura
+        bowler: Sageer Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Bau
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: TP Ura
+        bowler: Sageer Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: S Bau
+        bowler: Sageer Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: S Bau
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TP Ura
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: S Bau
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Ura
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: S Bau
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: TP Ura
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: S Bau
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: TP Ura
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: TP Ura
+        bowler: Sageer Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Bau
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: TP Ura
+        bowler: Sageer Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: S Bau
+        bowler: Sageer Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ura
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: S Bau
+        bowler: Sageer Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: TP Ura
+        bowler: Sageer Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Bau
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: TP Ura
+        bowler: Sageer Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Bau
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: S Bau
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TP Ura
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: TP Ura
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bau
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: S Bau
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ura
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: S Bau
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TP Ura
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: S Bau
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Ura
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: S Bau
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: S Bau
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: TP Ura
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bau
+        wicket:
+          player_out: S Bau
+          fielders:
+          - Jun Hyunwoo
+          kind: caught
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: TP Ura
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ryan Ani
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Ryan Ani
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: TP Ura
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ryan Ani
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: TP Ura
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ryan Ani
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: TP Ura
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ryan Ani
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Ryan Ani
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: TP Ura
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ryan Ani
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: TP Ura
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ryan Ani
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: TP Ura
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ryan Ani
+        wicket:
+          player_out: Ryan Ani
+          fielders:
+          - HMHE Parsons
+          kind: caught
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: TP Ura
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Siaka
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: L Siaka
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Ura
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: L Siaka
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Ura
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: L Siaka
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: TP Ura
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Siaka
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: L Siaka
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Ura
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: L Siaka
+        bowler: Kuldeep Gurjar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Ura
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: TP Ura
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Siaka
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: TP Ura
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Siaka
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: TP Ura
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Siaka
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: L Siaka
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TP Ura
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: L Siaka
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Ura
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: L Siaka
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Ura
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: TP Ura
+        bowler: DVD Madampage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Siaka
+    - 17.2:
+        actual_delivery: '17.1'
+        non_striker: TP Ura
+        bowler: DVD Madampage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Siaka
+    - 17.3:
+        actual_delivery: '17.2'
+        non_striker: L Siaka
+        bowler: DVD Madampage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ura
+    - 17.4:
+        actual_delivery: '17.3'
+        non_striker: L Siaka
+        bowler: DVD Madampage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 17.5:
+        actual_delivery: '17.4'
+        non_striker: TP Ura
+        bowler: DVD Madampage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Siaka
+        wicket:
+          player_out: L Siaka
+          kind: bowled
+    - 17.6:
+        actual_delivery: '17.5'
+        non_striker: TP Ura
+        bowler: DVD Madampage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Patrick Nou
+    - 17.7:
+        actual_delivery: '17.5'
+        non_striker: TP Ura
+        bowler: DVD Madampage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Patrick Nou
+    - 17.8:
+        actual_delivery: '17.6'
+        non_striker: TP Ura
+        bowler: DVD Madampage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Patrick Nou
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: Patrick Nou
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: TP Ura
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Patrick Nou
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: Patrick Nou
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Ura
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: Patrick Nou
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ura
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: TP Ura
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Patrick Nou
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: TP Ura
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Patrick Nou
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: TP Ura
+        bowler: DVD Madampage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Patrick Nou
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: Patrick Nou
+        bowler: DVD Madampage
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TP Ura
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: TP Ura
+        bowler: DVD Madampage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Patrick Nou
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: TP Ura
+        bowler: DVD Madampage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Patrick Nou
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: TP Ura
+        bowler: DVD Madampage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Patrick Nou
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: TP Ura
+        bowler: DVD Madampage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Patrick Nou
+- 2nd innings:
+    team: South Korea
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Boio Ray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BI Dilruksha
+        batsman: DVD Madampage
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: Boio Ray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BI Dilruksha
+        batsman: DVD Madampage
+    - 0.3:
+        actual_delivery: '0.3'
+        bowler: Boio Ray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: BI Dilruksha
+        batsman: DVD Madampage
+    - 0.4:
+        actual_delivery: '0.4'
+        bowler: Boio Ray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BI Dilruksha
+        batsman: DVD Madampage
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: DVD Madampage
+        bowler: Boio Ray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BI Dilruksha
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: DVD Madampage
+        bowler: Boio Ray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BI Dilruksha
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: BI Dilruksha
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DVD Madampage
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: BI Dilruksha
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DVD Madampage
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: BI Dilruksha
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DVD Madampage
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: DVD Madampage
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BI Dilruksha
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: DVD Madampage
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BI Dilruksha
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: DVD Madampage
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BI Dilruksha
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: BI Dilruksha
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DVD Madampage
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: DVD Madampage
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BI Dilruksha
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: DVD Madampage
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BI Dilruksha
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: DVD Madampage
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BI Dilruksha
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: DVD Madampage
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BI Dilruksha
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: BI Dilruksha
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DVD Madampage
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: DVD Madampage
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BI Dilruksha
+        wicket:
+          player_out: BI Dilruksha
+          kind: bowled
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: DVD Madampage
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sageer Ahmad
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: DVD Madampage
+        bowler: Aue Oru
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sageer Ahmad
+    - 3.4:
+        actual_delivery: '3.3'
+        non_striker: DVD Madampage
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sageer Ahmad
+    - 3.5:
+        actual_delivery: '3.4'
+        non_striker: DVD Madampage
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sageer Ahmad
+        wicket:
+          player_out: Sageer Ahmad
+          fielders:
+          - Ryan Ani
+          kind: caught
+    - 3.6:
+        actual_delivery: '3.5'
+        non_striker: DVD Madampage
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMHE Parsons
+    - 3.7:
+        actual_delivery: '3.6'
+        non_striker: DVD Madampage
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMHE Parsons
+        wicket:
+          player_out: HMHE Parsons
+          kind: bowled
+    - 4.1:
+        actual_delivery: '4.1'
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jun Hyunwoo
+        batsman: DVD Madampage
+    - 4.2:
+        actual_delivery: '4.2'
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jun Hyunwoo
+        batsman: DVD Madampage
+    - 4.3:
+        actual_delivery: '4.3'
+        bowler: A Nao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Jun Hyunwoo
+        batsman: DVD Madampage
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: DVD Madampage
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: DVD Madampage
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: DVD Madampage
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+        wicket:
+          player_out: Jun Hyunwoo
+          kind: bowled
+    - 5.1:
+        actual_delivery: '5.1'
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ASH Parsons
+        batsman: DVD Madampage
+    - 5.2:
+        actual_delivery: '5.2'
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: ASH Parsons
+        batsman: DVD Madampage
+    - 5.3:
+        actual_delivery: '5.3'
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ASH Parsons
+        batsman: DVD Madampage
+    - 5.4:
+        actual_delivery: '5.4'
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ASH Parsons
+        batsman: DVD Madampage
+    - 5.5:
+        actual_delivery: '5.5'
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ASH Parsons
+        batsman: DVD Madampage
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: ASH Parsons
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DVD Madampage
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: DVD Madampage
+        bowler: Patrick Nou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASH Parsons
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: DVD Madampage
+        bowler: Patrick Nou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASH Parsons
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: DVD Madampage
+        bowler: Patrick Nou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASH Parsons
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: DVD Madampage
+        bowler: Patrick Nou
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ASH Parsons
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: DVD Madampage
+        bowler: Patrick Nou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ASH Parsons
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: ASH Parsons
+        bowler: Patrick Nou
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DVD Madampage
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: ASH Parsons
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DVD Madampage
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: ASH Parsons
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DVD Madampage
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: ASH Parsons
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DVD Madampage
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: ASH Parsons
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DVD Madampage
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: ASH Parsons
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DVD Madampage
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: ASH Parsons
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DVD Madampage
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: ASH Parsons
+        bowler: L Siaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DVD Madampage
+    - 8.2:
+        actual_delivery: '8.1'
+        non_striker: ASH Parsons
+        bowler: L Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DVD Madampage
+    - 8.3:
+        actual_delivery: '8.2'
+        non_striker: ASH Parsons
+        bowler: L Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DVD Madampage
+    - 8.4:
+        actual_delivery: '8.3'
+        non_striker: ASH Parsons
+        bowler: L Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DVD Madampage
+    - 8.5:
+        actual_delivery: '8.4'
+        non_striker: ASH Parsons
+        bowler: L Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DVD Madampage
+    - 8.6:
+        actual_delivery: '8.5'
+        non_striker: DVD Madampage
+        bowler: L Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASH Parsons
+    - 8.7:
+        actual_delivery: '8.6'
+        non_striker: DVD Madampage
+        bowler: L Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASH Parsons
+        wicket:
+          player_out: ASH Parsons
+          fielders:
+          - A Vala
+          kind: caught
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: S Maduranga
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DVD Madampage
+        wicket:
+          player_out: DVD Madampage
+          kind: caught and bowled
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: S Maduranga
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Nadeem
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: S Maduranga
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Nadeem
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: Muhammad Nadeem
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: Muhammad Nadeem
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: Muhammad Nadeem
+        bowler: S Bau
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Maduranga
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Muhammad Nadeem
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Muhammad Nadeem
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: Muhammad Nadeem
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Maduranga
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: S Maduranga
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Nadeem
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: Muhammad Nadeem
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Maduranga
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: S Maduranga
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Nadeem
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Muhammad Nadeem
+        bowler: Patrick Nou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Muhammad Nadeem
+        bowler: Patrick Nou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: Muhammad Nadeem
+        bowler: Patrick Nou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: Muhammad Nadeem
+        bowler: Patrick Nou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: Muhammad Nadeem
+        bowler: Patrick Nou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: Muhammad Nadeem
+        bowler: Patrick Nou
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: S Maduranga
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Nadeem
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Muhammad Nadeem
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Muhammad Nadeem
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Maduranga
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Muhammad Nadeem
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Muhammad Nadeem
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: Muhammad Nadeem
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Maduranga
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Muhammad Nadeem
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Muhammad Nadeem
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Maduranga
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: S Maduranga
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Nadeem
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: S Maduranga
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Nadeem
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: Muhammad Nadeem
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+        wicket:
+          player_out: S Maduranga
+          fielders:
+          - TP Ura
+          kind: caught
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: Muhammad Nadeem
+        bowler: A Vala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Broomfield
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: AS Broomfield
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Nadeem
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Muhammad Nadeem
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Broomfield
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Muhammad Nadeem
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Broomfield
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: Muhammad Nadeem
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Broomfield
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: Muhammad Nadeem
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Broomfield
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Muhammad Nadeem
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Broomfield
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: AS Broomfield
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Nadeem
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: Muhammad Nadeem
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Broomfield
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: Muhammad Nadeem
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Broomfield
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: Muhammad Nadeem
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Broomfield
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: Muhammad Nadeem
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Broomfield
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: AS Broomfield
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Nadeem
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: Muhammad Nadeem
+        bowler: L Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Broomfield
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Muhammad Nadeem
+        bowler: L Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Broomfield
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: AS Broomfield
+        bowler: L Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Nadeem
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: AS Broomfield
+        bowler: L Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Nadeem
+        wicket:
+          player_out: Muhammad Nadeem
+          fielders:
+          - Boio Ray
+          kind: caught
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: AS Broomfield
+        bowler: L Siaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kuldeep Gurjar
+    - 16.6:
+        actual_delivery: '16.5'
+        non_striker: AS Broomfield
+        bowler: L Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kuldeep Gurjar
+    - 16.7:
+        actual_delivery: '16.6'
+        non_striker: Kuldeep Gurjar
+        bowler: L Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Broomfield
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: AS Broomfield
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Gurjar
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: AS Broomfield
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Gurjar
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: AS Broomfield
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Gurjar
+        wicket:
+          player_out: Kuldeep Gurjar
+          kind: lbw
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: AS Broomfield
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CV Ranasinghe
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: CV Ranasinghe
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Broomfield
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: AS Broomfield
+        bowler: Aue Oru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CV Ranasinghe
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: CV Ranasinghe
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Broomfield
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: CV Ranasinghe
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Broomfield
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: AS Broomfield
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CV Ranasinghe
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: CV Ranasinghe
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Broomfield
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: CV Ranasinghe
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Broomfield
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: CV Ranasinghe
+        bowler: J Kariko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Broomfield
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: CV Ranasinghe
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Broomfield
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: CV Ranasinghe
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AS Broomfield
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: AS Broomfield
+        bowler: A Nao
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CV Ranasinghe
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: CV Ranasinghe
+        bowler: A Nao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Broomfield
+        wicket:
+          player_out: CV Ranasinghe
+          fielders:
+          - A Vala
+          - A Nao
+          kind: run out
+    target:
+      overs: 20
+      runs: 198

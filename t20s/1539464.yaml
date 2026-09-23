@@ -1,0 +1,2355 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Stockholm
+  dates:
+  - '2026-06-11'
+  gender: male
+  match_type: T20
+  match_type_number: 3945
+  outcome:
+    winner: Sweden
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - W Boshoff
+  players:
+    Norway:
+    - Khizer Ahmed
+    - D Asghar
+    - Walid Ghauri
+    - Saif-Ul Islam
+    - Chaudhary Akram
+    - Faisal Raza
+    - Ibrahim Rahimi
+    - Qamar Mushtaque
+    - M Shahbaz Butt
+    - Ahmadullah Shinwari
+    - AJ Parmar
+    Sweden:
+    - Imal Zuwak
+    - A Mundra
+    - Saeed Ahmed
+    - Zaid Ahmad
+    - YS Chauhan
+    - W Boshoff
+    - Hamid Mahmood
+    - A Dhabe
+    - Abdul Naser Baluch
+    - Samiullah Rahmani
+    - Zabiullah Zahid
+  registry:
+    people:
+      A Dhabe: 5a0dbdeb
+      A Mundra: 30ffaf85
+      AJ Parmar: 94113d54
+      Abdul Naser Baluch: 6a88d66d
+      Ahmadullah Shinwari: e068d48e
+      Bilal Munir: c35c63b9
+      Chaudhary Akram: 3e697d4a
+      D Asghar: 052b014c
+      DB Lakhani: 03adc956
+      Faisal Raza: dccb802c
+      Hamid Mahmood: 5332fc2f
+      Ibrahim Rahimi: f8ef3653
+      Imal Zuwak: 1283e17b
+      Khizer Ahmed: 723ca856
+      M Shahbaz Butt: 5ef3c310
+      Qamar Mushtaque: fc362c5d
+      SB Ravindra: 394ba7a8
+      Saeed Ahmed: 63d6e16e
+      Saif-Ul Islam: 1f3d7990
+      Samiullah Rahmani: d5c38041
+      W Boshoff: cad11a02
+      Walid Ghauri: 331e137f
+      YS Chauhan: fb3233d4
+      Zabiullah Zahid: 6d024ce3
+      Zaid Ahmad: '45828106'
+  team_type: international
+  teams:
+  - Norway
+  - Sweden
+  toss:
+    winner: Sweden
+    decision: field
+  umpires:
+  - Bilal Munir
+  - SB Ravindra
+  venue: Botkyrka Cricket Center, Stockholm
+innings:
+- 1st innings:
+    team: Norway
+    deliveries:
+    - 0.1:
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Asghar
+        actual_delivery: '0.1'
+        batsman: Khizer Ahmed
+    - 0.2:
+        non_striker: D Asghar
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: Khizer Ahmed
+        wicket:
+          player_out: Khizer Ahmed
+          fielders:
+          - A Mundra
+          kind: caught
+    - 0.3:
+        non_striker: D Asghar
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: Walid Ghauri
+    - 0.4:
+        non_striker: D Asghar
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Walid Ghauri
+    - 0.5:
+        non_striker: D Asghar
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Walid Ghauri
+    - 0.6:
+        non_striker: D Asghar
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: Walid Ghauri
+    - 1.1:
+        non_striker: D Asghar
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: Walid Ghauri
+    - 1.2:
+        non_striker: Walid Ghauri
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '1.2'
+        batsman: D Asghar
+    - 1.3:
+        non_striker: D Asghar
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.3'
+        batsman: Walid Ghauri
+    - 1.4:
+        non_striker: D Asghar
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: Walid Ghauri
+    - 1.5:
+        non_striker: Walid Ghauri
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: D Asghar
+    - 1.6:
+        non_striker: Walid Ghauri
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.5'
+        batsman: D Asghar
+    - 1.7:
+        non_striker: Walid Ghauri
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: D Asghar
+    - 2.1:
+        non_striker: Walid Ghauri
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: D Asghar
+    - 2.2:
+        non_striker: Walid Ghauri
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: D Asghar
+    - 2.3:
+        non_striker: D Asghar
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Walid Ghauri
+    - 2.4:
+        non_striker: D Asghar
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: Walid Ghauri
+    - 2.5:
+        non_striker: Walid Ghauri
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: D Asghar
+    - 2.6:
+        non_striker: Walid Ghauri
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '2.6'
+        batsman: D Asghar
+    - 3.1:
+        non_striker: Walid Ghauri
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: D Asghar
+    - 3.2:
+        non_striker: D Asghar
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: Walid Ghauri
+    - 3.3:
+        non_striker: Walid Ghauri
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: D Asghar
+    - 3.4:
+        non_striker: Walid Ghauri
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.4'
+        batsman: D Asghar
+    - 3.5:
+        non_striker: Walid Ghauri
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: D Asghar
+    - 3.6:
+        non_striker: D Asghar
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: Walid Ghauri
+    - 4.1:
+        non_striker: D Asghar
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: Walid Ghauri
+    - 4.2:
+        non_striker: Walid Ghauri
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: D Asghar
+    - 4.3:
+        non_striker: Walid Ghauri
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: D Asghar
+        wicket:
+          player_out: D Asghar
+          kind: bowled
+    - 4.4:
+        non_striker: Walid Ghauri
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: Saif-Ul Islam
+    - 4.5:
+        non_striker: Walid Ghauri
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: Saif-Ul Islam
+    - 4.6:
+        non_striker: Saif-Ul Islam
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.6'
+        batsman: Walid Ghauri
+    - 4.7:
+        non_striker: Saif-Ul Islam
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Walid Ghauri
+    - 5.1:
+        non_striker: Walid Ghauri
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Saif-Ul Islam
+    - 5.2:
+        non_striker: Walid Ghauri
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: Saif-Ul Islam
+        wicket:
+          player_out: Saif-Ul Islam
+          fielders:
+          - Imal Zuwak
+          kind: caught
+    - 5.3:
+        non_striker: Walid Ghauri
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: Chaudhary Akram
+    - 5.4:
+        non_striker: Chaudhary Akram
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Walid Ghauri
+    - 5.5:
+        non_striker: Chaudhary Akram
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Walid Ghauri
+    - 5.6:
+        non_striker: Chaudhary Akram
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Walid Ghauri
+    - 6.1:
+        non_striker: Walid Ghauri
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: Chaudhary Akram
+    - 6.2:
+        non_striker: Chaudhary Akram
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: Walid Ghauri
+    - 6.3:
+        non_striker: Walid Ghauri
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.3'
+        batsman: Chaudhary Akram
+    - 6.4:
+        non_striker: Walid Ghauri
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: Chaudhary Akram
+    - 6.5:
+        non_striker: Chaudhary Akram
+        bowler: A Dhabe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '6.5'
+        batsman: Walid Ghauri
+    - 6.6:
+        non_striker: Chaudhary Akram
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: Walid Ghauri
+    - 7.1:
+        non_striker: Walid Ghauri
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: Chaudhary Akram
+    - 7.2:
+        non_striker: Chaudhary Akram
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: Walid Ghauri
+    - 7.3:
+        non_striker: Chaudhary Akram
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.3'
+        batsman: Walid Ghauri
+    - 7.4:
+        non_striker: Chaudhary Akram
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: Walid Ghauri
+    - 7.5:
+        non_striker: Chaudhary Akram
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: Walid Ghauri
+    - 7.6:
+        non_striker: Walid Ghauri
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: Chaudhary Akram
+    - 8.1:
+        non_striker: Walid Ghauri
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: Chaudhary Akram
+    - 8.2:
+        non_striker: Chaudhary Akram
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: Walid Ghauri
+    - 8.3:
+        non_striker: Chaudhary Akram
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.3'
+        batsman: Walid Ghauri
+    - 8.4:
+        non_striker: Chaudhary Akram
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: Walid Ghauri
+        wicket:
+          player_out: Walid Ghauri
+          fielders:
+          - W Boshoff
+          - Samiullah Rahmani
+          kind: run out
+    - 8.5:
+        non_striker: Chaudhary Akram
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Faisal Raza
+    - 8.6:
+        non_striker: Faisal Raza
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Chaudhary Akram
+    - 9.1:
+        non_striker: Chaudhary Akram
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: Faisal Raza
+    - 9.2:
+        non_striker: Faisal Raza
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Chaudhary Akram
+    - 9.3:
+        non_striker: Faisal Raza
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: Chaudhary Akram
+    - 9.4:
+        non_striker: Chaudhary Akram
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: Faisal Raza
+        wicket:
+          player_out: Faisal Raza
+          kind: bowled
+    - 9.5:
+        non_striker: Chaudhary Akram
+        bowler: Hamid Mahmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '9.5'
+        batsman: Ibrahim Rahimi
+    - 9.6:
+        non_striker: Ibrahim Rahimi
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: Chaudhary Akram
+        wicket:
+          player_out: Chaudhary Akram
+          kind: bowled
+    - 10.1:
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Qamar Mushtaque
+        actual_delivery: '10.1'
+        batsman: Ibrahim Rahimi
+    - 10.2:
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Qamar Mushtaque
+        actual_delivery: '10.2'
+        batsman: Ibrahim Rahimi
+    - 10.3:
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Qamar Mushtaque
+        actual_delivery: '10.3'
+        batsman: Ibrahim Rahimi
+    - 10.4:
+        non_striker: Ibrahim Rahimi
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: Qamar Mushtaque
+    - 10.5:
+        non_striker: Ibrahim Rahimi
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: Qamar Mushtaque
+    - 10.6:
+        non_striker: Qamar Mushtaque
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Ibrahim Rahimi
+    - 11.1:
+        non_striker: Ibrahim Rahimi
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: Qamar Mushtaque
+    - 11.2:
+        non_striker: Ibrahim Rahimi
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: Qamar Mushtaque
+    - 11.3:
+        non_striker: Ibrahim Rahimi
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: Qamar Mushtaque
+    - 11.4:
+        non_striker: Ibrahim Rahimi
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: Qamar Mushtaque
+    - 11.5:
+        non_striker: Ibrahim Rahimi
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: Qamar Mushtaque
+    - 11.6:
+        non_striker: Qamar Mushtaque
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Ibrahim Rahimi
+    - 12.1:
+        non_striker: Qamar Mushtaque
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Ibrahim Rahimi
+    - 12.2:
+        non_striker: Qamar Mushtaque
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: Ibrahim Rahimi
+    - 12.3:
+        non_striker: Ibrahim Rahimi
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: Qamar Mushtaque
+    - 12.4:
+        non_striker: Ibrahim Rahimi
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: Qamar Mushtaque
+    - 12.5:
+        non_striker: Qamar Mushtaque
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Ibrahim Rahimi
+    - 12.6:
+        non_striker: Qamar Mushtaque
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.6'
+        batsman: Ibrahim Rahimi
+    - 13.1:
+        non_striker: Ibrahim Rahimi
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: Qamar Mushtaque
+    - 13.2:
+        non_striker: Qamar Mushtaque
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.2'
+        batsman: Ibrahim Rahimi
+    - 13.3:
+        non_striker: Qamar Mushtaque
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Ibrahim Rahimi
+    - 13.4:
+        non_striker: Ibrahim Rahimi
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Qamar Mushtaque
+    - 13.5:
+        non_striker: Ibrahim Rahimi
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: Qamar Mushtaque
+    - 13.6:
+        non_striker: Qamar Mushtaque
+        bowler: Hamid Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Ibrahim Rahimi
+    - 14.1:
+        non_striker: Qamar Mushtaque
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.1'
+        batsman: Ibrahim Rahimi
+    - 14.2:
+        non_striker: Qamar Mushtaque
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: Ibrahim Rahimi
+    - 14.3:
+        non_striker: Ibrahim Rahimi
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: Qamar Mushtaque
+    - 14.4:
+        non_striker: Qamar Mushtaque
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: Ibrahim Rahimi
+    - 14.5:
+        non_striker: Ibrahim Rahimi
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: Qamar Mushtaque
+    - 14.6:
+        non_striker: Qamar Mushtaque
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: Ibrahim Rahimi
+    - 15.1:
+        non_striker: Ibrahim Rahimi
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: Qamar Mushtaque
+    - 15.2:
+        non_striker: Qamar Mushtaque
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: Ibrahim Rahimi
+    - 15.3:
+        non_striker: Ibrahim Rahimi
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.3'
+        batsman: Qamar Mushtaque
+    - 15.4:
+        non_striker: Ibrahim Rahimi
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: Qamar Mushtaque
+    - 15.5:
+        non_striker: Qamar Mushtaque
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: Ibrahim Rahimi
+    - 15.6:
+        non_striker: Qamar Mushtaque
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: Ibrahim Rahimi
+    - 16.1:
+        non_striker: Ibrahim Rahimi
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: Qamar Mushtaque
+    - 16.2:
+        non_striker: Qamar Mushtaque
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.2'
+        batsman: Ibrahim Rahimi
+    - 16.3:
+        non_striker: Qamar Mushtaque
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: Ibrahim Rahimi
+    - 16.4:
+        non_striker: Ibrahim Rahimi
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.4'
+        batsman: Qamar Mushtaque
+    - 16.5:
+        non_striker: Ibrahim Rahimi
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: Qamar Mushtaque
+    - 16.6:
+        non_striker: Ibrahim Rahimi
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: Qamar Mushtaque
+    - 17.1:
+        non_striker: Ibrahim Rahimi
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.1'
+        batsman: Qamar Mushtaque
+    - 17.2:
+        non_striker: Ibrahim Rahimi
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: Qamar Mushtaque
+    - 17.3:
+        non_striker: Ibrahim Rahimi
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: Qamar Mushtaque
+    - 17.4:
+        non_striker: Qamar Mushtaque
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.4'
+        batsman: Ibrahim Rahimi
+    - 17.5:
+        non_striker: Qamar Mushtaque
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.4'
+        batsman: Ibrahim Rahimi
+    - 17.6:
+        non_striker: Qamar Mushtaque
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: Ibrahim Rahimi
+    - 17.7:
+        non_striker: Ibrahim Rahimi
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: Qamar Mushtaque
+    - 18.1:
+        non_striker: Qamar Mushtaque
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: Ibrahim Rahimi
+    - 18.2:
+        non_striker: Qamar Mushtaque
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.2'
+        batsman: Ibrahim Rahimi
+    - 18.3:
+        non_striker: Qamar Mushtaque
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: Ibrahim Rahimi
+    - 18.4:
+        non_striker: Ibrahim Rahimi
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.3'
+        batsman: Qamar Mushtaque
+    - 18.5:
+        non_striker: Ibrahim Rahimi
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: Qamar Mushtaque
+    - 18.6:
+        non_striker: Qamar Mushtaque
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.5'
+        batsman: Ibrahim Rahimi
+    - 18.7:
+        non_striker: Qamar Mushtaque
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: Ibrahim Rahimi
+        wicket:
+          player_out: Ibrahim Rahimi
+          fielders:
+          - DB Lakhani (sub)
+          kind: caught
+    - 18.8:
+        non_striker: Qamar Mushtaque
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: M Shahbaz Butt
+    - 19.1:
+        non_striker: M Shahbaz Butt
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.1'
+        batsman: Qamar Mushtaque
+    - 19.2:
+        non_striker: M Shahbaz Butt
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.2'
+        batsman: Qamar Mushtaque
+    - 19.3:
+        non_striker: M Shahbaz Butt
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: Qamar Mushtaque
+    - 19.4:
+        non_striker: M Shahbaz Butt
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.4'
+        batsman: Qamar Mushtaque
+    - 19.5:
+        non_striker: M Shahbaz Butt
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.5'
+        batsman: Qamar Mushtaque
+    - 19.6:
+        non_striker: M Shahbaz Butt
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: Qamar Mushtaque
+        wicket:
+          player_out: Qamar Mushtaque
+          fielders:
+          - A Mundra
+          kind: caught
+    - 19.7:
+        non_striker: M Shahbaz Butt
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '19.6'
+        batsman: Ahmadullah Shinwari
+        wicket:
+          player_out: M Shahbaz Butt
+          fielders:
+          - W Boshoff
+          - Samiullah Rahmani
+          kind: run out
+    - 19.8:
+        non_striker: AJ Parmar
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: Ahmadullah Shinwari
+- 2nd innings:
+    team: Sweden
+    deliveries:
+    - 0.1:
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Mundra
+        actual_delivery: '0.1'
+        batsman: Imal Zuwak
+    - 0.2:
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Mundra
+        actual_delivery: '0.1'
+        batsman: Imal Zuwak
+    - 0.3:
+        non_striker: A Mundra
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: Imal Zuwak
+        wicket:
+          player_out: Imal Zuwak
+          kind: lbw
+    - 0.4:
+        non_striker: A Mundra
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: Saeed Ahmed
+    - 0.5:
+        non_striker: A Mundra
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Saeed Ahmed
+    - 0.6:
+        non_striker: A Mundra
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Saeed Ahmed
+    - 0.7:
+        non_striker: A Mundra
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.6'
+        batsman: Saeed Ahmed
+    - 1.1:
+        non_striker: Saeed Ahmed
+        bowler: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: A Mundra
+    - 1.2:
+        non_striker: Saeed Ahmed
+        bowler: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: A Mundra
+    - 1.3:
+        non_striker: Saeed Ahmed
+        bowler: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: A Mundra
+    - 1.4:
+        non_striker: Saeed Ahmed
+        bowler: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.4'
+        batsman: A Mundra
+    - 1.5:
+        non_striker: Saeed Ahmed
+        bowler: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: A Mundra
+        wicket:
+          player_out: A Mundra
+          fielders:
+          - Qamar Mushtaque
+          kind: caught
+    - 1.6:
+        non_striker: Saeed Ahmed
+        bowler: Chaudhary Akram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.6'
+        batsman: Zaid Ahmad
+    - 1.7:
+        non_striker: Saeed Ahmed
+        bowler: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.6'
+        batsman: Zaid Ahmad
+    - 2.1:
+        non_striker: Zaid Ahmad
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.1'
+        batsman: Saeed Ahmed
+    - 2.2:
+        non_striker: Zaid Ahmad
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.2'
+        batsman: Saeed Ahmed
+    - 2.3:
+        non_striker: Zaid Ahmad
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: Saeed Ahmed
+    - 2.4:
+        non_striker: Saeed Ahmed
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: Zaid Ahmad
+    - 2.5:
+        non_striker: Zaid Ahmad
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: Saeed Ahmed
+        wicket:
+          player_out: Saeed Ahmed
+          fielders:
+          - Ibrahim Rahimi
+          kind: caught
+    - 2.6:
+        non_striker: Zaid Ahmad
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: YS Chauhan
+    - 3.1:
+        non_striker: YS Chauhan
+        bowler: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.1'
+        batsman: Zaid Ahmad
+    - 3.2:
+        non_striker: YS Chauhan
+        bowler: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: Zaid Ahmad
+    - 3.3:
+        non_striker: Zaid Ahmad
+        bowler: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: YS Chauhan
+    - 3.4:
+        non_striker: Zaid Ahmad
+        bowler: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: YS Chauhan
+    - 3.5:
+        non_striker: YS Chauhan
+        bowler: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.5'
+        batsman: Zaid Ahmad
+    - 3.6:
+        non_striker: YS Chauhan
+        bowler: Chaudhary Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Zaid Ahmad
+    - 4.1:
+        non_striker: Zaid Ahmad
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: YS Chauhan
+    - 4.2:
+        non_striker: Zaid Ahmad
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: YS Chauhan
+    - 4.3:
+        non_striker: YS Chauhan
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: Zaid Ahmad
+        wicket:
+          player_out: Zaid Ahmad
+          kind: bowled
+    - 4.4:
+        non_striker: YS Chauhan
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: W Boshoff
+    - 4.5:
+        non_striker: YS Chauhan
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: W Boshoff
+    - 4.6:
+        non_striker: W Boshoff
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: YS Chauhan
+    - 5.1:
+        non_striker: YS Chauhan
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: W Boshoff
+    - 5.2:
+        non_striker: YS Chauhan
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: W Boshoff
+    - 5.3:
+        non_striker: W Boshoff
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: YS Chauhan
+    - 5.4:
+        non_striker: YS Chauhan
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: W Boshoff
+    - 5.5:
+        non_striker: W Boshoff
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: YS Chauhan
+    - 5.6:
+        non_striker: W Boshoff
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: YS Chauhan
+    - 6.1:
+        non_striker: W Boshoff
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: YS Chauhan
+    - 6.2:
+        non_striker: W Boshoff
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: YS Chauhan
+    - 6.3:
+        non_striker: W Boshoff
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: YS Chauhan
+    - 6.4:
+        non_striker: W Boshoff
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: YS Chauhan
+    - 6.5:
+        non_striker: YS Chauhan
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: W Boshoff
+    - 6.6:
+        non_striker: YS Chauhan
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: W Boshoff
+    - 7.1:
+        non_striker: W Boshoff
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: YS Chauhan
+    - 7.2:
+        non_striker: YS Chauhan
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: W Boshoff
+    - 7.3:
+        non_striker: W Boshoff
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: YS Chauhan
+    - 7.4:
+        non_striker: YS Chauhan
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: W Boshoff
+    - 7.5:
+        non_striker: YS Chauhan
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: W Boshoff
+    - 7.6:
+        non_striker: W Boshoff
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: YS Chauhan
+    - 8.1:
+        non_striker: YS Chauhan
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: W Boshoff
+    - 8.2:
+        non_striker: YS Chauhan
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.2'
+        batsman: W Boshoff
+    - 8.3:
+        non_striker: YS Chauhan
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: W Boshoff
+    - 8.4:
+        non_striker: YS Chauhan
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '8.4'
+        batsman: W Boshoff
+    - 8.5:
+        non_striker: W Boshoff
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: YS Chauhan
+    - 8.6:
+        non_striker: W Boshoff
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.6'
+        batsman: YS Chauhan
+    - 9.1:
+        non_striker: YS Chauhan
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: W Boshoff
+    - 9.2:
+        non_striker: YS Chauhan
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: W Boshoff
+    - 9.3:
+        non_striker: W Boshoff
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: YS Chauhan
+    - 9.4:
+        non_striker: YS Chauhan
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: W Boshoff
+    - 9.5:
+        non_striker: W Boshoff
+        bowler: AJ Parmar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '9.5'
+        batsman: YS Chauhan
+    - 9.6:
+        non_striker: YS Chauhan
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: W Boshoff
+    - 10.1:
+        non_striker: W Boshoff
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: YS Chauhan
+    - 10.2:
+        non_striker: W Boshoff
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: YS Chauhan
+    - 10.3:
+        non_striker: YS Chauhan
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '10.3'
+        batsman: W Boshoff
+    - 10.4:
+        non_striker: YS Chauhan
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: W Boshoff
+    - 10.5:
+        non_striker: W Boshoff
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: YS Chauhan
+    - 10.6:
+        non_striker: W Boshoff
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: YS Chauhan
+    - 11.1:
+        non_striker: W Boshoff
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.1'
+        batsman: YS Chauhan
+    - 11.2:
+        non_striker: W Boshoff
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '11.2'
+        batsman: YS Chauhan
+    - 11.3:
+        non_striker: YS Chauhan
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: W Boshoff
+    - 11.4:
+        non_striker: YS Chauhan
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.4'
+        batsman: W Boshoff
+    - 11.5:
+        non_striker: YS Chauhan
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '11.5'
+        batsman: W Boshoff
+    - 11.6:
+        non_striker: YS Chauhan
+        bowler: AJ Parmar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.6'
+        batsman: W Boshoff
+    - 12.1:
+        non_striker: W Boshoff
+        bowler: Walid Ghauri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: YS Chauhan
+    - 12.2:
+        non_striker: YS Chauhan
+        bowler: Walid Ghauri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: W Boshoff
+    - 12.3:
+        non_striker: W Boshoff
+        bowler: Walid Ghauri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: YS Chauhan
+    - 12.4:
+        non_striker: YS Chauhan
+        bowler: Walid Ghauri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: W Boshoff
+    - 12.5:
+        non_striker: YS Chauhan
+        bowler: Walid Ghauri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.5'
+        batsman: W Boshoff
+    - 12.6:
+        non_striker: YS Chauhan
+        bowler: Walid Ghauri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: W Boshoff
+    - 13.1:
+        non_striker: W Boshoff
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: YS Chauhan
+    - 13.2:
+        non_striker: W Boshoff
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: YS Chauhan
+    - 13.3:
+        non_striker: YS Chauhan
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.3'
+        batsman: W Boshoff
+    - 13.4:
+        non_striker: YS Chauhan
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: W Boshoff
+    - 13.5:
+        non_striker: W Boshoff
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: YS Chauhan
+        wicket:
+          player_out: YS Chauhan
+          fielders:
+          - Walid Ghauri
+          kind: caught
+    - 13.6:
+        non_striker: W Boshoff
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.6'
+        batsman: Hamid Mahmood
+    - 13.7:
+        non_striker: W Boshoff
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Hamid Mahmood
+    - 14.1:
+        non_striker: W Boshoff
+        bowler: Walid Ghauri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.1'
+        batsman: Hamid Mahmood
+    - 14.2:
+        non_striker: W Boshoff
+        bowler: Walid Ghauri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: Hamid Mahmood
+    - 14.3:
+        non_striker: Hamid Mahmood
+        bowler: Walid Ghauri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: W Boshoff
+    - 14.4:
+        non_striker: Hamid Mahmood
+        bowler: Walid Ghauri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: W Boshoff
+    - 14.5:
+        non_striker: W Boshoff
+        bowler: Walid Ghauri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.4'
+        batsman: Hamid Mahmood
+    - 14.6:
+        non_striker: W Boshoff
+        bowler: Walid Ghauri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: Hamid Mahmood
+    - 14.7:
+        non_striker: W Boshoff
+        bowler: Walid Ghauri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: Hamid Mahmood
+    - 15.1:
+        non_striker: W Boshoff
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.1'
+        batsman: Hamid Mahmood
+    - 15.2:
+        non_striker: W Boshoff
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: Hamid Mahmood
+    - 15.3:
+        non_striker: Hamid Mahmood
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: W Boshoff
+    - 15.4:
+        non_striker: W Boshoff
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: Hamid Mahmood
+    - 15.5:
+        non_striker: W Boshoff
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '15.5'
+        batsman: Hamid Mahmood
+    - 15.6:
+        non_striker: W Boshoff
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.5'
+        batsman: Hamid Mahmood
+    - 15.7:
+        non_striker: W Boshoff
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.6'
+        batsman: Hamid Mahmood
+    - 15.8:
+        non_striker: W Boshoff
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: Hamid Mahmood
+    - 16.1:
+        non_striker: Hamid Mahmood
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: W Boshoff
+    - 16.2:
+        non_striker: Hamid Mahmood
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: W Boshoff
+    - 16.3:
+        non_striker: W Boshoff
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: Hamid Mahmood
+    - 16.4:
+        non_striker: Hamid Mahmood
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: W Boshoff
+    - 16.5:
+        non_striker: W Boshoff
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: Hamid Mahmood
+    - 16.6:
+        non_striker: W Boshoff
+        bowler: Ahmadullah Shinwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: Hamid Mahmood
+    - 17.1:
+        non_striker: W Boshoff
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.1'
+        batsman: Hamid Mahmood
+    - 17.2:
+        non_striker: W Boshoff
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        actual_delivery: '17.2'
+        batsman: Hamid Mahmood
+    - 17.3:
+        non_striker: W Boshoff
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: Hamid Mahmood
+    - 17.4:
+        non_striker: Hamid Mahmood
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: W Boshoff
+    - 17.5:
+        non_striker: Hamid Mahmood
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.5'
+        batsman: W Boshoff
+    target:
+      overs: 20
+      runs: 138

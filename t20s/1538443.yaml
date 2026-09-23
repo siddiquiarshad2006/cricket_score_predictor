@@ -1,0 +1,2278 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Singapore
+  dates:
+  - '2026-06-01'
+  gender: male
+  match_type: T20
+  match_type_number: 3924
+  outcome:
+    winner: Hong Kong
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - Babar Hayat
+  players:
+    Bahrain:
+    - Abdulla Pervaiz
+    - Numan Yousuf
+    - Junaid Aziz
+    - Mohammed Sameer
+    - Abdullah Mohd Yousaf
+    - Muhammad Adil
+    - Sameer Yousuf
+    - Shujaat Rasool
+    - Abid Ullah Shah
+    - Yousif Wali
+    - Mohammad Hamza
+    Hong Kong:
+    - Nizakat Khan
+    - Anshuman Rath
+    - Babar Hayat
+    - S Mathur
+    - A Shukla
+    - Anas Khan
+    - Ehsan Khan
+    - Shahid Wasif
+    - Nasrulla Rana
+    - Yasim Murtaza
+    - Hassan Khan Mohammad
+  registry:
+    people:
+      A Natarajan: a2b73ae0
+      A Shukla: a1e80d06
+      Abdulla Pervaiz: 2f1be128
+      Abdullah Mohd Yousaf: 4cc968c5
+      Abid Ullah Shah: 5f35329d
+      Anas Khan: 66a7f213
+      Anshuman Rath: 552b228c
+      Babar Hayat: fbb657bb
+      Ehsan Khan: d3851cd8
+      Hassan Khan Mohammad: a46de6e0
+      Junaid Aziz: c39ee9e0
+      Mohammad Hamza: 30adc2fa
+      Mohammed Sameer: e6409ae1
+      Muhammad Adil: 46e64b28
+      Nasrulla Rana: 9ffb7550
+      Nizakat Khan: e3eb9e46
+      Numan Yousuf: 33b48084
+      S Mathur: 11378dda
+      Samad Akbar: f05bd21b
+      Sameer Yousuf: 89b2f78f
+      Shahid Wasif: 2cc08c3c
+      Shujaat Rasool: 2dd90a40
+      T Senthil Kumar: 961ddfac
+      U Dorji: 12bba2d4
+      Yasim Murtaza: c9d05f1a
+      Yousif Wali: ed27d267
+  teams:
+  - Bahrain
+  - Hong Kong
+  toss:
+    winner: Hong Kong
+    decision: field
+  umpires:
+  - A Natarajan
+  - Samad Akbar
+  venue: Singapore National Cricket Ground
+  team_type: international
+innings:
+- 1st innings:
+    team: Bahrain
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Anas Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Numan Yousuf
+        batsman: Abdulla Pervaiz
+    - 0.2:
+        actual_delivery: '0.1'
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Numan Yousuf
+        batsman: Abdulla Pervaiz
+    - 0.3:
+        actual_delivery: '0.2'
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Numan Yousuf
+        batsman: Abdulla Pervaiz
+    - 0.4:
+        actual_delivery: '0.3'
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Numan Yousuf
+        batsman: Abdulla Pervaiz
+    - 0.5:
+        actual_delivery: '0.4'
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Numan Yousuf
+        batsman: Abdulla Pervaiz
+    - 0.6:
+        actual_delivery: '0.5'
+        non_striker: Abdulla Pervaiz
+        bowler: Anas Khan
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Numan Yousuf
+    - 0.7:
+        actual_delivery: '0.5'
+        non_striker: Abdulla Pervaiz
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Numan Yousuf
+    - 0.8:
+        actual_delivery: '0.6'
+        non_striker: Abdulla Pervaiz
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Numan Yousuf
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Abdulla Pervaiz
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Numan Yousuf
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Numan Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abdulla Pervaiz
+    - 1.3:
+        actual_delivery: '1.2'
+        non_striker: Numan Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abdulla Pervaiz
+    - 1.4:
+        actual_delivery: '1.3'
+        non_striker: Numan Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdulla Pervaiz
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: Numan Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdulla Pervaiz
+    - 1.6:
+        actual_delivery: '1.5'
+        non_striker: Numan Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdulla Pervaiz
+    - 1.7:
+        actual_delivery: '1.6'
+        non_striker: Abdulla Pervaiz
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Numan Yousuf
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Abdulla Pervaiz
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Numan Yousuf
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Numan Yousuf
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abdulla Pervaiz
+    - 2.3:
+        actual_delivery: '2.2'
+        non_striker: Numan Yousuf
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdulla Pervaiz
+    - 2.4:
+        actual_delivery: '2.3'
+        non_striker: Numan Yousuf
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abdulla Pervaiz
+    - 2.5:
+        actual_delivery: '2.4'
+        non_striker: Numan Yousuf
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdulla Pervaiz
+    - 2.6:
+        actual_delivery: '2.5'
+        non_striker: Abdulla Pervaiz
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Numan Yousuf
+    - 2.7:
+        actual_delivery: '2.6'
+        non_striker: Numan Yousuf
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdulla Pervaiz
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Numan Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abdulla Pervaiz
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Numan Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abdulla Pervaiz
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: Numan Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abdulla Pervaiz
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: Numan Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdulla Pervaiz
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: Abdulla Pervaiz
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Numan Yousuf
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: Numan Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdulla Pervaiz
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Abdulla Pervaiz
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Numan Yousuf
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: Abdulla Pervaiz
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Numan Yousuf
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: Abdulla Pervaiz
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Numan Yousuf
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Abdulla Pervaiz
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Numan Yousuf
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: Abdulla Pervaiz
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Numan Yousuf
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: Abdulla Pervaiz
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Numan Yousuf
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Numan Yousuf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdulla Pervaiz
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Numan Yousuf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdulla Pervaiz
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Numan Yousuf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdulla Pervaiz
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Abdulla Pervaiz
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Numan Yousuf
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: Numan Yousuf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdulla Pervaiz
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: Numan Yousuf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdulla Pervaiz
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: Numan Yousuf
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdulla Pervaiz
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: Numan Yousuf
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdulla Pervaiz
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: Abdulla Pervaiz
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Numan Yousuf
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Numan Yousuf
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abdulla Pervaiz
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Numan Yousuf
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdulla Pervaiz
+        wicket:
+          player_out: Abdulla Pervaiz
+          fielders:
+          - S Mathur
+          kind: caught
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: Numan Yousuf
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Aziz
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Numan Yousuf
+        bowler: Yasim Murtaza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Junaid Aziz
+    - 7.2:
+        actual_delivery: '7.1'
+        non_striker: Numan Yousuf
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+    - 7.3:
+        actual_delivery: '7.2'
+        non_striker: Numan Yousuf
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+    - 7.4:
+        actual_delivery: '7.3'
+        non_striker: Numan Yousuf
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Aziz
+    - 7.5:
+        actual_delivery: '7.4'
+        non_striker: Junaid Aziz
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Numan Yousuf
+    - 7.6:
+        actual_delivery: '7.5'
+        non_striker: Junaid Aziz
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Numan Yousuf
+    - 7.7:
+        actual_delivery: '7.6'
+        non_striker: Numan Yousuf
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+        wicket:
+          player_out: Junaid Aziz
+          kind: lbw
+    - 8.1:
+        actual_delivery: '8.1'
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mohammed Sameer
+        batsman: Numan Yousuf
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: Numan Yousuf
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Sameer
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: Numan Yousuf
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Sameer
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: Numan Yousuf
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Sameer
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: Mohammed Sameer
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Numan Yousuf
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: Mohammed Sameer
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Numan Yousuf
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: Mohammed Sameer
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Numan Yousuf
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: Mohammed Sameer
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Numan Yousuf
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: Numan Yousuf
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Sameer
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: Numan Yousuf
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Sameer
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: Mohammed Sameer
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Numan Yousuf
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: Numan Yousuf
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Sameer
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Mohammed Sameer
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Numan Yousuf
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Numan Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Sameer
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: Mohammed Sameer
+        bowler: A Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Numan Yousuf
+    - 10.4:
+        actual_delivery: '10.3'
+        non_striker: Mohammed Sameer
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Numan Yousuf
+    - 10.5:
+        actual_delivery: '10.4'
+        non_striker: Mohammed Sameer
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Numan Yousuf
+    - 10.6:
+        actual_delivery: '10.5'
+        non_striker: Numan Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammed Sameer
+    - 10.7:
+        actual_delivery: '10.6'
+        non_striker: Numan Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammed Sameer
+    - 10.8:
+        actual_delivery: '10.6'
+        non_striker: Numan Yousuf
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Sameer
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Mohammed Sameer
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Numan Yousuf
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Numan Yousuf
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Sameer
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: Numan Yousuf
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Sameer
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: Mohammed Sameer
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Numan Yousuf
+        wicket:
+          player_out: Numan Yousuf
+          fielders:
+          - S Mathur
+          kind: stumped
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: Mohammed Sameer
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Mohd Yousaf
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: Mohammed Sameer
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Mohd Yousaf
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: Abdullah Mohd Yousaf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Sameer
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Abdullah Mohd Yousaf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Sameer
+        wicket:
+          player_out: Mohammed Sameer
+          fielders:
+          - S Mathur
+          kind: caught
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Abdullah Mohd Yousaf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Adil
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Muhammad Adil
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abdullah Mohd Yousaf
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Muhammad Adil
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdullah Mohd Yousaf
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: Abdullah Mohd Yousaf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Adil
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Muhammad Adil
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abdullah Mohd Yousaf
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Muhammad Adil
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Mohd Yousaf
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Muhammad Adil
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Mohd Yousaf
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Muhammad Adil
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abdullah Mohd Yousaf
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: Muhammad Adil
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Mohd Yousaf
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: Muhammad Adil
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Mohd Yousaf
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Abdullah Mohd Yousaf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Adil
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Abdullah Mohd Yousaf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Adil
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Abdullah Mohd Yousaf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Adil
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: Abdullah Mohd Yousaf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Adil
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: Muhammad Adil
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdullah Mohd Yousaf
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Abdullah Mohd Yousaf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Adil
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Abdullah Mohd Yousaf
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Adil
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: Abdullah Mohd Yousaf
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Adil
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: Abdullah Mohd Yousaf
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Adil
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: Abdullah Mohd Yousaf
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Adil
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: Muhammad Adil
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdullah Mohd Yousaf
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: Abdullah Mohd Yousaf
+        bowler: Anas Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Adil
+        wicket:
+          player_out: Muhammad Adil
+          fielders:
+          - Babar Hayat
+          kind: caught
+    - 16.1:
+        actual_delivery: '16.1'
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sameer Yousuf
+        batsman: Abdullah Mohd Yousaf
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Abdullah Mohd Yousaf
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Yousuf
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: Sameer Yousuf
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdullah Mohd Yousaf
+        wicket:
+          player_out: Abdullah Mohd Yousaf
+          fielders:
+          - Shahid Wasif
+          kind: caught
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: Sameer Yousuf
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shujaat Rasool
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: Sameer Yousuf
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shujaat Rasool
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: Shujaat Rasool
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sameer Yousuf
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: Sameer Yousuf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shujaat Rasool
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: Sameer Yousuf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shujaat Rasool
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: Sameer Yousuf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shujaat Rasool
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: Sameer Yousuf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shujaat Rasool
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: Sameer Yousuf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shujaat Rasool
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: Sameer Yousuf
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shujaat Rasool
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: Sameer Yousuf
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shujaat Rasool
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: Shujaat Rasool
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sameer Yousuf
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: Sameer Yousuf
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shujaat Rasool
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: Shujaat Rasool
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Yousuf
+        wicket:
+          player_out: Sameer Yousuf
+          kind: bowled
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: Shujaat Rasool
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abid Ullah Shah
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: Shujaat Rasool
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abid Ullah Shah
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: Shujaat Rasool
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abid Ullah Shah
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: Shujaat Rasool
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abid Ullah Shah
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: Abid Ullah Shah
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shujaat Rasool
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: Abid Ullah Shah
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shujaat Rasool
+        wicket:
+          player_out: Shujaat Rasool
+          fielders:
+          - Anshuman Rath
+          kind: caught
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: Abid Ullah Shah
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Yousif Wali
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: Yousif Wali
+        bowler: Hassan Khan Mohammad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abid Ullah Shah
+        wicket:
+          player_out: Yousif Wali
+          fielders:
+          - S Mathur
+          kind: run out
+- 2nd innings:
+    team: Hong Kong
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Abid Ullah Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anshuman Rath
+        batsman: Nizakat Khan
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: Abid Ullah Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Anshuman Rath
+        batsman: Nizakat Khan
+    - 0.3:
+        actual_delivery: '0.3'
+        bowler: Abid Ullah Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Anshuman Rath
+        batsman: Nizakat Khan
+    - 0.4:
+        actual_delivery: '0.4'
+        bowler: Abid Ullah Shah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Anshuman Rath
+        batsman: Nizakat Khan
+    - 0.5:
+        actual_delivery: '0.4'
+        bowler: Abid Ullah Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Anshuman Rath
+        batsman: Nizakat Khan
+    - 0.6:
+        actual_delivery: '0.5'
+        non_striker: Nizakat Khan
+        bowler: Abid Ullah Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anshuman Rath
+    - 0.7:
+        actual_delivery: '0.6'
+        non_striker: Nizakat Khan
+        bowler: Abid Ullah Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anshuman Rath
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Anshuman Rath
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Anshuman Rath
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: Anshuman Rath
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: Anshuman Rath
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+        wicket:
+          player_out: Anshuman Rath
+          fielders:
+          - Junaid Aziz
+          kind: run out
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: Nizakat Khan
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: Babar Hayat
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nizakat Khan
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Nizakat Khan
+        bowler: Abid Ullah Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Babar Hayat
+        bowler: Abid Ullah Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: Babar Hayat
+        bowler: Abid Ullah Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: Nizakat Khan
+        bowler: Abid Ullah Shah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Hayat
+    - 2.5:
+        actual_delivery: '2.4'
+        non_striker: Nizakat Khan
+        bowler: Abid Ullah Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 2.6:
+        actual_delivery: '2.5'
+        non_striker: Nizakat Khan
+        bowler: Abid Ullah Shah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Hayat
+    - 2.7:
+        actual_delivery: '2.6'
+        non_striker: Nizakat Khan
+        bowler: Abid Ullah Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Babar Hayat
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Nizakat Khan
+        bowler: Shujaat Rasool
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Hayat
+    - 3.3:
+        actual_delivery: '3.2'
+        non_striker: Nizakat Khan
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 3.4:
+        actual_delivery: '3.3'
+        non_striker: Nizakat Khan
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 3.5:
+        actual_delivery: '3.4'
+        non_striker: Babar Hayat
+        bowler: Shujaat Rasool
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nizakat Khan
+    - 3.6:
+        actual_delivery: '3.4'
+        non_striker: Babar Hayat
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 3.7:
+        actual_delivery: '3.5'
+        non_striker: Nizakat Khan
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 3.8:
+        actual_delivery: '3.6'
+        non_striker: Nizakat Khan
+        bowler: Shujaat Rasool
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Hayat
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Babar Hayat
+        bowler: Abid Ullah Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nizakat Khan
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: Babar Hayat
+        bowler: Abid Ullah Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: Nizakat Khan
+        bowler: Abid Ullah Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Hayat
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Nizakat Khan
+        bowler: Abid Ullah Shah
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Babar Hayat
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: Babar Hayat
+        bowler: Abid Ullah Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nizakat Khan
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: Babar Hayat
+        bowler: Abid Ullah Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nizakat Khan
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Nizakat Khan
+        bowler: Sameer Yousuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Hayat
+    - 5.2:
+        actual_delivery: '5.1'
+        non_striker: Nizakat Khan
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Hayat
+    - 5.3:
+        actual_delivery: '5.2'
+        non_striker: Nizakat Khan
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 5.4:
+        actual_delivery: '5.3'
+        non_striker: Nizakat Khan
+        bowler: Sameer Yousuf
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Babar Hayat
+    - 5.5:
+        actual_delivery: '5.4'
+        non_striker: Nizakat Khan
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Hayat
+    - 5.6:
+        actual_delivery: '5.5'
+        non_striker: Nizakat Khan
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 5.7:
+        actual_delivery: '5.6'
+        non_striker: Nizakat Khan
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: Nizakat Khan
+        bowler: Abdullah Mohd Yousaf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: Babar Hayat
+        bowler: Abdullah Mohd Yousaf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: Nizakat Khan
+        bowler: Abdullah Mohd Yousaf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Nizakat Khan
+        bowler: Abdullah Mohd Yousaf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Babar Hayat
+        bowler: Abdullah Mohd Yousaf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nizakat Khan
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: Babar Hayat
+        bowler: Abdullah Mohd Yousaf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Babar Hayat
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: Nizakat Khan
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: Babar Hayat
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: Nizakat Khan
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: Babar Hayat
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nizakat Khan
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: Babar Hayat
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: Babar Hayat
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+        wicket:
+          player_out: Nizakat Khan
+          kind: lbw
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: Babar Hayat
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mathur
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: S Mathur
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: Babar Hayat
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mathur
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: S Mathur
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: Babar Hayat
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mathur
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: S Mathur
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: Babar Hayat
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mathur
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: S Mathur
+        bowler: Yousif Wali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Hayat
+    - 9.4:
+        actual_delivery: '9.3'
+        non_striker: S Mathur
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 9.5:
+        actual_delivery: '9.4'
+        non_striker: Babar Hayat
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mathur
+    - 9.6:
+        actual_delivery: '9.5'
+        non_striker: S Mathur
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 9.7:
+        actual_delivery: '9.6'
+        non_striker: S Mathur
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: S Mathur
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Hayat
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: S Mathur
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Hayat
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: S Mathur
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Hayat
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: S Mathur
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: Babar Hayat
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mathur
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: S Mathur
+        bowler: Muhammad Adil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Hayat
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Babar Hayat
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Mathur
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Babar Hayat
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mathur
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: Babar Hayat
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mathur
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: S Mathur
+        bowler: Yousif Wali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Hayat
+    - 11.5:
+        actual_delivery: '11.4'
+        non_striker: S Mathur
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Hayat
+    - 11.6:
+        actual_delivery: '11.5'
+        non_striker: S Mathur
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 11.7:
+        actual_delivery: '11.6'
+        non_striker: Babar Hayat
+        bowler: Yousif Wali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mathur
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: S Mathur
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Babar Hayat
+        bowler: Sameer Yousuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mathur
+    - 12.3:
+        actual_delivery: '12.2'
+        non_striker: Babar Hayat
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mathur
+    - 12.4:
+        actual_delivery: '12.3'
+        non_striker: Babar Hayat
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mathur
+    - 12.5:
+        actual_delivery: '12.4'
+        non_striker: Babar Hayat
+        bowler: Sameer Yousuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mathur
+    - 12.6:
+        actual_delivery: '12.4'
+        non_striker: Babar Hayat
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mathur
+    - 12.7:
+        actual_delivery: '12.5'
+        non_striker: S Mathur
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 12.8:
+        actual_delivery: '12.6'
+        non_striker: Babar Hayat
+        bowler: Sameer Yousuf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mathur
+    - 12.9:
+        actual_delivery: '12.6'
+        non_striker: Babar Hayat
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mathur
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: S Mathur
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Babar Hayat
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mathur
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: S Mathur
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Babar Hayat
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mathur
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: S Mathur
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: S Mathur
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Hayat
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Babar Hayat
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mathur
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Babar Hayat
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mathur
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Babar Hayat
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mathur
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: S Mathur
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: Babar Hayat
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mathur
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: S Mathur
+        bowler: Sameer Yousuf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: S Mathur
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Hayat
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: S Mathur
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Hayat
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: S Mathur
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: S Mathur
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: Babar Hayat
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mathur
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: S Mathur
+        bowler: Junaid Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Hayat
+    target:
+      overs: 20
+      runs: 174

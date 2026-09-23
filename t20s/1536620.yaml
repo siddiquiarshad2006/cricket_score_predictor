@@ -1,0 +1,2412 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2026-06-04'
+  gender: female
+  match_type: T20
+  match_type_number: 2811
+  outcome:
+    winner: Malaysia
+    by:
+      runs: 40
+  overs: 20
+  player_of_match:
+  - Mahirah Izzati Ismail
+  players:
+    Malaysia:
+    - Ainna Hamizah Hashim
+    - WA Duraisingam
+    - Nazatul Hidayah Husna
+    - Mas Elysa
+    - Mahirah Izzati Ismail
+    - SM Dhanusri
+    - Nur Arianna Natsya
+    - Aina Najwa
+    - Nur Dania Syuhada
+    - Aisya Eleesa
+    - Nur Qalysha
+    Singapore:
+    - A Tomar
+    - Shafina Mahesh
+    - Vinu Kumar
+    - Rashmeka Badri Narayanan
+    - DA Galia
+    - RR Seth
+    - PSR Gurusinghe
+    - Riyaa Bhasin
+    - LAR Bommareddy
+    - E Ungerman
+    - H Dhavina
+  registry:
+    people:
+      A Tomar: 2af2427a
+      AK Rana: 562d74d0
+      Afia Amin: 7fc47de1
+      Aina Najwa: 31453abb
+      Ainna Hamizah Hashim: 4c7744de
+      Aisya Eleesa: 2cd18a73
+      DA Galia: ae0b5b95
+      E Ungerman: 3959c505
+      H Dhavina: cd12f384
+      Humaira Farah: 6b6d6623
+      LAR Bommareddy: 3da8cd3a
+      Mahirah Izzati Ismail: b9b32e3c
+      Mas Elysa: 857de42e
+      Nazatul Hidayah Husna: e9c394c4
+      Nur Arianna Natsya: 4db4c8be
+      Nur Dania Syuhada: 3af75717
+      Nur Qalysha: 3704ffe1
+      PSR Gurusinghe: 591a7004
+      RR Seth: 7ccc0a38
+      Rashmeka Badri Narayanan: 56a660cc
+      Riyaa Bhasin: 3ff26cea
+      SM Dhanusri: 4e4d2c20
+      Shafina Mahesh: 0c40b02d
+      VR Nagre: fadaac76
+      Vinu Kumar: 3775b9f9
+      WA Duraisingam: 7467fe01
+  teams:
+  - Malaysia
+  - Singapore
+  toss:
+    winner: Singapore
+    decision: field
+  umpires:
+  - Afia Amin
+  - Humaira Farah
+  venue: Bayuemas Oval, Kuala Lumpur
+  team_type: international
+innings:
+- 1st innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: E Ungerman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: WA Duraisingam
+        batsman: Ainna Hamizah Hashim
+    - 0.2:
+        actual_delivery: '0.1'
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WA Duraisingam
+        batsman: Ainna Hamizah Hashim
+    - 0.3:
+        actual_delivery: '0.2'
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WA Duraisingam
+        batsman: Ainna Hamizah Hashim
+    - 0.4:
+        actual_delivery: '0.3'
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WA Duraisingam
+        batsman: Ainna Hamizah Hashim
+    - 0.5:
+        actual_delivery: '0.4'
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: WA Duraisingam
+        batsman: Ainna Hamizah Hashim
+    - 0.6:
+        actual_delivery: '0.5'
+        non_striker: Ainna Hamizah Hashim
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Duraisingam
+        wicket:
+          player_out: WA Duraisingam
+          kind: bowled
+    - 0.7:
+        actual_delivery: '0.6'
+        non_striker: Ainna Hamizah Hashim
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazatul Hidayah Husna
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Nazatul Hidayah Husna
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Nazatul Hidayah Husna
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ainna Hamizah Hashim
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: Nazatul Hidayah Husna
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ainna Hamizah Hashim
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: Nazatul Hidayah Husna
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: Nazatul Hidayah Husna
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ainna Hamizah Hashim
+        wicket:
+          player_out: Ainna Hamizah Hashim
+          kind: bowled
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: Nazatul Hidayah Husna
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Mas Elysa
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazatul Hidayah Husna
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Mas Elysa
+        bowler: E Ungerman
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Nazatul Hidayah Husna
+    - 2.3:
+        actual_delivery: '2.2'
+        non_striker: Mas Elysa
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazatul Hidayah Husna
+    - 2.4:
+        actual_delivery: '2.3'
+        non_striker: Mas Elysa
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazatul Hidayah Husna
+    - 2.5:
+        actual_delivery: '2.4'
+        non_striker: Mas Elysa
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazatul Hidayah Husna
+    - 2.6:
+        actual_delivery: '2.5'
+        non_striker: Nazatul Hidayah Husna
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 2.7:
+        actual_delivery: '2.6'
+        non_striker: Mas Elysa
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazatul Hidayah Husna
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Mas Elysa
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nazatul Hidayah Husna
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Mas Elysa
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazatul Hidayah Husna
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: Mas Elysa
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazatul Hidayah Husna
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: Mas Elysa
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazatul Hidayah Husna
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: Mas Elysa
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazatul Hidayah Husna
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: Mas Elysa
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazatul Hidayah Husna
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Nazatul Hidayah Husna
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: Nazatul Hidayah Husna
+        bowler: E Ungerman
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: Mas Elysa
+    - 4.3:
+        actual_delivery: '4.2'
+        non_striker: Nazatul Hidayah Husna
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mas Elysa
+    - 4.4:
+        actual_delivery: '4.3'
+        non_striker: Nazatul Hidayah Husna
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mas Elysa
+    - 4.5:
+        actual_delivery: '4.4'
+        non_striker: Nazatul Hidayah Husna
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mas Elysa
+    - 4.6:
+        actual_delivery: '4.5'
+        non_striker: Nazatul Hidayah Husna
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 4.7:
+        actual_delivery: '4.6'
+        non_striker: Nazatul Hidayah Husna
+        bowler: E Ungerman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Nazatul Hidayah Husna
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Mas Elysa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazatul Hidayah Husna
+        wicket:
+          player_out: Nazatul Hidayah Husna
+          kind: caught and bowled
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Mas Elysa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Mas Elysa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: Mas Elysa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahirah Izzati Ismail
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: Mas Elysa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mahirah Izzati Ismail
+    - 5.7:
+        actual_delivery: '5.6'
+        non_striker: Mas Elysa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: Mas Elysa
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Mas Elysa
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Mas Elysa
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahirah Izzati Ismail
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: Mas Elysa
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahirah Izzati Ismail
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Shafina Mahesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mas Elysa
+    - 7.3:
+        actual_delivery: '7.2'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 7.4:
+        actual_delivery: '7.3'
+        non_striker: Mas Elysa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 7.5:
+        actual_delivery: '7.4'
+        non_striker: Mas Elysa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 7.6:
+        actual_delivery: '7.5'
+        non_striker: Mas Elysa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 7.7:
+        actual_delivery: '7.6'
+        non_striker: Mas Elysa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: Mas Elysa
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: Mahirah Izzati Ismail
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: Mas Elysa
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: Mahirah Izzati Ismail
+        bowler: LAR Bommareddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Mas Elysa
+    - 8.5:
+        actual_delivery: '8.4'
+        non_striker: Mahirah Izzati Ismail
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mas Elysa
+    - 8.6:
+        actual_delivery: '8.5'
+        non_striker: Mahirah Izzati Ismail
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 8.7:
+        actual_delivery: '8.6'
+        non_striker: Mahirah Izzati Ismail
+        bowler: LAR Bommareddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mas Elysa
+    - 8.8:
+        actual_delivery: '8.6'
+        non_striker: Mahirah Izzati Ismail
+        bowler: LAR Bommareddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: Mahirah Izzati Ismail
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: Mas Elysa
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: Mas Elysa
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: Mas Elysa
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: Mas Elysa
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: Mahirah Izzati Ismail
+        bowler: H Dhavina
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Mas Elysa
+    - 9.7:
+        actual_delivery: '9.6'
+        non_striker: Mahirah Izzati Ismail
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Mas Elysa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Mas Elysa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mas Elysa
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: Mas Elysa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Mas Elysa
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Mahirah Izzati Ismail
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: Mahirah Izzati Ismail
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: Mas Elysa
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: Mahirah Izzati Ismail
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: Mas Elysa
+        bowler: H Dhavina
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mas Elysa
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Mas Elysa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahirah Izzati Ismail
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Mas Elysa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Mas Elysa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Mas Elysa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mas Elysa
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Mas Elysa
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Mahirah Izzati Ismail
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mas Elysa
+        wicket:
+          player_out: Mas Elysa
+          kind: bowled
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Mahirah Izzati Ismail
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Dhanusri
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Mahirah Izzati Ismail
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Dhanusri
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: SM Dhanusri
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: Mahirah Izzati Ismail
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Dhanusri
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: SM Dhanusri
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Dhanusri
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: SM Dhanusri
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: SM Dhanusri
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Dhanusri
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Rashmeka Badri Narayanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Dhanusri
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Mahirah Izzati Ismail
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Dhanusri
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: SM Dhanusri
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: SM Dhanusri
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: Mahirah Izzati Ismail
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Dhanusri
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: Mahirah Izzati Ismail
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Dhanusri
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: SM Dhanusri
+        bowler: RR Seth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahirah Izzati Ismail
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Dhanusri
+        wicket:
+          player_out: SM Dhanusri
+          kind: bowled
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nur Arianna Natsya
+        wicket:
+          player_out: Nur Arianna Natsya
+          kind: bowled
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aina Najwa
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: Aina Najwa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahirah Izzati Ismail
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: Aina Najwa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aina Najwa
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: Aina Najwa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahirah Izzati Ismail
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: Aina Najwa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aina Najwa
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aina Najwa
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aina Najwa
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: Aina Najwa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: Aina Najwa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: Aina Najwa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: Aina Najwa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahirah Izzati Ismail
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: Aina Najwa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahirah Izzati Ismail
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aina Najwa
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: Aina Najwa
+        bowler: Vinu Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahirah Izzati Ismail
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aina Najwa
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: Aina Najwa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Mahirah Izzati Ismail
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: Mahirah Izzati Ismail
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aina Najwa
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: Aina Najwa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahirah Izzati Ismail
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: Aina Najwa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahirah Izzati Ismail
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: Aina Najwa
+        bowler: Shafina Mahesh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahirah Izzati Ismail
+- 2nd innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shafina Mahesh
+        batsman: A Tomar
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shafina Mahesh
+        batsman: A Tomar
+    - 0.3:
+        actual_delivery: '0.3'
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shafina Mahesh
+        batsman: A Tomar
+        wicket:
+          player_out: A Tomar
+          fielders:
+          - Aina Najwa
+          kind: run out
+    - 0.4:
+        actual_delivery: '0.4'
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shafina Mahesh
+        batsman: Vinu Kumar
+    - 0.5:
+        actual_delivery: '0.5'
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shafina Mahesh
+        batsman: Vinu Kumar
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: Shafina Mahesh
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Vinu Kumar
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shafina Mahesh
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Vinu Kumar
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafina Mahesh
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: Vinu Kumar
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: Vinu Kumar
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: Shafina Mahesh
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: Shafina Mahesh
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Vinu Kumar
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Shafina Mahesh
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: Shafina Mahesh
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: Shafina Mahesh
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: Shafina Mahesh
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Vinu Kumar
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: Shafina Mahesh
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Vinu Kumar
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Shafina Mahesh
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Shafina Mahesh
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: Shafina Mahesh
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: Shafina Mahesh
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: Shafina Mahesh
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: Vinu Kumar
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Shafina Mahesh
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: Vinu Kumar
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: Shafina Mahesh
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinu Kumar
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Vinu Kumar
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: Vinu Kumar
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: Shafina Mahesh
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Vinu Kumar
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafina Mahesh
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Vinu Kumar
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafina Mahesh
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Shafina Mahesh
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinu Kumar
+        wicket:
+          player_out: Vinu Kumar
+          kind: bowled
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Shafina Mahesh
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashmeka Badri Narayanan
+        wicket:
+          player_out: Shafina Mahesh
+          fielders:
+          - Aina Najwa
+          kind: run out
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: Rashmeka Badri Narayanan
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: Rashmeka Badri Narayanan
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: DA Galia
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashmeka Badri Narayanan
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: DA Galia
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashmeka Badri Narayanan
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: DA Galia
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashmeka Badri Narayanan
+        wicket:
+          player_out: Rashmeka Badri Narayanan
+          kind: lbw
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: DA Galia
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: DA Galia
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: DA Galia
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: RR Seth
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: RR Seth
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: RR Seth
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: RR Seth
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: DA Galia
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: DA Galia
+        bowler: Aisya Eleesa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: DA Galia
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: RR Seth
+        bowler: Nur Qalysha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          role:
+          - in: Nur Qalysha
+            out: Ainna Hamizah Hashim
+            reason: injury
+            role: bowler
+        batsman: DA Galia
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: RR Seth
+        bowler: Nur Qalysha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: DA Galia
+        bowler: Nur Qalysha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: DA Galia
+        bowler: Nur Qalysha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: DA Galia
+        bowler: Nur Qalysha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Seth
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: RR Seth
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Galia
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: RR Seth
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: DA Galia
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: DA Galia
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Seth
+    - 9.5:
+        actual_delivery: '9.4'
+        non_striker: DA Galia
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Seth
+    - 9.6:
+        actual_delivery: '9.5'
+        non_striker: DA Galia
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Seth
+    - 9.7:
+        actual_delivery: '9.6'
+        non_striker: DA Galia
+        bowler: Nur Arianna Natsya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: DA Galia
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: RR Seth
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: DA Galia
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: RR Seth
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: DA Galia
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Seth
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: DA Galia
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: DA Galia
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: RR Seth
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: DA Galia
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: DA Galia
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Seth
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: RR Seth
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: DA Galia
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Seth
+        wicket:
+          player_out: RR Seth
+          kind: bowled
+    - 12.1:
+        actual_delivery: '12.1'
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PSR Gurusinghe
+        batsman: DA Galia
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: DA Galia
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: DA Galia
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: PSR Gurusinghe
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: PSR Gurusinghe
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: PSR Gurusinghe
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Galia
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: DA Galia
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: PSR Gurusinghe
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: DA Galia
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: DA Galia
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: DA Galia
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: PSR Gurusinghe
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Galia
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: PSR Gurusinghe
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Galia
+        wicket:
+          player_out: DA Galia
+          kind: bowled
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: PSR Gurusinghe
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: PSR Gurusinghe
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: PSR Gurusinghe
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: Riyaa Bhasin
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: PSR Gurusinghe
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Riyaa Bhasin
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: Riyaa Bhasin
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: PSR Gurusinghe
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: PSR Gurusinghe
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: PSR Gurusinghe
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: Riyaa Bhasin
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: Riyaa Bhasin
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSR Gurusinghe
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Riyaa Bhasin
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: PSR Gurusinghe
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: PSR Gurusinghe
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: PSR Gurusinghe
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Riyaa Bhasin
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: PSR Gurusinghe
+        bowler: Nur Dania Syuhada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: PSR Gurusinghe
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: Riyaa Bhasin
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: PSR Gurusinghe
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: Riyaa Bhasin
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: PSR Gurusinghe
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: PSR Gurusinghe
+        bowler: Ainna Hamizah Hashim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: PSR Gurusinghe
+        bowler: WA Duraisingam
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Riyaa Bhasin
+    - 18.2:
+        actual_delivery: '18.1'
+        non_striker: PSR Gurusinghe
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 18.3:
+        actual_delivery: '18.2'
+        non_striker: PSR Gurusinghe
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 18.4:
+        actual_delivery: '18.3'
+        non_striker: Riyaa Bhasin
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 18.5:
+        actual_delivery: '18.4'
+        non_striker: PSR Gurusinghe
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 18.6:
+        actual_delivery: '18.5'
+        non_striker: PSR Gurusinghe
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 18.7:
+        actual_delivery: '18.6'
+        non_striker: PSR Gurusinghe
+        bowler: WA Duraisingam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: PSR Gurusinghe
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: PSR Gurusinghe
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: Riyaa Bhasin
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSR Gurusinghe
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: PSR Gurusinghe
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Riyaa Bhasin
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: PSR Gurusinghe
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Riyaa Bhasin
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: PSR Gurusinghe
+        bowler: Mahirah Izzati Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Riyaa Bhasin
+    target:
+      overs: 20
+      runs: 121

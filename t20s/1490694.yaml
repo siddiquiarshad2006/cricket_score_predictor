@@ -1,0 +1,2290 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Manchester
+  dates:
+  - '2026-06-21'
+  gender: female
+  match_type: T20
+  match_type_number: 2881
+  outcome:
+    winner: South Africa
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - M Kapp
+  players:
+    India:
+    - S Mandhana
+    - Shafali Verma
+    - YH Bhatia
+    - JI Rodrigues
+    - H Kaur
+    - DB Sharma
+    - RM Ghosh
+    - A Reddy
+    - P Rawat
+    - N Shree Charani
+    - NSS Sharma
+    South Africa:
+    - L Wolvaardt
+    - T Brits
+    - A Dercksen
+    - M Kapp
+    - N de Klerk
+    - CL Tryon
+    - D van Niekerk
+    - S Jafta
+    - S Ismail
+    - A Khaka
+    - N Mlaba
+  registry:
+    people:
+      A Dercksen: d2b1f515
+      A Khaka: 0d518f89
+      A Reddy: eadc8924
+      C La Borde: 32157f67
+      CL Tryon: 4d4605e6
+      D van Niekerk: 8c5775f3
+      DB Sharma: 201fef33
+      Eloise Sheridan: d8d43840
+      H Kaur: 53cd8da6
+      JI Rodrigues: cb08b611
+      L Wolvaardt: e60f81c9
+      M Kapp: 63e3b6b3
+      N Mlaba: 686362af
+      N Perera: 129709f9
+      N Shree Charani: 583ce32c
+      N de Klerk: ea544967
+      NSS Sharma: 5f22ccae
+      P Rawat: 34b8cd68
+      RM Ghosh: 721e0199
+      S Ismail: 108c4c09
+      S Jafta: '34304210'
+      S Mandhana: 5d2eda89
+      Saleema Imtiaz: d17d21d5
+      Shafali Verma: d8f59089
+      T Brits: '06659caa'
+      TL Anderson: f52ddf8d
+      YH Bhatia: 9c3d4e8a
+  team_type: international
+  teams:
+  - India
+  - South Africa
+  toss:
+    winner: India
+    decision: bat
+  umpires:
+  - Eloise Sheridan
+  - N Perera
+  venue: Old Trafford, Manchester
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: Shafali Verma
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.1'
+        batsman: S Mandhana
+    - 0.2:
+        non_striker: Shafali Verma
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: S Mandhana
+    - 0.3:
+        non_striker: Shafali Verma
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: S Mandhana
+    - 0.4:
+        non_striker: Shafali Verma
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: S Mandhana
+    - 0.5:
+        non_striker: S Mandhana
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.5'
+        batsman: Shafali Verma
+    - 0.6:
+        non_striker: S Mandhana
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.6'
+        batsman: Shafali Verma
+    - 1.1:
+        non_striker: Shafali Verma
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: S Mandhana
+    - 1.2:
+        non_striker: Shafali Verma
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: S Mandhana
+    - 1.3:
+        non_striker: S Mandhana
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: Shafali Verma
+    - 1.4:
+        non_striker: S Mandhana
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: Shafali Verma
+    - 1.5:
+        non_striker: Shafali Verma
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.5'
+        batsman: S Mandhana
+    - 1.6:
+        non_striker: Shafali Verma
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.6'
+        batsman: S Mandhana
+    - 2.1:
+        non_striker: S Mandhana
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: Shafali Verma
+    - 2.2:
+        non_striker: Shafali Verma
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: S Mandhana
+    - 2.3:
+        non_striker: S Mandhana
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: Shafali Verma
+    - 2.4:
+        non_striker: Shafali Verma
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.4'
+        batsman: S Mandhana
+    - 2.5:
+        non_striker: Shafali Verma
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: S Mandhana
+    - 2.6:
+        non_striker: Shafali Verma
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: S Mandhana
+        wicket:
+          player_out: S Mandhana
+          kind: bowled
+    - 3.1:
+        non_striker: YH Bhatia
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.1'
+        batsman: Shafali Verma
+    - 3.2:
+        non_striker: YH Bhatia
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: Shafali Verma
+    - 3.3:
+        non_striker: YH Bhatia
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.3'
+        batsman: Shafali Verma
+    - 3.4:
+        non_striker: YH Bhatia
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: Shafali Verma
+    - 3.5:
+        non_striker: Shafali Verma
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: YH Bhatia
+    - 3.6:
+        non_striker: Shafali Verma
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.6'
+        batsman: YH Bhatia
+    - 4.1:
+        non_striker: YH Bhatia
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: Shafali Verma
+    - 4.2:
+        non_striker: Shafali Verma
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.2'
+        batsman: YH Bhatia
+    - 4.3:
+        non_striker: Shafali Verma
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: YH Bhatia
+    - 4.4:
+        non_striker: Shafali Verma
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: YH Bhatia
+    - 4.5:
+        non_striker: Shafali Verma
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: YH Bhatia
+    - 4.6:
+        non_striker: Shafali Verma
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: YH Bhatia
+    - 5.1:
+        non_striker: YH Bhatia
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Shafali Verma
+    - 5.2:
+        non_striker: YH Bhatia
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: Shafali Verma
+    - 5.3:
+        non_striker: YH Bhatia
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.3'
+        batsman: Shafali Verma
+    - 5.4:
+        non_striker: YH Bhatia
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Shafali Verma
+        wicket:
+          player_out: Shafali Verma
+          fielders:
+          - S Jafta
+          kind: caught
+    - 5.5:
+        non_striker: YH Bhatia
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: JI Rodrigues
+    - 5.6:
+        non_striker: JI Rodrigues
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: YH Bhatia
+    - 6.1:
+        non_striker: YH Bhatia
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: JI Rodrigues
+    - 6.2:
+        non_striker: JI Rodrigues
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: YH Bhatia
+    - 6.3:
+        non_striker: JI Rodrigues
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.3'
+        batsman: YH Bhatia
+    - 6.4:
+        non_striker: JI Rodrigues
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: YH Bhatia
+    - 6.5:
+        non_striker: YH Bhatia
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: JI Rodrigues
+    - 6.6:
+        non_striker: JI Rodrigues
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: YH Bhatia
+    - 7.1:
+        non_striker: YH Bhatia
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: JI Rodrigues
+    - 7.2:
+        non_striker: JI Rodrigues
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: YH Bhatia
+        wicket:
+          player_out: YH Bhatia
+          kind: lbw
+    - 7.3:
+        non_striker: JI Rodrigues
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: H Kaur
+    - 7.4:
+        non_striker: H Kaur
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: JI Rodrigues
+    - 7.5:
+        non_striker: H Kaur
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: JI Rodrigues
+    - 7.6:
+        non_striker: H Kaur
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: JI Rodrigues
+    - 8.1:
+        non_striker: H Kaur
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: JI Rodrigues
+    - 8.2:
+        non_striker: H Kaur
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: JI Rodrigues
+    - 8.3:
+        non_striker: H Kaur
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: JI Rodrigues
+    - 8.4:
+        non_striker: JI Rodrigues
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: H Kaur
+    - 8.5:
+        non_striker: H Kaur
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: JI Rodrigues
+    - 8.6:
+        non_striker: JI Rodrigues
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: H Kaur
+    - 9.1:
+        non_striker: JI Rodrigues
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: H Kaur
+    - 9.2:
+        non_striker: JI Rodrigues
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.2'
+        batsman: H Kaur
+    - 9.3:
+        non_striker: JI Rodrigues
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: H Kaur
+    - 9.4:
+        non_striker: H Kaur
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.4'
+        batsman: JI Rodrigues
+    - 9.5:
+        non_striker: H Kaur
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: JI Rodrigues
+    - 9.6:
+        non_striker: JI Rodrigues
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: H Kaur
+    - 10.1:
+        non_striker: JI Rodrigues
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: H Kaur
+    - 10.2:
+        non_striker: H Kaur
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: JI Rodrigues
+        wicket:
+          player_out: JI Rodrigues
+          kind: caught and bowled
+    - 10.3:
+        non_striker: H Kaur
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: DB Sharma
+    - 10.4:
+        non_striker: DB Sharma
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: H Kaur
+    - 10.5:
+        non_striker: DB Sharma
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: H Kaur
+    - 10.6:
+        non_striker: H Kaur
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.6'
+        batsman: DB Sharma
+    - 11.1:
+        non_striker: DB Sharma
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.1'
+        batsman: H Kaur
+    - 11.2:
+        non_striker: DB Sharma
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: H Kaur
+    - 11.3:
+        non_striker: DB Sharma
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: H Kaur
+    - 11.4:
+        non_striker: DB Sharma
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: H Kaur
+    - 11.5:
+        non_striker: H Kaur
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: DB Sharma
+    - 11.6:
+        non_striker: H Kaur
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: DB Sharma
+    - 12.1:
+        non_striker: H Kaur
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: DB Sharma
+    - 12.2:
+        non_striker: DB Sharma
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: H Kaur
+    - 12.3:
+        non_striker: H Kaur
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '12.3'
+        batsman: DB Sharma
+    - 12.4:
+        non_striker: DB Sharma
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: H Kaur
+    - 12.5:
+        non_striker: H Kaur
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: DB Sharma
+    - 12.6:
+        non_striker: DB Sharma
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: H Kaur
+    - 13.1:
+        non_striker: DB Sharma
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: H Kaur
+    - 13.2:
+        non_striker: H Kaur
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: DB Sharma
+    - 13.3:
+        non_striker: H Kaur
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: DB Sharma
+    - 13.4:
+        non_striker: DB Sharma
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: H Kaur
+    - 13.5:
+        non_striker: H Kaur
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: DB Sharma
+    - 13.6:
+        non_striker: DB Sharma
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.6'
+        batsman: H Kaur
+    - 14.1:
+        non_striker: H Kaur
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: DB Sharma
+    - 14.2:
+        non_striker: DB Sharma
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: H Kaur
+    - 14.3:
+        non_striker: H Kaur
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: DB Sharma
+    - 14.4:
+        non_striker: DB Sharma
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: H Kaur
+        wicket:
+          player_out: H Kaur
+          kind: bowled
+    - 14.5:
+        non_striker: DB Sharma
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: RM Ghosh
+    - 14.6:
+        non_striker: DB Sharma
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: RM Ghosh
+    - 15.1:
+        non_striker: RM Ghosh
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: DB Sharma
+    - 15.2:
+        non_striker: RM Ghosh
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: DB Sharma
+    - 15.3:
+        non_striker: RM Ghosh
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: DB Sharma
+    - 15.4:
+        non_striker: DB Sharma
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: RM Ghosh
+    - 15.5:
+        non_striker: RM Ghosh
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: DB Sharma
+    - 15.6:
+        non_striker: RM Ghosh
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.6'
+        batsman: DB Sharma
+    - 16.1:
+        non_striker: DB Sharma
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.1'
+        batsman: RM Ghosh
+    - 16.2:
+        non_striker: DB Sharma
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: RM Ghosh
+    - 16.3:
+        non_striker: RM Ghosh
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: DB Sharma
+    - 16.4:
+        non_striker: DB Sharma
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: RM Ghosh
+    - 16.5:
+        non_striker: DB Sharma
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: RM Ghosh
+    - 16.6:
+        non_striker: RM Ghosh
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.6'
+        batsman: DB Sharma
+    - 17.1:
+        non_striker: DB Sharma
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: RM Ghosh
+    - 17.2:
+        non_striker: RM Ghosh
+        bowler: N Mlaba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.2'
+        batsman: DB Sharma
+    - 17.3:
+        non_striker: RM Ghosh
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.2'
+        batsman: DB Sharma
+    - 17.4:
+        non_striker: RM Ghosh
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: DB Sharma
+        wicket:
+          player_out: DB Sharma
+          fielders:
+          - M Kapp
+          kind: caught
+    - 17.5:
+        non_striker: RM Ghosh
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: A Reddy
+    - 17.6:
+        non_striker: RM Ghosh
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: A Reddy
+    - 17.7:
+        non_striker: A Reddy
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: RM Ghosh
+    - 18.1:
+        non_striker: RM Ghosh
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: A Reddy
+    - 18.2:
+        non_striker: A Reddy
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: RM Ghosh
+    - 18.3:
+        non_striker: RM Ghosh
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: A Reddy
+    - 18.4:
+        non_striker: A Reddy
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.4'
+        batsman: RM Ghosh
+    - 18.5:
+        non_striker: A Reddy
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.5'
+        batsman: RM Ghosh
+    - 18.6:
+        non_striker: A Reddy
+        bowler: A Khaka
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        actual_delivery: '18.6'
+        batsman: RM Ghosh
+    - 18.7:
+        non_striker: A Reddy
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: RM Ghosh
+    - 19.1:
+        non_striker: RM Ghosh
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: A Reddy
+    - 19.2:
+        non_striker: A Reddy
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: RM Ghosh
+        wicket:
+          player_out: RM Ghosh
+          fielders:
+          - A Khaka
+          kind: caught
+    - 19.3:
+        non_striker: A Reddy
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.3'
+        batsman: P Rawat
+    - 19.4:
+        non_striker: A Reddy
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: P Rawat
+    - 19.5:
+        non_striker: P Rawat
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.5'
+        batsman: A Reddy
+    - 19.6:
+        non_striker: P Rawat
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.6'
+        batsman: A Reddy
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: T Brits
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: L Wolvaardt
+    - 0.2:
+        non_striker: T Brits
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: L Wolvaardt
+    - 0.3:
+        non_striker: T Brits
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: L Wolvaardt
+    - 0.4:
+        non_striker: L Wolvaardt
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: T Brits
+    - 0.5:
+        non_striker: L Wolvaardt
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: T Brits
+    - 0.6:
+        non_striker: L Wolvaardt
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.6'
+        batsman: T Brits
+    - 1.1:
+        non_striker: T Brits
+        bowler: NSS Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: L Wolvaardt
+    - 1.2:
+        non_striker: T Brits
+        bowler: NSS Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: L Wolvaardt
+    - 1.3:
+        non_striker: T Brits
+        bowler: NSS Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: L Wolvaardt
+    - 1.4:
+        non_striker: T Brits
+        bowler: NSS Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: L Wolvaardt
+    - 1.5:
+        non_striker: L Wolvaardt
+        bowler: NSS Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: T Brits
+    - 1.6:
+        non_striker: L Wolvaardt
+        bowler: NSS Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: T Brits
+    - 2.1:
+        non_striker: T Brits
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: L Wolvaardt
+    - 2.2:
+        non_striker: L Wolvaardt
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: T Brits
+    - 2.3:
+        non_striker: L Wolvaardt
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: T Brits
+    - 2.4:
+        non_striker: T Brits
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.4'
+        batsman: L Wolvaardt
+    - 2.5:
+        non_striker: T Brits
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: L Wolvaardt
+    - 2.6:
+        non_striker: L Wolvaardt
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: T Brits
+    - 3.1:
+        non_striker: T Brits
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: L Wolvaardt
+    - 3.2:
+        non_striker: T Brits
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: L Wolvaardt
+    - 3.3:
+        non_striker: T Brits
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: L Wolvaardt
+    - 3.4:
+        non_striker: T Brits
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: L Wolvaardt
+    - 3.5:
+        non_striker: L Wolvaardt
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: T Brits
+    - 3.6:
+        non_striker: T Brits
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: L Wolvaardt
+    - 4.1:
+        non_striker: L Wolvaardt
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: T Brits
+    - 4.2:
+        non_striker: T Brits
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: L Wolvaardt
+    - 4.3:
+        non_striker: T Brits
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: L Wolvaardt
+    - 4.4:
+        non_striker: T Brits
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: L Wolvaardt
+    - 4.5:
+        non_striker: T Brits
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: L Wolvaardt
+    - 4.6:
+        non_striker: L Wolvaardt
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: T Brits
+    - 5.1:
+        non_striker: T Brits
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: L Wolvaardt
+    - 5.2:
+        non_striker: T Brits
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: L Wolvaardt
+        wicket:
+          player_out: L Wolvaardt
+          kind: caught and bowled
+    - 5.3:
+        non_striker: T Brits
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: A Dercksen
+    - 5.4:
+        non_striker: T Brits
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: A Dercksen
+        wicket:
+          player_out: A Dercksen
+          kind: bowled
+    - 5.5:
+        non_striker: T Brits
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: M Kapp
+    - 5.6:
+        non_striker: T Brits
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: M Kapp
+    - 6.1:
+        non_striker: M Kapp
+        bowler: P Rawat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.1'
+        batsman: T Brits
+    - 6.2:
+        non_striker: M Kapp
+        bowler: P Rawat
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '6.2'
+        batsman: T Brits
+    - 6.3:
+        non_striker: T Brits
+        bowler: P Rawat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: M Kapp
+    - 6.4:
+        non_striker: M Kapp
+        bowler: P Rawat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: T Brits
+    - 6.5:
+        non_striker: T Brits
+        bowler: P Rawat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: M Kapp
+    - 6.6:
+        non_striker: T Brits
+        bowler: P Rawat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: M Kapp
+    - 7.1:
+        non_striker: M Kapp
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.1'
+        batsman: T Brits
+    - 7.2:
+        non_striker: M Kapp
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: T Brits
+    - 7.3:
+        non_striker: T Brits
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: M Kapp
+    - 7.4:
+        non_striker: T Brits
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: M Kapp
+    - 7.5:
+        non_striker: M Kapp
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: T Brits
+    - 7.6:
+        non_striker: M Kapp
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.6'
+        batsman: T Brits
+    - 8.1:
+        non_striker: T Brits
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: M Kapp
+    - 8.2:
+        non_striker: T Brits
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: M Kapp
+    - 8.3:
+        non_striker: M Kapp
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: T Brits
+    - 8.4:
+        non_striker: T Brits
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: M Kapp
+    - 8.5:
+        non_striker: M Kapp
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: T Brits
+    - 8.6:
+        non_striker: T Brits
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: M Kapp
+    - 9.1:
+        non_striker: T Brits
+        bowler: P Rawat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.1'
+        batsman: M Kapp
+    - 9.2:
+        non_striker: T Brits
+        bowler: P Rawat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '9.2'
+        batsman: M Kapp
+    - 9.3:
+        non_striker: T Brits
+        bowler: P Rawat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.3'
+        batsman: M Kapp
+    - 9.4:
+        non_striker: T Brits
+        bowler: P Rawat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: M Kapp
+    - 9.5:
+        non_striker: M Kapp
+        bowler: P Rawat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: T Brits
+    - 9.6:
+        non_striker: M Kapp
+        bowler: P Rawat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: T Brits
+    - 9.7:
+        non_striker: T Brits
+        bowler: P Rawat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: M Kapp
+    - 10.1:
+        non_striker: T Brits
+        bowler: NSS Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: M Kapp
+    - 10.2:
+        non_striker: M Kapp
+        bowler: NSS Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: T Brits
+    - 10.3:
+        non_striker: T Brits
+        bowler: NSS Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: M Kapp
+    - 10.4:
+        non_striker: T Brits
+        bowler: NSS Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: M Kapp
+    - 10.5:
+        non_striker: T Brits
+        bowler: NSS Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.5'
+        batsman: M Kapp
+    - 10.6:
+        non_striker: T Brits
+        bowler: NSS Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.6'
+        batsman: M Kapp
+    - 11.1:
+        non_striker: M Kapp
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: T Brits
+    - 11.2:
+        non_striker: M Kapp
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '11.2'
+        batsman: T Brits
+    - 11.3:
+        non_striker: M Kapp
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: T Brits
+    - 11.4:
+        non_striker: M Kapp
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.4'
+        batsman: T Brits
+    - 11.5:
+        non_striker: M Kapp
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: T Brits
+    - 11.6:
+        non_striker: T Brits
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: M Kapp
+    - 12.1:
+        non_striker: T Brits
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: M Kapp
+    - 12.2:
+        non_striker: T Brits
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.2'
+        batsman: M Kapp
+    - 12.3:
+        non_striker: T Brits
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.3'
+        batsman: M Kapp
+    - 12.4:
+        non_striker: T Brits
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.4'
+        batsman: M Kapp
+    - 12.5:
+        non_striker: T Brits
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.5'
+        batsman: M Kapp
+    - 12.6:
+        non_striker: T Brits
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: M Kapp
+    - 13.1:
+        non_striker: T Brits
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: M Kapp
+    - 13.2:
+        non_striker: T Brits
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: M Kapp
+    - 13.3:
+        non_striker: M Kapp
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: T Brits
+    - 13.4:
+        non_striker: T Brits
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: M Kapp
+    - 13.5:
+        non_striker: M Kapp
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: T Brits
+    - 13.6:
+        non_striker: T Brits
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: M Kapp
+    - 14.1:
+        non_striker: T Brits
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: M Kapp
+    - 14.2:
+        non_striker: M Kapp
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.2'
+        batsman: T Brits
+    - 14.3:
+        non_striker: M Kapp
+        bowler: A Reddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '14.3'
+        batsman: T Brits
+    - 14.4:
+        non_striker: T Brits
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.4'
+        batsman: M Kapp
+    - 14.5:
+        non_striker: T Brits
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.5'
+        batsman: M Kapp
+    - 14.6:
+        non_striker: T Brits
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.6'
+        batsman: M Kapp
+    - 15.1:
+        non_striker: M Kapp
+        bowler: DB Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '15.1'
+        batsman: T Brits
+    - 15.2:
+        non_striker: T Brits
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: M Kapp
+    - 15.3:
+        non_striker: M Kapp
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.3'
+        batsman: T Brits
+    - 15.4:
+        non_striker: M Kapp
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: T Brits
+    - 15.5:
+        non_striker: T Brits
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.5'
+        batsman: M Kapp
+    - 15.6:
+        non_striker: T Brits
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.6'
+        batsman: M Kapp
+    - 16.1:
+        non_striker: M Kapp
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: T Brits
+        wicket:
+          player_out: T Brits
+          fielders:
+          - N Shree Charani
+          kind: caught
+    - 16.2:
+        non_striker: M Kapp
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: N de Klerk
+    - 16.3:
+        non_striker: M Kapp
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: N de Klerk
+    - 16.4:
+        non_striker: N de Klerk
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.4'
+        batsman: M Kapp
+    - 16.5:
+        non_striker: N de Klerk
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: M Kapp
+    - 16.6:
+        non_striker: M Kapp
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: N de Klerk
+    - 17.1:
+        non_striker: N de Klerk
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: M Kapp
+    - 17.2:
+        non_striker: M Kapp
+        bowler: N Shree Charani
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        actual_delivery: '17.2'
+        batsman: N de Klerk
+    - 17.3:
+        non_striker: M Kapp
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: N de Klerk
+    - 17.4:
+        non_striker: M Kapp
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.4'
+        batsman: N de Klerk
+    - 17.5:
+        non_striker: M Kapp
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: N de Klerk
+        wicket:
+          player_out: N de Klerk
+          kind: bowled
+    - 17.6:
+        non_striker: M Kapp
+        bowler: N Shree Charani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.6'
+        batsman: CL Tryon
+    - 18.1:
+        non_striker: CL Tryon
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: M Kapp
+    - 18.2:
+        non_striker: M Kapp
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: CL Tryon
+    - 18.3:
+        non_striker: CL Tryon
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.3'
+        batsman: M Kapp
+    - 18.4:
+        non_striker: CL Tryon
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: M Kapp
+    - 18.5:
+        non_striker: M Kapp
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: CL Tryon
+    - 18.6:
+        non_striker: CL Tryon
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.6'
+        batsman: M Kapp
+    - 19.1:
+        non_striker: M Kapp
+        bowler: NSS Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.1'
+        batsman: CL Tryon
+    target:
+      overs: 20
+      runs: 159

@@ -1,0 +1,2421 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Brondby
+  dates:
+  - '2026-06-18'
+  gender: male
+  match_type: T20
+  match_type_number: 3958
+  outcome:
+    winner: Germany
+    by:
+      wickets: 2
+  overs: 20
+  player_of_match:
+  - HAM Shah
+  players:
+    Denmark:
+    - Musa Shaheen
+    - HAM Shah
+    - Lucky Ali
+    - S Heath
+    - T Bharaj
+    - Surya Anand
+    - Abdullah Mahmood
+    - Mustakim Aslam
+    - Shakeel Zeb
+    - Jabran Khan
+    - E Karimi
+    Germany:
+    - JWP Stephan
+    - Musaddiq Ahmed
+    - J van Heerden
+    - H Singh
+    - K Klesse
+    - Fayaz Khan
+    - Shahid Afridi
+    - Muslim Yar
+    - Sajid Liaqat
+    - Nooruddin Mujadady
+    - V Jatinder Kumar
+  registry:
+    people:
+      Abdullah Mahmood: 926c6d3c
+      E Karimi: 95bd9407
+      Fayaz Khan: 373954ca
+      H Singh: 8209da53
+      HAM Shah: 007113d7
+      J van Heerden: '01549705'
+      JWP Stephan: bf0e0601
+      Jabran Khan: 02fe46ca
+      K Klesse: 9538c7be
+      Lucky Ali: 28b032ac
+      Musa Shaheen: 6709b2de
+      Musaddiq Ahmed: f8fb7e7b
+      Muslim Yar: 37d8d19a
+      Mustakim Aslam: 966b2677
+      Nooruddin Mujadady: fcd92ab0
+      S Heath: 884905a1
+      Sajid Liaqat: b1b99a1a
+      Shahid Afridi: 5b2acc3f
+      Shakeel Zeb: 4709e746
+      Simon Sorensen: 51f56fdb
+      Surya Anand: ef141f36
+      T Bharaj: 49556abb
+      V Jatinder Kumar: 72ef2c6b
+  team_type: international
+  teams:
+  - Denmark
+  - Germany
+  toss:
+    winner: Denmark
+    decision: bat
+  venue: Svanholm Park, Brondby
+innings:
+- 1st innings:
+    team: Denmark
+    deliveries:
+    - 0.1:
+        bowler: Sajid Liaqat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: HAM Shah
+        actual_delivery: '0.1'
+        batsman: Musa Shaheen
+    - 0.2:
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HAM Shah
+        actual_delivery: '0.1'
+        batsman: Musa Shaheen
+    - 0.3:
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HAM Shah
+        actual_delivery: '0.2'
+        batsman: Musa Shaheen
+    - 0.4:
+        non_striker: Musa Shaheen
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: HAM Shah
+    - 0.5:
+        non_striker: HAM Shah
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: Musa Shaheen
+    - 0.6:
+        non_striker: Musa Shaheen
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: HAM Shah
+    - 0.7:
+        non_striker: Musa Shaheen
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: HAM Shah
+    - 1.1:
+        non_striker: Musa Shaheen
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: HAM Shah
+    - 1.2:
+        non_striker: Musa Shaheen
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.2'
+        batsman: HAM Shah
+    - 1.3:
+        non_striker: Musa Shaheen
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.3'
+        batsman: HAM Shah
+    - 1.4:
+        non_striker: Musa Shaheen
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: HAM Shah
+    - 1.5:
+        non_striker: HAM Shah
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: Musa Shaheen
+    - 1.6:
+        non_striker: Musa Shaheen
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: HAM Shah
+    - 1.7:
+        non_striker: Musa Shaheen
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: HAM Shah
+    - 2.1:
+        non_striker: Musa Shaheen
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.1'
+        batsman: HAM Shah
+    - 2.2:
+        non_striker: Musa Shaheen
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: HAM Shah
+    - 2.3:
+        non_striker: Musa Shaheen
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: HAM Shah
+    - 2.4:
+        non_striker: Musa Shaheen
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.4'
+        batsman: HAM Shah
+    - 2.5:
+        non_striker: Musa Shaheen
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.5'
+        batsman: HAM Shah
+    - 2.6:
+        non_striker: Musa Shaheen
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.6'
+        batsman: HAM Shah
+    - 3.1:
+        non_striker: HAM Shah
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Musa Shaheen
+    - 3.2:
+        non_striker: HAM Shah
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: Musa Shaheen
+    - 3.3:
+        non_striker: Musa Shaheen
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: HAM Shah
+    - 3.4:
+        non_striker: Musa Shaheen
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.4'
+        batsman: HAM Shah
+    - 3.5:
+        non_striker: Musa Shaheen
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.4'
+        batsman: HAM Shah
+    - 3.6:
+        non_striker: Musa Shaheen
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: HAM Shah
+    - 3.7:
+        non_striker: Musa Shaheen
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: HAM Shah
+    - 4.1:
+        non_striker: Musa Shaheen
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: HAM Shah
+    - 4.2:
+        non_striker: HAM Shah
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: Musa Shaheen
+        wicket:
+          player_out: Musa Shaheen
+          kind: bowled
+    - 4.3:
+        non_striker: HAM Shah
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: Lucky Ali
+    - 4.4:
+        non_striker: Lucky Ali
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: HAM Shah
+    - 4.5:
+        non_striker: Lucky Ali
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: HAM Shah
+    - 4.6:
+        non_striker: HAM Shah
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Lucky Ali
+    - 5.1:
+        non_striker: Lucky Ali
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: HAM Shah
+    - 5.2:
+        non_striker: HAM Shah
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: Lucky Ali
+    - 5.3:
+        non_striker: HAM Shah
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.3'
+        batsman: Lucky Ali
+    - 5.4:
+        non_striker: HAM Shah
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Lucky Ali
+    - 5.5:
+        non_striker: HAM Shah
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: Lucky Ali
+    - 5.6:
+        non_striker: HAM Shah
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Lucky Ali
+    - 6.1:
+        non_striker: Lucky Ali
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: HAM Shah
+    - 6.2:
+        non_striker: HAM Shah
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: Lucky Ali
+    - 6.3:
+        non_striker: HAM Shah
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: Lucky Ali
+    - 6.4:
+        non_striker: Lucky Ali
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: HAM Shah
+    - 6.5:
+        non_striker: Lucky Ali
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: HAM Shah
+    - 6.6:
+        non_striker: HAM Shah
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: Lucky Ali
+    - 7.1:
+        non_striker: HAM Shah
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: Lucky Ali
+    - 7.2:
+        non_striker: Lucky Ali
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: HAM Shah
+    - 7.3:
+        non_striker: HAM Shah
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.3'
+        batsman: Lucky Ali
+    - 7.4:
+        non_striker: HAM Shah
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: Lucky Ali
+    - 7.5:
+        non_striker: HAM Shah
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: Lucky Ali
+    - 7.6:
+        non_striker: Lucky Ali
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: HAM Shah
+    - 8.1:
+        non_striker: HAM Shah
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Lucky Ali
+    - 8.2:
+        non_striker: HAM Shah
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Lucky Ali
+    - 8.3:
+        non_striker: Lucky Ali
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: HAM Shah
+        wicket:
+          player_out: HAM Shah
+          kind: bowled
+    - 8.4:
+        non_striker: Lucky Ali
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: S Heath
+    - 8.5:
+        non_striker: Lucky Ali
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: S Heath
+    - 8.6:
+        non_striker: S Heath
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: Lucky Ali
+    - 9.1:
+        non_striker: S Heath
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: Lucky Ali
+    - 9.2:
+        non_striker: Lucky Ali
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: S Heath
+    - 9.3:
+        non_striker: Lucky Ali
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: S Heath
+    - 9.4:
+        non_striker: Lucky Ali
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: S Heath
+    - 9.5:
+        non_striker: S Heath
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: Lucky Ali
+    - 9.6:
+        non_striker: S Heath
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: Lucky Ali
+    - 10.1:
+        non_striker: S Heath
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: Lucky Ali
+    - 10.2:
+        non_striker: Lucky Ali
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: S Heath
+    - 10.3:
+        non_striker: S Heath
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Lucky Ali
+    - 10.4:
+        non_striker: Lucky Ali
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: S Heath
+    - 10.5:
+        non_striker: Lucky Ali
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: S Heath
+    - 10.6:
+        non_striker: Lucky Ali
+        bowler: V Jatinder Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: S Heath
+    - 11.1:
+        non_striker: Lucky Ali
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: S Heath
+    - 11.2:
+        non_striker: Lucky Ali
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.2'
+        batsman: S Heath
+    - 11.3:
+        non_striker: Lucky Ali
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: S Heath
+    - 11.4:
+        non_striker: Lucky Ali
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.4'
+        batsman: S Heath
+    - 11.5:
+        non_striker: Lucky Ali
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: S Heath
+    - 11.6:
+        non_striker: Lucky Ali
+        bowler: Muslim Yar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '11.6'
+        batsman: S Heath
+    - 12.1:
+        non_striker: S Heath
+        bowler: J van Heerden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Lucky Ali
+        wicket:
+          player_out: Lucky Ali
+          fielders:
+          - K Klesse
+          kind: stumped
+    - 12.2:
+        non_striker: S Heath
+        bowler: J van Heerden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: T Bharaj
+    - 12.3:
+        non_striker: T Bharaj
+        bowler: J van Heerden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: S Heath
+    - 12.4:
+        non_striker: T Bharaj
+        bowler: J van Heerden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: S Heath
+        wicket:
+          player_out: S Heath
+          fielders:
+          - Shahid Afridi
+          kind: caught
+    - 12.5:
+        non_striker: T Bharaj
+        bowler: J van Heerden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Surya Anand
+    - 12.6:
+        non_striker: T Bharaj
+        bowler: J van Heerden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Surya Anand
+    - 13.1:
+        non_striker: Surya Anand
+        bowler: Shahid Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.1'
+        batsman: T Bharaj
+    - 13.2:
+        non_striker: Surya Anand
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: T Bharaj
+    - 13.3:
+        non_striker: Surya Anand
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: T Bharaj
+    - 13.4:
+        non_striker: Surya Anand
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: T Bharaj
+    - 13.5:
+        non_striker: T Bharaj
+        bowler: Shahid Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.4'
+        batsman: Surya Anand
+    - 13.6:
+        non_striker: T Bharaj
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: Surya Anand
+    - 13.7:
+        non_striker: Surya Anand
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: T Bharaj
+    - 13.8:
+        non_striker: T Bharaj
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Surya Anand
+    - 14.1:
+        non_striker: T Bharaj
+        bowler: J van Heerden
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: Surya Anand
+    - 14.2:
+        non_striker: T Bharaj
+        bowler: J van Heerden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: Surya Anand
+    - 14.3:
+        non_striker: Surya Anand
+        bowler: J van Heerden
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: T Bharaj
+    - 14.4:
+        non_striker: T Bharaj
+        bowler: J van Heerden
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.4'
+        batsman: Surya Anand
+    - 14.5:
+        non_striker: T Bharaj
+        bowler: J van Heerden
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '14.5'
+        batsman: Surya Anand
+    - 14.6:
+        non_striker: Surya Anand
+        bowler: J van Heerden
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.6'
+        batsman: T Bharaj
+    - 15.1:
+        non_striker: T Bharaj
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: Surya Anand
+    - 15.2:
+        non_striker: T Bharaj
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: Surya Anand
+    - 15.3:
+        non_striker: Surya Anand
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: T Bharaj
+        wicket:
+          player_out: T Bharaj
+          kind: bowled
+    - 15.4:
+        non_striker: Surya Anand
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: Abdullah Mahmood
+    - 15.5:
+        non_striker: Abdullah Mahmood
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: Surya Anand
+        wicket:
+          player_out: Surya Anand
+          fielders:
+          - JWP Stephan
+          kind: caught
+    - 15.6:
+        non_striker: Abdullah Mahmood
+        bowler: Shahid Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.6'
+        batsman: Mustakim Aslam
+    - 15.7:
+        non_striker: Abdullah Mahmood
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: Mustakim Aslam
+    - 16.1:
+        non_striker: Mustakim Aslam
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: Abdullah Mahmood
+    - 16.2:
+        non_striker: Mustakim Aslam
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: Abdullah Mahmood
+    - 16.3:
+        non_striker: Mustakim Aslam
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: Abdullah Mahmood
+        wicket:
+          player_out: Abdullah Mahmood
+          fielders:
+          - Fayaz Khan
+          kind: caught
+    - 16.4:
+        non_striker: Mustakim Aslam
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: Shakeel Zeb
+    - 16.5:
+        non_striker: Shakeel Zeb
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: Mustakim Aslam
+    - 16.6:
+        non_striker: Mustakim Aslam
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.6'
+        batsman: Shakeel Zeb
+    - 17.1:
+        non_striker: Shakeel Zeb
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: Mustakim Aslam
+    - 17.2:
+        non_striker: Shakeel Zeb
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: Mustakim Aslam
+    - 17.3:
+        non_striker: Shakeel Zeb
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: Mustakim Aslam
+        wicket:
+          player_out: Mustakim Aslam
+          fielders:
+          - Musaddiq Ahmed
+          kind: caught
+    - 17.4:
+        non_striker: Shakeel Zeb
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: Jabran Khan
+    - 17.5:
+        non_striker: Shakeel Zeb
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: Jabran Khan
+    - 17.6:
+        non_striker: Shakeel Zeb
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: Jabran Khan
+    - 18.1:
+        non_striker: Shakeel Zeb
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.1'
+        batsman: Jabran Khan
+        wicket:
+          player_out: Jabran Khan
+          kind: bowled
+    - 18.2:
+        non_striker: Shakeel Zeb
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: E Karimi
+    - 18.3:
+        non_striker: Shakeel Zeb
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: E Karimi
+    - 18.4:
+        non_striker: E Karimi
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.4'
+        batsman: Shakeel Zeb
+    - 18.5:
+        non_striker: E Karimi
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: Shakeel Zeb
+    - 18.6:
+        non_striker: Shakeel Zeb
+        bowler: Sajid Liaqat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: E Karimi
+    - 19.1:
+        non_striker: E Karimi
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.1'
+        batsman: Shakeel Zeb
+    - 19.2:
+        non_striker: E Karimi
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: Shakeel Zeb
+    - 19.3:
+        non_striker: E Karimi
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '19.3'
+        batsman: Shakeel Zeb
+    - 19.4:
+        non_striker: Shakeel Zeb
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: E Karimi
+    - 19.5:
+        non_striker: E Karimi
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: Shakeel Zeb
+    - 19.6:
+        non_striker: E Karimi
+        bowler: Nooruddin Mujadady
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: Shakeel Zeb
+- 2nd innings:
+    team: Germany
+    deliveries:
+    - 0.1:
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Musaddiq Ahmed
+        actual_delivery: '0.1'
+        batsman: JWP Stephan
+    - 0.2:
+        bowler: Shakeel Zeb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Musaddiq Ahmed
+        actual_delivery: '0.2'
+        batsman: JWP Stephan
+    - 0.3:
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Musaddiq Ahmed
+        replacements:
+          role:
+          - in: HAM Shah
+            out: Shakeel Zeb
+            reason: injury
+            role: bowler
+        actual_delivery: '0.3'
+        batsman: JWP Stephan
+    - 0.4:
+        non_striker: JWP Stephan
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: Musaddiq Ahmed
+    - 0.5:
+        non_striker: Musaddiq Ahmed
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.5'
+        batsman: JWP Stephan
+    - 0.6:
+        non_striker: Musaddiq Ahmed
+        bowler: HAM Shah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.6'
+        batsman: JWP Stephan
+    - 0.7:
+        non_striker: Musaddiq Ahmed
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: JWP Stephan
+    - 1.1:
+        non_striker: JWP Stephan
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.1'
+        batsman: Musaddiq Ahmed
+    - 1.2:
+        non_striker: JWP Stephan
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: Musaddiq Ahmed
+    - 1.3:
+        non_striker: Musaddiq Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: JWP Stephan
+    - 1.4:
+        non_striker: Musaddiq Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: JWP Stephan
+        wicket:
+          player_out: JWP Stephan
+          fielders:
+          - S Heath
+          kind: stumped
+    - 1.5:
+        non_striker: Musaddiq Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: J van Heerden
+    - 1.6:
+        non_striker: Musaddiq Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: J van Heerden
+    - 2.1:
+        non_striker: J van Heerden
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: Musaddiq Ahmed
+    - 2.2:
+        non_striker: Musaddiq Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: J van Heerden
+    - 2.3:
+        non_striker: Musaddiq Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: J van Heerden
+        wicket:
+          player_out: J van Heerden
+          fielders:
+          - Mustakim Aslam
+          kind: caught
+    - 2.4:
+        non_striker: Musaddiq Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: H Singh
+    - 2.5:
+        non_striker: H Singh
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: Musaddiq Ahmed
+    - 2.6:
+        non_striker: H Singh
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Musaddiq Ahmed
+    - 3.1:
+        non_striker: Musaddiq Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: H Singh
+    - 3.2:
+        non_striker: Musaddiq Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: H Singh
+    - 3.3:
+        non_striker: Musaddiq Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: H Singh
+    - 3.4:
+        non_striker: Musaddiq Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: H Singh
+    - 3.5:
+        non_striker: Musaddiq Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: H Singh
+    - 3.6:
+        non_striker: Musaddiq Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: H Singh
+    - 4.1:
+        non_striker: H Singh
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: Musaddiq Ahmed
+    - 4.2:
+        non_striker: H Singh
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: Musaddiq Ahmed
+    - 4.3:
+        non_striker: Musaddiq Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: H Singh
+    - 4.4:
+        non_striker: Musaddiq Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: H Singh
+    - 4.5:
+        non_striker: Musaddiq Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.5'
+        batsman: H Singh
+    - 4.6:
+        non_striker: Musaddiq Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: H Singh
+    - 5.1:
+        non_striker: H Singh
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Musaddiq Ahmed
+    - 5.2:
+        non_striker: H Singh
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: Musaddiq Ahmed
+    - 5.3:
+        non_striker: H Singh
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: Musaddiq Ahmed
+    - 5.4:
+        non_striker: H Singh
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Musaddiq Ahmed
+    - 5.5:
+        non_striker: H Singh
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Musaddiq Ahmed
+    - 5.6:
+        non_striker: Musaddiq Ahmed
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: H Singh
+        wicket:
+          player_out: H Singh
+          kind: lbw
+    - 6.1:
+        bowler: Mustakim Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Klesse
+        actual_delivery: '6.1'
+        batsman: Musaddiq Ahmed
+    - 6.2:
+        bowler: Mustakim Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Klesse
+        actual_delivery: '6.2'
+        batsman: Musaddiq Ahmed
+    - 6.3:
+        bowler: Mustakim Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Klesse
+        actual_delivery: '6.3'
+        batsman: Musaddiq Ahmed
+    - 6.4:
+        bowler: Mustakim Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Klesse
+        actual_delivery: '6.4'
+        batsman: Musaddiq Ahmed
+    - 6.5:
+        non_striker: Musaddiq Ahmed
+        bowler: Mustakim Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: K Klesse
+    - 6.6:
+        non_striker: K Klesse
+        bowler: Mustakim Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: Musaddiq Ahmed
+    - 7.1:
+        non_striker: K Klesse
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: Musaddiq Ahmed
+    - 7.2:
+        non_striker: Musaddiq Ahmed
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: K Klesse
+    - 7.3:
+        non_striker: Musaddiq Ahmed
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: K Klesse
+    - 7.4:
+        non_striker: Musaddiq Ahmed
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: K Klesse
+    - 7.5:
+        non_striker: Musaddiq Ahmed
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: K Klesse
+    - 7.6:
+        non_striker: Musaddiq Ahmed
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: K Klesse
+    - 8.1:
+        non_striker: K Klesse
+        bowler: Mustakim Aslam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.1'
+        batsman: Musaddiq Ahmed
+    - 8.2:
+        non_striker: K Klesse
+        bowler: Mustakim Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Musaddiq Ahmed
+    - 8.3:
+        non_striker: Musaddiq Ahmed
+        bowler: Mustakim Aslam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: K Klesse
+    - 8.4:
+        non_striker: Musaddiq Ahmed
+        bowler: Mustakim Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: K Klesse
+    - 8.5:
+        non_striker: K Klesse
+        bowler: Mustakim Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Musaddiq Ahmed
+    - 8.6:
+        non_striker: Musaddiq Ahmed
+        bowler: Mustakim Aslam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.6'
+        batsman: K Klesse
+    - 9.1:
+        non_striker: K Klesse
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.1'
+        batsman: Musaddiq Ahmed
+    - 9.2:
+        non_striker: K Klesse
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: Musaddiq Ahmed
+    - 9.3:
+        non_striker: Musaddiq Ahmed
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: K Klesse
+    - 9.4:
+        non_striker: Musaddiq Ahmed
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: K Klesse
+    - 9.5:
+        non_striker: Musaddiq Ahmed
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: K Klesse
+    - 9.6:
+        non_striker: Musaddiq Ahmed
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: K Klesse
+    - 10.1:
+        non_striker: K Klesse
+        bowler: Mustakim Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: Musaddiq Ahmed
+    - 10.2:
+        non_striker: Musaddiq Ahmed
+        bowler: Mustakim Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: K Klesse
+    - 10.3:
+        non_striker: K Klesse
+        bowler: Mustakim Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Musaddiq Ahmed
+    - 10.4:
+        non_striker: Musaddiq Ahmed
+        bowler: Mustakim Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: K Klesse
+    - 10.5:
+        non_striker: K Klesse
+        bowler: Mustakim Aslam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: Musaddiq Ahmed
+    - 10.6:
+        non_striker: Musaddiq Ahmed
+        bowler: Mustakim Aslam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.6'
+        batsman: K Klesse
+    - 11.1:
+        non_striker: K Klesse
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: Musaddiq Ahmed
+    - 11.2:
+        non_striker: K Klesse
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: Musaddiq Ahmed
+    - 11.3:
+        non_striker: Musaddiq Ahmed
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.3'
+        batsman: K Klesse
+    - 11.4:
+        non_striker: Musaddiq Ahmed
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: K Klesse
+    - 11.5:
+        non_striker: K Klesse
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.5'
+        batsman: Musaddiq Ahmed
+    - 11.6:
+        non_striker: K Klesse
+        bowler: Abdullah Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Musaddiq Ahmed
+    - 12.1:
+        non_striker: K Klesse
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: Musaddiq Ahmed
+    - 12.2:
+        non_striker: Musaddiq Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: K Klesse
+    - 12.3:
+        non_striker: Musaddiq Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: K Klesse
+    - 12.4:
+        non_striker: Musaddiq Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.4'
+        batsman: K Klesse
+        wicket:
+          player_out: K Klesse
+          fielders:
+          - Simon Sorensen (sub)
+          kind: caught
+    - 12.5:
+        non_striker: Musaddiq Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Fayaz Khan
+    - 12.6:
+        non_striker: Musaddiq Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Fayaz Khan
+    - 13.1:
+        non_striker: Fayaz Khan
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: Musaddiq Ahmed
+    - 13.2:
+        non_striker: Fayaz Khan
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: Musaddiq Ahmed
+    - 13.3:
+        non_striker: Fayaz Khan
+        bowler: Lucky Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.3'
+        batsman: Musaddiq Ahmed
+    - 13.4:
+        non_striker: Fayaz Khan
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Musaddiq Ahmed
+    - 13.5:
+        non_striker: Musaddiq Ahmed
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '13.4'
+        batsman: Fayaz Khan
+    - 13.6:
+        non_striker: Musaddiq Ahmed
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.5'
+        batsman: Fayaz Khan
+    - 13.7:
+        non_striker: Musaddiq Ahmed
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Fayaz Khan
+    - 14.1:
+        non_striker: Musaddiq Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: Fayaz Khan
+    - 14.2:
+        non_striker: Musaddiq Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.2'
+        batsman: Fayaz Khan
+    - 14.3:
+        non_striker: Musaddiq Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: Fayaz Khan
+    - 14.4:
+        non_striker: Musaddiq Ahmed
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: Fayaz Khan
+    - 14.5:
+        non_striker: Fayaz Khan
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: Musaddiq Ahmed
+    - 14.6:
+        non_striker: Fayaz Khan
+        bowler: E Karimi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: Musaddiq Ahmed
+    - 15.1:
+        non_striker: Fayaz Khan
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: Musaddiq Ahmed
+    - 15.2:
+        non_striker: Musaddiq Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: Fayaz Khan
+    - 15.3:
+        non_striker: Fayaz Khan
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: Musaddiq Ahmed
+    - 15.4:
+        non_striker: Musaddiq Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.4'
+        batsman: Fayaz Khan
+    - 15.5:
+        non_striker: Musaddiq Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: Fayaz Khan
+    - 15.6:
+        non_striker: Musaddiq Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.6'
+        batsman: Fayaz Khan
+    - 16.1:
+        non_striker: Fayaz Khan
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: Musaddiq Ahmed
+    - 16.2:
+        non_striker: Fayaz Khan
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: Musaddiq Ahmed
+    - 16.3:
+        non_striker: Musaddiq Ahmed
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: Fayaz Khan
+    - 16.4:
+        non_striker: Musaddiq Ahmed
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: Fayaz Khan
+        wicket:
+          player_out: Fayaz Khan
+          fielders:
+          - E Karimi
+          kind: caught
+    - 16.5:
+        non_striker: Musaddiq Ahmed
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.5'
+        batsman: Shahid Afridi
+    - 16.6:
+        non_striker: Musaddiq Ahmed
+        bowler: Lucky Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.6'
+        batsman: Shahid Afridi
+    - 17.1:
+        non_striker: Shahid Afridi
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: Musaddiq Ahmed
+    - 17.2:
+        non_striker: Musaddiq Ahmed
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: Shahid Afridi
+    - 17.3:
+        non_striker: Musaddiq Ahmed
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: Shahid Afridi
+    - 17.4:
+        non_striker: Shahid Afridi
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: Musaddiq Ahmed
+    - 17.5:
+        non_striker: Musaddiq Ahmed
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: Shahid Afridi
+    - 17.6:
+        non_striker: Musaddiq Ahmed
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: Shahid Afridi
+    - 17.7:
+        non_striker: Shahid Afridi
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.7'
+        batsman: Musaddiq Ahmed
+    - 18.1:
+        non_striker: Musaddiq Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: Shahid Afridi
+    - 18.2:
+        non_striker: Shahid Afridi
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: Musaddiq Ahmed
+    - 18.3:
+        non_striker: Musaddiq Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.3'
+        batsman: Shahid Afridi
+    - 18.4:
+        non_striker: Musaddiq Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: Shahid Afridi
+    - 18.5:
+        non_striker: Musaddiq Ahmed
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: Shahid Afridi
+    - 18.6:
+        non_striker: Shahid Afridi
+        bowler: Surya Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: Musaddiq Ahmed
+    - 19.1:
+        non_striker: Musaddiq Ahmed
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.1'
+        batsman: Shahid Afridi
+        wicket:
+          player_out: Shahid Afridi
+          fielders:
+          - Simon Sorensen (sub)
+          kind: caught
+    - 19.2:
+        non_striker: Musaddiq Ahmed
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: Muslim Yar
+    - 19.3:
+        non_striker: Muslim Yar
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: Musaddiq Ahmed
+        wicket:
+          player_out: Musaddiq Ahmed
+          fielders:
+          - Musa Shaheen
+          kind: caught
+    - 19.4:
+        non_striker: Muslim Yar
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: Sajid Liaqat
+        wicket:
+          player_out: Sajid Liaqat
+          fielders:
+          - Jabran Khan
+          kind: caught
+    - 19.5:
+        non_striker: Muslim Yar
+        bowler: HAM Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.5'
+        batsman: Nooruddin Mujadady
+    target:
+      overs: 20
+      runs: 117

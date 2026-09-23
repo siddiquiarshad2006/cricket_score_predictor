@@ -1,0 +1,2341 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-08-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kerava
+  dates:
+  - '2026-08-18'
+  gender: male
+  match_type: T20
+  match_type_number: 4088
+  outcome:
+    winner: Israel
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - Niv Nagavkar
+  players:
+    Czech Republic:
+    - Ratul Khan
+    - S Grover
+    - Sazib Bhuiyan
+    - RM Magare
+    - Ritik Tomar
+    - S Davizi
+    - S Wickramasekara
+    - JR Cope
+    - D Ramani
+    - V Marghashayam
+    - Ajhar Alam
+    Israel:
+    - Yogev Nagavkar
+    - WSLK Narayana
+    - Niv Nagavkar
+    - SF Mangoda
+    - Yair Nagavkar
+    - S Bangera
+    - Elan Talker
+    - JE Marks
+    - E Bhonkar
+    - AL Khunti
+    - BJ Lazarus
+  registry:
+    people:
+      AL Khunti: c0ee8488
+      Adnan Khan: 45ec7a99
+      Ajhar Alam: b18d78f6
+      BJ Lazarus: 2d7b09ce
+      D Ramani: dacf556b
+      E Bhonkar: 1dc3330f
+      Elan Talker: bb939fa3
+      JE Marks: f1aa94c3
+      JR Cope: d22960d9
+      MS Sathe: 7c82e11b
+      Niv Nagavkar: e2abcf16
+      Prakash Bhatt: f848ab0b
+      RM Magare: d5966b42
+      Ratul Khan: 75855e23
+      Ritik Tomar: 6de51a8e
+      S Bangera: 856fc47a
+      S Davizi: 5787be00
+      S Grover: c2a6e61f
+      S Wickramasekara: a9a09cb8
+      SB Ravindra: 394ba7a8
+      SF Mangoda: caf0dbef
+      Sazib Bhuiyan: e5464794
+      V Marghashayam: 0d7e506a
+      WSLK Narayana: 4d21a67a
+      Yair Nagavkar: 138e30ab
+      Yogev Nagavkar: c85bea6b
+  team_type: international
+  teams:
+  - Czech Republic
+  - Israel
+  toss:
+    winner: Czech Republic
+    decision: bat
+  umpires:
+  - MS Sathe
+  - SB Ravindra
+  venue: Kerava National Cricket Ground
+innings:
+- 1st innings:
+    team: Czech Republic
+    deliveries:
+    - 0.1:
+        bowler: SF Mangoda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Grover
+        actual_delivery: '0.1'
+        batsman: Ratul Khan
+    - 0.2:
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Grover
+        actual_delivery: '0.1'
+        batsman: Ratul Khan
+    - 0.3:
+        non_striker: Ratul Khan
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: S Grover
+    - 0.4:
+        non_striker: Ratul Khan
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: S Grover
+    - 0.5:
+        non_striker: S Grover
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: Ratul Khan
+    - 0.6:
+        non_striker: Ratul Khan
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: S Grover
+    - 0.7:
+        non_striker: Ratul Khan
+        bowler: SF Mangoda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.6'
+        batsman: S Grover
+    - 0.8:
+        non_striker: Ratul Khan
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: S Grover
+    - 1.1:
+        non_striker: Ratul Khan
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: S Grover
+    - 1.2:
+        non_striker: Ratul Khan
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: S Grover
+    - 1.3:
+        non_striker: Ratul Khan
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: S Grover
+    - 1.4:
+        non_striker: Ratul Khan
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: S Grover
+    - 1.5:
+        non_striker: Ratul Khan
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: S Grover
+        wicket:
+          player_out: S Grover
+          kind: bowled
+    - 1.6:
+        non_striker: Ratul Khan
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Sazib Bhuiyan
+    - 2.1:
+        non_striker: Sazib Bhuiyan
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: Ratul Khan
+    - 2.2:
+        non_striker: Sazib Bhuiyan
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.2'
+        batsman: Ratul Khan
+    - 2.3:
+        non_striker: Sazib Bhuiyan
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: Ratul Khan
+    - 2.4:
+        non_striker: Ratul Khan
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Sazib Bhuiyan
+    - 2.5:
+        non_striker: Ratul Khan
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.5'
+        batsman: Sazib Bhuiyan
+    - 2.6:
+        non_striker: Ratul Khan
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: Sazib Bhuiyan
+    - 3.1:
+        non_striker: Ratul Khan
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Sazib Bhuiyan
+    - 3.2:
+        non_striker: Ratul Khan
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.2'
+        batsman: Sazib Bhuiyan
+    - 3.3:
+        non_striker: Ratul Khan
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Sazib Bhuiyan
+    - 3.4:
+        non_striker: Ratul Khan
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Sazib Bhuiyan
+    - 3.5:
+        non_striker: Ratul Khan
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.5'
+        batsman: Sazib Bhuiyan
+    - 3.6:
+        non_striker: Ratul Khan
+        bowler: Elan Talker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.6'
+        batsman: Sazib Bhuiyan
+    - 4.1:
+        non_striker: Sazib Bhuiyan
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: Ratul Khan
+    - 4.2:
+        non_striker: Sazib Bhuiyan
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: Ratul Khan
+    - 4.3:
+        non_striker: Ratul Khan
+        bowler: Niv Nagavkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.3'
+        batsman: Sazib Bhuiyan
+    - 4.4:
+        non_striker: Ratul Khan
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.3'
+        batsman: Sazib Bhuiyan
+    - 4.5:
+        non_striker: Ratul Khan
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: Sazib Bhuiyan
+        wicket:
+          player_out: Sazib Bhuiyan
+          kind: bowled
+    - 4.6:
+        non_striker: Ratul Khan
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: RM Magare
+    - 4.7:
+        non_striker: Ratul Khan
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: RM Magare
+    - 5.1:
+        non_striker: RM Magare
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: Ratul Khan
+    - 5.2:
+        non_striker: Ratul Khan
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: RM Magare
+    - 5.3:
+        non_striker: Ratul Khan
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: RM Magare
+    - 5.4:
+        non_striker: RM Magare
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.4'
+        batsman: Ratul Khan
+    - 5.5:
+        non_striker: RM Magare
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: Ratul Khan
+    - 5.6:
+        non_striker: Ratul Khan
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: RM Magare
+    - 6.1:
+        non_striker: Ratul Khan
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: RM Magare
+    - 6.2:
+        non_striker: RM Magare
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '6.2'
+        batsman: Ratul Khan
+    - 6.3:
+        non_striker: Ratul Khan
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: RM Magare
+    - 6.4:
+        non_striker: RM Magare
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Ratul Khan
+    - 6.5:
+        non_striker: RM Magare
+        bowler: Niv Nagavkar
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          legbyes: 3
+        actual_delivery: '6.5'
+        batsman: Ratul Khan
+    - 6.6:
+        non_striker: Ratul Khan
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: RM Magare
+    - 7.1:
+        non_striker: RM Magare
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: Ratul Khan
+    - 7.2:
+        non_striker: RM Magare
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: Ratul Khan
+    - 7.3:
+        non_striker: Ratul Khan
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.3'
+        batsman: RM Magare
+    - 7.4:
+        non_striker: Ratul Khan
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: RM Magare
+    - 7.5:
+        non_striker: RM Magare
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: Ratul Khan
+    - 7.6:
+        non_striker: Ratul Khan
+        bowler: JE Marks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.6'
+        batsman: RM Magare
+    - 8.1:
+        non_striker: RM Magare
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: Ratul Khan
+    - 8.2:
+        non_striker: Ratul Khan
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: RM Magare
+    - 8.3:
+        non_striker: Ratul Khan
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.3'
+        batsman: RM Magare
+    - 8.4:
+        non_striker: Ratul Khan
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: RM Magare
+    - 8.5:
+        non_striker: RM Magare
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: Ratul Khan
+    - 8.6:
+        non_striker: RM Magare
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Ratul Khan
+    - 9.1:
+        non_striker: Ratul Khan
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: RM Magare
+        wicket:
+          player_out: RM Magare
+          kind: lbw
+    - 9.2:
+        non_striker: Ratul Khan
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Ritik Tomar
+    - 9.3:
+        non_striker: Ratul Khan
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: Ritik Tomar
+    - 9.4:
+        non_striker: Ratul Khan
+        bowler: AL Khunti
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        actual_delivery: '9.4'
+        batsman: Ritik Tomar
+    - 9.5:
+        non_striker: Ratul Khan
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: Ritik Tomar
+    - 9.6:
+        non_striker: Ratul Khan
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: Ritik Tomar
+    - 9.7:
+        non_striker: Ratul Khan
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.6'
+        batsman: Ritik Tomar
+    - 10.1:
+        non_striker: Ritik Tomar
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: Ratul Khan
+    - 10.2:
+        non_striker: Ratul Khan
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.2'
+        batsman: Ritik Tomar
+    - 10.3:
+        non_striker: Ratul Khan
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Ritik Tomar
+    - 10.4:
+        non_striker: Ritik Tomar
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: Ratul Khan
+    - 10.5:
+        non_striker: Ritik Tomar
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: Ratul Khan
+    - 10.6:
+        non_striker: Ritik Tomar
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: Ratul Khan
+    - 11.1:
+        non_striker: Ritik Tomar
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: Ratul Khan
+    - 11.2:
+        non_striker: Ritik Tomar
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: Ratul Khan
+        wicket:
+          player_out: Ratul Khan
+          fielders:
+          - Elan Talker
+          kind: caught
+    - 11.3:
+        non_striker: Ritik Tomar
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: S Davizi
+    - 11.4:
+        non_striker: Ritik Tomar
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: S Davizi
+    - 11.5:
+        non_striker: Ritik Tomar
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: S Davizi
+    - 11.6:
+        non_striker: S Davizi
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: Ritik Tomar
+    - 12.1:
+        non_striker: Ritik Tomar
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: S Davizi
+    - 12.2:
+        non_striker: S Davizi
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: Ritik Tomar
+    - 12.3:
+        non_striker: S Davizi
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: Ritik Tomar
+    - 12.4:
+        non_striker: S Davizi
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.4'
+        batsman: Ritik Tomar
+    - 12.5:
+        non_striker: S Davizi
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Ritik Tomar
+    - 12.6:
+        non_striker: S Davizi
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: Ritik Tomar
+    - 13.1:
+        non_striker: S Davizi
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '13.1'
+        batsman: Ritik Tomar
+    - 13.2:
+        non_striker: S Davizi
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: Ritik Tomar
+    - 13.3:
+        non_striker: Ritik Tomar
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: S Davizi
+    - 13.4:
+        non_striker: Ritik Tomar
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: S Davizi
+    - 13.5:
+        non_striker: Ritik Tomar
+        bowler: AL Khunti
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        actual_delivery: '13.5'
+        batsman: S Davizi
+    - 13.6:
+        non_striker: Ritik Tomar
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: S Davizi
+    - 13.7:
+        non_striker: Ritik Tomar
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: S Davizi
+    - 14.1:
+        non_striker: Ritik Tomar
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: S Davizi
+    - 14.2:
+        non_striker: Ritik Tomar
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.2'
+        batsman: S Davizi
+    - 14.3:
+        non_striker: Ritik Tomar
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.3'
+        batsman: S Davizi
+    - 14.4:
+        non_striker: Ritik Tomar
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: S Davizi
+    - 14.5:
+        non_striker: Ritik Tomar
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: S Davizi
+    - 14.6:
+        non_striker: S Davizi
+        bowler: Yair Nagavkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.6'
+        batsman: Ritik Tomar
+    - 14.7:
+        non_striker: S Davizi
+        bowler: Yair Nagavkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '14.6'
+        batsman: Ritik Tomar
+    - 14.8:
+        non_striker: S Davizi
+        bowler: Yair Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: Ritik Tomar
+    - 15.1:
+        non_striker: Ritik Tomar
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: S Davizi
+    - 15.2:
+        non_striker: S Davizi
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: Ritik Tomar
+    - 15.3:
+        non_striker: S Davizi
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.3'
+        batsman: Ritik Tomar
+    - 15.4:
+        non_striker: S Davizi
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.4'
+        batsman: Ritik Tomar
+    - 15.5:
+        non_striker: S Davizi
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: Ritik Tomar
+        wicket:
+          player_out: Ritik Tomar
+          fielders:
+          - AL Khunti
+          kind: caught
+    - 15.6:
+        non_striker: S Davizi
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: S Wickramasekara
+    - 16.1:
+        non_striker: S Davizi
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.1'
+        batsman: S Wickramasekara
+    - 16.2:
+        non_striker: S Davizi
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.2'
+        batsman: S Wickramasekara
+    - 16.3:
+        non_striker: S Davizi
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.3'
+        batsman: S Wickramasekara
+    - 16.4:
+        non_striker: S Davizi
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: S Wickramasekara
+    - 16.5:
+        non_striker: S Wickramasekara
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: S Davizi
+        wicket:
+          player_out: S Davizi
+          fielders:
+          - E Bhonkar
+          kind: caught
+    - 16.6:
+        non_striker: S Wickramasekara
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: JR Cope
+    - 17.1:
+        non_striker: S Wickramasekara
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: JR Cope
+    - 17.2:
+        non_striker: S Wickramasekara
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: JR Cope
+    - 17.3:
+        non_striker: S Wickramasekara
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: JR Cope
+    - 17.4:
+        non_striker: S Wickramasekara
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.4'
+        batsman: JR Cope
+    - 17.5:
+        non_striker: S Wickramasekara
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.5'
+        batsman: JR Cope
+    - 17.6:
+        non_striker: S Wickramasekara
+        bowler: SF Mangoda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: JR Cope
+    - 18.1:
+        non_striker: S Wickramasekara
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: JR Cope
+    - 18.2:
+        non_striker: JR Cope
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.2'
+        batsman: S Wickramasekara
+    - 18.3:
+        non_striker: JR Cope
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.3'
+        batsman: S Wickramasekara
+    - 18.4:
+        non_striker: JR Cope
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: S Wickramasekara
+    - 18.5:
+        non_striker: S Wickramasekara
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.5'
+        batsman: JR Cope
+    - 18.6:
+        non_striker: JR Cope
+        bowler: Niv Nagavkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.6'
+        batsman: S Wickramasekara
+    - 19.1:
+        non_striker: S Wickramasekara
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.1'
+        batsman: JR Cope
+    - 19.2:
+        non_striker: S Wickramasekara
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: JR Cope
+    - 19.3:
+        non_striker: JR Cope
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.3'
+        batsman: S Wickramasekara
+    - 19.4:
+        non_striker: JR Cope
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.4'
+        batsman: S Wickramasekara
+    - 19.5:
+        non_striker: JR Cope
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.5'
+        batsman: S Wickramasekara
+    - 19.6:
+        non_striker: JR Cope
+        bowler: AL Khunti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: S Wickramasekara
+- 2nd innings:
+    team: Israel
+    deliveries:
+    - 0.1:
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WSLK Narayana
+        actual_delivery: '0.1'
+        batsman: Yogev Nagavkar
+    - 0.2:
+        bowler: JR Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: WSLK Narayana
+        actual_delivery: '0.2'
+        batsman: Yogev Nagavkar
+    - 0.3:
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: WSLK Narayana
+        actual_delivery: '0.2'
+        batsman: Yogev Nagavkar
+    - 0.4:
+        non_striker: Yogev Nagavkar
+        bowler: JR Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.3'
+        batsman: WSLK Narayana
+    - 0.5:
+        non_striker: Yogev Nagavkar
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: WSLK Narayana
+    - 0.6:
+        non_striker: Yogev Nagavkar
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: WSLK Narayana
+    - 0.7:
+        non_striker: WSLK Narayana
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.5'
+        batsman: Yogev Nagavkar
+    - 0.8:
+        non_striker: WSLK Narayana
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Yogev Nagavkar
+    - 1.1:
+        non_striker: Yogev Nagavkar
+        bowler: Ajhar Alam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.1'
+        batsman: WSLK Narayana
+    - 1.2:
+        non_striker: Yogev Nagavkar
+        bowler: Ajhar Alam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.2'
+        batsman: WSLK Narayana
+    - 1.3:
+        non_striker: Yogev Nagavkar
+        bowler: Ajhar Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: WSLK Narayana
+        wicket:
+          player_out: WSLK Narayana
+          fielders:
+          - Ratul Khan
+          kind: caught
+    - 1.4:
+        non_striker: Yogev Nagavkar
+        bowler: Ajhar Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: Niv Nagavkar
+    - 1.5:
+        non_striker: Niv Nagavkar
+        bowler: Ajhar Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: Yogev Nagavkar
+    - 1.6:
+        non_striker: Yogev Nagavkar
+        bowler: Ajhar Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: Niv Nagavkar
+    - 1.7:
+        non_striker: Niv Nagavkar
+        bowler: Ajhar Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Yogev Nagavkar
+    - 2.1:
+        non_striker: Yogev Nagavkar
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: Niv Nagavkar
+    - 2.2:
+        non_striker: Niv Nagavkar
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.2'
+        batsman: Yogev Nagavkar
+    - 2.3:
+        non_striker: Niv Nagavkar
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: Yogev Nagavkar
+    - 2.4:
+        non_striker: Niv Nagavkar
+        bowler: JR Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.4'
+        batsman: Yogev Nagavkar
+    - 2.5:
+        non_striker: Niv Nagavkar
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Yogev Nagavkar
+    - 2.6:
+        non_striker: Niv Nagavkar
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: Yogev Nagavkar
+    - 2.7:
+        non_striker: Niv Nagavkar
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: Yogev Nagavkar
+    - 3.1:
+        non_striker: Niv Nagavkar
+        bowler: Ajhar Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Yogev Nagavkar
+    - 3.2:
+        non_striker: Niv Nagavkar
+        bowler: Ajhar Alam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.2'
+        batsman: Yogev Nagavkar
+    - 3.3:
+        non_striker: Niv Nagavkar
+        bowler: Ajhar Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: Yogev Nagavkar
+    - 3.4:
+        non_striker: Niv Nagavkar
+        bowler: Ajhar Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Yogev Nagavkar
+    - 3.5:
+        non_striker: Niv Nagavkar
+        bowler: Ajhar Alam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Yogev Nagavkar
+    - 3.6:
+        non_striker: Niv Nagavkar
+        bowler: Ajhar Alam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.5'
+        batsman: Yogev Nagavkar
+    - 3.7:
+        non_striker: Niv Nagavkar
+        bowler: Ajhar Alam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.6'
+        batsman: Yogev Nagavkar
+    - 4.1:
+        non_striker: Yogev Nagavkar
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: Niv Nagavkar
+    - 4.2:
+        non_striker: Yogev Nagavkar
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: Niv Nagavkar
+    - 4.3:
+        non_striker: Yogev Nagavkar
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.3'
+        batsman: Niv Nagavkar
+    - 4.4:
+        non_striker: Yogev Nagavkar
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: Niv Nagavkar
+    - 4.5:
+        non_striker: Yogev Nagavkar
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: Niv Nagavkar
+    - 4.6:
+        non_striker: Niv Nagavkar
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Yogev Nagavkar
+    - 5.1:
+        non_striker: Yogev Nagavkar
+        bowler: Ajhar Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: Niv Nagavkar
+    - 5.2:
+        non_striker: Niv Nagavkar
+        bowler: Ajhar Alam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.2'
+        batsman: Yogev Nagavkar
+    - 5.3:
+        non_striker: Niv Nagavkar
+        bowler: Ajhar Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: Yogev Nagavkar
+    - 5.4:
+        non_striker: Yogev Nagavkar
+        bowler: Ajhar Alam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: Niv Nagavkar
+    - 5.5:
+        non_striker: Niv Nagavkar
+        bowler: Ajhar Alam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: Yogev Nagavkar
+    - 5.6:
+        non_striker: Niv Nagavkar
+        bowler: Ajhar Alam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: Yogev Nagavkar
+    - 6.1:
+        non_striker: Yogev Nagavkar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.1'
+        batsman: Niv Nagavkar
+    - 6.2:
+        non_striker: Yogev Nagavkar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: Niv Nagavkar
+    - 6.3:
+        non_striker: Yogev Nagavkar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: Niv Nagavkar
+    - 6.4:
+        non_striker: Niv Nagavkar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Yogev Nagavkar
+    - 6.5:
+        non_striker: Niv Nagavkar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.5'
+        batsman: Yogev Nagavkar
+    - 6.6:
+        non_striker: Niv Nagavkar
+        bowler: D Ramani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '6.6'
+        batsman: Yogev Nagavkar
+    - 7.1:
+        non_striker: Niv Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: Yogev Nagavkar
+    - 7.2:
+        non_striker: Niv Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: Yogev Nagavkar
+    - 7.3:
+        non_striker: Yogev Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: Niv Nagavkar
+    - 7.4:
+        non_striker: Niv Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: Yogev Nagavkar
+    - 7.5:
+        non_striker: Yogev Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.5'
+        batsman: Niv Nagavkar
+    - 7.6:
+        non_striker: Yogev Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.6'
+        batsman: Niv Nagavkar
+    - 7.7:
+        non_striker: Yogev Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.6'
+        batsman: Niv Nagavkar
+    - 8.1:
+        non_striker: Niv Nagavkar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: Yogev Nagavkar
+    - 8.2:
+        non_striker: Yogev Nagavkar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.2'
+        batsman: Niv Nagavkar
+    - 8.3:
+        non_striker: Yogev Nagavkar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: Niv Nagavkar
+    - 8.4:
+        non_striker: Niv Nagavkar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.4'
+        batsman: Yogev Nagavkar
+    - 8.5:
+        non_striker: Niv Nagavkar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Yogev Nagavkar
+    - 8.6:
+        non_striker: Yogev Nagavkar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Niv Nagavkar
+    - 9.1:
+        non_striker: Niv Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: Yogev Nagavkar
+    - 9.2:
+        non_striker: Yogev Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Niv Nagavkar
+    - 9.3:
+        non_striker: Yogev Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: Niv Nagavkar
+    - 9.4:
+        non_striker: Niv Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.4'
+        batsman: Yogev Nagavkar
+    - 9.5:
+        non_striker: Niv Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: Yogev Nagavkar
+    - 9.6:
+        non_striker: Yogev Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: Niv Nagavkar
+    - 10.1:
+        non_striker: Yogev Nagavkar
+        bowler: V Marghashayam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '10.1'
+        batsman: Niv Nagavkar
+    - 10.2:
+        non_striker: Yogev Nagavkar
+        bowler: V Marghashayam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: Niv Nagavkar
+    - 10.3:
+        non_striker: Niv Nagavkar
+        bowler: V Marghashayam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: Yogev Nagavkar
+        wicket:
+          player_out: Yogev Nagavkar
+          fielders:
+          - S Grover
+          kind: caught
+    - 10.4:
+        non_striker: Niv Nagavkar
+        bowler: V Marghashayam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '10.4'
+        batsman: SF Mangoda
+    - 10.5:
+        non_striker: Niv Nagavkar
+        bowler: V Marghashayam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '10.4'
+        batsman: SF Mangoda
+    - 10.6:
+        non_striker: Niv Nagavkar
+        bowler: V Marghashayam
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        actual_delivery: '10.4'
+        batsman: SF Mangoda
+    - 10.7:
+        non_striker: Niv Nagavkar
+        bowler: V Marghashayam
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          byes: 2
+          noballs: 1
+        actual_delivery: '10.4'
+        batsman: SF Mangoda
+    - 10.8:
+        non_striker: Niv Nagavkar
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        replacements:
+          role:
+          - in: Sazib Bhuiyan
+            out: V Marghashayam
+            reason: unknown
+            role: bowler
+        actual_delivery: '10.4'
+        batsman: SF Mangoda
+    - 10.9:
+        non_striker: Niv Nagavkar
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: SF Mangoda
+    - 10.10:
+        non_striker: SF Mangoda
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: Niv Nagavkar
+    - 11.1:
+        non_striker: SF Mangoda
+        bowler: S Davizi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.1'
+        batsman: Niv Nagavkar
+    - 11.2:
+        non_striker: SF Mangoda
+        bowler: S Davizi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: Niv Nagavkar
+    - 11.3:
+        non_striker: SF Mangoda
+        bowler: S Davizi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: Niv Nagavkar
+    - 11.4:
+        non_striker: Niv Nagavkar
+        bowler: S Davizi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '11.3'
+        batsman: SF Mangoda
+    - 11.5:
+        non_striker: SF Mangoda
+        bowler: S Davizi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.4'
+        batsman: Niv Nagavkar
+    - 11.6:
+        non_striker: SF Mangoda
+        bowler: S Davizi
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        actual_delivery: '11.5'
+        batsman: Niv Nagavkar
+    - 11.7:
+        non_striker: Niv Nagavkar
+        bowler: S Davizi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.5'
+        batsman: SF Mangoda
+    - 11.8:
+        non_striker: Niv Nagavkar
+        bowler: S Davizi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: SF Mangoda
+    - 11.9:
+        non_striker: SF Mangoda
+        bowler: S Davizi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.6'
+        batsman: Niv Nagavkar
+    - 11.10:
+        non_striker: SF Mangoda
+        bowler: S Davizi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: Niv Nagavkar
+    - 12.1:
+        non_striker: Niv Nagavkar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.1'
+        batsman: SF Mangoda
+    - 12.2:
+        non_striker: Niv Nagavkar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: SF Mangoda
+    - 12.3:
+        non_striker: Niv Nagavkar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: SF Mangoda
+    - 12.4:
+        non_striker: Niv Nagavkar
+        bowler: D Ramani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.4'
+        batsman: SF Mangoda
+    - 12.5:
+        non_striker: Niv Nagavkar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '12.4'
+        batsman: SF Mangoda
+    - 12.6:
+        non_striker: Niv Nagavkar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: SF Mangoda
+    - 12.7:
+        non_striker: Niv Nagavkar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: SF Mangoda
+        wicket:
+          player_out: SF Mangoda
+          fielders:
+          - Ratul Khan
+          kind: caught
+    - 13.1:
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yair Nagavkar
+        actual_delivery: '13.1'
+        batsman: Niv Nagavkar
+    - 13.2:
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Yair Nagavkar
+        actual_delivery: '13.2'
+        batsman: Niv Nagavkar
+    - 13.3:
+        non_striker: Niv Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Yair Nagavkar
+    - 13.4:
+        non_striker: Yair Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.4'
+        batsman: Niv Nagavkar
+    - 13.5:
+        non_striker: Yair Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: Niv Nagavkar
+    - 13.6:
+        non_striker: Niv Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: Yair Nagavkar
+    - 14.1:
+        non_striker: Yair Nagavkar
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: Niv Nagavkar
+    - 14.2:
+        non_striker: Yair Nagavkar
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.2'
+        batsman: Niv Nagavkar
+    - 14.3:
+        non_striker: Yair Nagavkar
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.3'
+        batsman: Niv Nagavkar
+    - 14.4:
+        non_striker: Yair Nagavkar
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '14.4'
+        batsman: Niv Nagavkar
+    - 14.5:
+        non_striker: Yair Nagavkar
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: Niv Nagavkar
+    - 14.6:
+        non_striker: Niv Nagavkar
+        bowler: RM Magare
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.6'
+        batsman: Yair Nagavkar
+    - 14.7:
+        non_striker: Niv Nagavkar
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.6'
+        batsman: Yair Nagavkar
+    - 15.1:
+        non_striker: Yair Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.1'
+        batsman: Niv Nagavkar
+    - 15.2:
+        non_striker: Yair Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: Niv Nagavkar
+    - 15.3:
+        non_striker: Niv Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: Yair Nagavkar
+    - 15.4:
+        non_striker: Yair Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.4'
+        batsman: Niv Nagavkar
+    - 15.5:
+        non_striker: Yair Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: Niv Nagavkar
+    - 15.6:
+        non_striker: Niv Nagavkar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: Yair Nagavkar
+    target:
+      overs: 20
+      runs: 155

@@ -1,0 +1,1813 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-08-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Vantaa
+  dates:
+  - '2026-08-20'
+  gender: male
+  match_type: T20
+  match_type_number: 4091
+  outcome:
+    winner: Portugal
+    by:
+      runs: 91
+    method: D/L
+  overs: 20
+  player_of_match:
+  - MC Henriques
+  players:
+    Portugal:
+    - D Norotam
+    - C De Freitas
+    - MC Henriques
+    - Craig Cachopa
+    - CD Shekleton
+    - C Nunes
+    - J Martins
+    - SC de Oliveira
+    - Edward Fleming
+    - Sirajullah Khadim
+    - R Hashu
+    Czech Republic:
+    - Ratul Khan
+    - S Davizi
+    - Ritik Tomar
+    - Sazib Bhuiyan
+    - S Wickramasekara
+    - JR Cope
+    - Saqlain Mukhtar
+    - D Ramani
+    - N Tyagi
+    - S Grover
+    - Sojib Miah
+  registry:
+    people:
+      Adnan Khan: 45ec7a99
+      C De Freitas: 22072cab
+      C Nunes: 37ee5d23
+      CD Shekleton: efdee934
+      Craig Cachopa: af294a6c
+      D Norotam: 90b73986
+      D Ramani: dacf556b
+      Edward Fleming: 2b43be58
+      J Martins: 9c96b71f
+      JR Cope: d22960d9
+      MC Henriques: 32198ae0
+      MS Sathe: 7c82e11b
+      N Tyagi: 53984f75
+      Prakash Bhatt: f848ab0b
+      R Hashu: a53029a1
+      Ratul Khan: 75855e23
+      Ritik Tomar: 6de51a8e
+      S Davizi: 5787be00
+      S Grover: c2a6e61f
+      S Wickramasekara: a9a09cb8
+      SB Ravindra: 394ba7a8
+      SC de Oliveira: 91ae10e1
+      Saqlain Mukhtar: 906bc22b
+      Sazib Bhuiyan: e5464794
+      Sirajullah Khadim: ff36e706
+      Sojib Miah: 2c1f0acf
+  team_type: international
+  teams:
+  - Portugal
+  - Czech Republic
+  toss:
+    winner: Portugal
+    decision: bat
+  umpires:
+  - Adnan Khan
+  - SB Ravindra
+  venue: Tikkurila Cricket Ground
+innings:
+- 1st innings:
+    team: Portugal
+    deliveries:
+    - 0.1:
+        non_striker: C De Freitas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: D Norotam
+        wicket:
+          player_out: D Norotam
+          fielders:
+          - Ritik Tomar
+          kind: caught
+    - 0.2:
+        non_striker: C De Freitas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: MC Henriques
+    - 0.3:
+        non_striker: C De Freitas
+        bowler: JR Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.3'
+        batsman: MC Henriques
+    - 0.4:
+        non_striker: C De Freitas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.3'
+        batsman: MC Henriques
+    - 0.5:
+        non_striker: C De Freitas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.4'
+        batsman: MC Henriques
+    - 0.6:
+        non_striker: MC Henriques
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: C De Freitas
+    - 0.7:
+        non_striker: C De Freitas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: MC Henriques
+    - 1.1:
+        non_striker: C De Freitas
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.1'
+        batsman: MC Henriques
+    - 1.2:
+        non_striker: C De Freitas
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: MC Henriques
+    - 1.3:
+        non_striker: C De Freitas
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: MC Henriques
+    - 1.4:
+        non_striker: C De Freitas
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.4'
+        batsman: MC Henriques
+    - 1.5:
+        non_striker: C De Freitas
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.5'
+        batsman: MC Henriques
+    - 1.6:
+        non_striker: MC Henriques
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: C De Freitas
+    - 2.1:
+        non_striker: C De Freitas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: MC Henriques
+    - 2.2:
+        non_striker: MC Henriques
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: C De Freitas
+    - 2.3:
+        non_striker: C De Freitas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: MC Henriques
+    - 2.4:
+        non_striker: MC Henriques
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: C De Freitas
+    - 2.5:
+        non_striker: C De Freitas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.5'
+        batsman: MC Henriques
+    - 2.6:
+        non_striker: C De Freitas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: MC Henriques
+    - 3.1:
+        non_striker: C De Freitas
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.1'
+        batsman: MC Henriques
+    - 3.2:
+        non_striker: C De Freitas
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.2'
+        batsman: MC Henriques
+    - 3.3:
+        non_striker: C De Freitas
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: MC Henriques
+    - 3.4:
+        non_striker: C De Freitas
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.4'
+        batsman: MC Henriques
+    - 3.5:
+        non_striker: C De Freitas
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.5'
+        batsman: MC Henriques
+    - 3.6:
+        non_striker: C De Freitas
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: MC Henriques
+    - 4.1:
+        non_striker: MC Henriques
+        bowler: JR Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.1'
+        batsman: C De Freitas
+    - 4.2:
+        non_striker: MC Henriques
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.1'
+        batsman: C De Freitas
+    - 4.3:
+        non_striker: MC Henriques
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: C De Freitas
+    - 4.4:
+        non_striker: C De Freitas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.3'
+        batsman: MC Henriques
+    - 4.5:
+        non_striker: C De Freitas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.4'
+        batsman: MC Henriques
+    - 4.6:
+        non_striker: C De Freitas
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: MC Henriques
+    - 4.7:
+        non_striker: MC Henriques
+        bowler: JR Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.6'
+        batsman: C De Freitas
+    - 4.8:
+        non_striker: MC Henriques
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.6'
+        batsman: C De Freitas
+    - 5.1:
+        non_striker: C De Freitas
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.1'
+        batsman: MC Henriques
+    - 5.2:
+        non_striker: C De Freitas
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: MC Henriques
+    - 5.3:
+        non_striker: C De Freitas
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.3'
+        batsman: MC Henriques
+    - 5.4:
+        non_striker: MC Henriques
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.4'
+        batsman: C De Freitas
+    - 5.5:
+        non_striker: MC Henriques
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.4'
+        batsman: C De Freitas
+    - 5.6:
+        non_striker: MC Henriques
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.5'
+        batsman: C De Freitas
+    - 5.7:
+        non_striker: MC Henriques
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: C De Freitas
+    - 6.1:
+        non_striker: C De Freitas
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: MC Henriques
+    - 6.2:
+        non_striker: C De Freitas
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: MC Henriques
+    - 6.3:
+        non_striker: MC Henriques
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: C De Freitas
+    - 6.4:
+        non_striker: C De Freitas
+        bowler: S Wickramasekara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.4'
+        batsman: MC Henriques
+    - 6.5:
+        non_striker: C De Freitas
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: MC Henriques
+    - 6.6:
+        non_striker: MC Henriques
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: C De Freitas
+    - 6.7:
+        non_striker: C De Freitas
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: MC Henriques
+    - 7.1:
+        non_striker: C De Freitas
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: MC Henriques
+    - 7.2:
+        non_striker: C De Freitas
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.2'
+        batsman: MC Henriques
+    - 7.3:
+        non_striker: C De Freitas
+        bowler: D Ramani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '7.3'
+        batsman: MC Henriques
+    - 7.4:
+        non_striker: MC Henriques
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: C De Freitas
+    - 7.5:
+        non_striker: C De Freitas
+        bowler: D Ramani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.5'
+        batsman: MC Henriques
+    - 7.6:
+        non_striker: C De Freitas
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: MC Henriques
+    - 7.7:
+        non_striker: C De Freitas
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: MC Henriques
+    - 8.1:
+        non_striker: C De Freitas
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: MC Henriques
+    - 8.2:
+        non_striker: MC Henriques
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: C De Freitas
+    - 8.3:
+        non_striker: MC Henriques
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: C De Freitas
+    - 8.4:
+        non_striker: C De Freitas
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: MC Henriques
+    - 8.5:
+        non_striker: MC Henriques
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: C De Freitas
+        wicket:
+          player_out: C De Freitas
+          kind: bowled
+    - 8.6:
+        non_striker: MC Henriques
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: Craig Cachopa
+    - 9.1:
+        non_striker: MC Henriques
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: Craig Cachopa
+    - 9.2:
+        non_striker: MC Henriques
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Craig Cachopa
+    - 9.3:
+        non_striker: MC Henriques
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '9.3'
+        batsman: Craig Cachopa
+    - 9.4:
+        non_striker: MC Henriques
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: Craig Cachopa
+    - 9.5:
+        non_striker: MC Henriques
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: Craig Cachopa
+    - 9.6:
+        non_striker: Craig Cachopa
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: MC Henriques
+    - 10.1:
+        non_striker: Craig Cachopa
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: MC Henriques
+    - 10.2:
+        non_striker: Craig Cachopa
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '10.2'
+        batsman: MC Henriques
+    - 10.3:
+        non_striker: Craig Cachopa
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: MC Henriques
+    - 10.4:
+        non_striker: Craig Cachopa
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: MC Henriques
+    - 10.5:
+        non_striker: MC Henriques
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: Craig Cachopa
+    - 10.6:
+        non_striker: MC Henriques
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Craig Cachopa
+    - 11.1:
+        non_striker: Craig Cachopa
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: MC Henriques
+    - 11.2:
+        non_striker: Craig Cachopa
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '11.2'
+        batsman: MC Henriques
+    - 11.3:
+        non_striker: Craig Cachopa
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '11.3'
+        batsman: MC Henriques
+    - 11.4:
+        non_striker: MC Henriques
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: Craig Cachopa
+    - 11.5:
+        non_striker: Craig Cachopa
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: MC Henriques
+    - 11.6:
+        non_striker: Craig Cachopa
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.6'
+        batsman: MC Henriques
+    - 12.1:
+        non_striker: MC Henriques
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Craig Cachopa
+    - 12.2:
+        non_striker: MC Henriques
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.2'
+        batsman: Craig Cachopa
+    - 12.3:
+        non_striker: MC Henriques
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.2'
+        batsman: Craig Cachopa
+    - 12.4:
+        non_striker: MC Henriques
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: Craig Cachopa
+    - 12.5:
+        non_striker: Craig Cachopa
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.4'
+        batsman: MC Henriques
+    - 12.6:
+        non_striker: Craig Cachopa
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '12.5'
+        batsman: MC Henriques
+    - 12.7:
+        non_striker: Craig Cachopa
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '12.5'
+        batsman: MC Henriques
+    - 12.8:
+        non_striker: Craig Cachopa
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '12.6'
+        batsman: MC Henriques
+    - 13.1:
+        non_striker: MC Henriques
+        bowler: D Ramani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '13.1'
+        batsman: Craig Cachopa
+    - 13.2:
+        non_striker: MC Henriques
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: Craig Cachopa
+    - 13.3:
+        non_striker: MC Henriques
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: Craig Cachopa
+    - 13.4:
+        non_striker: MC Henriques
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Craig Cachopa
+    - 13.5:
+        non_striker: Craig Cachopa
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.4'
+        batsman: MC Henriques
+    - 13.6:
+        non_striker: Craig Cachopa
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: MC Henriques
+        wicket:
+          player_out: MC Henriques
+          kind: lbw
+    - 13.7:
+        non_striker: Craig Cachopa
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: CD Shekleton
+    - 14.1:
+        non_striker: Craig Cachopa
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: CD Shekleton
+    - 14.2:
+        non_striker: CD Shekleton
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: Craig Cachopa
+    - 14.3:
+        non_striker: Craig Cachopa
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: CD Shekleton
+        wicket:
+          player_out: CD Shekleton
+          fielders:
+          - D Ramani
+          kind: caught
+    - 14.4:
+        non_striker: Craig Cachopa
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: C Nunes
+    - 14.5:
+        non_striker: C Nunes
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: Craig Cachopa
+    - 14.6:
+        non_striker: Craig Cachopa
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: C Nunes
+    - 15.1:
+        non_striker: Craig Cachopa
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.1'
+        batsman: C Nunes
+    - 15.2:
+        non_striker: Craig Cachopa
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: C Nunes
+    - 15.3:
+        non_striker: Craig Cachopa
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.3'
+        batsman: C Nunes
+    - 15.4:
+        non_striker: Craig Cachopa
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: C Nunes
+    - 15.5:
+        non_striker: C Nunes
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: Craig Cachopa
+    - 15.6:
+        non_striker: C Nunes
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.6'
+        batsman: Craig Cachopa
+    - 16.1:
+        non_striker: Craig Cachopa
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: C Nunes
+    - 16.2:
+        non_striker: Craig Cachopa
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: C Nunes
+    - 16.3:
+        non_striker: C Nunes
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: Craig Cachopa
+    - 16.4:
+        non_striker: C Nunes
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: Craig Cachopa
+    - 16.5:
+        non_striker: Craig Cachopa
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.5'
+        batsman: C Nunes
+    - 16.6:
+        non_striker: C Nunes
+        bowler: Ritik Tomar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.6'
+        batsman: Craig Cachopa
+    - 16.7:
+        non_striker: C Nunes
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.6'
+        batsman: Craig Cachopa
+    - 17.1:
+        non_striker: Craig Cachopa
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.1'
+        batsman: C Nunes
+    - 17.2:
+        non_striker: C Nunes
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.2'
+        batsman: Craig Cachopa
+        wicket:
+          player_out: Craig Cachopa
+          kind: bowled
+    - 17.3:
+        non_striker: C Nunes
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: J Martins
+    - 17.4:
+        non_striker: J Martins
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: C Nunes
+    - 17.5:
+        non_striker: J Martins
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.5'
+        batsman: C Nunes
+    - 17.6:
+        non_striker: J Martins
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.6'
+        batsman: C Nunes
+    - 18.1:
+        non_striker: C Nunes
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: J Martins
+    - 18.2:
+        non_striker: J Martins
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: C Nunes
+    - 18.3:
+        non_striker: C Nunes
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: J Martins
+    - 18.4:
+        non_striker: C Nunes
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.4'
+        batsman: J Martins
+    - 18.5:
+        non_striker: C Nunes
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: J Martins
+        wicket:
+          player_out: J Martins
+          fielders:
+          - Ratul Khan
+          kind: caught
+    - 18.6:
+        non_striker: C Nunes
+        bowler: Ritik Tomar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: SC de Oliveira
+    - 19.1:
+        non_striker: C Nunes
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: SC de Oliveira
+    - 19.2:
+        non_striker: SC de Oliveira
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.2'
+        batsman: C Nunes
+    - 19.3:
+        non_striker: SC de Oliveira
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: C Nunes
+    - 19.4:
+        non_striker: SC de Oliveira
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.4'
+        batsman: C Nunes
+    - 19.5:
+        non_striker: SC de Oliveira
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.5'
+        batsman: C Nunes
+    - 19.6:
+        non_striker: SC de Oliveira
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '19.6'
+        batsman: C Nunes
+- 2nd innings:
+    team: Czech Republic
+    deliveries:
+    - 0.1:
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Davizi
+        actual_delivery: '0.1'
+        batsman: Ratul Khan
+    - 0.2:
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Davizi
+        actual_delivery: '0.2'
+        batsman: Ratul Khan
+    - 0.3:
+        non_striker: S Davizi
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: Ratul Khan
+        wicket:
+          player_out: Ratul Khan
+          fielders:
+          - R Hashu
+          kind: caught
+    - 0.4:
+        non_striker: S Davizi
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Ritik Tomar
+    - 0.5:
+        non_striker: S Davizi
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Ritik Tomar
+    - 0.6:
+        non_striker: S Davizi
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Ritik Tomar
+    - 1.1:
+        non_striker: Ritik Tomar
+        bowler: J Martins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: S Davizi
+    - 1.2:
+        non_striker: Ritik Tomar
+        bowler: J Martins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: S Davizi
+    - 1.3:
+        non_striker: Ritik Tomar
+        bowler: J Martins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: S Davizi
+    - 1.4:
+        non_striker: S Davizi
+        bowler: J Martins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: Ritik Tomar
+        wicket:
+          player_out: Ritik Tomar
+          fielders:
+          - CD Shekleton
+          kind: caught
+    - 1.5:
+        non_striker: S Davizi
+        bowler: J Martins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Sazib Bhuiyan
+    - 1.6:
+        non_striker: S Davizi
+        bowler: J Martins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Sazib Bhuiyan
+    - 2.1:
+        non_striker: Sazib Bhuiyan
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: S Davizi
+        wicket:
+          player_out: S Davizi
+          fielders:
+          - D Norotam
+          kind: caught
+    - 2.2:
+        non_striker: Sazib Bhuiyan
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: S Wickramasekara
+    - 2.3:
+        non_striker: Sazib Bhuiyan
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: S Wickramasekara
+    - 2.4:
+        non_striker: Sazib Bhuiyan
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: S Wickramasekara
+    - 2.5:
+        non_striker: Sazib Bhuiyan
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: S Wickramasekara
+    - 2.6:
+        non_striker: Sazib Bhuiyan
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: S Wickramasekara
+    - 3.1:
+        non_striker: S Wickramasekara
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Sazib Bhuiyan
+    - 3.2:
+        non_striker: S Wickramasekara
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: Sazib Bhuiyan
+    - 3.3:
+        non_striker: S Wickramasekara
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Sazib Bhuiyan
+    - 3.4:
+        non_striker: S Wickramasekara
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: Sazib Bhuiyan
+    - 3.5:
+        non_striker: Sazib Bhuiyan
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: S Wickramasekara
+    - 3.6:
+        non_striker: Sazib Bhuiyan
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: S Wickramasekara
+    - 4.1:
+        non_striker: Sazib Bhuiyan
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: S Wickramasekara
+    - 4.2:
+        non_striker: Sazib Bhuiyan
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.2'
+        batsman: S Wickramasekara
+    - 4.3:
+        non_striker: Sazib Bhuiyan
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: S Wickramasekara
+    - 4.4:
+        non_striker: S Wickramasekara
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: Sazib Bhuiyan
+    - 4.5:
+        non_striker: Sazib Bhuiyan
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: S Wickramasekara
+        wicket:
+          player_out: S Wickramasekara
+          fielders:
+          - MC Henriques
+          kind: caught
+    - 4.6:
+        non_striker: Sazib Bhuiyan
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: JR Cope
+    - 5.1:
+        non_striker: JR Cope
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: Sazib Bhuiyan
+    - 5.2:
+        non_striker: Sazib Bhuiyan
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: JR Cope
+    - 5.3:
+        non_striker: Sazib Bhuiyan
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: JR Cope
+    - 5.4:
+        non_striker: Sazib Bhuiyan
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: JR Cope
+    - 5.5:
+        non_striker: JR Cope
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Sazib Bhuiyan
+    - 5.6:
+        non_striker: JR Cope
+        bowler: SC de Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: Sazib Bhuiyan
+    - 6.1:
+        non_striker: JR Cope
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: Sazib Bhuiyan
+    - 6.2:
+        non_striker: JR Cope
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: Sazib Bhuiyan
+    - 6.3:
+        non_striker: Sazib Bhuiyan
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: JR Cope
+    - 6.4:
+        non_striker: Sazib Bhuiyan
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: JR Cope
+    - 6.5:
+        non_striker: Sazib Bhuiyan
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: JR Cope
+    - 6.6:
+        non_striker: Sazib Bhuiyan
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: JR Cope
+    - 7.1:
+        non_striker: Sazib Bhuiyan
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: JR Cope
+    - 7.2:
+        non_striker: Sazib Bhuiyan
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.2'
+        batsman: JR Cope
+    - 7.3:
+        non_striker: Sazib Bhuiyan
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: JR Cope
+    - 7.4:
+        non_striker: JR Cope
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.4'
+        batsman: Sazib Bhuiyan
+    - 7.5:
+        non_striker: JR Cope
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: Sazib Bhuiyan
+        wicket:
+          player_out: Sazib Bhuiyan
+          fielders:
+          - Craig Cachopa
+          kind: caught
+    - 7.6:
+        non_striker: JR Cope
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: Saqlain Mukhtar
+    - 8.1:
+        non_striker: Saqlain Mukhtar
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: JR Cope
+    - 8.2:
+        non_striker: Saqlain Mukhtar
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: JR Cope
+    - 8.3:
+        non_striker: Saqlain Mukhtar
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: JR Cope
+    - 8.4:
+        non_striker: Saqlain Mukhtar
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: JR Cope
+    - 8.5:
+        non_striker: Saqlain Mukhtar
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: JR Cope
+    target:
+      overs: 8.5
+      runs: 116

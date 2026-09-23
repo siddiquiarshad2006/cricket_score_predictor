@@ -1,0 +1,2541 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-08-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Vantaa
+  dates:
+  - '2026-08-21'
+  gender: male
+  match_type: T20
+  match_type_number: 4093
+  outcome:
+    winner: Czech Republic
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - RM Magare
+  players:
+    Bulgaria:
+    - M Gogev
+    - Manan Bashir
+    - Isa Zaroo
+    - K Krishnakumar
+    - Jakob Gul
+    - Danyal Raja
+    - A Dowling
+    - P Mishra
+    - J Dowling
+    - O Duff
+    - Ivan Genchev
+    Czech Republic:
+    - RM Magare
+    - S Grover
+    - Ritik Tomar
+    - Sazib Bhuiyan
+    - S Wickramasekara
+    - Sojib Miah
+    - Ratul Khan
+    - JR Cope
+    - D Ramani
+    - N Tyagi
+    - Saqlain Mukhtar
+  registry:
+    people:
+      A Dowling: ec064d97
+      D Ramani: dacf556b
+      Danyal Raja: 324e00a9
+      Isa Zaroo: 9822fb85
+      Ivan Genchev: '069d0889'
+      J Dowling: 9f16f7c8
+      JR Cope: d22960d9
+      Jakob Gul: a4696d64
+      K Krishnakumar: ff60c8ba
+      M Gogev: 995fd3b2
+      MS Sathe: 7c82e11b
+      Manan Bashir: 5c14bd52
+      N Tyagi: 53984f75
+      O Duff: 550c9b2c
+      P Mishra: 3fa5672e
+      Prakash Bhatt: f848ab0b
+      RM Magare: d5966b42
+      Ratul Khan: 75855e23
+      Ritik Tomar: 6de51a8e
+      S Grover: c2a6e61f
+      S Wickramasekara: a9a09cb8
+      SB Ravindra: 394ba7a8
+      SG Chandiramani: 4fa795d2
+      Saqlain Mukhtar: 906bc22b
+      Sazib Bhuiyan: e5464794
+      Sojib Miah: 2c1f0acf
+  team_type: international
+  teams:
+  - Bulgaria
+  - Czech Republic
+  toss:
+    winner: Czech Republic
+    decision: field
+  umpires:
+  - MS Sathe
+  - SB Ravindra
+  venue: Tikkurila Cricket Ground
+innings:
+- 1st innings:
+    team: Bulgaria
+    deliveries:
+    - 0.1:
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Manan Bashir
+        actual_delivery: '0.1'
+        batsman: M Gogev
+    - 0.2:
+        non_striker: M Gogev
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.2'
+        batsman: Manan Bashir
+    - 0.3:
+        non_striker: Manan Bashir
+        bowler: JR Cope
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        actual_delivery: '0.3'
+        batsman: M Gogev
+    - 0.4:
+        non_striker: Manan Bashir
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: M Gogev
+    - 0.5:
+        non_striker: Manan Bashir
+        bowler: JR Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.4'
+        batsman: M Gogev
+    - 0.6:
+        non_striker: Manan Bashir
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.4'
+        batsman: M Gogev
+    - 0.7:
+        non_striker: Manan Bashir
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: M Gogev
+    - 0.8:
+        non_striker: Manan Bashir
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: M Gogev
+        wicket:
+          player_out: M Gogev
+          kind: bowled
+    - 1.1:
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Isa Zaroo
+        actual_delivery: '1.1'
+        batsman: Manan Bashir
+    - 1.2:
+        non_striker: Manan Bashir
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: Isa Zaroo
+    - 1.3:
+        non_striker: Manan Bashir
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: Isa Zaroo
+    - 1.4:
+        non_striker: Isa Zaroo
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.4'
+        batsman: Manan Bashir
+    - 1.5:
+        non_striker: Isa Zaroo
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.5'
+        batsman: Manan Bashir
+    - 1.6:
+        non_striker: Isa Zaroo
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.6'
+        batsman: Manan Bashir
+    - 2.1:
+        non_striker: Manan Bashir
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: Isa Zaroo
+    - 2.2:
+        non_striker: Isa Zaroo
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: Manan Bashir
+    - 2.3:
+        non_striker: Isa Zaroo
+        bowler: JR Cope
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        actual_delivery: '2.3'
+        batsman: Manan Bashir
+    - 2.4:
+        non_striker: Isa Zaroo
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Manan Bashir
+        wicket:
+          player_out: Manan Bashir
+          kind: bowled
+    - 2.5:
+        non_striker: Isa Zaroo
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: K Krishnakumar
+    - 2.6:
+        non_striker: Isa Zaroo
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: K Krishnakumar
+    - 3.1:
+        non_striker: K Krishnakumar
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: Isa Zaroo
+    - 3.2:
+        non_striker: Isa Zaroo
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: K Krishnakumar
+    - 3.3:
+        non_striker: Isa Zaroo
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: K Krishnakumar
+    - 3.4:
+        non_striker: K Krishnakumar
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.4'
+        batsman: Isa Zaroo
+    - 3.5:
+        non_striker: K Krishnakumar
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: Isa Zaroo
+    - 3.6:
+        non_striker: Isa Zaroo
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: K Krishnakumar
+    - 4.1:
+        non_striker: Isa Zaroo
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: K Krishnakumar
+    - 4.2:
+        non_striker: Isa Zaroo
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: K Krishnakumar
+    - 4.3:
+        non_striker: K Krishnakumar
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        actual_delivery: '4.3'
+        batsman: Isa Zaroo
+    - 4.4:
+        non_striker: K Krishnakumar
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: Isa Zaroo
+    - 4.5:
+        non_striker: K Krishnakumar
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: Isa Zaroo
+    - 4.6:
+        non_striker: Isa Zaroo
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        actual_delivery: '4.5'
+        batsman: K Krishnakumar
+    - 4.7:
+        non_striker: Isa Zaroo
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.5'
+        batsman: K Krishnakumar
+    - 4.8:
+        non_striker: Isa Zaroo
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.6'
+        batsman: K Krishnakumar
+    - 4.9:
+        non_striker: Isa Zaroo
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: K Krishnakumar
+    - 5.1:
+        non_striker: K Krishnakumar
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.1'
+        batsman: Isa Zaroo
+    - 5.2:
+        non_striker: K Krishnakumar
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.2'
+        batsman: Isa Zaroo
+    - 5.3:
+        non_striker: K Krishnakumar
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: Isa Zaroo
+    - 5.4:
+        non_striker: K Krishnakumar
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: Isa Zaroo
+    - 5.5:
+        non_striker: K Krishnakumar
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Isa Zaroo
+    - 5.6:
+        non_striker: K Krishnakumar
+        bowler: N Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.6'
+        batsman: Isa Zaroo
+    - 6.1:
+        non_striker: Isa Zaroo
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: K Krishnakumar
+    - 6.2:
+        non_striker: K Krishnakumar
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: Isa Zaroo
+    - 6.3:
+        non_striker: K Krishnakumar
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Isa Zaroo
+    - 6.4:
+        non_striker: K Krishnakumar
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: Isa Zaroo
+    - 6.5:
+        non_striker: Isa Zaroo
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.5'
+        batsman: K Krishnakumar
+    - 6.6:
+        non_striker: Isa Zaroo
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: K Krishnakumar
+    - 7.1:
+        non_striker: Isa Zaroo
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: K Krishnakumar
+    - 7.2:
+        non_striker: Isa Zaroo
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: K Krishnakumar
+    - 7.3:
+        non_striker: Isa Zaroo
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: K Krishnakumar
+    - 7.4:
+        non_striker: K Krishnakumar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: Isa Zaroo
+    - 7.5:
+        non_striker: Isa Zaroo
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: K Krishnakumar
+    - 7.6:
+        non_striker: K Krishnakumar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: Isa Zaroo
+    - 8.1:
+        non_striker: K Krishnakumar
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.1'
+        batsman: Isa Zaroo
+    - 8.2:
+        non_striker: K Krishnakumar
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Isa Zaroo
+    - 8.3:
+        non_striker: Isa Zaroo
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.3'
+        batsman: K Krishnakumar
+    - 8.4:
+        non_striker: Isa Zaroo
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: K Krishnakumar
+    - 8.5:
+        non_striker: K Krishnakumar
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: Isa Zaroo
+    - 8.6:
+        non_striker: K Krishnakumar
+        bowler: Saqlain Mukhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: Isa Zaroo
+    - 9.1:
+        non_striker: K Krishnakumar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: Isa Zaroo
+    - 9.2:
+        non_striker: K Krishnakumar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Isa Zaroo
+        wicket:
+          player_out: Isa Zaroo
+          kind: bowled
+    - 9.3:
+        non_striker: K Krishnakumar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: Jakob Gul
+    - 9.4:
+        non_striker: K Krishnakumar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: Jakob Gul
+    - 9.5:
+        non_striker: Jakob Gul
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: K Krishnakumar
+    - 9.6:
+        non_striker: K Krishnakumar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: Jakob Gul
+    - 10.1:
+        non_striker: K Krishnakumar
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: Jakob Gul
+    - 10.2:
+        non_striker: Jakob Gul
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: K Krishnakumar
+    - 10.3:
+        non_striker: K Krishnakumar
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Jakob Gul
+    - 10.4:
+        non_striker: Jakob Gul
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.4'
+        batsman: K Krishnakumar
+    - 10.5:
+        non_striker: Jakob Gul
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: K Krishnakumar
+    - 10.6:
+        non_striker: K Krishnakumar
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.5'
+        batsman: Jakob Gul
+    - 10.7:
+        non_striker: K Krishnakumar
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: Jakob Gul
+    - 10.8:
+        non_striker: Jakob Gul
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.6'
+        batsman: K Krishnakumar
+    - 10.9:
+        non_striker: Jakob Gul
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.6'
+        batsman: K Krishnakumar
+    - 10.10:
+        non_striker: Jakob Gul
+        bowler: Sazib Bhuiyan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.6'
+        batsman: K Krishnakumar
+    - 11.1:
+        non_striker: K Krishnakumar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: Jakob Gul
+    - 11.2:
+        non_striker: Jakob Gul
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: K Krishnakumar
+    - 11.3:
+        non_striker: Jakob Gul
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.3'
+        batsman: K Krishnakumar
+    - 11.4:
+        non_striker: Jakob Gul
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: K Krishnakumar
+    - 11.5:
+        non_striker: K Krishnakumar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: Jakob Gul
+    - 11.6:
+        non_striker: Jakob Gul
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: K Krishnakumar
+    - 12.1:
+        non_striker: K Krishnakumar
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: Jakob Gul
+    - 12.2:
+        non_striker: Jakob Gul
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: K Krishnakumar
+    - 12.3:
+        non_striker: K Krishnakumar
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: Jakob Gul
+        wicket:
+          player_out: Jakob Gul
+          fielders:
+          - RM Magare
+          - Ritik Tomar
+          kind: run out
+    - 12.4:
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Danyal Raja
+        actual_delivery: '12.4'
+        batsman: K Krishnakumar
+    - 12.5:
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Danyal Raja
+        actual_delivery: '12.5'
+        batsman: K Krishnakumar
+    - 12.6:
+        non_striker: Danyal Raja
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.6'
+        batsman: K Krishnakumar
+    - 13.1:
+        non_striker: K Krishnakumar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: Danyal Raja
+    - 13.2:
+        non_striker: K Krishnakumar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: Danyal Raja
+    - 13.3:
+        non_striker: K Krishnakumar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: Danyal Raja
+    - 13.4:
+        non_striker: K Krishnakumar
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Danyal Raja
+    - 13.5:
+        non_striker: K Krishnakumar
+        bowler: D Ramani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '13.5'
+        batsman: Danyal Raja
+    - 13.6:
+        non_striker: Danyal Raja
+        bowler: D Ramani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: K Krishnakumar
+    - 14.1:
+        non_striker: K Krishnakumar
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: Danyal Raja
+    - 14.2:
+        non_striker: K Krishnakumar
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: Danyal Raja
+    - 14.3:
+        non_striker: K Krishnakumar
+        bowler: RM Magare
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.3'
+        batsman: Danyal Raja
+    - 14.4:
+        non_striker: K Krishnakumar
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: Danyal Raja
+    - 14.5:
+        non_striker: K Krishnakumar
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: Danyal Raja
+        wicket:
+          player_out: Danyal Raja
+          kind: bowled
+    - 14.6:
+        non_striker: K Krishnakumar
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: A Dowling
+    - 14.7:
+        non_striker: K Krishnakumar
+        bowler: RM Magare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: A Dowling
+    - 15.1:
+        non_striker: A Dowling
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: K Krishnakumar
+    - 15.2:
+        non_striker: A Dowling
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.2'
+        batsman: K Krishnakumar
+    - 15.3:
+        non_striker: A Dowling
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.3'
+        batsman: K Krishnakumar
+    - 15.4:
+        non_striker: A Dowling
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: K Krishnakumar
+    - 15.5:
+        non_striker: K Krishnakumar
+        bowler: S Wickramasekara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '15.5'
+        batsman: A Dowling
+    - 15.6:
+        non_striker: K Krishnakumar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '15.5'
+        batsman: A Dowling
+    - 15.7:
+        non_striker: K Krishnakumar
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: A Dowling
+    - 16.1:
+        non_striker: K Krishnakumar
+        bowler: JR Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.1'
+        batsman: A Dowling
+    - 16.2:
+        non_striker: K Krishnakumar
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: A Dowling
+    - 16.3:
+        non_striker: A Dowling
+        bowler: JR Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.2'
+        batsman: K Krishnakumar
+    - 16.4:
+        non_striker: A Dowling
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.2'
+        batsman: K Krishnakumar
+    - 16.5:
+        non_striker: A Dowling
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.3'
+        batsman: K Krishnakumar
+    - 16.6:
+        non_striker: A Dowling
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.4'
+        batsman: K Krishnakumar
+    - 16.7:
+        non_striker: A Dowling
+        bowler: JR Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.5'
+        batsman: K Krishnakumar
+    - 16.8:
+        non_striker: A Dowling
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: K Krishnakumar
+    - 16.9:
+        non_striker: A Dowling
+        bowler: JR Cope
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.6'
+        batsman: K Krishnakumar
+    - 16.10:
+        non_striker: A Dowling
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: K Krishnakumar
+    - 17.1:
+        non_striker: A Dowling
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: K Krishnakumar
+    - 17.2:
+        non_striker: A Dowling
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.2'
+        batsman: K Krishnakumar
+    - 17.3:
+        non_striker: A Dowling
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.3'
+        batsman: K Krishnakumar
+    - 17.4:
+        non_striker: A Dowling
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.4'
+        batsman: K Krishnakumar
+    - 17.5:
+        non_striker: A Dowling
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.5'
+        batsman: K Krishnakumar
+    - 17.6:
+        non_striker: A Dowling
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '17.6'
+        batsman: K Krishnakumar
+    - 18.1:
+        non_striker: K Krishnakumar
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: A Dowling
+    - 18.2:
+        non_striker: A Dowling
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.2'
+        batsman: K Krishnakumar
+    - 18.3:
+        non_striker: A Dowling
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.3'
+        batsman: K Krishnakumar
+    - 18.4:
+        non_striker: A Dowling
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.4'
+        batsman: K Krishnakumar
+        wicket:
+          player_out: K Krishnakumar
+          fielders:
+          - RM Magare
+          kind: caught
+    - 18.5:
+        non_striker: A Dowling
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: P Mishra
+        wicket:
+          player_out: P Mishra
+          kind: bowled
+    - 18.6:
+        non_striker: A Dowling
+        bowler: JR Cope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: J Dowling
+    - 19.1:
+        non_striker: J Dowling
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.1'
+        batsman: A Dowling
+    - 19.2:
+        non_striker: J Dowling
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: A Dowling
+        wicket:
+          player_out: A Dowling
+          fielders:
+          - Ritik Tomar
+          kind: caught
+    - 19.3:
+        non_striker: J Dowling
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: O Duff
+    - 19.4:
+        non_striker: J Dowling
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: O Duff
+        wicket:
+          player_out: O Duff
+          kind: bowled
+    - 19.5:
+        non_striker: J Dowling
+        bowler: S Wickramasekara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: Ivan Genchev
+        wicket:
+          player_out: Ivan Genchev
+          kind: bowled
+- 2nd innings:
+    team: Czech Republic
+    deliveries:
+    - 0.1:
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Grover
+        actual_delivery: '0.1'
+        batsman: RM Magare
+    - 0.2:
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Grover
+        actual_delivery: '0.2'
+        batsman: RM Magare
+    - 0.3:
+        non_striker: RM Magare
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: S Grover
+    - 0.4:
+        non_striker: RM Magare
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '0.4'
+        batsman: S Grover
+    - 0.5:
+        non_striker: RM Magare
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.5'
+        batsman: S Grover
+    - 0.6:
+        non_striker: RM Magare
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: S Grover
+    - 1.1:
+        non_striker: S Grover
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: RM Magare
+    - 1.2:
+        non_striker: S Grover
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: RM Magare
+    - 1.3:
+        non_striker: S Grover
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: RM Magare
+    - 1.4:
+        non_striker: S Grover
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.4'
+        batsman: RM Magare
+    - 1.5:
+        non_striker: S Grover
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.5'
+        batsman: RM Magare
+    - 1.6:
+        non_striker: S Grover
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.6'
+        batsman: RM Magare
+    - 2.1:
+        non_striker: RM Magare
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: S Grover
+    - 2.2:
+        non_striker: S Grover
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.2'
+        batsman: RM Magare
+    - 2.3:
+        non_striker: S Grover
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: RM Magare
+    - 2.4:
+        non_striker: RM Magare
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: S Grover
+    - 2.5:
+        non_striker: S Grover
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.5'
+        batsman: RM Magare
+    - 2.6:
+        non_striker: S Grover
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.6'
+        batsman: RM Magare
+    - 3.1:
+        non_striker: RM Magare
+        bowler: O Duff
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.1'
+        batsman: S Grover
+    - 3.2:
+        non_striker: RM Magare
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.1'
+        batsman: S Grover
+    - 3.3:
+        non_striker: RM Magare
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.2'
+        batsman: S Grover
+    - 3.4:
+        non_striker: RM Magare
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: S Grover
+    - 3.5:
+        non_striker: S Grover
+        bowler: O Duff
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '3.4'
+        batsman: RM Magare
+    - 3.6:
+        non_striker: S Grover
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: RM Magare
+    - 3.7:
+        non_striker: S Grover
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: RM Magare
+    - 3.8:
+        non_striker: S Grover
+        bowler: O Duff
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '3.6'
+        batsman: RM Magare
+    - 4.1:
+        non_striker: S Grover
+        bowler: Jakob Gul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.1'
+        batsman: RM Magare
+    - 4.2:
+        non_striker: S Grover
+        bowler: Jakob Gul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.1'
+        batsman: RM Magare
+    - 4.3:
+        non_striker: S Grover
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: RM Magare
+    - 4.4:
+        non_striker: RM Magare
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: S Grover
+        wicket:
+          player_out: S Grover
+          fielders:
+          - Manan Bashir
+          kind: caught
+    - 4.5:
+        non_striker: RM Magare
+        bowler: Jakob Gul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '4.3'
+        batsman: Ritik Tomar
+    - 4.6:
+        non_striker: RM Magare
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: Ritik Tomar
+    - 4.7:
+        non_striker: Ritik Tomar
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: RM Magare
+    - 4.8:
+        non_striker: RM Magare
+        bowler: Jakob Gul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.5'
+        batsman: Ritik Tomar
+    - 4.9:
+        non_striker: RM Magare
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Ritik Tomar
+    - 4.10:
+        non_striker: RM Magare
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Ritik Tomar
+    - 5.1:
+        non_striker: Ritik Tomar
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.1'
+        batsman: RM Magare
+    - 5.2:
+        non_striker: Ritik Tomar
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: RM Magare
+    - 5.3:
+        non_striker: RM Magare
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.3'
+        batsman: Ritik Tomar
+    - 5.4:
+        non_striker: RM Magare
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.4'
+        batsman: Ritik Tomar
+    - 5.5:
+        non_striker: RM Magare
+        bowler: O Duff
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '5.5'
+        batsman: Ritik Tomar
+    - 5.6:
+        non_striker: Ritik Tomar
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: RM Magare
+    - 6.1:
+        non_striker: RM Magare
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: Ritik Tomar
+    - 6.2:
+        non_striker: RM Magare
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: Ritik Tomar
+    - 6.3:
+        non_striker: RM Magare
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Ritik Tomar
+    - 6.4:
+        non_striker: RM Magare
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '6.4'
+        batsman: Ritik Tomar
+    - 6.5:
+        non_striker: Ritik Tomar
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: RM Magare
+    - 6.6:
+        non_striker: Ritik Tomar
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: RM Magare
+    - 7.1:
+        non_striker: Ritik Tomar
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '7.1'
+        batsman: RM Magare
+    - 7.2:
+        non_striker: Ritik Tomar
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: RM Magare
+    - 7.3:
+        non_striker: RM Magare
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: Ritik Tomar
+    - 7.4:
+        non_striker: Ritik Tomar
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: RM Magare
+        wicket:
+          player_out: RM Magare
+          fielders:
+          - O Duff
+          kind: caught
+    - 7.5:
+        non_striker: Ritik Tomar
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: Sazib Bhuiyan
+    - 7.6:
+        non_striker: Sazib Bhuiyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: Ritik Tomar
+    - 8.1:
+        non_striker: Ritik Tomar
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.1'
+        batsman: Sazib Bhuiyan
+    - 8.2:
+        non_striker: Ritik Tomar
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: Sazib Bhuiyan
+    - 8.3:
+        non_striker: Ritik Tomar
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: Sazib Bhuiyan
+    - 8.4:
+        non_striker: Sazib Bhuiyan
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: Ritik Tomar
+    - 8.5:
+        non_striker: Ritik Tomar
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Sazib Bhuiyan
+    - 8.6:
+        non_striker: Sazib Bhuiyan
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: Ritik Tomar
+    - 9.1:
+        non_striker: Sazib Bhuiyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: Ritik Tomar
+    - 9.2:
+        non_striker: Ritik Tomar
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: Sazib Bhuiyan
+    - 9.3:
+        non_striker: Sazib Bhuiyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: Ritik Tomar
+    - 9.4:
+        non_striker: Sazib Bhuiyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: Ritik Tomar
+    - 9.5:
+        non_striker: Ritik Tomar
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: Sazib Bhuiyan
+    - 9.6:
+        non_striker: Sazib Bhuiyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: Ritik Tomar
+    - 10.1:
+        non_striker: Sazib Bhuiyan
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: Ritik Tomar
+    - 10.2:
+        non_striker: Sazib Bhuiyan
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: Ritik Tomar
+    - 10.3:
+        non_striker: Sazib Bhuiyan
+        bowler: Jakob Gul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.3'
+        batsman: Ritik Tomar
+    - 10.4:
+        non_striker: Sazib Bhuiyan
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Ritik Tomar
+    - 10.5:
+        non_striker: Ritik Tomar
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: Sazib Bhuiyan
+    - 10.6:
+        non_striker: Sazib Bhuiyan
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: Ritik Tomar
+    - 10.7:
+        non_striker: Sazib Bhuiyan
+        bowler: Jakob Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Ritik Tomar
+    - 11.1:
+        non_striker: Ritik Tomar
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: Sazib Bhuiyan
+    - 11.2:
+        non_striker: Ritik Tomar
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: Sazib Bhuiyan
+    - 11.3:
+        non_striker: Sazib Bhuiyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: Ritik Tomar
+        wicket:
+          player_out: Ritik Tomar
+          fielders:
+          - Isa Zaroo
+          kind: caught
+    - 11.4:
+        non_striker: Sazib Bhuiyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: S Wickramasekara
+    - 11.5:
+        non_striker: Sazib Bhuiyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: S Wickramasekara
+    - 11.6:
+        non_striker: S Wickramasekara
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.6'
+        batsman: Sazib Bhuiyan
+    - 12.1:
+        non_striker: S Wickramasekara
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: Sazib Bhuiyan
+    - 12.2:
+        non_striker: Sazib Bhuiyan
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: S Wickramasekara
+    - 12.3:
+        non_striker: S Wickramasekara
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: Sazib Bhuiyan
+    - 12.4:
+        non_striker: Sazib Bhuiyan
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: S Wickramasekara
+    - 12.5:
+        non_striker: S Wickramasekara
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.5'
+        batsman: Sazib Bhuiyan
+    - 12.6:
+        non_striker: S Wickramasekara
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.6'
+        batsman: Sazib Bhuiyan
+    - 13.1:
+        non_striker: Sazib Bhuiyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: S Wickramasekara
+    - 13.2:
+        non_striker: Sazib Bhuiyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: S Wickramasekara
+    - 13.3:
+        non_striker: S Wickramasekara
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Sazib Bhuiyan
+    - 13.4:
+        non_striker: Sazib Bhuiyan
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: S Wickramasekara
+    - 13.5:
+        non_striker: S Wickramasekara
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.5'
+        batsman: Sazib Bhuiyan
+    - 13.6:
+        non_striker: S Wickramasekara
+        bowler: P Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Sazib Bhuiyan
+    - 14.1:
+        non_striker: S Wickramasekara
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: Sazib Bhuiyan
+    - 14.2:
+        non_striker: S Wickramasekara
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.2'
+        batsman: Sazib Bhuiyan
+    - 14.3:
+        non_striker: S Wickramasekara
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: Sazib Bhuiyan
+    - 14.4:
+        non_striker: S Wickramasekara
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.4'
+        batsman: Sazib Bhuiyan
+    - 14.5:
+        non_striker: S Wickramasekara
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: Sazib Bhuiyan
+    - 14.6:
+        non_striker: Sazib Bhuiyan
+        bowler: M Gogev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: S Wickramasekara
+    - 15.1:
+        non_striker: Sazib Bhuiyan
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.1'
+        batsman: S Wickramasekara
+    - 15.2:
+        non_striker: S Wickramasekara
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: Sazib Bhuiyan
+    - 15.3:
+        non_striker: S Wickramasekara
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: Sazib Bhuiyan
+        wicket:
+          player_out: Sazib Bhuiyan
+          kind: lbw
+    - 15.4:
+        non_striker: S Wickramasekara
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: Sojib Miah
+    - 15.5:
+        non_striker: Sojib Miah
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: S Wickramasekara
+    - 15.6:
+        non_striker: Sojib Miah
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: S Wickramasekara
+    - 16.1:
+        non_striker: S Wickramasekara
+        bowler: O Duff
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '16.1'
+        batsman: Sojib Miah
+    - 16.2:
+        non_striker: S Wickramasekara
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: Sojib Miah
+    - 16.3:
+        non_striker: Sojib Miah
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: S Wickramasekara
+    - 16.4:
+        non_striker: S Wickramasekara
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: Sojib Miah
+    - 16.5:
+        non_striker: S Wickramasekara
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.4'
+        batsman: Sojib Miah
+    - 16.6:
+        non_striker: S Wickramasekara
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.5'
+        batsman: Sojib Miah
+    - 16.7:
+        non_striker: S Wickramasekara
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.6'
+        batsman: Sojib Miah
+    - 17.1:
+        non_striker: S Wickramasekara
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: Sojib Miah
+    - 17.2:
+        non_striker: S Wickramasekara
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: Sojib Miah
+    - 17.3:
+        non_striker: Sojib Miah
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: S Wickramasekara
+    - 17.4:
+        non_striker: S Wickramasekara
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: Sojib Miah
+    - 17.5:
+        non_striker: S Wickramasekara
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.5'
+        batsman: Sojib Miah
+    - 17.6:
+        non_striker: S Wickramasekara
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.6'
+        batsman: Sojib Miah
+    - 18.1:
+        non_striker: Sojib Miah
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.1'
+        batsman: S Wickramasekara
+    - 18.2:
+        non_striker: S Wickramasekara
+        bowler: O Duff
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.2'
+        batsman: Sojib Miah
+    - 18.3:
+        non_striker: S Wickramasekara
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: Sojib Miah
+    - 18.4:
+        non_striker: Sojib Miah
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: S Wickramasekara
+        wicket:
+          player_out: S Wickramasekara
+          fielders:
+          - K Krishnakumar
+          kind: caught
+    - 18.5:
+        non_striker: Sojib Miah
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.4'
+        batsman: Ratul Khan
+    - 18.6:
+        non_striker: Ratul Khan
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: Sojib Miah
+    - 18.7:
+        non_striker: Ratul Khan
+        bowler: O Duff
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.6'
+        batsman: Sojib Miah
+    - 19.1:
+        non_striker: Sojib Miah
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: Ratul Khan
+    - 19.2:
+        non_striker: Ratul Khan
+        bowler: Danyal Raja
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '19.2'
+        batsman: Sojib Miah
+    target:
+      overs: 20
+      runs: 159

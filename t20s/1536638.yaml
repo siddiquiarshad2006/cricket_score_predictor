@@ -1,0 +1,2639 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2026-06-07'
+  gender: female
+  match_type: T20
+  match_type_number: 2830
+  outcome:
+    winner: Japan
+    by:
+      runs: 48
+  overs: 20
+  player_of_match:
+  - A Kato-Stafford
+  players:
+    Japan:
+    - H Iwasaki
+    - Erika Oda
+    - A Kato-Stafford
+    - Seika Sumi
+    - H Goto
+    - B Shino-Dyson
+    - S Kato
+    - A Fujikawa
+    - M Yanagida
+    - E Kusuda-Nairn
+    - K Ota
+    Bahrain:
+    - TI Gajanayake
+    - Reema Naseer
+    - HMD Rasangika
+    - Abeera Waris
+    - Sweeta Corda
+    - Ashwini Govinda
+    - Sana Butt
+    - Saee Parkhi
+    - RL D'Souza
+    - Sara Vivek
+    - Disna Jayasooriya
+  registry:
+    people:
+      A Fujikawa: 9543a4fe
+      A Kato-Stafford: 034e7939
+      Abeera Waris: '01396dc6'
+      Ashwini Govinda: 5581a471
+      B Shino-Dyson: 15ab980a
+      Disna Jayasooriya: 70c36d4d
+      E Kusuda-Nairn: 95c5ce07
+      Erika Oda: 4c8a1197
+      H Goto: b3af5bff
+      H Iwasaki: f2698c78
+      HMD Rasangika: d6f9dfd6
+      K Ota: 211f48fe
+      M Yanagida: f20e7e23
+      Nur Hijrah: 6c068720
+      RL D'Souza: 2d0b7057
+      Reema Naseer: 6b999fbe
+      S Kato: ef9ff861
+      Saee Parkhi: b60682f2
+      Saleema Imtiaz: d17d21d5
+      Sana Butt: 0f49b970
+      Sara Vivek: 8ff4ef0e
+      Seika Sumi: 704b4c30
+      Shivani Mishra: 2982a0c7
+      Sun Meng Yao: 84a96566
+      Sweeta Corda: 3ab9a451
+      TI Gajanayake: d577d45a
+  teams:
+  - Japan
+  - Bahrain
+  toss:
+    winner: Japan
+    decision: bat
+  umpires:
+  - Nur Hijrah
+  - Sun Meng Yao
+  venue: Bayuemas Oval, Kuala Lumpur
+  team_type: international
+innings:
+- 1st innings:
+    team: Japan
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Sara Vivek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Erika Oda
+        batsman: H Iwasaki
+    - 0.2:
+        actual_delivery: '0.1'
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Erika Oda
+        batsman: H Iwasaki
+    - 0.3:
+        actual_delivery: '0.2'
+        non_striker: H Iwasaki
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+    - 0.4:
+        actual_delivery: '0.3'
+        non_striker: H Iwasaki
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 0.5:
+        actual_delivery: '0.4'
+        non_striker: Erika Oda
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Iwasaki
+    - 0.6:
+        actual_delivery: '0.5'
+        non_striker: Erika Oda
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+    - 0.7:
+        actual_delivery: '0.6'
+        non_striker: Erika Oda
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: H Iwasaki
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Erika Oda
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Erika Oda
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Iwasaki
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: Erika Oda
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Iwasaki
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: H Iwasaki
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Erika Oda
+        wicket:
+          player_out: Erika Oda
+          fielders:
+          - Ashwini Govinda
+          kind: caught
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: H Iwasaki
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: H Iwasaki
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: A Kato-Stafford
+        bowler: Sara Vivek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Iwasaki
+    - 2.2:
+        actual_delivery: '2.1'
+        non_striker: A Kato-Stafford
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+    - 2.3:
+        actual_delivery: '2.2'
+        non_striker: A Kato-Stafford
+        bowler: Sara Vivek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Iwasaki
+    - 2.4:
+        actual_delivery: '2.2'
+        non_striker: A Kato-Stafford
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Iwasaki
+    - 2.5:
+        actual_delivery: '2.3'
+        non_striker: A Kato-Stafford
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Iwasaki
+        wicket:
+          player_out: H Iwasaki
+          fielders:
+          - HMD Rasangika
+          kind: caught
+    - 2.6:
+        actual_delivery: '2.4'
+        non_striker: A Kato-Stafford
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Seika Sumi
+    - 2.7:
+        actual_delivery: '2.5'
+        non_striker: A Kato-Stafford
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Seika Sumi
+    - 2.8:
+        actual_delivery: '2.6'
+        non_striker: Seika Sumi
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: A Kato-Stafford
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Seika Sumi
+        wicket:
+          player_out: Seika Sumi
+          kind: bowled
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: A Kato-Stafford
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: H Goto
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: H Goto
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: A Kato-Stafford
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: H Goto
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: A Kato-Stafford
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Goto
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: H Goto
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: H Goto
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: A Kato-Stafford
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: A Kato-Stafford
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: A Kato-Stafford
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: H Goto
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: H Goto
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: H Goto
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: A Kato-Stafford
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Goto
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: A Kato-Stafford
+        bowler: TI Gajanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Goto
+    - 5.5:
+        actual_delivery: '5.4'
+        non_striker: A Kato-Stafford
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Goto
+    - 5.6:
+        actual_delivery: '5.5'
+        non_striker: A Kato-Stafford
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 5.7:
+        actual_delivery: '5.6'
+        non_striker: A Kato-Stafford
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: H Goto
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: H Goto
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: A Kato-Stafford
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: H Goto
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: A Kato-Stafford
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: H Goto
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: H Goto
+        bowler: RL D'Souza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kato-Stafford
+    - 7.2:
+        actual_delivery: '7.1'
+        non_striker: H Goto
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 7.3:
+        actual_delivery: '7.2'
+        non_striker: A Kato-Stafford
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 7.4:
+        actual_delivery: '7.3'
+        non_striker: A Kato-Stafford
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 7.5:
+        actual_delivery: '7.4'
+        non_striker: H Goto
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 7.6:
+        actual_delivery: '7.5'
+        non_striker: H Goto
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 7.7:
+        actual_delivery: '7.6'
+        non_striker: A Kato-Stafford
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: H Goto
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: H Goto
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: A Kato-Stafford
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: H Goto
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: A Kato-Stafford
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Goto
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: A Kato-Stafford
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Goto
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: H Goto
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: A Kato-Stafford
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: A Kato-Stafford
+        bowler: RL D'Souza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Goto
+    - 9.4:
+        actual_delivery: '9.3'
+        non_striker: A Kato-Stafford
+        bowler: RL D'Souza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: H Goto
+    - 9.5:
+        actual_delivery: '9.4'
+        non_striker: H Goto
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 9.6:
+        actual_delivery: '9.5'
+        non_striker: H Goto
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 9.7:
+        actual_delivery: '9.6'
+        non_striker: A Kato-Stafford
+        bowler: RL D'Souza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: H Goto
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: A Kato-Stafford
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Goto
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: A Kato-Stafford
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Goto
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: A Kato-Stafford
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: H Goto
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: A Kato-Stafford
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: A Kato-Stafford
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: H Goto
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: A Kato-Stafford
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: H Goto
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: H Goto
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kato-Stafford
+    - 11.6:
+        actual_delivery: '11.5'
+        non_striker: H Goto
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 11.7:
+        actual_delivery: '11.6'
+        non_striker: A Kato-Stafford
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Goto
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: H Goto
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: H Goto
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: H Goto
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: A Kato-Stafford
+        bowler: HMD Rasangika
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: H Goto
+    - 12.5:
+        actual_delivery: '12.4'
+        non_striker: H Goto
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 12.6:
+        actual_delivery: '12.5'
+        non_striker: H Goto
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 12.7:
+        actual_delivery: '12.6'
+        non_striker: A Kato-Stafford
+        bowler: HMD Rasangika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: H Goto
+    - 12.8:
+        actual_delivery: '12.6'
+        non_striker: A Kato-Stafford
+        bowler: HMD Rasangika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: A Kato-Stafford
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: H Goto
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: A Kato-Stafford
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: H Goto
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: H Goto
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Kato-Stafford
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: A Kato-Stafford
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Goto
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: H Goto
+        bowler: Saee Parkhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: H Goto
+        bowler: Saee Parkhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: H Goto
+        bowler: Saee Parkhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: A Kato-Stafford
+        bowler: Saee Parkhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: H Goto
+        bowler: Saee Parkhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kato-Stafford
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: H Goto
+        bowler: Saee Parkhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: A Kato-Stafford
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: H Goto
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: H Goto
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: A Kato-Stafford
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: H Goto
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: A Kato-Stafford
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: H Goto
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: A Kato-Stafford
+        bowler: Sara Vivek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: H Goto
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: H Goto
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: H Goto
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: A Kato-Stafford
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: H Goto
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: A Kato-Stafford
+        bowler: Sara Vivek
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: H Goto
+    - 16.7:
+        actual_delivery: '16.6'
+        non_striker: H Goto
+        bowler: Sara Vivek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kato-Stafford
+    - 16.8:
+        actual_delivery: '16.6'
+        non_striker: H Goto
+        bowler: Sara Vivek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: H Goto
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: A Kato-Stafford
+        bowler: TI Gajanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Goto
+    - 17.3:
+        actual_delivery: '17.2'
+        non_striker: A Kato-Stafford
+        bowler: TI Gajanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Goto
+    - 17.4:
+        actual_delivery: '17.2'
+        non_striker: A Kato-Stafford
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 17.5:
+        actual_delivery: '17.3'
+        non_striker: H Goto
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 17.6:
+        actual_delivery: '17.4'
+        non_striker: A Kato-Stafford
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 17.7:
+        actual_delivery: '17.5'
+        non_striker: H Goto
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 17.8:
+        actual_delivery: '17.6'
+        non_striker: H Goto
+        bowler: TI Gajanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: H Goto
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kato-Stafford
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: H Goto
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: A Kato-Stafford
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Goto
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: H Goto
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kato-Stafford
+        wicket:
+          player_out: H Goto
+          fielders:
+          - Abeera Waris
+          kind: run out
+    - 18.5:
+        actual_delivery: '18.5'
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Shino-Dyson
+        batsman: A Kato-Stafford
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: A Kato-Stafford
+        bowler: Abeera Waris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Shino-Dyson
+    - 18.7:
+        actual_delivery: '18.6'
+        non_striker: A Kato-Stafford
+        bowler: Abeera Waris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shino-Dyson
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: B Shino-Dyson
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kato-Stafford
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: B Shino-Dyson
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kato-Stafford
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: B Shino-Dyson
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: B Shino-Dyson
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kato-Stafford
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: B Shino-Dyson
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kato-Stafford
+        wicket:
+          player_out: A Kato-Stafford
+          fielders:
+          - HMD Rasangika
+          kind: caught
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: B Shino-Dyson
+        bowler: Disna Jayasooriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kato
+- 2nd innings:
+    team: Bahrain
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Reema Naseer
+        batsman: TI Gajanayake
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Reema Naseer
+        batsman: TI Gajanayake
+    - 0.3:
+        actual_delivery: '0.3'
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Reema Naseer
+        batsman: TI Gajanayake
+    - 0.4:
+        actual_delivery: '0.4'
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Reema Naseer
+        batsman: TI Gajanayake
+    - 0.5:
+        actual_delivery: '0.5'
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Reema Naseer
+        batsman: TI Gajanayake
+    - 0.6:
+        actual_delivery: '0.6'
+        bowler: S Kato
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: Reema Naseer
+        batsman: TI Gajanayake
+    - 0.7:
+        actual_delivery: '0.6'
+        non_striker: Reema Naseer
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: TI Gajanayake
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Reema Naseer
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Reema Naseer
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: Reema Naseer
+        bowler: A Fujikawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TI Gajanayake
+    - 1.4:
+        actual_delivery: '1.3'
+        non_striker: Reema Naseer
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TI Gajanayake
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: TI Gajanayake
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Reema Naseer
+    - 1.6:
+        actual_delivery: '1.5'
+        non_striker: Reema Naseer
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TI Gajanayake
+    - 1.7:
+        actual_delivery: '1.6'
+        non_striker: TI Gajanayake
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reema Naseer
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Reema Naseer
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Reema Naseer
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: Reema Naseer
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: Reema Naseer
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Gajanayake
+        wicket:
+          player_out: TI Gajanayake
+          fielders:
+          - M Yanagida
+          kind: caught
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: Reema Naseer
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: Reema Naseer
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: HMD Rasangika
+        bowler: A Fujikawa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Reema Naseer
+    - 3.2:
+        actual_delivery: '3.1'
+        non_striker: HMD Rasangika
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reema Naseer
+    - 3.3:
+        actual_delivery: '3.2'
+        non_striker: HMD Rasangika
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reema Naseer
+    - 3.4:
+        actual_delivery: '3.3'
+        non_striker: HMD Rasangika
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Reema Naseer
+    - 3.5:
+        actual_delivery: '3.4'
+        non_striker: Reema Naseer
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMD Rasangika
+    - 3.6:
+        actual_delivery: '3.5'
+        non_striker: HMD Rasangika
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reema Naseer
+    - 3.7:
+        actual_delivery: '3.6'
+        non_striker: HMD Rasangika
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Reema Naseer
+        wicket:
+          player_out: Reema Naseer
+          fielders:
+          - S Kato
+          kind: caught
+    - 4.1:
+        actual_delivery: '4.1'
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abeera Waris
+        batsman: HMD Rasangika
+    - 4.2:
+        actual_delivery: '4.2'
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abeera Waris
+        batsman: HMD Rasangika
+    - 4.3:
+        actual_delivery: '4.3'
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Abeera Waris
+        batsman: HMD Rasangika
+    - 4.4:
+        actual_delivery: '4.4'
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abeera Waris
+        batsman: HMD Rasangika
+    - 4.5:
+        actual_delivery: '4.5'
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Abeera Waris
+        batsman: HMD Rasangika
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: HMD Rasangika
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: HMD Rasangika
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: HMD Rasangika
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Abeera Waris
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Abeera Waris
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HMD Rasangika
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: Abeera Waris
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: Abeera Waris
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: HMD Rasangika
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abeera Waris
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: HMD Rasangika
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: Abeera Waris
+        bowler: K Ota
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: HMD Rasangika
+    - 6.4:
+        actual_delivery: '6.3'
+        non_striker: HMD Rasangika
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 6.5:
+        actual_delivery: '6.4'
+        non_striker: HMD Rasangika
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 6.6:
+        actual_delivery: '6.5'
+        non_striker: Abeera Waris
+        bowler: K Ota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HMD Rasangika
+    - 6.7:
+        actual_delivery: '6.5'
+        non_striker: Abeera Waris
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+    - 6.8:
+        actual_delivery: '6.6'
+        non_striker: Abeera Waris
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMD Rasangika
+        wicket:
+          player_out: HMD Rasangika
+          fielders:
+          - H Goto
+          kind: caught
+    - 7.1:
+        actual_delivery: '7.1'
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sweeta Corda
+        batsman: Abeera Waris
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: Abeera Waris
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: Sweeta Corda
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: Sweeta Corda
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: Sweeta Corda
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: Abeera Waris
+        bowler: A Kato-Stafford
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sweeta Corda
+    - 7.7:
+        actual_delivery: '7.6'
+        non_striker: Abeera Waris
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: Abeera Waris
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: Abeera Waris
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: Abeera Waris
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: Sweeta Corda
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: Sweeta Corda
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: Sweeta Corda
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: Abeera Waris
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sweeta Corda
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: Abeera Waris
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: Abeera Waris
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: Abeera Waris
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sweeta Corda
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: Abeera Waris
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: Abeera Waris
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Sweeta Corda
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Sweeta Corda
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: Abeera Waris
+        bowler: K Ota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sweeta Corda
+    - 10.4:
+        actual_delivery: '10.3'
+        non_striker: Abeera Waris
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 10.5:
+        actual_delivery: '10.4'
+        non_striker: Abeera Waris
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 10.6:
+        actual_delivery: '10.5'
+        non_striker: Abeera Waris
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 10.7:
+        actual_delivery: '10.6'
+        non_striker: Sweeta Corda
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Sweeta Corda
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sweeta Corda
+    - 11.4:
+        actual_delivery: '11.3'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sweeta Corda
+    - 11.5:
+        actual_delivery: '11.3'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 11.6:
+        actual_delivery: '11.4'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 11.7:
+        actual_delivery: '11.5'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sweeta Corda
+    - 11.8:
+        actual_delivery: '11.5'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sweeta Corda
+    - 11.9:
+        actual_delivery: '11.6'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sweeta Corda
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: Sweeta Corda
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Abeera Waris
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Sweeta Corda
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Sweeta Corda
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Sweeta Corda
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: Abeera Waris
+        bowler: K Ota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Sweeta Corda
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sweeta Corda
+    - 13.6:
+        actual_delivery: '13.5'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sweeta Corda
+    - 13.7:
+        actual_delivery: '13.5'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sweeta Corda
+    - 13.8:
+        actual_delivery: '13.6'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sweeta Corda
+    - 13.9:
+        actual_delivery: '13.6'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Sweeta Corda
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Sweeta Corda
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Abeera Waris
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: Abeera Waris
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: Sweeta Corda
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Sweeta Corda
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Abeera Waris
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: Sweeta Corda
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abeera Waris
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: Sweeta Corda
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: Abeera Waris
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: Abeera Waris
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: Sweeta Corda
+        bowler: A Fujikawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: Abeera Waris
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Abeera Waris
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: Abeera Waris
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sweeta Corda
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: Abeera Waris
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: Sweeta Corda
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: Abeera Waris
+        bowler: A Kato-Stafford
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sweeta Corda
+    - 17.2:
+        actual_delivery: '17.1'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 17.3:
+        actual_delivery: '17.2'
+        non_striker: Sweeta Corda
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 17.4:
+        actual_delivery: '17.3'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 17.5:
+        actual_delivery: '17.4'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 17.6:
+        actual_delivery: '17.5'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 17.7:
+        actual_delivery: '17.6'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sweeta Corda
+    - 17.8:
+        actual_delivery: '17.6'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sweeta Corda
+    - 17.9:
+        actual_delivery: '17.6'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: Abeera Waris
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: Abeera Waris
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: Sweeta Corda
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: Sweeta Corda
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: Sweeta Corda
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abeera Waris
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: Sweeta Corda
+        bowler: S Kato
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abeera Waris
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: Sweeta Corda
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: Sweeta Corda
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abeera Waris
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sweeta Corda
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sweeta Corda
+    - 19.7:
+        actual_delivery: '19.6'
+        non_striker: Abeera Waris
+        bowler: E Kusuda-Nairn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sweeta Corda
+    target:
+      overs: 20
+      runs: 143

@@ -1,0 +1,1404 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-05-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Nisshin
+  dates:
+  - '2026-05-08'
+  gender: male
+  match_type: T20
+  match_type_number: 3840
+  outcome:
+    winner: Cook Islands
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - Q Stephens
+  players:
+    South Korea:
+    - DVD Madampage
+    - BI Dilruksha
+    - Sageer Ahmad
+    - HMHE Parsons
+    - Jun Hyunwoo
+    - AS Broomfield
+    - S Pitabeddara
+    - Muhammad Nadeem
+    - S Maduranga
+    - Kuldeep Gurjar
+    - CV Ranasinghe
+    Cook Islands:
+    - HB Dickson
+    - T Parima
+    - MTMMJ Ave
+    - A Parima
+    - C Dickson
+    - Q Stephens
+    - L Grace
+    - J Shields
+    - J Pickering
+    - OE Taylor
+    - JL Tutty
+  registry:
+    people:
+      A Parima: 866d3ac8
+      AS Broomfield: 4b8e8f64
+      BI Dilruksha: bf60e1d2
+      C Dickson: 26b59073
+      CV Ranasinghe: b1a4226c
+      DVD Madampage: f681fa6e
+      HB Dickson: e8c95491
+      HMHE Parsons: 0ca1ea55
+      J Pickering: 1ac8edcf
+      J Shields: aa6c2fbf
+      JL Tutty: 11b37b2a
+      Jun Hyunwoo: 431f2dd4
+      Kent Hannam: 8cc171e7
+      Kuldeep Gurjar: 2306b48a
+      L Grace: de16fed9
+      MTMMJ Ave: '00863408'
+      Muhammad Nadeem: f681481e
+      OE Taylor: 24a93558
+      PJ Gillespie: 3e253a50
+      Q Stephens: 9f0ab09b
+      S Maduranga: 68f24545
+      S Pitabeddara: b04e6811
+      Sageer Ahmad: fb266d70
+      Suresh Subramanian: 4e869e23
+      T Parima: ecd51f8e
+      Tabarak Dar: 2259c12d
+  teams:
+  - South Korea
+  - Cook Islands
+  toss:
+    winner: Cook Islands
+    decision: field
+  umpires:
+  - PJ Gillespie
+  - Tabarak Dar
+  venue: Korogi Sports Park, Nisshin
+  team_type: international
+innings:
+- 1st innings:
+    team: South Korea
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BI Dilruksha
+        batsman: DVD Madampage
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: DVD Madampage
+        bowler: HB Dickson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: BI Dilruksha
+    - 0.3:
+        actual_delivery: '0.2'
+        non_striker: DVD Madampage
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BI Dilruksha
+    - 0.4:
+        actual_delivery: '0.3'
+        non_striker: DVD Madampage
+        bowler: HB Dickson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BI Dilruksha
+    - 0.5:
+        actual_delivery: '0.3'
+        non_striker: DVD Madampage
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BI Dilruksha
+    - 0.6:
+        actual_delivery: '0.4'
+        non_striker: DVD Madampage
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BI Dilruksha
+    - 0.7:
+        actual_delivery: '0.5'
+        non_striker: DVD Madampage
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BI Dilruksha
+    - 0.8:
+        actual_delivery: '0.6'
+        non_striker: DVD Madampage
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BI Dilruksha
+        wicket:
+          player_out: BI Dilruksha
+          fielders:
+          - J Pickering
+          kind: caught
+    - 1.1:
+        actual_delivery: '1.1'
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sageer Ahmad
+        batsman: DVD Madampage
+    - 1.2:
+        actual_delivery: '1.2'
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sageer Ahmad
+        batsman: DVD Madampage
+    - 1.3:
+        actual_delivery: '1.3'
+        bowler: JL Tutty
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Sageer Ahmad
+        batsman: DVD Madampage
+    - 1.4:
+        actual_delivery: '1.3'
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sageer Ahmad
+        batsman: DVD Madampage
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: Sageer Ahmad
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DVD Madampage
+        wicket:
+          player_out: DVD Madampage
+          fielders:
+          - Q Stephens
+          kind: caught
+    - 1.6:
+        actual_delivery: '1.5'
+        non_striker: Sageer Ahmad
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMHE Parsons
+    - 1.7:
+        actual_delivery: '1.6'
+        non_striker: Sageer Ahmad
+        bowler: JL Tutty
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HMHE Parsons
+    - 1.8:
+        actual_delivery: '1.6'
+        non_striker: Sageer Ahmad
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMHE Parsons
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Sageer Ahmad
+        bowler: HB Dickson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HMHE Parsons
+    - 2.2:
+        actual_delivery: '2.1'
+        non_striker: Sageer Ahmad
+        bowler: HB Dickson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HMHE Parsons
+    - 2.3:
+        actual_delivery: '2.1'
+        non_striker: Sageer Ahmad
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMHE Parsons
+    - 2.4:
+        actual_delivery: '2.2'
+        non_striker: Sageer Ahmad
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HMHE Parsons
+    - 2.5:
+        actual_delivery: '2.3'
+        non_striker: HMHE Parsons
+        bowler: HB Dickson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sageer Ahmad
+    - 2.6:
+        actual_delivery: '2.3'
+        non_striker: HMHE Parsons
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sageer Ahmad
+    - 2.7:
+        actual_delivery: '2.4'
+        non_striker: HMHE Parsons
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sageer Ahmad
+    - 2.8:
+        actual_delivery: '2.5'
+        non_striker: HMHE Parsons
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sageer Ahmad
+    - 2.9:
+        actual_delivery: '2.6'
+        non_striker: Sageer Ahmad
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HMHE Parsons
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: HMHE Parsons
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sageer Ahmad
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: HMHE Parsons
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sageer Ahmad
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: HMHE Parsons
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sageer Ahmad
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: HMHE Parsons
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sageer Ahmad
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: HMHE Parsons
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sageer Ahmad
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: HMHE Parsons
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sageer Ahmad
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Sageer Ahmad
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMHE Parsons
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: Sageer Ahmad
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HMHE Parsons
+        wicket:
+          player_out: HMHE Parsons
+          fielders:
+          - HB Dickson
+          kind: caught
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: Sageer Ahmad
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Sageer Ahmad
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: Sageer Ahmad
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: Sageer Ahmad
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Jun Hyunwoo
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sageer Ahmad
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Sageer Ahmad
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Sageer Ahmad
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Sageer Ahmad
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: Sageer Ahmad
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: Sageer Ahmad
+        bowler: JL Tutty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jun Hyunwoo
+        wicket:
+          player_out: Jun Hyunwoo
+          fielders:
+          - C Dickson
+          kind: caught
+    - 6.1:
+        actual_delivery: '6.1'
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AS Broomfield
+        batsman: Sageer Ahmad
+    - 6.2:
+        actual_delivery: '6.2'
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AS Broomfield
+        batsman: Sageer Ahmad
+    - 6.3:
+        actual_delivery: '6.3'
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AS Broomfield
+        batsman: Sageer Ahmad
+    - 6.4:
+        actual_delivery: '6.4'
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AS Broomfield
+        batsman: Sageer Ahmad
+    - 6.5:
+        actual_delivery: '6.5'
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AS Broomfield
+        batsman: Sageer Ahmad
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: AS Broomfield
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sageer Ahmad
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Sageer Ahmad
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Broomfield
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: Sageer Ahmad
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS Broomfield
+        wicket:
+          player_out: AS Broomfield
+          kind: lbw
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: Sageer Ahmad
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pitabeddara
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: Sageer Ahmad
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pitabeddara
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: Sageer Ahmad
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pitabeddara
+        wicket:
+          player_out: S Pitabeddara
+          fielders:
+          - JL Tutty
+          kind: caught
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: Sageer Ahmad
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Nadeem
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: Sageer Ahmad
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Nadeem
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: Sageer Ahmad
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Nadeem
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: Sageer Ahmad
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Nadeem
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: Muhammad Nadeem
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sageer Ahmad
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: Muhammad Nadeem
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sageer Ahmad
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: Sageer Ahmad
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Nadeem
+        wicket:
+          player_out: Muhammad Nadeem
+          fielders:
+          - OE Taylor
+          kind: caught
+    - 9.1:
+        actual_delivery: '9.1'
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Maduranga
+        batsman: Sageer Ahmad
+    - 9.2:
+        actual_delivery: '9.2'
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Maduranga
+        batsman: Sageer Ahmad
+    - 9.3:
+        actual_delivery: '9.3'
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Maduranga
+        batsman: Sageer Ahmad
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: Sageer Ahmad
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: Sageer Ahmad
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Maduranga
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: S Maduranga
+        bowler: A Parima
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sageer Ahmad
+    - 9.7:
+        actual_delivery: '9.6'
+        non_striker: S Maduranga
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sageer Ahmad
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Sageer Ahmad
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Sageer Ahmad
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Maduranga
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: Sageer Ahmad
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: Sageer Ahmad
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: Sageer Ahmad
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: Sageer Ahmad
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: S Maduranga
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sageer Ahmad
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Sageer Ahmad
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: Sageer Ahmad
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: Sageer Ahmad
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Maduranga
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: S Maduranga
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sageer Ahmad
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: S Maduranga
+        bowler: A Parima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sageer Ahmad
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: Sageer Ahmad
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Maduranga
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: S Maduranga
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sageer Ahmad
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Sageer Ahmad
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Sageer Ahmad
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Sageer Ahmad
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Maduranga
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: S Maduranga
+        bowler: HB Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sageer Ahmad
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Sageer Ahmad
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Sageer Ahmad
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Sageer Ahmad
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Sageer Ahmad
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: Sageer Ahmad
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Maduranga
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: S Maduranga
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sageer Ahmad
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: S Maduranga
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sageer Ahmad
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Sageer Ahmad
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Maduranga
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Sageer Ahmad
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Maduranga
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: S Maduranga
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sageer Ahmad
+        wicket:
+          player_out: Sageer Ahmad
+          fielders:
+          - Q Stephens
+          kind: caught
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: S Maduranga
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kuldeep Gurjar
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Kuldeep Gurjar
+        bowler: OE Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Maduranga
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Kuldeep Gurjar
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Maduranga
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: S Maduranga
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Gurjar
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: S Maduranga
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Gurjar
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: S Maduranga
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Gurjar
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: S Maduranga
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Gurjar
+        wicket:
+          player_out: Kuldeep Gurjar
+          fielders:
+          - HB Dickson
+          kind: caught
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: S Maduranga
+        bowler: Q Stephens
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CV Ranasinghe
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: CV Ranasinghe
+        bowler: C Dickson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Maduranga
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: S Maduranga
+        bowler: C Dickson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CV Ranasinghe
+        wicket:
+          player_out: CV Ranasinghe
+          fielders:
+          - T Parima
+          kind: caught
+- 2nd innings:
+    team: Cook Islands
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Parima
+        batsman: HB Dickson
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Parima
+        batsman: HB Dickson
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: HB Dickson
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: HB Dickson
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: HB Dickson
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Parima
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: HB Dickson
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Parima
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: T Parima
+        bowler: DVD Madampage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Dickson
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: T Parima
+        bowler: DVD Madampage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HB Dickson
+    - 1.3:
+        actual_delivery: '1.2'
+        non_striker: T Parima
+        bowler: DVD Madampage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 1.4:
+        actual_delivery: '1.3'
+        non_striker: T Parima
+        bowler: DVD Madampage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Dickson
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: T Parima
+        bowler: DVD Madampage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 1.6:
+        actual_delivery: '1.5'
+        non_striker: T Parima
+        bowler: DVD Madampage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 1.7:
+        actual_delivery: '1.6'
+        non_striker: T Parima
+        bowler: DVD Madampage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Dickson
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: HB Dickson
+        bowler: CV Ranasinghe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Parima
+    - 2.2:
+        actual_delivery: '2.1'
+        non_striker: HB Dickson
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Parima
+    - 2.3:
+        actual_delivery: '2.2'
+        non_striker: HB Dickson
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Parima
+    - 2.4:
+        actual_delivery: '2.3'
+        non_striker: HB Dickson
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Parima
+    - 2.5:
+        actual_delivery: '2.4'
+        non_striker: T Parima
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Dickson
+    - 2.6:
+        actual_delivery: '2.5'
+        non_striker: T Parima
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 2.7:
+        actual_delivery: '2.6'
+        non_striker: T Parima
+        bowler: CV Ranasinghe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Dickson
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: T Parima
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: T Parima
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HB Dickson
+    - 3.3:
+        actual_delivery: '3.2'
+        non_striker: T Parima
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Dickson
+        wicket:
+          player_out: HB Dickson
+          fielders:
+          - AS Broomfield
+          kind: caught
+    - 3.4:
+        actual_delivery: '3.3'
+        non_striker: T Parima
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 3.5:
+        actual_delivery: '3.4'
+        non_striker: MTMMJ Ave
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Parima
+    - 3.6:
+        actual_delivery: '3.5'
+        non_striker: T Parima
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 3.7:
+        actual_delivery: '3.6'
+        non_striker: MTMMJ Ave
+        bowler: Muhammad Nadeem
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Parima
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: T Parima
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MTMMJ Ave
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: T Parima
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MTMMJ Ave
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: MTMMJ Ave
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Parima
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: T Parima
+        bowler: S Maduranga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MTMMJ Ave
+    target:
+      overs: 20
+      runs: 48

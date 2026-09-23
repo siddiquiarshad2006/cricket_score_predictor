@@ -1,0 +1,1805 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Singapore
+  dates:
+  - '2026-06-02'
+  gender: male
+  match_type: T20
+  match_type_number: 3925
+  outcome:
+    winner: Malaysia
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - S Vijay Unni
+  players:
+    China:
+    - Du Jianyao
+    - Du Jianhao
+    - Ma Qiancheng
+    - Tian Sen Qun
+    - Zong Yuechao
+    - Shenjian Zheng
+    - Yang Wangjie
+    - Deng Jinqi
+    - Chen Zhuo Yue
+    - Qi Shuai
+    - Luo Shilin
+    Malaysia:
+    - Muhammad Haziq Aiman
+    - Aslam Khan
+    - Muhammad Akram
+    - Pavandeep Singh
+    - M Syahadat Ramli
+    - Virandeep Singh
+    - S Muniandy
+    - Azri Azhar
+    - Syed Aziz
+    - S Vijay Unni
+    - Rahim Khan
+  registry:
+    people:
+      Aslam Khan: 31080a88
+      Azri Azhar: 23f37c09
+      Chen Zhuo Yue: 47b33198
+      Deng Jinqi: 871cf744
+      Du Jianhao: d314deb8
+      Du Jianyao: 5a4987e1
+      Luo Shilin: c251b048
+      M Syahadat Ramli: 5efa8af3
+      Ma Qiancheng: 91cc319d
+      Muhammad Akram: 20b90232
+      Muhammad Haziq Aiman: 1f13eba1
+      Pavandeep Singh: 78fcc740
+      Qi Shuai: f571c8a1
+      Rahim Khan: 95dc5adc
+      S Muniandy: 57fcfd3b
+      S Vijay Unni: f737ab44
+      Shenjian Zheng: a127e6f5
+      Syed Aziz: 6667067e
+      Tian Sen Qun: 3883402f
+      Virandeep Singh: 415d30b6
+      Yang Wangjie: '0188fdc0'
+      Zong Yuechao: f5932ad2
+  teams:
+  - China
+  - Malaysia
+  toss:
+    winner: Malaysia
+    decision: field
+  venue: Singapore National Cricket Ground
+  team_type: international
+innings:
+- 1st innings:
+    team: China
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Du Jianhao
+        batsman: Du Jianyao
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Du Jianhao
+        batsman: Du Jianyao
+    - 0.3:
+        actual_delivery: '0.3'
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Du Jianhao
+        batsman: Du Jianyao
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: Du Jianyao
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Du Jianhao
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: Du Jianyao
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Du Jianhao
+    - 0.6:
+        actual_delivery: '0.5'
+        non_striker: Du Jianyao
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Du Jianhao
+    - 0.7:
+        actual_delivery: '0.6'
+        non_striker: Du Jianyao
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Du Jianhao
+        wicket:
+          player_out: Du Jianhao
+          kind: lbw
+    - 1.1:
+        actual_delivery: '1.1'
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ma Qiancheng
+        batsman: Du Jianyao
+        wicket:
+          player_out: Du Jianyao
+          kind: bowled
+    - 1.2:
+        actual_delivery: '1.2'
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ma Qiancheng
+        batsman: Tian Sen Qun
+        wicket:
+          player_out: Tian Sen Qun
+          kind: lbw
+    - 1.3:
+        actual_delivery: '1.3'
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ma Qiancheng
+        batsman: Zong Yuechao
+    - 1.4:
+        actual_delivery: '1.4'
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ma Qiancheng
+        batsman: Zong Yuechao
+    - 1.5:
+        actual_delivery: '1.5'
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ma Qiancheng
+        batsman: Zong Yuechao
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: Zong Yuechao
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Qiancheng
+    - 2.1:
+        actual_delivery: '2.1'
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ma Qiancheng
+        batsman: Zong Yuechao
+    - 2.2:
+        actual_delivery: '2.2'
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ma Qiancheng
+        batsman: Zong Yuechao
+    - 2.3:
+        actual_delivery: '2.3'
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ma Qiancheng
+        batsman: Zong Yuechao
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: Zong Yuechao
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ma Qiancheng
+    - 2.5:
+        actual_delivery: '2.4'
+        non_striker: Zong Yuechao
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Qiancheng
+    - 2.6:
+        actual_delivery: '2.5'
+        non_striker: Zong Yuechao
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Qiancheng
+    - 2.7:
+        actual_delivery: '2.6'
+        non_striker: Zong Yuechao
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Qiancheng
+    - 3.1:
+        actual_delivery: '3.1'
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ma Qiancheng
+        batsman: Zong Yuechao
+    - 3.2:
+        actual_delivery: '3.2'
+        bowler: Pavandeep Singh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: Ma Qiancheng
+        batsman: Zong Yuechao
+    - 3.3:
+        actual_delivery: '3.2'
+        non_striker: Zong Yuechao
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ma Qiancheng
+    - 3.4:
+        actual_delivery: '3.3'
+        bowler: Pavandeep Singh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: Ma Qiancheng
+        batsman: Zong Yuechao
+    - 3.5:
+        actual_delivery: '3.3'
+        non_striker: Zong Yuechao
+        bowler: Pavandeep Singh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Ma Qiancheng
+    - 3.6:
+        actual_delivery: '3.4'
+        non_striker: Zong Yuechao
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Qiancheng
+    - 3.7:
+        actual_delivery: '3.5'
+        non_striker: Zong Yuechao
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Qiancheng
+    - 3.8:
+        actual_delivery: '3.6'
+        non_striker: Zong Yuechao
+        bowler: Pavandeep Singh
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Ma Qiancheng
+    - 4.1:
+        actual_delivery: '4.1'
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ma Qiancheng
+        batsman: Zong Yuechao
+    - 4.2:
+        actual_delivery: '4.2'
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ma Qiancheng
+        batsman: Zong Yuechao
+    - 4.3:
+        actual_delivery: '4.3'
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ma Qiancheng
+        batsman: Zong Yuechao
+    - 4.4:
+        actual_delivery: '4.4'
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ma Qiancheng
+        batsman: Zong Yuechao
+    - 4.5:
+        actual_delivery: '4.5'
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ma Qiancheng
+        batsman: Zong Yuechao
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: Zong Yuechao
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Qiancheng
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Ma Qiancheng
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Zong Yuechao
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Zong Yuechao
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Qiancheng
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Zong Yuechao
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Qiancheng
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Zong Yuechao
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Qiancheng
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: Zong Yuechao
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ma Qiancheng
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: Ma Qiancheng
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: Zong Yuechao
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Qiancheng
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: Zong Yuechao
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ma Qiancheng
+        wicket:
+          player_out: Ma Qiancheng
+          kind: lbw
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: Zong Yuechao
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shenjian Zheng
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Shenjian Zheng
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Shenjian Zheng
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: Shenjian Zheng
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Zong Yuechao
+        bowler: Pavandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shenjian Zheng
+    - 7.2:
+        actual_delivery: '7.1'
+        non_striker: Zong Yuechao
+        bowler: Pavandeep Singh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Shenjian Zheng
+    - 7.3:
+        actual_delivery: '7.2'
+        non_striker: Zong Yuechao
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shenjian Zheng
+    - 7.4:
+        actual_delivery: '7.3'
+        non_striker: Shenjian Zheng
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zong Yuechao
+    - 7.5:
+        actual_delivery: '7.4'
+        non_striker: Shenjian Zheng
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 7.6:
+        actual_delivery: '7.5'
+        non_striker: Shenjian Zheng
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zong Yuechao
+    - 7.7:
+        actual_delivery: '7.6'
+        non_striker: Zong Yuechao
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shenjian Zheng
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: Shenjian Zheng
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zong Yuechao
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: Zong Yuechao
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shenjian Zheng
+        wicket:
+          player_out: Shenjian Zheng
+          fielders:
+          - Aslam Khan
+          kind: caught
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: Zong Yuechao
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yang Wangjie
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: Zong Yuechao
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yang Wangjie
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: Yang Wangjie
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zong Yuechao
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: Zong Yuechao
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yang Wangjie
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: Yang Wangjie
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zong Yuechao
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: Zong Yuechao
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yang Wangjie
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: Yang Wangjie
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: Yang Wangjie
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: Yang Wangjie
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: Yang Wangjie
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Zong Yuechao
+        bowler: Azri Azhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yang Wangjie
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Zong Yuechao
+        bowler: Azri Azhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yang Wangjie
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: Zong Yuechao
+        bowler: Azri Azhar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yang Wangjie
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: Yang Wangjie
+        bowler: Azri Azhar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Zong Yuechao
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: Zong Yuechao
+        bowler: Azri Azhar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yang Wangjie
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: Zong Yuechao
+        bowler: Azri Azhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yang Wangjie
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Yang Wangjie
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Yang Wangjie
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zong Yuechao
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: Zong Yuechao
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yang Wangjie
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: Zong Yuechao
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yang Wangjie
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: Yang Wangjie
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zong Yuechao
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: Zong Yuechao
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yang Wangjie
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: Yang Wangjie
+        bowler: Azri Azhar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zong Yuechao
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Yang Wangjie
+        bowler: Azri Azhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Yang Wangjie
+        bowler: Azri Azhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Yang Wangjie
+        bowler: Azri Azhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Yang Wangjie
+        bowler: Azri Azhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: Yang Wangjie
+        bowler: Azri Azhar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Zong Yuechao
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yang Wangjie
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Yang Wangjie
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Yang Wangjie
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Yang Wangjie
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: Yang Wangjie
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zong Yuechao
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: Zong Yuechao
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yang Wangjie
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Zong Yuechao
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yang Wangjie
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Yang Wangjie
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zong Yuechao
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Zong Yuechao
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yang Wangjie
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: Zong Yuechao
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yang Wangjie
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: Yang Wangjie
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Yang Wangjie
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Zong Yuechao
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yang Wangjie
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: Yang Wangjie
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zong Yuechao
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: Yang Wangjie
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: Yang Wangjie
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zong Yuechao
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: Zong Yuechao
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yang Wangjie
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: Zong Yuechao
+        bowler: Rahim Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yang Wangjie
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: Zong Yuechao
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yang Wangjie
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Zong Yuechao
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yang Wangjie
+        wicket:
+          player_out: Yang Wangjie
+          fielders:
+          - Aslam Khan
+          kind: caught
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: Zong Yuechao
+        bowler: Virandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Deng Jinqi
+    - 16.4:
+        actual_delivery: '16.3'
+        non_striker: Zong Yuechao
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Deng Jinqi
+    - 16.5:
+        actual_delivery: '16.4'
+        non_striker: Deng Jinqi
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+    - 16.6:
+        actual_delivery: '16.5'
+        non_striker: Deng Jinqi
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zong Yuechao
+    - 16.7:
+        actual_delivery: '16.6'
+        non_striker: Zong Yuechao
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Deng Jinqi
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: Deng Jinqi
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zong Yuechao
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: Zong Yuechao
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Deng Jinqi
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: Zong Yuechao
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Deng Jinqi
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: Zong Yuechao
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Deng Jinqi
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: Deng Jinqi
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zong Yuechao
+        wicket:
+          player_out: Zong Yuechao
+          kind: bowled
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: Deng Jinqi
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chen Zhuo Yue
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: Chen Zhuo Yue
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Deng Jinqi
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: Chen Zhuo Yue
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Deng Jinqi
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: Deng Jinqi
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Chen Zhuo Yue
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: Chen Zhuo Yue
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Deng Jinqi
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: Chen Zhuo Yue
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Deng Jinqi
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: Deng Jinqi
+        bowler: Virandeep Singh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Chen Zhuo Yue
+    - 18.7:
+        actual_delivery: '18.6'
+        non_striker: Chen Zhuo Yue
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Deng Jinqi
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: Chen Zhuo Yue
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Deng Jinqi
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: Chen Zhuo Yue
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Deng Jinqi
+        wicket:
+          player_out: Deng Jinqi
+          kind: bowled
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: Chen Zhuo Yue
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Qi Shuai
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: Qi Shuai
+        bowler: S Vijay Unni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Chen Zhuo Yue
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: Chen Zhuo Yue
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Qi Shuai
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: Qi Shuai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chen Zhuo Yue
+        wicket:
+          player_out: Qi Shuai
+          fielders:
+          - S Vijay Unni
+          kind: run out
+- 2nd innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Tian Sen Qun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Aslam Khan
+        batsman: Muhammad Haziq Aiman
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: Tian Sen Qun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aslam Khan
+        batsman: Muhammad Haziq Aiman
+    - 0.3:
+        actual_delivery: '0.3'
+        bowler: Tian Sen Qun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aslam Khan
+        batsman: Muhammad Haziq Aiman
+    - 0.4:
+        actual_delivery: '0.4'
+        bowler: Tian Sen Qun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Aslam Khan
+        batsman: Muhammad Haziq Aiman
+    - 0.5:
+        actual_delivery: '0.5'
+        bowler: Tian Sen Qun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Aslam Khan
+        batsman: Muhammad Haziq Aiman
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: Aslam Khan
+        bowler: Tian Sen Qun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Ma Qiancheng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Khan
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Ma Qiancheng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Khan
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Ma Qiancheng
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aslam Khan
+    - 1.4:
+        actual_delivery: '1.3'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Ma Qiancheng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslam Khan
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: Aslam Khan
+        bowler: Ma Qiancheng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 1.6:
+        actual_delivery: '1.5'
+        non_striker: Aslam Khan
+        bowler: Ma Qiancheng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 1.7:
+        actual_delivery: '1.6'
+        non_striker: Aslam Khan
+        bowler: Ma Qiancheng
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Haziq Aiman
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Luo Shilin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Khan
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Luo Shilin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslam Khan
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: Aslam Khan
+        bowler: Luo Shilin
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Muhammad Haziq Aiman
+    - 2.4:
+        actual_delivery: '2.3'
+        non_striker: Aslam Khan
+        bowler: Luo Shilin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 2.5:
+        actual_delivery: '2.4'
+        non_striker: Aslam Khan
+        bowler: Luo Shilin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 2.6:
+        actual_delivery: '2.5'
+        non_striker: Aslam Khan
+        bowler: Luo Shilin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 2.7:
+        actual_delivery: '2.6'
+        non_striker: Aslam Khan
+        bowler: Luo Shilin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Haziq Aiman
+    - 2.8:
+        actual_delivery: '2.6'
+        non_striker: Aslam Khan
+        bowler: Luo Shilin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Aslam Khan
+        bowler: Ma Qiancheng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Ma Qiancheng
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aslam Khan
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Ma Qiancheng
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aslam Khan
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Ma Qiancheng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslam Khan
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: Aslam Khan
+        bowler: Ma Qiancheng
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Haziq Aiman
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: Aslam Khan
+        bowler: Ma Qiancheng
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Haziq Aiman
+    - 3.7:
+        actual_delivery: '3.6'
+        non_striker: Aslam Khan
+        bowler: Ma Qiancheng
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Luo Shilin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aslam Khan
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Luo Shilin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslam Khan
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: Aslam Khan
+        bowler: Luo Shilin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Aslam Khan
+        bowler: Luo Shilin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: Aslam Khan
+        bowler: Luo Shilin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Haziq Aiman
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: Aslam Khan
+        bowler: Luo Shilin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Haziq Aiman
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Tian Sen Qun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Khan
+        wicket:
+          player_out: Aslam Khan
+          fielders:
+          - Qi Shuai
+          kind: caught
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Tian Sen Qun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Akram
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Tian Sen Qun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Akram
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Tian Sen Qun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Akram
+    - 5.5:
+        actual_delivery: '5.4'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Tian Sen Qun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Akram
+    - 5.6:
+        actual_delivery: '5.5'
+        non_striker: Muhammad Akram
+        bowler: Tian Sen Qun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Haziq Aiman
+    - 5.7:
+        actual_delivery: '5.6'
+        non_striker: Muhammad Akram
+        bowler: Tian Sen Qun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Haziq Aiman
+    - 5.8:
+        actual_delivery: '5.6'
+        non_striker: Muhammad Akram
+        bowler: Tian Sen Qun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Haziq Aiman
+    - 5.9:
+        actual_delivery: '5.6'
+        non_striker: Muhammad Akram
+        bowler: Tian Sen Qun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: Muhammad Akram
+        bowler: Qi Shuai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Haziq Aiman
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: Muhammad Akram
+        bowler: Qi Shuai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: Muhammad Akram
+        bowler: Qi Shuai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Muhammad Haziq Aiman
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Qi Shuai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Muhammad Akram
+    - 6.5:
+        actual_delivery: '6.4'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Qi Shuai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Akram
+    - 6.6:
+        actual_delivery: '6.5'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Qi Shuai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Akram
+    - 6.7:
+        actual_delivery: '6.6'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Qi Shuai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Akram
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Muhammad Akram
+        bowler: Deng Jinqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: Muhammad Akram
+        bowler: Deng Jinqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: Muhammad Akram
+        bowler: Deng Jinqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Deng Jinqi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Akram
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: Muhammad Haziq Aiman
+        bowler: Deng Jinqi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Akram
+    target:
+      overs: 20
+      runs: 85

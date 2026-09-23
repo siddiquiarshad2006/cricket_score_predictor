@@ -1,0 +1,1085 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Singapore
+  dates:
+  - '2026-06-22'
+  gender: male
+  match_type: T20
+  match_type_number: 3977
+  outcome:
+    winner: Singapore
+    by:
+      runs: 52
+  overs: 20
+  player_of_match:
+  - R Gaznavi
+  players:
+    Singapore:
+    - S Gulecha
+    - R Gaznavi
+    - Manpreet Singh
+    - DPS Tyagi
+    - H Venkataram
+    - J Santhanam
+    - Raheel Thakkar
+    - A Kessar
+    - VT Thiyanesh
+    - G Gune
+    - RR Naik
+    Uzbekistan:
+    - Luqman Hussan
+    - A Khakimov
+    - S Shermatov
+    - Nikhil
+    - Saif Ullah
+    - A Musaev
+    - Syed Ahzamul Haq
+    - I Mustafoev
+    - U Tuychiev
+    - G Tuychiev
+    - A Khasanov
+  registry:
+    people:
+      A Kessar: 6da5685e
+      A Khakimov: 93883b6a
+      A Khasanov: c266599c
+      A Musaev: 19a51d59
+      A Natarajan: a2b73ae0
+      DPS Tyagi: d5f96736
+      G Gune: 5491a9ff
+      G Tuychiev: beafdac1
+      H Venkataram: e61cee7b
+      I Mustafoev: eb45b187
+      J Santhanam: 4f1d3f68
+      KK Ghosh: eea3fd8e
+      KSVP Venu Madhav: 8c7fb752
+      Luqman Hussan: d33fce1b
+      Manpreet Singh: e9d6a2ce
+      Nikhil: f4e3d407
+      R Gaznavi: '0079f139'
+      RR Naik: f456ad17
+      Raheel Thakkar: 4844672e
+      S Gulecha: b70ec03e
+      S Shermatov: a6941f24
+      Saif Ullah: '44756879'
+      Sathish Balasubramaniam: b4794f2a
+      Syed Ahzamul Haq: 7c05b23d
+      U Tuychiev: c97539e6
+      VT Thiyanesh: e1d2c0bf
+  team_type: international
+  teams:
+  - Singapore
+  - Uzbekistan
+  toss:
+    winner: Uzbekistan
+    decision: field
+  umpires:
+  - A Natarajan
+  - KSVP Venu Madhav
+  venue: Singapore National Cricket Ground
+innings:
+- 1st innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: A Khasanov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: R Gaznavi
+        actual_delivery: '0.1'
+        batsman: S Gulecha
+    - 0.2:
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Gaznavi
+        actual_delivery: '0.1'
+        batsman: S Gulecha
+    - 0.3:
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Gaznavi
+        actual_delivery: '0.2'
+        batsman: S Gulecha
+    - 0.4:
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: R Gaznavi
+        actual_delivery: '0.3'
+        batsman: S Gulecha
+    - 0.5:
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Gaznavi
+        actual_delivery: '0.4'
+        batsman: S Gulecha
+    - 0.6:
+        non_striker: S Gulecha
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: R Gaznavi
+    - 0.7:
+        non_striker: S Gulecha
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: R Gaznavi
+    - 1.1:
+        non_striker: R Gaznavi
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.1'
+        batsman: S Gulecha
+    - 1.2:
+        non_striker: R Gaznavi
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.2'
+        batsman: S Gulecha
+    - 1.3:
+        non_striker: R Gaznavi
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.3'
+        batsman: S Gulecha
+    - 1.4:
+        non_striker: R Gaznavi
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: S Gulecha
+        wicket:
+          player_out: S Gulecha
+          fielders:
+          - Saif Ullah
+          kind: caught
+    - 1.5:
+        non_striker: R Gaznavi
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.5'
+        batsman: Manpreet Singh
+    - 1.6:
+        non_striker: R Gaznavi
+        bowler: A Musaev
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.6'
+        batsman: Manpreet Singh
+    - 1.7:
+        non_striker: R Gaznavi
+        bowler: A Musaev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Manpreet Singh
+    - 2.1:
+        non_striker: Manpreet Singh
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.1'
+        batsman: R Gaznavi
+    - 2.2:
+        non_striker: Manpreet Singh
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: R Gaznavi
+    - 2.3:
+        non_striker: R Gaznavi
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.3'
+        batsman: Manpreet Singh
+    - 2.4:
+        non_striker: R Gaznavi
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.4'
+        batsman: Manpreet Singh
+    - 2.5:
+        non_striker: R Gaznavi
+        bowler: A Khasanov
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '2.5'
+        batsman: Manpreet Singh
+    - 2.6:
+        non_striker: Manpreet Singh
+        bowler: A Khasanov
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: R Gaznavi
+    - 3.1:
+        non_striker: Manpreet Singh
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.1'
+        batsman: R Gaznavi
+    - 3.2:
+        non_striker: Manpreet Singh
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '3.2'
+        batsman: R Gaznavi
+    - 3.3:
+        non_striker: Manpreet Singh
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: R Gaznavi
+    - 3.4:
+        non_striker: Manpreet Singh
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: R Gaznavi
+    - 3.5:
+        non_striker: R Gaznavi
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Manpreet Singh
+        wicket:
+          player_out: Manpreet Singh
+          fielders:
+          - U Tuychiev
+          kind: caught
+    - 3.6:
+        non_striker: R Gaznavi
+        bowler: I Mustafoev
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.6'
+        batsman: DPS Tyagi
+    - 3.7:
+        non_striker: R Gaznavi
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.6'
+        batsman: DPS Tyagi
+    - 4.1:
+        non_striker: DPS Tyagi
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: R Gaznavi
+    - 4.2:
+        non_striker: DPS Tyagi
+        bowler: Luqman Hussan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '4.2'
+        batsman: R Gaznavi
+    - 4.3:
+        non_striker: R Gaznavi
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: DPS Tyagi
+    - 4.4:
+        non_striker: R Gaznavi
+        bowler: Luqman Hussan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.4'
+        batsman: DPS Tyagi
+    - 4.5:
+        non_striker: R Gaznavi
+        bowler: Luqman Hussan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.4'
+        batsman: DPS Tyagi
+    - 4.6:
+        non_striker: R Gaznavi
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: DPS Tyagi
+    - 4.7:
+        non_striker: R Gaznavi
+        bowler: Luqman Hussan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        actual_delivery: '4.5'
+        batsman: DPS Tyagi
+    - 4.8:
+        non_striker: R Gaznavi
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.6'
+        batsman: DPS Tyagi
+    - 5.1:
+        non_striker: DPS Tyagi
+        bowler: U Tuychiev
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        actual_delivery: '5.1'
+        batsman: R Gaznavi
+    - 5.2:
+        non_striker: DPS Tyagi
+        bowler: U Tuychiev
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '5.1'
+        batsman: R Gaznavi
+    - 5.3:
+        non_striker: R Gaznavi
+        bowler: U Tuychiev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: DPS Tyagi
+    - 5.4:
+        non_striker: R Gaznavi
+        bowler: U Tuychiev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: DPS Tyagi
+        wicket:
+          player_out: DPS Tyagi
+          fielders:
+          - Nikhil
+          kind: caught
+    - 5.5:
+        non_striker: R Gaznavi
+        bowler: U Tuychiev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: H Venkataram
+    - 5.6:
+        non_striker: R Gaznavi
+        bowler: U Tuychiev
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: H Venkataram
+    - 5.7:
+        non_striker: R Gaznavi
+        bowler: U Tuychiev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: H Venkataram
+    - 6.1:
+        non_striker: R Gaznavi
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: H Venkataram
+    - 6.2:
+        non_striker: H Venkataram
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: R Gaznavi
+    - 6.3:
+        non_striker: H Venkataram
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.3'
+        batsman: R Gaznavi
+    - 6.4:
+        non_striker: H Venkataram
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: R Gaznavi
+    - 6.5:
+        non_striker: R Gaznavi
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.5'
+        batsman: H Venkataram
+    - 6.6:
+        non_striker: R Gaznavi
+        bowler: Luqman Hussan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '6.6'
+        batsman: H Venkataram
+    - 7.1:
+        non_striker: H Venkataram
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.1'
+        batsman: R Gaznavi
+    - 7.2:
+        non_striker: H Venkataram
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: R Gaznavi
+    - 7.3:
+        non_striker: R Gaznavi
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: H Venkataram
+    - 7.4:
+        non_striker: R Gaznavi
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.4'
+        batsman: H Venkataram
+    - 7.5:
+        non_striker: R Gaznavi
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: H Venkataram
+    - 7.6:
+        non_striker: R Gaznavi
+        bowler: I Mustafoev
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: H Venkataram
+- 2nd innings:
+    team: Uzbekistan
+    deliveries:
+    - 0.1:
+        non_striker: A Khakimov
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.1'
+        batsman: Luqman Hussan
+        wicket:
+          player_out: Luqman Hussan
+          fielders:
+          - VT Thiyanesh
+          kind: caught
+    - 0.2:
+        non_striker: A Khakimov
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.2'
+        batsman: S Shermatov
+    - 0.3:
+        non_striker: A Khakimov
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: S Shermatov
+    - 0.4:
+        non_striker: A Khakimov
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: S Shermatov
+    - 0.5:
+        non_striker: A Khakimov
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '0.5'
+        batsman: S Shermatov
+    - 0.6:
+        non_striker: A Khakimov
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '0.6'
+        batsman: S Shermatov
+    - 1.1:
+        non_striker: S Shermatov
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: A Khakimov
+    - 1.2:
+        non_striker: S Shermatov
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: A Khakimov
+    - 1.3:
+        non_striker: S Shermatov
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: A Khakimov
+    - 1.4:
+        non_striker: S Shermatov
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: A Khakimov
+    - 1.5:
+        non_striker: S Shermatov
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: A Khakimov
+        wicket:
+          player_out: A Khakimov
+          kind: caught and bowled
+    - 1.6:
+        non_striker: S Shermatov
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: Nikhil
+    - 2.1:
+        non_striker: Nikhil
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: S Shermatov
+    - 2.2:
+        non_striker: S Shermatov
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.2'
+        batsman: Nikhil
+    - 2.3:
+        non_striker: S Shermatov
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: Nikhil
+    - 2.4:
+        non_striker: Nikhil
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: S Shermatov
+    - 2.5:
+        non_striker: Nikhil
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: S Shermatov
+        wicket:
+          player_out: S Shermatov
+          fielders:
+          - Raheel Thakkar
+          kind: stumped
+    - 2.6:
+        non_striker: Nikhil
+        bowler: J Santhanam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: Saif Ullah
+    - 3.1:
+        non_striker: Saif Ullah
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: Nikhil
+    - 3.2:
+        non_striker: Nikhil
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.2'
+        batsman: Saif Ullah
+    - 3.3:
+        non_striker: Nikhil
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: Saif Ullah
+    - 3.4:
+        non_striker: Nikhil
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Saif Ullah
+    - 3.5:
+        non_striker: Nikhil
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Saif Ullah
+    - 3.6:
+        non_striker: Nikhil
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Saif Ullah
+    - 4.1:
+        non_striker: Saif Ullah
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: Nikhil
+        wicket:
+          player_out: Nikhil
+          fielders:
+          - VT Thiyanesh
+          kind: caught
+    - 4.2:
+        non_striker: Saif Ullah
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: A Musaev
+    - 4.3:
+        non_striker: Saif Ullah
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: A Musaev
+    - 4.4:
+        non_striker: Saif Ullah
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: A Musaev
+    - 4.5:
+        non_striker: A Musaev
+        bowler: A Kessar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Saif Ullah
+    - 4.6:
+        non_striker: A Musaev
+        bowler: A Kessar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '4.6'
+        batsman: Saif Ullah
+    - 5.1:
+        non_striker: A Musaev
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: Saif Ullah
+    - 5.2:
+        non_striker: Saif Ullah
+        bowler: H Venkataram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '5.2'
+        batsman: A Musaev
+    - 5.3:
+        non_striker: A Musaev
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '5.3'
+        batsman: Saif Ullah
+    - 5.4:
+        non_striker: A Musaev
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: Saif Ullah
+    - 5.5:
+        non_striker: Saif Ullah
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: A Musaev
+    - 5.6:
+        non_striker: A Musaev
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: Saif Ullah
+    - 6.1:
+        non_striker: A Musaev
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: Saif Ullah
+        wicket:
+          player_out: Saif Ullah
+          fielders:
+          - A Kessar
+          kind: caught
+    - 6.2:
+        non_striker: A Musaev
+        bowler: VT Thiyanesh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '6.2'
+        batsman: Syed Ahzamul Haq
+    - 6.3:
+        non_striker: A Musaev
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: Syed Ahzamul Haq
+    - 6.4:
+        non_striker: A Musaev
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Syed Ahzamul Haq
+    - 6.5:
+        non_striker: A Musaev
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Syed Ahzamul Haq
+    - 6.6:
+        non_striker: A Musaev
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '6.5'
+        batsman: Syed Ahzamul Haq
+    - 6.7:
+        non_striker: A Musaev
+        bowler: VT Thiyanesh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: Syed Ahzamul Haq
+    - 7.1:
+        non_striker: A Musaev
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: Syed Ahzamul Haq
+    - 7.2:
+        non_striker: Syed Ahzamul Haq
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: A Musaev
+    - 7.3:
+        non_striker: Syed Ahzamul Haq
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.3'
+        batsman: A Musaev
+    - 7.4:
+        non_striker: Syed Ahzamul Haq
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.4'
+        batsman: A Musaev
+    - 7.5:
+        non_striker: A Musaev
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: Syed Ahzamul Haq
+    - 7.6:
+        non_striker: Syed Ahzamul Haq
+        bowler: S Gulecha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: A Musaev
+    target:
+      overs: 8
+      runs: 102

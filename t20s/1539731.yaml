@@ -1,0 +1,1142 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hamilton
+  dates:
+  - '2026-06-22'
+  gender: male
+  match_type: T20
+  match_type_number: 3979
+  outcome:
+    winner: Bermuda
+    by:
+      wickets: 10
+    method: D/L
+  overs: 20
+  players:
+    Belize:
+    - NN Banner
+    - L Bonner
+    - A Oxley
+    - ML Castillo
+    - Greg Scott
+    - K Moses
+    - O Casasola
+    - TAW Patterson
+    - R Broaster
+    - K Bevans
+    - R Smith
+    Bermuda:
+    - OGL Bascome
+    - DMW Rawlins
+    - D Sabir
+    - Z Burgess
+    - C Trott
+    - TS Fray
+    - S Smith
+    - DL Brangman
+    - Jonte Smith
+    - L Horan
+    - Isaiah O'Brien
+  registry:
+    people:
+      A Gajjar: 37db06ef
+      A Oxley: d1317833
+      C Trott: ae624b05
+      D Sabir: 04bc296f
+      DL Brangman: dab18aa5
+      DMW Rawlins: f1eb3c73
+      Greg Scott: bf06337d
+      Isaiah O'Brien: 967801f4
+      Jonte Smith: ae4d0b45
+      K Bevans: 3dfbf6f1
+      K Moses: e29f78ec
+      L Bonner: fd94c29f
+      L Horan: 16d43e12
+      ML Castillo: 9853b404
+      NN Banner: '0697b5a1'
+      O Casasola: 15fe1668
+      OGL Bascome: 94a1827c
+      P Manning: f06b5585
+      R Broaster: d6c3432e
+      R Smith: 02d59576
+      Reon King: 20fbf68c
+      S Smith: 18a0ba24
+      TAW Patterson: 5abb0f07
+      TS Fray: c7537f8a
+      Z Burgess: d0042e16
+      Zahid Bassarath: ca6bf044
+  team_type: international
+  teams:
+  - Belize
+  - Bermuda
+  toss:
+    winner: Bermuda
+    decision: field
+  umpires:
+  - P Manning
+  - Zahid Bassarath
+  venue: White Hill Field, Sandys Parish
+innings:
+- 1st innings:
+    team: Belize
+    deliveries:
+    - 0.1:
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Bonner
+        actual_delivery: '0.1'
+        batsman: NN Banner
+    - 0.2:
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Bonner
+        actual_delivery: '0.2'
+        batsman: NN Banner
+    - 0.3:
+        bowler: Z Burgess
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: L Bonner
+        actual_delivery: '0.3'
+        batsman: NN Banner
+    - 0.4:
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Bonner
+        actual_delivery: '0.3'
+        batsman: NN Banner
+    - 0.5:
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Bonner
+        actual_delivery: '0.4'
+        batsman: NN Banner
+    - 0.6:
+        non_striker: NN Banner
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: L Bonner
+    - 0.7:
+        non_striker: NN Banner
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: L Bonner
+    - 1.1:
+        non_striker: L Bonner
+        bowler: L Horan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.1'
+        batsman: NN Banner
+    - 1.2:
+        non_striker: L Bonner
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: NN Banner
+    - 1.3:
+        non_striker: L Bonner
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: NN Banner
+    - 1.4:
+        non_striker: L Bonner
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: NN Banner
+    - 1.5:
+        non_striker: L Bonner
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.4'
+        batsman: NN Banner
+    - 1.6:
+        non_striker: NN Banner
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: L Bonner
+    - 1.7:
+        non_striker: NN Banner
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: L Bonner
+    - 2.1:
+        non_striker: L Bonner
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: NN Banner
+        wicket:
+          player_out: NN Banner
+          kind: bowled
+    - 2.2:
+        non_striker: L Bonner
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: A Oxley
+    - 2.3:
+        non_striker: L Bonner
+        bowler: Z Burgess
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.3'
+        batsman: A Oxley
+    - 2.4:
+        non_striker: L Bonner
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: A Oxley
+    - 2.5:
+        non_striker: L Bonner
+        bowler: Z Burgess
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.4'
+        batsman: A Oxley
+    - 2.6:
+        non_striker: L Bonner
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: A Oxley
+    - 2.7:
+        non_striker: L Bonner
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.5'
+        batsman: A Oxley
+    - 2.8:
+        non_striker: L Bonner
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: A Oxley
+    - 3.1:
+        non_striker: L Bonner
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.1'
+        batsman: A Oxley
+    - 3.2:
+        non_striker: A Oxley
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: L Bonner
+        wicket:
+          player_out: L Bonner
+          kind: bowled
+    - 3.3:
+        non_striker: A Oxley
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: ML Castillo
+    - 3.4:
+        non_striker: A Oxley
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: ML Castillo
+    - 3.5:
+        non_striker: A Oxley
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: ML Castillo
+    - 3.6:
+        non_striker: ML Castillo
+        bowler: L Horan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: A Oxley
+    - 4.1:
+        non_striker: A Oxley
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: ML Castillo
+    - 4.2:
+        non_striker: A Oxley
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.2'
+        batsman: ML Castillo
+    - 4.3:
+        non_striker: ML Castillo
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: A Oxley
+    - 4.4:
+        non_striker: A Oxley
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: ML Castillo
+        wicket:
+          player_out: ML Castillo
+          kind: bowled
+    - 4.5:
+        non_striker: A Oxley
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Greg Scott
+    - 4.6:
+        non_striker: A Oxley
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: Greg Scott
+    - 5.1:
+        non_striker: Greg Scott
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: A Oxley
+    - 5.2:
+        non_striker: A Oxley
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: Greg Scott
+    - 5.3:
+        non_striker: Greg Scott
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: A Oxley
+    - 5.4:
+        non_striker: Greg Scott
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.4'
+        batsman: A Oxley
+    - 5.5:
+        non_striker: Greg Scott
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: A Oxley
+    - 5.6:
+        non_striker: Greg Scott
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.6'
+        batsman: A Oxley
+    - 6.1:
+        non_striker: Greg Scott
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: A Oxley
+    - 6.2:
+        non_striker: Greg Scott
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: A Oxley
+    - 6.3:
+        non_striker: Greg Scott
+        bowler: DL Brangman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '6.3'
+        batsman: A Oxley
+    - 6.4:
+        non_striker: A Oxley
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: Greg Scott
+    - 6.5:
+        non_striker: Greg Scott
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: A Oxley
+    - 6.6:
+        non_striker: A Oxley
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: Greg Scott
+    - 7.1:
+        non_striker: Greg Scott
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: A Oxley
+    - 7.2:
+        non_striker: Greg Scott
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: A Oxley
+    - 7.3:
+        non_striker: Greg Scott
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.3'
+        batsman: A Oxley
+    - 7.4:
+        non_striker: A Oxley
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: Greg Scott
+    - 7.5:
+        non_striker: A Oxley
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: Greg Scott
+    - 7.6:
+        non_striker: Greg Scott
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: A Oxley
+    - 8.1:
+        non_striker: Greg Scott
+        bowler: Isaiah O'Brien
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.1'
+        batsman: A Oxley
+    - 8.2:
+        non_striker: Greg Scott
+        bowler: Isaiah O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: A Oxley
+    - 8.3:
+        non_striker: Greg Scott
+        bowler: Isaiah O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: A Oxley
+    - 8.4:
+        non_striker: Greg Scott
+        bowler: Isaiah O'Brien
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.3'
+        batsman: A Oxley
+    - 8.5:
+        non_striker: Greg Scott
+        bowler: Isaiah O'Brien
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.4'
+        batsman: A Oxley
+    - 8.6:
+        non_striker: Greg Scott
+        bowler: Isaiah O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: A Oxley
+    - 8.7:
+        non_striker: Greg Scott
+        bowler: Isaiah O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: A Oxley
+    - 8.8:
+        non_striker: Greg Scott
+        bowler: Isaiah O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: A Oxley
+    - 9.1:
+        non_striker: A Oxley
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: Greg Scott
+    - 9.2:
+        non_striker: A Oxley
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Greg Scott
+    - 9.3:
+        non_striker: A Oxley
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: Greg Scott
+    - 9.4:
+        non_striker: A Oxley
+        bowler: Z Burgess
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        actual_delivery: '9.4'
+        batsman: Greg Scott
+    - 9.5:
+        non_striker: Greg Scott
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: A Oxley
+    - 9.6:
+        non_striker: A Oxley
+        bowler: Z Burgess
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: Greg Scott
+    - 10.1:
+        non_striker: A Oxley
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: Greg Scott
+    - 10.2:
+        non_striker: Greg Scott
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: A Oxley
+    - 10.3:
+        non_striker: A Oxley
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: Greg Scott
+        wicket:
+          player_out: Greg Scott
+          fielders:
+          - S Smith
+          kind: stumped
+    - 10.4:
+        non_striker: A Oxley
+        bowler: DL Brangman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.4'
+        batsman: K Moses
+    - 10.5:
+        non_striker: A Oxley
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: K Moses
+    - 10.6:
+        non_striker: K Moses
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: A Oxley
+    - 10.7:
+        non_striker: A Oxley
+        bowler: DL Brangman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: K Moses
+    - 11.1:
+        non_striker: K Moses
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: A Oxley
+    - 11.2:
+        non_striker: A Oxley
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: K Moses
+    - 11.3:
+        non_striker: K Moses
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: A Oxley
+        wicket:
+          player_out: A Oxley
+          fielders:
+          - S Smith
+          kind: stumped
+    - 11.4:
+        non_striker: K Moses
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.4'
+        batsman: O Casasola
+    - 11.5:
+        non_striker: K Moses
+        bowler: D Sabir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: O Casasola
+        wicket:
+          player_out: O Casasola
+          fielders:
+          - Z Burgess
+          kind: caught
+    - 11.6:
+        non_striker: K Moses
+        bowler: D Sabir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '11.6'
+        batsman: TAW Patterson
+        wicket:
+          player_out: TAW Patterson
+          fielders:
+          - S Smith
+          - D Sabir
+          kind: run out
+- 2nd innings:
+    team: Bermuda
+    deliveries:
+    - 0.1:
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: DMW Rawlins
+        actual_delivery: '0.1'
+        batsman: OGL Bascome
+    - 0.2:
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DMW Rawlins
+        actual_delivery: '0.2'
+        batsman: OGL Bascome
+    - 0.3:
+        non_striker: OGL Bascome
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.3'
+        batsman: DMW Rawlins
+    - 0.4:
+        non_striker: DMW Rawlins
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: OGL Bascome
+    - 0.5:
+        non_striker: DMW Rawlins
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '0.5'
+        batsman: OGL Bascome
+    - 0.6:
+        non_striker: DMW Rawlins
+        bowler: L Bonner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: OGL Bascome
+    - 1.1:
+        non_striker: OGL Bascome
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: DMW Rawlins
+    - 1.2:
+        non_striker: OGL Bascome
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: DMW Rawlins
+    - 1.3:
+        non_striker: OGL Bascome
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: DMW Rawlins
+    - 1.4:
+        non_striker: DMW Rawlins
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: OGL Bascome
+    - 1.5:
+        non_striker: DMW Rawlins
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: OGL Bascome
+    - 1.6:
+        non_striker: DMW Rawlins
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: OGL Bascome
+    - 2.1:
+        non_striker: DMW Rawlins
+        bowler: K Moses
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.1'
+        batsman: OGL Bascome
+    - 2.2:
+        non_striker: DMW Rawlins
+        bowler: K Moses
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.2'
+        batsman: OGL Bascome
+    - 2.3:
+        non_striker: DMW Rawlins
+        bowler: K Moses
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: OGL Bascome
+    - 2.4:
+        non_striker: DMW Rawlins
+        bowler: K Moses
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '2.4'
+        batsman: OGL Bascome
+    - 2.5:
+        non_striker: DMW Rawlins
+        bowler: K Moses
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: OGL Bascome
+    - 2.6:
+        non_striker: OGL Bascome
+        bowler: K Moses
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.6'
+        batsman: DMW Rawlins
+    - 3.1:
+        non_striker: DMW Rawlins
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.1'
+        batsman: OGL Bascome
+    - 3.2:
+        non_striker: DMW Rawlins
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: OGL Bascome
+    - 3.3:
+        non_striker: OGL Bascome
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.3'
+        batsman: DMW Rawlins
+    - 3.4:
+        non_striker: OGL Bascome
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: DMW Rawlins
+    - 3.5:
+        non_striker: DMW Rawlins
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.5'
+        batsman: OGL Bascome
+    - 3.6:
+        non_striker: OGL Bascome
+        bowler: NN Banner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: DMW Rawlins
+    - 4.1:
+        non_striker: OGL Bascome
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: DMW Rawlins
+    - 4.2:
+        non_striker: DMW Rawlins
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: OGL Bascome
+    - 4.3:
+        non_striker: DMW Rawlins
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: OGL Bascome
+    - 4.4:
+        non_striker: OGL Bascome
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: DMW Rawlins
+    - 4.5:
+        non_striker: DMW Rawlins
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: OGL Bascome
+    - 4.6:
+        non_striker: OGL Bascome
+        bowler: ML Castillo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: DMW Rawlins
+    - 5.1:
+        non_striker: OGL Bascome
+        bowler: TAW Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: DMW Rawlins
+    - 5.2:
+        non_striker: OGL Bascome
+        bowler: TAW Patterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.2'
+        batsman: DMW Rawlins
+    target:
+      overs: 12
+      runs: 48

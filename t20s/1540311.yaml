@@ -1,0 +1,2348 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-06-22'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ilfov County
+  dates:
+  - '2026-06-20'
+  gender: male
+  match_type: T20
+  match_type_number: 3966
+  outcome:
+    winner: Romania
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - Irfan Ringku
+  players:
+    Hungary:
+    - Abbas Ghani
+    - V Ravindran
+    - Muhammad Soban
+    - M Bhaiji
+    - MP Ainsworth
+    - M Fontaine
+    - RJ Ainsworth
+    - Ali Nawaz
+    - Amal Jacob
+    - Sadat Said
+    - Muhammad Saqlain
+    Romania:
+    - AN Lascu
+    - R Satheesan
+    - Irfan Ringku
+    - V Saini
+    - Eranga De Silva
+    - Md Ariyan
+    - Avishka Iroshan
+    - M Koli
+    - J Fernando
+    - T Sandaruwan
+    - Luca Petre
+  registry:
+    people:
+      AN Lascu: e2c882d1
+      Abbas Ghani: a8f91f78
+      Ali Nawaz: deef8879
+      Amal Jacob: 5772882c
+      Avishka Iroshan: 2964821b
+      Eranga De Silva: 9a8e35ea
+      Irfan Ringku: fa0d1410
+      J Fernando: 898a21a4
+      Luca Petre: b31d458f
+      M Bhaiji: a06c81fd
+      M Fontaine: 1339f52a
+      M Koli: eb0f2802
+      MP Ainsworth: ae4a47d8
+      Md Ariyan: ff4805ee
+      Muhammad Saqlain: f094e3b8
+      Muhammad Soban: a5e1e2d4
+      R Satheesan: 1125ebe4
+      RJ Ainsworth: b6924e3f
+      Sadat Said: c5d00347
+      T Sandaruwan: 2c31f58a
+      V Ravindran: e5ecb1ef
+      V Saini: 0fa81719
+  team_type: international
+  teams:
+  - Hungary
+  - Romania
+  toss:
+    winner: Romania
+    decision: field
+  venue: Moara Vlasiei Cricket Ground, Ilfov County
+innings:
+- 1st innings:
+    team: Hungary
+    deliveries:
+    - 0.1:
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Ravindran
+        actual_delivery: '0.1'
+        batsman: Abbas Ghani
+    - 0.2:
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: V Ravindran
+        actual_delivery: '0.2'
+        batsman: Abbas Ghani
+    - 0.3:
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Ravindran
+        actual_delivery: '0.3'
+        batsman: Abbas Ghani
+    - 0.4:
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: V Ravindran
+        actual_delivery: '0.4'
+        batsman: Abbas Ghani
+    - 0.5:
+        bowler: Irfan Ringku
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: V Ravindran
+        actual_delivery: '0.5'
+        batsman: Abbas Ghani
+    - 0.6:
+        non_striker: Abbas Ghani
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: V Ravindran
+    - 1.1:
+        non_striker: V Ravindran
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: Abbas Ghani
+    - 1.2:
+        non_striker: V Ravindran
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: Abbas Ghani
+        wicket:
+          player_out: Abbas Ghani
+          kind: bowled
+    - 1.3:
+        non_striker: V Ravindran
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.3'
+        batsman: Muhammad Soban
+    - 1.4:
+        non_striker: Muhammad Soban
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '1.4'
+        batsman: V Ravindran
+    - 1.5:
+        non_striker: Muhammad Soban
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: V Ravindran
+    - 1.6:
+        non_striker: Muhammad Soban
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: V Ravindran
+    - 1.7:
+        non_striker: Muhammad Soban
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: V Ravindran
+    - 2.1:
+        non_striker: V Ravindran
+        bowler: Irfan Ringku
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.1'
+        batsman: Muhammad Soban
+    - 2.2:
+        non_striker: V Ravindran
+        bowler: Irfan Ringku
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.1'
+        batsman: Muhammad Soban
+    - 2.3:
+        non_striker: V Ravindran
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: Muhammad Soban
+    - 2.4:
+        non_striker: V Ravindran
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: Muhammad Soban
+        wicket:
+          player_out: Muhammad Soban
+          fielders:
+          - Luca Petre
+          kind: caught
+    - 2.5:
+        non_striker: V Ravindran
+        bowler: Irfan Ringku
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '2.3'
+        batsman: M Bhaiji
+    - 2.6:
+        non_striker: V Ravindran
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.3'
+        batsman: M Bhaiji
+    - 2.7:
+        non_striker: M Bhaiji
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: V Ravindran
+    - 2.8:
+        non_striker: V Ravindran
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.5'
+        batsman: M Bhaiji
+    - 2.9:
+        non_striker: M Bhaiji
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: V Ravindran
+    - 3.1:
+        non_striker: M Bhaiji
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.1'
+        batsman: V Ravindran
+    - 3.2:
+        non_striker: M Bhaiji
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: V Ravindran
+    - 3.3:
+        non_striker: M Bhaiji
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: V Ravindran
+    - 3.4:
+        non_striker: M Bhaiji
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.3'
+        batsman: V Ravindran
+    - 3.5:
+        non_striker: M Bhaiji
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: V Ravindran
+    - 3.6:
+        non_striker: V Ravindran
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: M Bhaiji
+    - 3.7:
+        non_striker: M Bhaiji
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '3.5'
+        batsman: V Ravindran
+    - 3.8:
+        non_striker: M Bhaiji
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: V Ravindran
+    - 4.1:
+        non_striker: M Bhaiji
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: V Ravindran
+    - 4.2:
+        non_striker: V Ravindran
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: M Bhaiji
+    - 4.3:
+        non_striker: V Ravindran
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: M Bhaiji
+        wicket:
+          player_out: M Bhaiji
+          fielders:
+          - Eranga De Silva
+          kind: caught
+    - 4.4:
+        non_striker: V Ravindran
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.4'
+        batsman: MP Ainsworth
+    - 4.5:
+        non_striker: V Ravindran
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: MP Ainsworth
+        wicket:
+          player_out: MP Ainsworth
+          kind: bowled
+    - 4.6:
+        non_striker: V Ravindran
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: M Fontaine
+    - 5.1:
+        non_striker: V Ravindran
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: M Fontaine
+    - 5.2:
+        non_striker: V Ravindran
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: M Fontaine
+    - 5.3:
+        non_striker: V Ravindran
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.3'
+        batsman: M Fontaine
+    - 5.4:
+        non_striker: V Ravindran
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: M Fontaine
+    - 5.5:
+        non_striker: V Ravindran
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: M Fontaine
+    - 5.6:
+        non_striker: M Fontaine
+        bowler: Luca Petre
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.6'
+        batsman: V Ravindran
+    - 5.7:
+        non_striker: M Fontaine
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: V Ravindran
+    - 6.1:
+        non_striker: V Ravindran
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: M Fontaine
+        wicket:
+          player_out: M Fontaine
+          fielders:
+          - Md Ariyan
+          kind: caught
+    - 6.2:
+        non_striker: V Ravindran
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: RJ Ainsworth
+    - 6.3:
+        non_striker: V Ravindran
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: RJ Ainsworth
+    - 6.4:
+        non_striker: V Ravindran
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: RJ Ainsworth
+    - 6.5:
+        non_striker: V Ravindran
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.5'
+        batsman: RJ Ainsworth
+    - 6.6:
+        non_striker: V Ravindran
+        bowler: Irfan Ringku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: RJ Ainsworth
+    - 7.1:
+        non_striker: RJ Ainsworth
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: V Ravindran
+    - 7.2:
+        non_striker: RJ Ainsworth
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.2'
+        batsman: V Ravindran
+    - 7.3:
+        non_striker: RJ Ainsworth
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: V Ravindran
+    - 7.4:
+        non_striker: RJ Ainsworth
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: V Ravindran
+        wicket:
+          player_out: V Ravindran
+          fielders:
+          - J Fernando
+          kind: caught
+    - 7.5:
+        non_striker: RJ Ainsworth
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: Ali Nawaz
+    - 7.6:
+        non_striker: RJ Ainsworth
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: Ali Nawaz
+    - 8.1:
+        non_striker: RJ Ainsworth
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.1'
+        batsman: Ali Nawaz
+    - 8.2:
+        non_striker: RJ Ainsworth
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: Ali Nawaz
+    - 8.3:
+        non_striker: RJ Ainsworth
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.3'
+        batsman: Ali Nawaz
+    - 8.4:
+        non_striker: RJ Ainsworth
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: Ali Nawaz
+    - 8.5:
+        non_striker: Ali Nawaz
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: RJ Ainsworth
+    - 8.6:
+        non_striker: Ali Nawaz
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: RJ Ainsworth
+    - 9.1:
+        non_striker: RJ Ainsworth
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.1'
+        batsman: Ali Nawaz
+    - 9.2:
+        non_striker: Ali Nawaz
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '9.2'
+        batsman: RJ Ainsworth
+    - 9.3:
+        non_striker: Ali Nawaz
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: RJ Ainsworth
+    - 9.4:
+        non_striker: Ali Nawaz
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: RJ Ainsworth
+    - 9.5:
+        non_striker: Ali Nawaz
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: RJ Ainsworth
+    - 9.6:
+        non_striker: Ali Nawaz
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.5'
+        batsman: RJ Ainsworth
+    - 9.7:
+        non_striker: Ali Nawaz
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: RJ Ainsworth
+    - 10.1:
+        non_striker: RJ Ainsworth
+        bowler: Luca Petre
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '10.1'
+        batsman: Ali Nawaz
+    - 10.2:
+        non_striker: RJ Ainsworth
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: Ali Nawaz
+    - 10.3:
+        non_striker: RJ Ainsworth
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: Ali Nawaz
+    - 10.4:
+        non_striker: RJ Ainsworth
+        bowler: Luca Petre
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '10.3'
+        batsman: Ali Nawaz
+    - 10.5:
+        non_striker: Ali Nawaz
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: RJ Ainsworth
+    - 10.6:
+        non_striker: Ali Nawaz
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: RJ Ainsworth
+    - 10.7:
+        non_striker: RJ Ainsworth
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Ali Nawaz
+    - 11.1:
+        non_striker: Ali Nawaz
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: RJ Ainsworth
+    - 11.2:
+        non_striker: Ali Nawaz
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: RJ Ainsworth
+    - 11.3:
+        non_striker: Ali Nawaz
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: RJ Ainsworth
+    - 11.4:
+        non_striker: Ali Nawaz
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: RJ Ainsworth
+    - 11.5:
+        non_striker: RJ Ainsworth
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Ali Nawaz
+    - 11.6:
+        non_striker: RJ Ainsworth
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: Ali Nawaz
+    - 12.1:
+        non_striker: Ali Nawaz
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.1'
+        batsman: RJ Ainsworth
+    - 12.2:
+        non_striker: RJ Ainsworth
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.2'
+        batsman: Ali Nawaz
+    - 12.3:
+        non_striker: RJ Ainsworth
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: Ali Nawaz
+    - 12.4:
+        non_striker: Ali Nawaz
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.4'
+        batsman: RJ Ainsworth
+    - 12.5:
+        non_striker: Ali Nawaz
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: RJ Ainsworth
+    - 12.6:
+        non_striker: Ali Nawaz
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.6'
+        batsman: RJ Ainsworth
+    - 13.1:
+        non_striker: Ali Nawaz
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.1'
+        batsman: RJ Ainsworth
+    - 13.2:
+        non_striker: Ali Nawaz
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: RJ Ainsworth
+    - 13.3:
+        non_striker: Ali Nawaz
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: RJ Ainsworth
+    - 13.4:
+        non_striker: RJ Ainsworth
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: Ali Nawaz
+    - 13.5:
+        non_striker: Ali Nawaz
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: RJ Ainsworth
+    - 13.6:
+        non_striker: Ali Nawaz
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: RJ Ainsworth
+    - 14.1:
+        non_striker: Ali Nawaz
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.1'
+        batsman: RJ Ainsworth
+    - 14.2:
+        non_striker: Ali Nawaz
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '14.2'
+        batsman: RJ Ainsworth
+    - 14.3:
+        non_striker: Ali Nawaz
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.3'
+        batsman: RJ Ainsworth
+    - 14.4:
+        non_striker: RJ Ainsworth
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: Ali Nawaz
+    - 14.5:
+        non_striker: Ali Nawaz
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: RJ Ainsworth
+    - 14.6:
+        non_striker: Ali Nawaz
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: RJ Ainsworth
+    - 15.1:
+        non_striker: RJ Ainsworth
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: Ali Nawaz
+    - 15.2:
+        non_striker: RJ Ainsworth
+        bowler: J Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '15.2'
+        batsman: Ali Nawaz
+    - 15.3:
+        non_striker: Ali Nawaz
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.3'
+        batsman: RJ Ainsworth
+    - 15.4:
+        non_striker: Ali Nawaz
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: RJ Ainsworth
+    - 15.5:
+        non_striker: RJ Ainsworth
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.5'
+        batsman: Ali Nawaz
+    - 15.6:
+        non_striker: RJ Ainsworth
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: Ali Nawaz
+    - 16.1:
+        non_striker: Ali Nawaz
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.1'
+        batsman: RJ Ainsworth
+    - 16.2:
+        non_striker: Ali Nawaz
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: RJ Ainsworth
+    - 16.3:
+        non_striker: RJ Ainsworth
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.3'
+        batsman: Ali Nawaz
+    - 16.4:
+        non_striker: RJ Ainsworth
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.4'
+        batsman: Ali Nawaz
+    - 16.5:
+        non_striker: RJ Ainsworth
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.5'
+        batsman: Ali Nawaz
+    - 16.6:
+        non_striker: RJ Ainsworth
+        bowler: T Sandaruwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '16.6'
+        batsman: Ali Nawaz
+    - 17.1:
+        non_striker: Ali Nawaz
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.1'
+        batsman: RJ Ainsworth
+    - 17.2:
+        non_striker: Ali Nawaz
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '17.2'
+        batsman: RJ Ainsworth
+    - 17.3:
+        non_striker: Ali Nawaz
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.2'
+        batsman: RJ Ainsworth
+    - 17.4:
+        non_striker: Ali Nawaz
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: RJ Ainsworth
+    - 17.5:
+        non_striker: RJ Ainsworth
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: Ali Nawaz
+    - 17.6:
+        non_striker: RJ Ainsworth
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.5'
+        batsman: Ali Nawaz
+    - 17.7:
+        non_striker: RJ Ainsworth
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.6'
+        batsman: Ali Nawaz
+    - 18.1:
+        non_striker: Ali Nawaz
+        bowler: J Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '18.1'
+        batsman: RJ Ainsworth
+    - 18.2:
+        non_striker: RJ Ainsworth
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: Ali Nawaz
+    - 18.3:
+        non_striker: Ali Nawaz
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.3'
+        batsman: RJ Ainsworth
+    - 18.4:
+        non_striker: RJ Ainsworth
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.4'
+        batsman: Ali Nawaz
+    - 18.5:
+        non_striker: RJ Ainsworth
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: Ali Nawaz
+        wicket:
+          player_out: Ali Nawaz
+          fielders:
+          - Eranga De Silva
+          kind: caught
+    - 18.6:
+        non_striker: RJ Ainsworth
+        bowler: J Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: Amal Jacob
+    - 19.1:
+        non_striker: RJ Ainsworth
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: Amal Jacob
+    - 19.2:
+        non_striker: Amal Jacob
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: RJ Ainsworth
+        wicket:
+          player_out: RJ Ainsworth
+          fielders:
+          - Avishka Iroshan
+          kind: caught
+    - 19.3:
+        non_striker: Amal Jacob
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.3'
+        batsman: Sadat Said
+    - 19.4:
+        non_striker: Amal Jacob
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: Sadat Said
+    - 19.5:
+        non_striker: Sadat Said
+        bowler: V Saini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.5'
+        batsman: Amal Jacob
+    - 19.6:
+        non_striker: Sadat Said
+        bowler: V Saini
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        actual_delivery: '19.6'
+        batsman: Amal Jacob
+- 2nd innings:
+    team: Romania
+    deliveries:
+    - 0.1:
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Satheesan
+        actual_delivery: '0.1'
+        batsman: AN Lascu
+    - 0.2:
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Satheesan
+        actual_delivery: '0.2'
+        batsman: AN Lascu
+    - 0.3:
+        non_striker: AN Lascu
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: R Satheesan
+    - 0.4:
+        non_striker: AN Lascu
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: R Satheesan
+    - 0.5:
+        non_striker: AN Lascu
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: R Satheesan
+        wicket:
+          player_out: R Satheesan
+          fielders:
+          - V Ravindran
+          kind: caught
+    - 0.6:
+        non_striker: AN Lascu
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '0.6'
+        batsman: Irfan Ringku
+    - 1.1:
+        non_striker: Irfan Ringku
+        bowler: Sadat Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: AN Lascu
+    - 1.2:
+        non_striker: Irfan Ringku
+        bowler: Sadat Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: AN Lascu
+    - 1.3:
+        non_striker: Irfan Ringku
+        bowler: Sadat Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: AN Lascu
+    - 1.4:
+        non_striker: Irfan Ringku
+        bowler: Sadat Said
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.4'
+        batsman: AN Lascu
+    - 1.5:
+        non_striker: Irfan Ringku
+        bowler: Sadat Said
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        actual_delivery: '1.5'
+        batsman: AN Lascu
+    - 1.6:
+        non_striker: Irfan Ringku
+        bowler: Sadat Said
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.5'
+        batsman: AN Lascu
+    - 1.7:
+        non_striker: Irfan Ringku
+        bowler: Sadat Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: AN Lascu
+    - 2.1:
+        non_striker: AN Lascu
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: Irfan Ringku
+        wicket:
+          player_out: Irfan Ringku
+          fielders:
+          - Sadat Said
+          kind: caught
+    - 2.2:
+        non_striker: AN Lascu
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        actual_delivery: '2.2'
+        batsman: V Saini
+    - 2.3:
+        non_striker: AN Lascu
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: V Saini
+    - 2.4:
+        non_striker: V Saini
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: AN Lascu
+    - 2.5:
+        non_striker: V Saini
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.4'
+        batsman: AN Lascu
+    - 2.6:
+        non_striker: V Saini
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: AN Lascu
+    - 2.7:
+        non_striker: V Saini
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: AN Lascu
+    - 3.1:
+        non_striker: V Saini
+        bowler: Sadat Said
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.1'
+        batsman: AN Lascu
+    - 3.2:
+        non_striker: V Saini
+        bowler: Sadat Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: AN Lascu
+    - 3.3:
+        non_striker: V Saini
+        bowler: Sadat Said
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.2'
+        batsman: AN Lascu
+    - 3.4:
+        non_striker: V Saini
+        bowler: Sadat Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.2'
+        batsman: AN Lascu
+    - 3.5:
+        non_striker: V Saini
+        bowler: Sadat Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.3'
+        batsman: AN Lascu
+    - 3.6:
+        non_striker: V Saini
+        bowler: Sadat Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: AN Lascu
+    - 3.7:
+        non_striker: V Saini
+        bowler: Sadat Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: AN Lascu
+    - 3.8:
+        non_striker: V Saini
+        bowler: Sadat Said
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: AN Lascu
+    - 4.1:
+        non_striker: AN Lascu
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: V Saini
+    - 4.2:
+        non_striker: V Saini
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: AN Lascu
+        wicket:
+          player_out: AN Lascu
+          fielders:
+          - V Ravindran
+          kind: caught
+    - 4.3:
+        non_striker: V Saini
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: Eranga De Silva
+    - 4.4:
+        non_striker: V Saini
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.4'
+        batsman: Eranga De Silva
+    - 4.5:
+        non_striker: V Saini
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: Eranga De Silva
+    - 4.6:
+        non_striker: V Saini
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        actual_delivery: '4.6'
+        batsman: Eranga De Silva
+    - 5.1:
+        non_striker: Eranga De Silva
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.1'
+        batsman: V Saini
+    - 5.2:
+        non_striker: V Saini
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: Eranga De Silva
+    - 5.3:
+        non_striker: Eranga De Silva
+        bowler: MP Ainsworth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.3'
+        batsman: V Saini
+    - 5.4:
+        non_striker: Eranga De Silva
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.3'
+        batsman: V Saini
+    - 5.5:
+        non_striker: Eranga De Silva
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.4'
+        batsman: V Saini
+    - 5.6:
+        non_striker: Eranga De Silva
+        bowler: MP Ainsworth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '5.5'
+        batsman: V Saini
+    - 5.7:
+        non_striker: Eranga De Silva
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: V Saini
+    - 5.8:
+        non_striker: Eranga De Silva
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.6'
+        batsman: V Saini
+    - 6.1:
+        non_striker: V Saini
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: Eranga De Silva
+    - 6.2:
+        non_striker: V Saini
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: Eranga De Silva
+    - 6.3:
+        non_striker: V Saini
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: Eranga De Silva
+    - 6.4:
+        non_striker: Eranga De Silva
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.4'
+        batsman: V Saini
+    - 6.5:
+        non_striker: V Saini
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Eranga De Silva
+    - 6.6:
+        non_striker: V Saini
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: Eranga De Silva
+    - 7.1:
+        non_striker: V Saini
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: Eranga De Silva
+    - 7.2:
+        non_striker: V Saini
+        bowler: MP Ainsworth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.2'
+        batsman: Eranga De Silva
+    - 7.3:
+        non_striker: V Saini
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: Eranga De Silva
+    - 7.4:
+        non_striker: V Saini
+        bowler: MP Ainsworth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.3'
+        batsman: Eranga De Silva
+    - 7.5:
+        non_striker: V Saini
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.3'
+        batsman: Eranga De Silva
+    - 7.6:
+        non_striker: V Saini
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: Eranga De Silva
+        wicket:
+          player_out: Eranga De Silva
+          kind: bowled
+    - 7.7:
+        non_striker: V Saini
+        bowler: MP Ainsworth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.5'
+        batsman: Md Ariyan
+    - 7.8:
+        non_striker: V Saini
+        bowler: MP Ainsworth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '7.5'
+        batsman: Md Ariyan
+    - 7.9:
+        non_striker: V Saini
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: Md Ariyan
+        wicket:
+          player_out: Md Ariyan
+          kind: bowled
+    - 7.10:
+        non_striker: V Saini
+        bowler: MP Ainsworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: Avishka Iroshan
+    - 8.1:
+        non_striker: V Saini
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Avishka Iroshan
+    - 8.2:
+        non_striker: V Saini
+        bowler: Muhammad Soban
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '8.2'
+        batsman: Avishka Iroshan
+    - 8.3:
+        non_striker: Avishka Iroshan
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.3'
+        batsman: V Saini
+    - 8.4:
+        non_striker: Avishka Iroshan
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: V Saini
+    - 8.5:
+        non_striker: V Saini
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: Avishka Iroshan
+    - 8.6:
+        non_striker: V Saini
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: Avishka Iroshan
+    - 9.1:
+        non_striker: V Saini
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: Avishka Iroshan
+    - 9.2:
+        non_striker: V Saini
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: Avishka Iroshan
+    - 9.3:
+        non_striker: Avishka Iroshan
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: V Saini
+    - 9.4:
+        non_striker: V Saini
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.4'
+        batsman: Avishka Iroshan
+    - 9.5:
+        non_striker: V Saini
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: Avishka Iroshan
+    - 9.6:
+        non_striker: Avishka Iroshan
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: V Saini
+    - 10.1:
+        non_striker: Avishka Iroshan
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: V Saini
+    - 10.2:
+        non_striker: V Saini
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: Avishka Iroshan
+    - 10.3:
+        non_striker: V Saini
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Avishka Iroshan
+    - 10.4:
+        non_striker: Avishka Iroshan
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '10.4'
+        batsman: V Saini
+    - 10.5:
+        non_striker: Avishka Iroshan
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: V Saini
+    - 10.6:
+        non_striker: Avishka Iroshan
+        bowler: Muhammad Soban
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        actual_delivery: '10.6'
+        batsman: V Saini
+    - 10.7:
+        non_striker: Avishka Iroshan
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: V Saini
+    - 11.1:
+        non_striker: Avishka Iroshan
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: V Saini
+    - 11.2:
+        non_striker: Avishka Iroshan
+        bowler: Amal Jacob
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '11.2'
+        batsman: V Saini
+    - 11.3:
+        non_striker: Avishka Iroshan
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.2'
+        batsman: V Saini
+    - 11.4:
+        non_striker: V Saini
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.3'
+        batsman: Avishka Iroshan
+    - 11.5:
+        non_striker: V Saini
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: Avishka Iroshan
+    - 11.6:
+        non_striker: V Saini
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.5'
+        batsman: Avishka Iroshan
+    - 11.7:
+        non_striker: V Saini
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: Avishka Iroshan
+    - 12.1:
+        non_striker: Avishka Iroshan
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.1'
+        batsman: V Saini
+    - 12.2:
+        non_striker: Avishka Iroshan
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.2'
+        batsman: V Saini
+    - 12.3:
+        non_striker: Avishka Iroshan
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: V Saini
+    - 12.4:
+        non_striker: V Saini
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: Avishka Iroshan
+    - 12.5:
+        non_striker: Avishka Iroshan
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: V Saini
+    - 12.6:
+        non_striker: V Saini
+        bowler: Muhammad Soban
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Avishka Iroshan
+    - 13.1:
+        non_striker: Avishka Iroshan
+        bowler: RJ Ainsworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: V Saini
+    - 13.2:
+        non_striker: V Saini
+        bowler: RJ Ainsworth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '13.2'
+        batsman: Avishka Iroshan
+    - 13.3:
+        non_striker: V Saini
+        bowler: RJ Ainsworth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: Avishka Iroshan
+    - 13.4:
+        non_striker: V Saini
+        bowler: RJ Ainsworth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: Avishka Iroshan
+    - 13.5:
+        non_striker: V Saini
+        bowler: RJ Ainsworth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.4'
+        batsman: Avishka Iroshan
+    - 13.6:
+        non_striker: V Saini
+        bowler: RJ Ainsworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: Avishka Iroshan
+    - 13.7:
+        non_striker: Avishka Iroshan
+        bowler: RJ Ainsworth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: V Saini
+    - 14.1:
+        non_striker: Avishka Iroshan
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: V Saini
+    - 14.2:
+        non_striker: V Saini
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: Avishka Iroshan
+    - 14.3:
+        non_striker: Avishka Iroshan
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: V Saini
+    - 14.4:
+        non_striker: Avishka Iroshan
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.4'
+        batsman: V Saini
+    - 14.5:
+        non_striker: Avishka Iroshan
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: V Saini
+    - 14.6:
+        non_striker: V Saini
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: Avishka Iroshan
+    - 14.7:
+        non_striker: V Saini
+        bowler: Muhammad Saqlain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: Avishka Iroshan
+    - 15.1:
+        non_striker: Avishka Iroshan
+        bowler: Sadat Said
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.1'
+        batsman: V Saini
+    - 15.2:
+        non_striker: Avishka Iroshan
+        bowler: Sadat Said
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: V Saini
+    - 15.3:
+        non_striker: V Saini
+        bowler: Sadat Said
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: Avishka Iroshan
+    - 15.4:
+        non_striker: Avishka Iroshan
+        bowler: Sadat Said
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: V Saini
+    target:
+      overs: 20
+      runs: 125

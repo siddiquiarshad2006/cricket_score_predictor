@@ -1,0 +1,2020 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-07-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ilfov County
+  dates:
+  - '2026-07-28'
+  gender: male
+  match_type: T20
+  match_type_number: 4050
+  outcome:
+    winner: France
+    by:
+      runs: 81
+  overs: 20
+  player_of_match:
+  - C Roberts
+  players:
+    France:
+    - Zakria Atiq Butt
+    - Virk Ali
+    - Mustafa Omer
+    - C Roberts
+    - Rahimgul Naseri
+    - Jamshid Nasiri
+    - Kamran Ahmadzai
+    - Noman Amjad
+    - Rahmatullah Mangal
+    - Usman Khan
+    - Dawood Ahmadzai
+    Austria:
+    - Karanbir Singh
+    - Bilal Zalmai
+    - Aqib Iqbal
+    - Shadnan Khan
+    - Baseer Khan
+    - AA Wagh
+    - Zeshan Arif
+    - Irfan Safi
+    - KR Jha
+    - Maiwand Momand
+    - Faridullah Shams
+  registry:
+    people:
+      AA Wagh: f2756a51
+      Aqib Iqbal: 14157abf
+      Asad Ali: fd0758b9
+      Baseer Khan: 75ebfe19
+      Bilal Zalmai: 33b67317
+      C Roberts: 07ac9c54
+      Dawood Ahmadzai: 951686f5
+      Faridullah Shams: b979b662
+      Imran Haider: 1b8242f2
+      Irfan Safi: 6c53ffb2
+      Jamshid Nasiri: 2bc636df
+      KR Jha: 9bdb9aa9
+      Kamran Ahmadzai: afa2ebba
+      Karanbir Singh: 6a97c7a4
+      Maiwand Momand: 801a92ee
+      Mustafa Omer: 3bd52be1
+      Noman Amjad: c079c66a
+      Rahimgul Naseri: bf07cc63
+      Rahmatullah Mangal: ec106638
+      Shadnan Khan: b17d629e
+      Suleman Saeed: 60018b15
+      Usman Khan: e8a552ef
+      Virk Ali: f7f7bee0
+      Zakria Atiq Butt: 61b69c02
+      Zeshan Arif: 6829b373
+  team_type: international
+  teams:
+  - France
+  - Austria
+  toss:
+    winner: France
+    decision: bat
+  umpires:
+  - Imran Haider
+  - Suleman Saeed
+  venue: Moara Vlasiei Cricket Ground, Ilfov County
+innings:
+- 1st innings:
+    team: France
+    deliveries:
+    - 0.1:
+        bowler: Aqib Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Virk Ali
+        actual_delivery: '0.1'
+        batsman: Zakria Atiq Butt
+    - 0.2:
+        non_striker: Zakria Atiq Butt
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.2'
+        batsman: Virk Ali
+    - 0.3:
+        non_striker: Virk Ali
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: Zakria Atiq Butt
+    - 0.4:
+        non_striker: Virk Ali
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Zakria Atiq Butt
+        wicket:
+          player_out: Zakria Atiq Butt
+          kind: bowled
+    - 0.5:
+        non_striker: Virk Ali
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.5'
+        batsman: Mustafa Omer
+    - 0.6:
+        non_striker: Virk Ali
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: Mustafa Omer
+    - 1.1:
+        non_striker: Mustafa Omer
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.1'
+        batsman: Virk Ali
+    - 1.2:
+        non_striker: Mustafa Omer
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.2'
+        batsman: Virk Ali
+    - 1.3:
+        non_striker: Virk Ali
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: Mustafa Omer
+    - 1.4:
+        non_striker: Virk Ali
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: Mustafa Omer
+        wicket:
+          player_out: Mustafa Omer
+          kind: lbw
+    - 1.5:
+        non_striker: Virk Ali
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: C Roberts
+    - 1.6:
+        non_striker: Virk Ali
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: C Roberts
+    - 2.1:
+        non_striker: C Roberts
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: Virk Ali
+    - 2.2:
+        non_striker: C Roberts
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.2'
+        batsman: Virk Ali
+    - 2.3:
+        non_striker: Virk Ali
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: C Roberts
+    - 2.4:
+        non_striker: Virk Ali
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: C Roberts
+    - 2.5:
+        non_striker: Virk Ali
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.5'
+        batsman: C Roberts
+    - 2.6:
+        non_striker: Virk Ali
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.6'
+        batsman: C Roberts
+    - 3.1:
+        non_striker: C Roberts
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Virk Ali
+    - 3.2:
+        non_striker: C Roberts
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: Virk Ali
+    - 3.3:
+        non_striker: Virk Ali
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '3.3'
+        batsman: C Roberts
+    - 3.4:
+        non_striker: Virk Ali
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: C Roberts
+    - 3.5:
+        non_striker: C Roberts
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Virk Ali
+    - 3.6:
+        non_striker: C Roberts
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Virk Ali
+    - 4.1:
+        non_striker: Virk Ali
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: C Roberts
+    - 4.2:
+        non_striker: Virk Ali
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: C Roberts
+    - 4.3:
+        non_striker: Virk Ali
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '4.3'
+        batsman: C Roberts
+    - 4.4:
+        non_striker: Virk Ali
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.4'
+        batsman: C Roberts
+    - 4.5:
+        non_striker: Virk Ali
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.5'
+        batsman: C Roberts
+    - 4.6:
+        non_striker: Virk Ali
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.6'
+        batsman: C Roberts
+    - 5.1:
+        non_striker: Virk Ali
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.1'
+        batsman: C Roberts
+    - 5.2:
+        non_striker: Virk Ali
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.2'
+        batsman: C Roberts
+    - 5.3:
+        non_striker: Virk Ali
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.3'
+        batsman: C Roberts
+    - 5.4:
+        non_striker: Virk Ali
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: C Roberts
+    - 5.5:
+        non_striker: C Roberts
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.5'
+        batsman: Virk Ali
+    - 5.6:
+        non_striker: C Roberts
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.6'
+        batsman: Virk Ali
+    - 6.1:
+        non_striker: Virk Ali
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: C Roberts
+    - 6.2:
+        non_striker: Virk Ali
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: C Roberts
+    - 6.3:
+        non_striker: C Roberts
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.3'
+        batsman: Virk Ali
+    - 6.4:
+        non_striker: C Roberts
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '6.4'
+        batsman: Virk Ali
+    - 6.5:
+        non_striker: C Roberts
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Virk Ali
+        wicket:
+          player_out: Virk Ali
+          kind: bowled
+    - 6.6:
+        non_striker: C Roberts
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.6'
+        batsman: Rahimgul Naseri
+    - 7.1:
+        non_striker: C Roberts
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: Rahimgul Naseri
+    - 7.2:
+        non_striker: C Roberts
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '7.2'
+        batsman: Rahimgul Naseri
+    - 7.3:
+        non_striker: C Roberts
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: Rahimgul Naseri
+    - 7.4:
+        non_striker: C Roberts
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.4'
+        batsman: Rahimgul Naseri
+    - 7.5:
+        non_striker: C Roberts
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.5'
+        batsman: Rahimgul Naseri
+    - 7.6:
+        non_striker: Rahimgul Naseri
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.6'
+        batsman: C Roberts
+    - 8.1:
+        non_striker: Rahimgul Naseri
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '8.1'
+        batsman: C Roberts
+    - 8.2:
+        non_striker: Rahimgul Naseri
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: C Roberts
+    - 8.3:
+        non_striker: C Roberts
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: Rahimgul Naseri
+    - 8.4:
+        non_striker: Rahimgul Naseri
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '8.4'
+        batsman: C Roberts
+    - 8.5:
+        non_striker: Rahimgul Naseri
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: C Roberts
+    - 8.6:
+        non_striker: C Roberts
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: Rahimgul Naseri
+        wicket:
+          player_out: Rahimgul Naseri
+          fielders:
+          - Zeshan Arif
+          kind: caught
+    - 9.1:
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Jamshid Nasiri
+        actual_delivery: '9.1'
+        batsman: C Roberts
+    - 9.2:
+        non_striker: C Roberts
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: Jamshid Nasiri
+    - 9.3:
+        non_striker: Jamshid Nasiri
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.3'
+        batsman: C Roberts
+    - 9.4:
+        non_striker: C Roberts
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.4'
+        batsman: Jamshid Nasiri
+    - 9.5:
+        non_striker: Jamshid Nasiri
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: C Roberts
+    - 9.6:
+        non_striker: C Roberts
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '9.6'
+        batsman: Jamshid Nasiri
+    - 10.1:
+        non_striker: Jamshid Nasiri
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.1'
+        batsman: C Roberts
+    - 10.2:
+        non_striker: C Roberts
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: Jamshid Nasiri
+    - 10.3:
+        non_striker: C Roberts
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Jamshid Nasiri
+    - 10.4:
+        non_striker: Jamshid Nasiri
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: C Roberts
+    - 10.5:
+        non_striker: C Roberts
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: Jamshid Nasiri
+    - 10.6:
+        non_striker: C Roberts
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Jamshid Nasiri
+        wicket:
+          player_out: Jamshid Nasiri
+          fielders:
+          - Bilal Zalmai
+          kind: caught
+    - 11.1:
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kamran Ahmadzai
+        actual_delivery: '11.1'
+        batsman: C Roberts
+    - 11.2:
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Kamran Ahmadzai
+        actual_delivery: '11.2'
+        batsman: C Roberts
+    - 11.3:
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Kamran Ahmadzai
+        actual_delivery: '11.3'
+        batsman: C Roberts
+    - 11.4:
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Kamran Ahmadzai
+        actual_delivery: '11.4'
+        batsman: C Roberts
+    - 11.5:
+        non_striker: C Roberts
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Kamran Ahmadzai
+    - 11.6:
+        non_striker: C Roberts
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: Kamran Ahmadzai
+    - 12.1:
+        non_striker: Kamran Ahmadzai
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: C Roberts
+    - 12.2:
+        non_striker: Kamran Ahmadzai
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: C Roberts
+    - 12.3:
+        non_striker: C Roberts
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: Kamran Ahmadzai
+    - 12.4:
+        non_striker: C Roberts
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: Kamran Ahmadzai
+    - 12.5:
+        non_striker: Kamran Ahmadzai
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: C Roberts
+    - 12.6:
+        non_striker: C Roberts
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Kamran Ahmadzai
+    - 13.1:
+        non_striker: Kamran Ahmadzai
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: C Roberts
+    - 13.2:
+        non_striker: C Roberts
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.2'
+        batsman: Kamran Ahmadzai
+    - 13.3:
+        non_striker: Kamran Ahmadzai
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: C Roberts
+    - 13.4:
+        non_striker: C Roberts
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.4'
+        batsman: Kamran Ahmadzai
+    - 13.5:
+        non_striker: Kamran Ahmadzai
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: C Roberts
+    - 13.6:
+        non_striker: C Roberts
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.6'
+        batsman: Kamran Ahmadzai
+    - 14.1:
+        non_striker: C Roberts
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '14.1'
+        batsman: Kamran Ahmadzai
+    - 14.2:
+        non_striker: C Roberts
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.2'
+        batsman: Kamran Ahmadzai
+    - 14.3:
+        non_striker: C Roberts
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '14.3'
+        batsman: Kamran Ahmadzai
+    - 14.4:
+        non_striker: C Roberts
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.4'
+        batsman: Kamran Ahmadzai
+    - 14.5:
+        non_striker: Kamran Ahmadzai
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.5'
+        batsman: C Roberts
+    - 14.6:
+        non_striker: C Roberts
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.6'
+        batsman: Kamran Ahmadzai
+    - 15.1:
+        non_striker: Kamran Ahmadzai
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.1'
+        batsman: C Roberts
+    - 15.2:
+        non_striker: Kamran Ahmadzai
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.2'
+        batsman: C Roberts
+    - 15.3:
+        non_striker: C Roberts
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: Kamran Ahmadzai
+    - 15.4:
+        non_striker: Kamran Ahmadzai
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '15.4'
+        batsman: C Roberts
+    - 15.5:
+        non_striker: Kamran Ahmadzai
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.5'
+        batsman: C Roberts
+    - 15.6:
+        non_striker: Kamran Ahmadzai
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.6'
+        batsman: C Roberts
+    - 16.1:
+        non_striker: Kamran Ahmadzai
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.1'
+        batsman: C Roberts
+    - 16.2:
+        non_striker: C Roberts
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '16.2'
+        batsman: Kamran Ahmadzai
+    - 16.3:
+        non_striker: C Roberts
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.3'
+        batsman: Kamran Ahmadzai
+    - 16.4:
+        non_striker: Kamran Ahmadzai
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.4'
+        batsman: C Roberts
+    - 16.5:
+        non_striker: C Roberts
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '16.5'
+        batsman: Kamran Ahmadzai
+    - 16.6:
+        non_striker: C Roberts
+        bowler: AA Wagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: Kamran Ahmadzai
+    - 17.1:
+        non_striker: Kamran Ahmadzai
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.1'
+        batsman: C Roberts
+    - 17.2:
+        non_striker: Kamran Ahmadzai
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.2'
+        batsman: C Roberts
+    - 17.3:
+        non_striker: Kamran Ahmadzai
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: C Roberts
+    - 17.4:
+        non_striker: C Roberts
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.4'
+        batsman: Kamran Ahmadzai
+    - 17.5:
+        non_striker: Kamran Ahmadzai
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.5'
+        batsman: C Roberts
+        wicket:
+          player_out: C Roberts
+          fielders:
+          - Zeshan Arif
+          kind: caught
+    - 17.6:
+        non_striker: Kamran Ahmadzai
+        bowler: Maiwand Momand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '17.6'
+        batsman: Noman Amjad
+    - 18.1:
+        non_striker: Noman Amjad
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.1'
+        batsman: Kamran Ahmadzai
+    - 18.2:
+        non_striker: Noman Amjad
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '18.2'
+        batsman: Kamran Ahmadzai
+    - 18.3:
+        non_striker: Noman Amjad
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.3'
+        batsman: Kamran Ahmadzai
+    - 18.4:
+        non_striker: Noman Amjad
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.4'
+        batsman: Kamran Ahmadzai
+    - 18.5:
+        non_striker: Noman Amjad
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.5'
+        batsman: Kamran Ahmadzai
+    - 18.6:
+        non_striker: Noman Amjad
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.6'
+        batsman: Kamran Ahmadzai
+    - 19.1:
+        non_striker: Noman Amjad
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '19.1'
+        batsman: Kamran Ahmadzai
+    - 19.2:
+        non_striker: Noman Amjad
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.2'
+        batsman: Kamran Ahmadzai
+        wicket:
+          player_out: Kamran Ahmadzai
+          fielders:
+          - Aqib Iqbal
+          kind: caught
+    - 19.3:
+        non_striker: Noman Amjad
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: Rahmatullah Mangal
+    - 19.4:
+        non_striker: Noman Amjad
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.4'
+        batsman: Rahmatullah Mangal
+    - 19.5:
+        non_striker: Noman Amjad
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.5'
+        batsman: Rahmatullah Mangal
+    - 19.6:
+        non_striker: Rahmatullah Mangal
+        bowler: Baseer Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: Noman Amjad
+- 2nd innings:
+    team: Austria
+    deliveries:
+    - 0.1:
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Bilal Zalmai
+        actual_delivery: '0.1'
+        batsman: Karanbir Singh
+    - 0.2:
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Bilal Zalmai
+        actual_delivery: '0.2'
+        batsman: Karanbir Singh
+    - 0.3:
+        non_striker: Karanbir Singh
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.3'
+        batsman: Bilal Zalmai
+    - 0.4:
+        non_striker: Karanbir Singh
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.4'
+        batsman: Bilal Zalmai
+    - 0.5:
+        non_striker: Karanbir Singh
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.5'
+        batsman: Bilal Zalmai
+    - 0.6:
+        non_striker: Bilal Zalmai
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '0.6'
+        batsman: Karanbir Singh
+    - 0.7:
+        non_striker: Bilal Zalmai
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: Karanbir Singh
+    - 1.1:
+        non_striker: Bilal Zalmai
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.1'
+        batsman: Karanbir Singh
+    - 1.2:
+        non_striker: Bilal Zalmai
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.2'
+        batsman: Karanbir Singh
+    - 1.3:
+        non_striker: Bilal Zalmai
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.3'
+        batsman: Karanbir Singh
+    - 1.4:
+        non_striker: Bilal Zalmai
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '1.4'
+        batsman: Karanbir Singh
+    - 1.5:
+        non_striker: Bilal Zalmai
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.5'
+        batsman: Karanbir Singh
+    - 1.6:
+        non_striker: Bilal Zalmai
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: Karanbir Singh
+    - 2.1:
+        non_striker: Bilal Zalmai
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.1'
+        batsman: Karanbir Singh
+    - 2.2:
+        non_striker: Bilal Zalmai
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: Karanbir Singh
+        wicket:
+          player_out: Karanbir Singh
+          fielders:
+          - C Roberts
+          kind: caught
+    - 2.3:
+        non_striker: Bilal Zalmai
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.3'
+        batsman: Aqib Iqbal
+    - 2.4:
+        non_striker: Bilal Zalmai
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.4'
+        batsman: Aqib Iqbal
+    - 2.5:
+        non_striker: Bilal Zalmai
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.5'
+        batsman: Aqib Iqbal
+    - 2.6:
+        non_striker: Bilal Zalmai
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.6'
+        batsman: Aqib Iqbal
+    - 3.1:
+        non_striker: Bilal Zalmai
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: Aqib Iqbal
+    - 3.2:
+        non_striker: Bilal Zalmai
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: Aqib Iqbal
+    - 3.3:
+        non_striker: Aqib Iqbal
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: Bilal Zalmai
+    - 3.4:
+        non_striker: Bilal Zalmai
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.4'
+        batsman: Aqib Iqbal
+        wicket:
+          player_out: Aqib Iqbal
+          kind: bowled
+    - 3.5:
+        non_striker: Bilal Zalmai
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: Shadnan Khan
+    - 3.6:
+        non_striker: Bilal Zalmai
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.6'
+        batsman: Shadnan Khan
+    - 4.1:
+        non_striker: Shadnan Khan
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: Bilal Zalmai
+    - 4.2:
+        non_striker: Bilal Zalmai
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: Shadnan Khan
+    - 4.3:
+        non_striker: Bilal Zalmai
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '4.3'
+        batsman: Shadnan Khan
+    - 4.4:
+        non_striker: Bilal Zalmai
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: Shadnan Khan
+    - 4.5:
+        non_striker: Shadnan Khan
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.5'
+        batsman: Bilal Zalmai
+    - 4.6:
+        non_striker: Shadnan Khan
+        bowler: Rahmatullah Mangal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '4.6'
+        batsman: Bilal Zalmai
+    - 5.1:
+        non_striker: Bilal Zalmai
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: Shadnan Khan
+    - 5.2:
+        non_striker: Bilal Zalmai
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.2'
+        batsman: Shadnan Khan
+    - 5.3:
+        non_striker: Bilal Zalmai
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '5.3'
+        batsman: Shadnan Khan
+    - 5.4:
+        non_striker: Bilal Zalmai
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: Shadnan Khan
+    - 5.5:
+        non_striker: Shadnan Khan
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.5'
+        batsman: Bilal Zalmai
+        wicket:
+          player_out: Bilal Zalmai
+          kind: caught and bowled
+    - 5.6:
+        non_striker: Shadnan Khan
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.6'
+        batsman: Baseer Khan
+    - 6.1:
+        non_striker: Baseer Khan
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: Shadnan Khan
+    - 6.2:
+        non_striker: Baseer Khan
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.2'
+        batsman: Shadnan Khan
+    - 6.3:
+        non_striker: Shadnan Khan
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: Baseer Khan
+    - 6.4:
+        non_striker: Baseer Khan
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: Shadnan Khan
+    - 6.5:
+        non_striker: Baseer Khan
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: Shadnan Khan
+        wicket:
+          player_out: Shadnan Khan
+          kind: bowled
+    - 6.6:
+        non_striker: Baseer Khan
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: AA Wagh
+    - 7.1:
+        non_striker: AA Wagh
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: Baseer Khan
+    - 7.2:
+        non_striker: AA Wagh
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.2'
+        batsman: Baseer Khan
+    - 7.3:
+        non_striker: Baseer Khan
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.3'
+        batsman: AA Wagh
+    - 7.4:
+        non_striker: Baseer Khan
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: AA Wagh
+    - 7.5:
+        non_striker: Baseer Khan
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: AA Wagh
+    - 7.6:
+        non_striker: Baseer Khan
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.6'
+        batsman: AA Wagh
+    - 8.1:
+        non_striker: AA Wagh
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.1'
+        batsman: Baseer Khan
+    - 8.2:
+        non_striker: Baseer Khan
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: AA Wagh
+    - 8.3:
+        non_striker: Baseer Khan
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.3'
+        batsman: AA Wagh
+    - 8.4:
+        non_striker: AA Wagh
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: Baseer Khan
+    - 8.5:
+        non_striker: Baseer Khan
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '8.5'
+        batsman: AA Wagh
+    - 8.6:
+        non_striker: Baseer Khan
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '8.6'
+        batsman: AA Wagh
+    - 8.7:
+        non_striker: Baseer Khan
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: AA Wagh
+    - 9.1:
+        non_striker: Baseer Khan
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: AA Wagh
+        wicket:
+          player_out: AA Wagh
+          fielders:
+          - Noman Amjad
+          kind: caught
+    - 9.2:
+        non_striker: Baseer Khan
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: Zeshan Arif
+    - 9.3:
+        non_striker: Zeshan Arif
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: Baseer Khan
+    - 9.4:
+        non_striker: Zeshan Arif
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: Baseer Khan
+    - 9.5:
+        non_striker: Zeshan Arif
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.5'
+        batsman: Baseer Khan
+    - 9.6:
+        non_striker: Baseer Khan
+        bowler: Jamshid Nasiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.6'
+        batsman: Zeshan Arif
+    - 10.1:
+        non_striker: Baseer Khan
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: Zeshan Arif
+        wicket:
+          player_out: Zeshan Arif
+          fielders:
+          - Mustafa Omer
+          kind: caught
+    - 10.2:
+        non_striker: Baseer Khan
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: Irfan Safi
+    - 10.3:
+        non_striker: Baseer Khan
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: Irfan Safi
+    - 10.4:
+        non_striker: Baseer Khan
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: Irfan Safi
+    - 10.5:
+        non_striker: Baseer Khan
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.5'
+        batsman: Irfan Safi
+        wicket:
+          player_out: Irfan Safi
+          kind: lbw
+    - 10.6:
+        non_striker: Baseer Khan
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.6'
+        batsman: KR Jha
+    - 11.1:
+        non_striker: Baseer Khan
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: KR Jha
+    - 11.2:
+        non_striker: Baseer Khan
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: KR Jha
+    - 11.3:
+        non_striker: Baseer Khan
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.3'
+        batsman: KR Jha
+    - 11.4:
+        non_striker: Baseer Khan
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.4'
+        batsman: KR Jha
+        wicket:
+          player_out: KR Jha
+          fielders:
+          - Rahmatullah Mangal
+          kind: caught
+    - 11.5:
+        non_striker: Baseer Khan
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Maiwand Momand
+    - 11.6:
+        non_striker: Baseer Khan
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: Maiwand Momand
+        wicket:
+          player_out: Maiwand Momand
+          kind: bowled
+    - 12.1:
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Faridullah Shams
+        actual_delivery: '12.1'
+        batsman: Baseer Khan
+    - 12.2:
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Faridullah Shams
+        actual_delivery: '12.2'
+        batsman: Baseer Khan
+    - 12.3:
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Faridullah Shams
+        actual_delivery: '12.3'
+        batsman: Baseer Khan
+    - 12.4:
+        non_striker: Baseer Khan
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: Faridullah Shams
+    - 12.5:
+        non_striker: Faridullah Shams
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: Baseer Khan
+    - 12.6:
+        non_striker: Baseer Khan
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Faridullah Shams
+    - 13.1:
+        non_striker: Faridullah Shams
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.1'
+        batsman: Baseer Khan
+    - 13.2:
+        non_striker: Faridullah Shams
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: Baseer Khan
+    - 13.3:
+        non_striker: Faridullah Shams
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.3'
+        batsman: Baseer Khan
+    - 13.4:
+        non_striker: Faridullah Shams
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Baseer Khan
+    - 13.5:
+        non_striker: Faridullah Shams
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.5'
+        batsman: Baseer Khan
+    - 13.6:
+        non_striker: Baseer Khan
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: Faridullah Shams
+        wicket:
+          player_out: Faridullah Shams
+          kind: bowled
+    target:
+      overs: 20
+      runs: 167

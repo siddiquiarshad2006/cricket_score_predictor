@@ -1,0 +1,2045 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-08-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bogota
+  dates:
+  - '2026-08-07'
+  gender: male
+  match_type: T20
+  match_type_number: 4059
+  outcome:
+    winner: Brazil
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - RV Nascimento
+  players:
+    Panama:
+    - SP Guzman
+    - MY Bawa
+    - Yusuf Bhoola
+    - Irfan Hafejee
+    - Lalu Bhai Ahir
+    - Sufiyan Tarajia
+    - Abdul Makda
+    - Kalpesh Ahir
+    - BB Ahir
+    - AK Ahir
+    - Sarkar Ameji
+    Brazil:
+    - W Maximo
+    - LH Rodrigues
+    - CC Machado
+    - MFI Assuncao
+    - Yasar Haroon
+    - G Oliveira
+    - L Maximo
+    - LA Goncalves
+    - LG Moras
+    - B Passoni
+    - RV Nascimento
+  registry:
+    people:
+      AK Ahir: d95070e3
+      Abdul Makda: 7864bd38
+      B Passoni: a3e8e678
+      BB Ahir: 59590c98
+      CC Machado: 5992ef03
+      G Oliveira: b4c52f5f
+      Irfan Hafejee: 244009ae
+      Kalpesh Ahir: a74a9dac
+      L Maximo: 58c0c30c
+      LA Goncalves: 40ff8e58
+      LG Moras: d5dea4e7
+      LH Rodrigues: 57c95c3c
+      Lalu Bhai Ahir: dcd05452
+      MFI Assuncao: d8e48e1b
+      MY Bawa: 8ca63417
+      RV Nascimento: d9ba93c0
+      SP Guzman: 37a1766e
+      Sarkar Ameji: a04b5edc
+      Sufiyan Tarajia: '32737738'
+      W Maximo: e41dee27
+      Yasar Haroon: 5a8dc41e
+      Yusuf Bhoola: 5afc0b37
+  team_type: international
+  teams:
+  - Panama
+  - Brazil
+  toss:
+    winner: Brazil
+    decision: field
+  venue: Los Pinos Polo Club 1, Cundinamarca
+innings:
+- 1st innings:
+    team: Panama
+    deliveries:
+    - 0.1:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: MY Bawa
+        actual_delivery: '0.1'
+        batsman: SP Guzman
+    - 0.2:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MY Bawa
+        actual_delivery: '0.2'
+        batsman: SP Guzman
+    - 0.3:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MY Bawa
+        actual_delivery: '0.3'
+        batsman: SP Guzman
+    - 0.4:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '0.4'
+        batsman: MY Bawa
+    - 0.5:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SP Guzman
+        actual_delivery: '0.5'
+        batsman: MY Bawa
+    - 0.6:
+        non_striker: MY Bawa
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '0.6'
+        batsman: SP Guzman
+    - 1.1:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: SP Guzman
+        actual_delivery: '1.1'
+        batsman: MY Bawa
+    - 1.2:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '1.2'
+        batsman: MY Bawa
+    - 1.3:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: SP Guzman
+        actual_delivery: '1.3'
+        batsman: MY Bawa
+    - 1.4:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '1.4'
+        batsman: MY Bawa
+    - 1.5:
+        bowler: LG Moras
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: SP Guzman
+        actual_delivery: '1.5'
+        batsman: MY Bawa
+    - 1.6:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SP Guzman
+        actual_delivery: '1.5'
+        batsman: MY Bawa
+    - 1.7:
+        non_striker: MY Bawa
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.6'
+        batsman: SP Guzman
+    - 2.1:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '2.1'
+        batsman: MY Bawa
+    - 2.2:
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: SP Guzman
+        actual_delivery: '2.2'
+        batsman: MY Bawa
+    - 2.3:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '2.2'
+        batsman: MY Bawa
+    - 2.4:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '2.3'
+        batsman: MY Bawa
+    - 2.5:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SP Guzman
+        actual_delivery: '2.4'
+        batsman: MY Bawa
+    - 2.6:
+        non_striker: MY Bawa
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: SP Guzman
+    - 2.7:
+        non_striker: MY Bawa
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '2.6'
+        batsman: SP Guzman
+    - 3.1:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '3.1'
+        batsman: MY Bawa
+    - 3.2:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '3.2'
+        batsman: MY Bawa
+    - 3.3:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '3.3'
+        batsman: MY Bawa
+    - 3.4:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '3.4'
+        batsman: MY Bawa
+    - 3.5:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '3.5'
+        batsman: MY Bawa
+    - 3.6:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '3.6'
+        batsman: MY Bawa
+    - 4.1:
+        non_striker: MY Bawa
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.1'
+        batsman: SP Guzman
+    - 4.2:
+        non_striker: MY Bawa
+        bowler: G Oliveira
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '4.2'
+        batsman: SP Guzman
+    - 4.3:
+        non_striker: MY Bawa
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: SP Guzman
+    - 4.4:
+        non_striker: MY Bawa
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.3'
+        batsman: SP Guzman
+    - 4.5:
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '4.4'
+        batsman: MY Bawa
+    - 4.6:
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '4.5'
+        batsman: MY Bawa
+    - 4.7:
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SP Guzman
+        actual_delivery: '4.6'
+        batsman: MY Bawa
+    - 5.1:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: SP Guzman
+        actual_delivery: '5.1'
+        batsman: MY Bawa
+    - 5.2:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '5.2'
+        batsman: MY Bawa
+        wicket:
+          player_out: MY Bawa
+          fielders:
+          - W Maximo
+          kind: caught
+    - 5.3:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '5.3'
+        batsman: Yusuf Bhoola
+    - 5.4:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '5.4'
+        batsman: Yusuf Bhoola
+    - 5.5:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '5.5'
+        batsman: Yusuf Bhoola
+    - 5.6:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '5.6'
+        batsman: Yusuf Bhoola
+    - 6.1:
+        non_striker: Yusuf Bhoola
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.1'
+        batsman: SP Guzman
+    - 6.2:
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '6.2'
+        batsman: Yusuf Bhoola
+    - 6.3:
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SP Guzman
+        actual_delivery: '6.3'
+        batsman: Yusuf Bhoola
+    - 6.4:
+        non_striker: Yusuf Bhoola
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.4'
+        batsman: SP Guzman
+    - 6.5:
+        non_striker: Yusuf Bhoola
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.5'
+        batsman: SP Guzman
+    - 6.6:
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '6.6'
+        batsman: Yusuf Bhoola
+    - 7.1:
+        non_striker: Yusuf Bhoola
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '7.1'
+        batsman: SP Guzman
+    - 7.2:
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Guzman
+        actual_delivery: '7.2'
+        batsman: Yusuf Bhoola
+    - 7.3:
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SP Guzman
+        actual_delivery: '7.3'
+        batsman: Yusuf Bhoola
+    - 7.4:
+        non_striker: Yusuf Bhoola
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.4'
+        batsman: SP Guzman
+    - 7.5:
+        non_striker: Yusuf Bhoola
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.5'
+        batsman: SP Guzman
+        wicket:
+          player_out: SP Guzman
+          fielders:
+          - LA Goncalves
+          kind: caught
+    - 7.6:
+        non_striker: Yusuf Bhoola
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.6'
+        batsman: Irfan Hafejee
+    - 8.1:
+        non_striker: Irfan Hafejee
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: Yusuf Bhoola
+    - 8.2:
+        non_striker: Irfan Hafejee
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.2'
+        batsman: Yusuf Bhoola
+    - 8.3:
+        non_striker: Yusuf Bhoola
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: Irfan Hafejee
+    - 8.4:
+        non_striker: Yusuf Bhoola
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.4'
+        batsman: Irfan Hafejee
+    - 8.5:
+        non_striker: Irfan Hafejee
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.5'
+        batsman: Yusuf Bhoola
+    - 8.6:
+        non_striker: Yusuf Bhoola
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '8.6'
+        batsman: Irfan Hafejee
+    - 9.1:
+        non_striker: Yusuf Bhoola
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '9.1'
+        batsman: Irfan Hafejee
+    - 9.2:
+        non_striker: Yusuf Bhoola
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.2'
+        batsman: Irfan Hafejee
+    - 9.3:
+        non_striker: Yusuf Bhoola
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: Irfan Hafejee
+    - 9.4:
+        non_striker: Yusuf Bhoola
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.4'
+        batsman: Irfan Hafejee
+    - 9.5:
+        non_striker: Yusuf Bhoola
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: Irfan Hafejee
+    - 9.6:
+        non_striker: Yusuf Bhoola
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: Irfan Hafejee
+    - 10.1:
+        non_striker: Irfan Hafejee
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: Yusuf Bhoola
+    - 10.2:
+        non_striker: Irfan Hafejee
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.2'
+        batsman: Yusuf Bhoola
+        wicket:
+          player_out: Yusuf Bhoola
+          kind: bowled
+    - 10.3:
+        non_striker: Irfan Hafejee
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.3'
+        batsman: Lalu Bhai Ahir
+    - 10.4:
+        non_striker: Lalu Bhai Ahir
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.4'
+        batsman: Irfan Hafejee
+    - 10.5:
+        non_striker: Lalu Bhai Ahir
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.5'
+        batsman: Irfan Hafejee
+    - 10.6:
+        non_striker: Irfan Hafejee
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: Lalu Bhai Ahir
+    - 11.1:
+        non_striker: Lalu Bhai Ahir
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.1'
+        batsman: Irfan Hafejee
+    - 11.2:
+        non_striker: Irfan Hafejee
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.2'
+        batsman: Lalu Bhai Ahir
+    - 11.3:
+        non_striker: Irfan Hafejee
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.3'
+        batsman: Lalu Bhai Ahir
+    - 11.4:
+        non_striker: Irfan Hafejee
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.4'
+        batsman: Lalu Bhai Ahir
+    - 11.5:
+        non_striker: Irfan Hafejee
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.5'
+        batsman: Lalu Bhai Ahir
+    - 11.6:
+        non_striker: Irfan Hafejee
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.6'
+        batsman: Lalu Bhai Ahir
+    - 12.1:
+        non_striker: Lalu Bhai Ahir
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.1'
+        batsman: Irfan Hafejee
+        wicket:
+          player_out: Irfan Hafejee
+          fielders:
+          - MFI Assuncao
+          kind: caught
+    - 12.2:
+        non_striker: Lalu Bhai Ahir
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.2'
+        batsman: Sufiyan Tarajia
+    - 12.3:
+        non_striker: Sufiyan Tarajia
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.3'
+        batsman: Lalu Bhai Ahir
+    - 12.4:
+        non_striker: Lalu Bhai Ahir
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.4'
+        batsman: Sufiyan Tarajia
+    - 12.5:
+        non_striker: Sufiyan Tarajia
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.5'
+        batsman: Lalu Bhai Ahir
+        wicket:
+          player_out: Lalu Bhai Ahir
+          kind: lbw
+    - 12.6:
+        non_striker: Sufiyan Tarajia
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Abdul Makda
+    - 13.1:
+        non_striker: Abdul Makda
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: Sufiyan Tarajia
+    - 13.2:
+        non_striker: Sufiyan Tarajia
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.2'
+        batsman: Abdul Makda
+    - 13.3:
+        non_striker: Sufiyan Tarajia
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.3'
+        batsman: Abdul Makda
+    - 13.4:
+        non_striker: Abdul Makda
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.4'
+        batsman: Sufiyan Tarajia
+    - 13.5:
+        non_striker: Abdul Makda
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.5'
+        batsman: Sufiyan Tarajia
+    - 13.6:
+        non_striker: Abdul Makda
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '13.6'
+        batsman: Sufiyan Tarajia
+    - 14.1:
+        non_striker: Sufiyan Tarajia
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.1'
+        batsman: Abdul Makda
+    - 14.2:
+        non_striker: Abdul Makda
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.2'
+        batsman: Sufiyan Tarajia
+    - 14.3:
+        non_striker: Sufiyan Tarajia
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.3'
+        batsman: Abdul Makda
+    - 14.4:
+        non_striker: Sufiyan Tarajia
+        bowler: RV Nascimento
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '14.4'
+        batsman: Abdul Makda
+    - 14.5:
+        non_striker: Sufiyan Tarajia
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.4'
+        batsman: Abdul Makda
+    - 14.6:
+        non_striker: Sufiyan Tarajia
+        bowler: RV Nascimento
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        actual_delivery: '14.5'
+        batsman: Abdul Makda
+    - 14.7:
+        non_striker: Sufiyan Tarajia
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '14.5'
+        batsman: Abdul Makda
+    - 14.8:
+        non_striker: Sufiyan Tarajia
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '14.6'
+        batsman: Abdul Makda
+    - 15.1:
+        non_striker: Sufiyan Tarajia
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '15.1'
+        batsman: Abdul Makda
+    - 15.2:
+        non_striker: Sufiyan Tarajia
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.2'
+        batsman: Abdul Makda
+        wicket:
+          player_out: Abdul Makda
+          fielders:
+          - W Maximo
+          kind: stumped
+    - 15.3:
+        non_striker: Sufiyan Tarajia
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.3'
+        batsman: Kalpesh Ahir
+    - 15.4:
+        non_striker: Kalpesh Ahir
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.4'
+        batsman: Sufiyan Tarajia
+    - 15.5:
+        non_striker: Sufiyan Tarajia
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '15.5'
+        batsman: Kalpesh Ahir
+    - 15.6:
+        non_striker: Kalpesh Ahir
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '15.6'
+        batsman: Sufiyan Tarajia
+    - 16.1:
+        non_striker: Sufiyan Tarajia
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.1'
+        batsman: Kalpesh Ahir
+    - 16.2:
+        non_striker: Sufiyan Tarajia
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '16.2'
+        batsman: Kalpesh Ahir
+    - 16.3:
+        non_striker: Kalpesh Ahir
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.3'
+        batsman: Sufiyan Tarajia
+    - 16.4:
+        non_striker: Kalpesh Ahir
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.4'
+        batsman: Sufiyan Tarajia
+        wicket:
+          player_out: Sufiyan Tarajia
+          kind: bowled
+    - 16.5:
+        non_striker: Kalpesh Ahir
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.5'
+        batsman: BB Ahir
+    - 16.6:
+        non_striker: Kalpesh Ahir
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '16.6'
+        batsman: BB Ahir
+    - 17.1:
+        non_striker: BB Ahir
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '17.1'
+        batsman: Kalpesh Ahir
+    - 17.2:
+        non_striker: BB Ahir
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.2'
+        batsman: Kalpesh Ahir
+    - 17.3:
+        non_striker: Kalpesh Ahir
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.3'
+        batsman: BB Ahir
+    - 17.4:
+        non_striker: BB Ahir
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '17.4'
+        batsman: Kalpesh Ahir
+        wicket:
+          player_out: Kalpesh Ahir
+          fielders:
+          - LA Goncalves
+          kind: caught
+    - 17.5:
+        non_striker: BB Ahir
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.5'
+        batsman: AK Ahir
+    - 17.6:
+        non_striker: AK Ahir
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '17.6'
+        batsman: BB Ahir
+    - 18.1:
+        non_striker: AK Ahir
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '18.1'
+        batsman: BB Ahir
+    - 18.2:
+        non_striker: BB Ahir
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '18.2'
+        batsman: AK Ahir
+    - 18.3:
+        non_striker: AK Ahir
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.3'
+        batsman: BB Ahir
+    - 18.4:
+        non_striker: AK Ahir
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '18.4'
+        batsman: BB Ahir
+    - 18.5:
+        non_striker: AK Ahir
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '18.4'
+        batsman: BB Ahir
+    - 18.6:
+        non_striker: AK Ahir
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '18.5'
+        batsman: BB Ahir
+    - 18.7:
+        non_striker: AK Ahir
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '18.6'
+        batsman: BB Ahir
+    - 19.1:
+        non_striker: BB Ahir
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.1'
+        batsman: AK Ahir
+    - 19.2:
+        non_striker: AK Ahir
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.2'
+        batsman: BB Ahir
+    - 19.3:
+        non_striker: BB Ahir
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '19.3'
+        batsman: AK Ahir
+    - 19.4:
+        non_striker: BB Ahir
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.4'
+        batsman: AK Ahir
+    - 19.5:
+        non_striker: AK Ahir
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.5'
+        batsman: BB Ahir
+        wicket:
+          player_out: AK Ahir
+          fielders:
+          - LH Rodrigues
+          - MFI Assuncao
+          kind: run out
+    - 19.6:
+        non_striker: Sarkar Ameji
+        bowler: MFI Assuncao
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '19.6'
+        batsman: BB Ahir
+- 2nd innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: Lalu Bhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        actual_delivery: '0.1'
+        batsman: W Maximo
+    - 0.2:
+        bowler: Lalu Bhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        actual_delivery: '0.2'
+        batsman: W Maximo
+    - 0.3:
+        bowler: Lalu Bhai Ahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: LH Rodrigues
+        actual_delivery: '0.3'
+        batsman: W Maximo
+    - 0.4:
+        bowler: Lalu Bhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LH Rodrigues
+        actual_delivery: '0.4'
+        batsman: W Maximo
+    - 0.5:
+        bowler: Lalu Bhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LH Rodrigues
+        actual_delivery: '0.5'
+        batsman: W Maximo
+    - 0.6:
+        non_striker: W Maximo
+        bowler: Lalu Bhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '0.6'
+        batsman: LH Rodrigues
+    - 1.1:
+        non_striker: W Maximo
+        bowler: Sufiyan Tarajia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.1'
+        batsman: LH Rodrigues
+    - 1.2:
+        non_striker: LH Rodrigues
+        bowler: Sufiyan Tarajia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.2'
+        batsman: W Maximo
+    - 1.3:
+        non_striker: LH Rodrigues
+        bowler: Sufiyan Tarajia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '1.3'
+        batsman: W Maximo
+    - 1.4:
+        non_striker: LH Rodrigues
+        bowler: Sufiyan Tarajia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '1.4'
+        batsman: W Maximo
+    - 1.5:
+        non_striker: LH Rodrigues
+        bowler: Sufiyan Tarajia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '1.5'
+        batsman: W Maximo
+    - 1.6:
+        non_striker: LH Rodrigues
+        bowler: Sufiyan Tarajia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '1.6'
+        batsman: W Maximo
+    - 2.1:
+        non_striker: LH Rodrigues
+        bowler: Lalu Bhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.1'
+        batsman: W Maximo
+    - 2.2:
+        non_striker: W Maximo
+        bowler: Lalu Bhai Ahir
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        actual_delivery: '2.2'
+        batsman: LH Rodrigues
+    - 2.3:
+        non_striker: W Maximo
+        bowler: Lalu Bhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.2'
+        batsman: LH Rodrigues
+    - 2.4:
+        non_striker: W Maximo
+        bowler: Lalu Bhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.3'
+        batsman: LH Rodrigues
+    - 2.5:
+        non_striker: W Maximo
+        bowler: Lalu Bhai Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '2.4'
+        batsman: LH Rodrigues
+    - 2.6:
+        non_striker: LH Rodrigues
+        bowler: Lalu Bhai Ahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '2.5'
+        batsman: W Maximo
+    - 2.7:
+        non_striker: LH Rodrigues
+        bowler: Lalu Bhai Ahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '2.6'
+        batsman: W Maximo
+    - 3.1:
+        non_striker: W Maximo
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.1'
+        batsman: LH Rodrigues
+    - 3.2:
+        non_striker: W Maximo
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.2'
+        batsman: LH Rodrigues
+    - 3.3:
+        non_striker: LH Rodrigues
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.3'
+        batsman: W Maximo
+    - 3.4:
+        non_striker: W Maximo
+        bowler: Irfan Hafejee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        actual_delivery: '3.4'
+        batsman: LH Rodrigues
+    - 3.5:
+        non_striker: W Maximo
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.4'
+        batsman: LH Rodrigues
+    - 3.6:
+        non_striker: LH Rodrigues
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '3.5'
+        batsman: W Maximo
+    - 3.7:
+        non_striker: LH Rodrigues
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '3.6'
+        batsman: W Maximo
+    - 4.1:
+        non_striker: LH Rodrigues
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.1'
+        batsman: W Maximo
+    - 4.2:
+        non_striker: W Maximo
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.2'
+        batsman: LH Rodrigues
+    - 4.3:
+        non_striker: W Maximo
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.3'
+        batsman: LH Rodrigues
+    - 4.4:
+        non_striker: W Maximo
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.4'
+        batsman: LH Rodrigues
+    - 4.5:
+        non_striker: LH Rodrigues
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '4.5'
+        batsman: W Maximo
+    - 4.6:
+        non_striker: W Maximo
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '4.6'
+        batsman: LH Rodrigues
+    - 5.1:
+        non_striker: LH Rodrigues
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '5.1'
+        batsman: W Maximo
+    - 5.2:
+        non_striker: LH Rodrigues
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.2'
+        batsman: W Maximo
+    - 5.3:
+        non_striker: W Maximo
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.3'
+        batsman: LH Rodrigues
+    - 5.4:
+        non_striker: W Maximo
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.4'
+        batsman: LH Rodrigues
+    - 5.5:
+        non_striker: LH Rodrigues
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '5.5'
+        batsman: W Maximo
+    - 5.6:
+        non_striker: W Maximo
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '5.6'
+        batsman: LH Rodrigues
+    - 6.1:
+        non_striker: LH Rodrigues
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.1'
+        batsman: W Maximo
+    - 6.2:
+        non_striker: LH Rodrigues
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.2'
+        batsman: W Maximo
+    - 6.3:
+        non_striker: LH Rodrigues
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '6.3'
+        batsman: W Maximo
+    - 6.4:
+        non_striker: W Maximo
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '6.4'
+        batsman: LH Rodrigues
+    - 6.5:
+        non_striker: W Maximo
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.5'
+        batsman: LH Rodrigues
+    - 6.6:
+        non_striker: W Maximo
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '6.6'
+        batsman: LH Rodrigues
+    - 7.1:
+        non_striker: LH Rodrigues
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.1'
+        batsman: W Maximo
+        wicket:
+          player_out: W Maximo
+          fielders:
+          - Yusuf Bhoola
+          kind: caught
+    - 7.2:
+        non_striker: LH Rodrigues
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '7.2'
+        batsman: CC Machado
+    - 7.3:
+        non_striker: LH Rodrigues
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.3'
+        batsman: CC Machado
+    - 7.4:
+        non_striker: LH Rodrigues
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.4'
+        batsman: CC Machado
+    - 7.5:
+        non_striker: LH Rodrigues
+        bowler: Irfan Hafejee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        actual_delivery: '7.5'
+        batsman: CC Machado
+    - 7.6:
+        non_striker: CC Machado
+        bowler: Irfan Hafejee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '7.6'
+        batsman: LH Rodrigues
+    - 8.1:
+        non_striker: LH Rodrigues
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.1'
+        batsman: CC Machado
+    - 8.2:
+        non_striker: LH Rodrigues
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.2'
+        batsman: CC Machado
+    - 8.3:
+        non_striker: LH Rodrigues
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.3'
+        batsman: CC Machado
+        wicket:
+          player_out: CC Machado
+          fielders:
+          - Yusuf Bhoola
+          kind: stumped
+    - 8.4:
+        non_striker: LH Rodrigues
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.4'
+        batsman: MFI Assuncao
+    - 8.5:
+        non_striker: LH Rodrigues
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.5'
+        batsman: MFI Assuncao
+    - 8.6:
+        non_striker: LH Rodrigues
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '8.6'
+        batsman: MFI Assuncao
+    - 9.1:
+        non_striker: MFI Assuncao
+        bowler: Sarkar Ameji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.1'
+        batsman: LH Rodrigues
+    - 9.2:
+        non_striker: MFI Assuncao
+        bowler: Sarkar Ameji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '9.2'
+        batsman: LH Rodrigues
+    - 9.3:
+        non_striker: LH Rodrigues
+        bowler: Sarkar Ameji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.3'
+        batsman: MFI Assuncao
+    - 9.4:
+        non_striker: LH Rodrigues
+        bowler: Sarkar Ameji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '9.4'
+        batsman: MFI Assuncao
+    - 9.5:
+        non_striker: LH Rodrigues
+        bowler: Sarkar Ameji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.5'
+        batsman: MFI Assuncao
+        wicket:
+          player_out: MFI Assuncao
+          fielders:
+          - AK Ahir
+          kind: run out
+    - 9.6:
+        non_striker: Yasar Haroon
+        bowler: Sarkar Ameji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '9.6'
+        batsman: LH Rodrigues
+    - 10.1:
+        non_striker: LH Rodrigues
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.1'
+        batsman: Yasar Haroon
+    - 10.2:
+        non_striker: LH Rodrigues
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.2'
+        batsman: Yasar Haroon
+    - 10.3:
+        non_striker: Yasar Haroon
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.3'
+        batsman: LH Rodrigues
+    - 10.4:
+        non_striker: Yasar Haroon
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '10.4'
+        batsman: LH Rodrigues
+    - 10.5:
+        non_striker: LH Rodrigues
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        actual_delivery: '10.5'
+        batsman: Yasar Haroon
+    - 10.6:
+        non_striker: Yasar Haroon
+        bowler: MY Bawa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '10.6'
+        batsman: LH Rodrigues
+    - 11.1:
+        non_striker: LH Rodrigues
+        bowler: Sarkar Ameji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '11.1'
+        batsman: Yasar Haroon
+    - 11.2:
+        non_striker: LH Rodrigues
+        bowler: Sarkar Ameji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '11.2'
+        batsman: Yasar Haroon
+    - 11.3:
+        non_striker: LH Rodrigues
+        bowler: Sarkar Ameji
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '11.3'
+        batsman: Yasar Haroon
+    - 11.4:
+        non_striker: LH Rodrigues
+        bowler: Sarkar Ameji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.4'
+        batsman: Yasar Haroon
+    - 11.5:
+        non_striker: Yasar Haroon
+        bowler: Sarkar Ameji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '11.5'
+        batsman: LH Rodrigues
+    - 11.6:
+        non_striker: LH Rodrigues
+        bowler: Sarkar Ameji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '11.6'
+        batsman: Yasar Haroon
+    - 12.1:
+        non_striker: Yasar Haroon
+        bowler: Abdul Makda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '12.1'
+        batsman: LH Rodrigues
+    - 12.2:
+        non_striker: Yasar Haroon
+        bowler: Abdul Makda
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        actual_delivery: '12.2'
+        batsman: LH Rodrigues
+    - 12.3:
+        non_striker: Yasar Haroon
+        bowler: Abdul Makda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.3'
+        batsman: LH Rodrigues
+    - 12.4:
+        non_striker: Yasar Haroon
+        bowler: Abdul Makda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        actual_delivery: '12.4'
+        batsman: LH Rodrigues
+    - 12.5:
+        non_striker: Yasar Haroon
+        bowler: Abdul Makda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '12.5'
+        batsman: LH Rodrigues
+    - 12.6:
+        non_striker: LH Rodrigues
+        bowler: Abdul Makda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        actual_delivery: '12.6'
+        batsman: Yasar Haroon
+    - 13.1:
+        non_striker: Yasar Haroon
+        bowler: Kalpesh Ahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        actual_delivery: '13.1'
+        batsman: LH Rodrigues
+    - 13.2:
+        non_striker: LH Rodrigues
+        bowler: Kalpesh Ahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        actual_delivery: '13.2'
+        batsman: Yasar Haroon
+    - 13.3:
+        non_striker: LH Rodrigues
+        bowler: Kalpesh Ahir
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        actual_delivery: '13.3'
+        batsman: Yasar Haroon
+    target:
+      overs: 20
+      runs: 94

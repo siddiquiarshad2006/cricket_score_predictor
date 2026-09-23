@@ -1,0 +1,2437 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-05-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Episkopi
+  dates:
+  - '2026-05-16'
+  gender: male
+  match_type: T20
+  match_type_number: 3872
+  outcome:
+    winner: Guernsey
+    by:
+      runs: 12
+  overs: 20
+  player_of_match:
+  - MWR Stokes
+  players:
+    Guernsey:
+    - LJ Barker
+    - J Butler
+    - T Nightingale
+    - MWR Stokes
+    - IDA Damarell
+    - OB Nightingale
+    - M Dale-Bradley
+    - E Robinson
+    - A Martel
+    - LB Ferbrache
+    - LT Bichard
+    Sweden:
+    - Imal Zuwak
+    - A Mundra
+    - Saeed Ahmed
+    - YS Chauhan
+    - W Boshoff
+    - A Dhabe
+    - Samiullah Rahmani
+    - Abdul Naser Baluch
+    - Zabiullah Zahid
+    - SN Swamy
+    - Zain Muzaffar
+  registry:
+    people:
+      A Dhabe: 5a0dbdeb
+      A Martel: 65cd62a9
+      A Mundra: 30ffaf85
+      Abdul Naser Baluch: 6a88d66d
+      E Robinson: 2719e9a6
+      G McCrea: 46f4a901
+      IDA Damarell: 580ae7f2
+      Imal Zuwak: 1283e17b
+      J Butler: efcb778e
+      LB Ferbrache: 0f72f582
+      LJ Barker: da1f80f8
+      LT Bichard: dfcdb11e
+      M Burns: b3bd0666
+      M Dale-Bradley: 62b2aa65
+      MWR Stokes: c573d173
+      Mark Duffy: 8a947037
+      OB Nightingale: 1deb4c0c
+      Rizwan Akram: b5346f1e
+      SN Swamy: '95382501'
+      Saeed Ahmed: 63d6e16e
+      Samiullah Rahmani: d5c38041
+      T Nightingale: 51a125b3
+      W Boshoff: cad11a02
+      YS Chauhan: fb3233d4
+      Zabiullah Zahid: 6d024ce3
+      Zain Muzaffar: 19b4fa25
+  teams:
+  - Guernsey
+  - Sweden
+  toss:
+    winner: Sweden
+    decision: field
+  umpires:
+  - M Burns
+  - Rizwan Akram
+  venue: Happy Valley Ground 2
+  team_type: international
+innings:
+- 1st innings:
+    team: Guernsey
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Butler
+        batsman: LJ Barker
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: J Butler
+        batsman: LJ Barker
+        wicket:
+          player_out: LJ Barker
+          fielders:
+          - Samiullah Rahmani
+          - Abdul Naser Baluch
+          kind: run out
+    - 0.3:
+        actual_delivery: '0.3'
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Nightingale
+        batsman: J Butler
+    - 0.4:
+        actual_delivery: '0.4'
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Nightingale
+        batsman: J Butler
+    - 0.5:
+        actual_delivery: '0.5'
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: T Nightingale
+        batsman: J Butler
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: T Nightingale
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Butler
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: J Butler
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: J Butler
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+        wicket:
+          player_out: T Nightingale
+          fielders:
+          - Zain Muzaffar
+          kind: caught
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: J Butler
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: MWR Stokes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: J Butler
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: J Butler
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MWR Stokes
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: J Butler
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: J Butler
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MWR Stokes
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: J Butler
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: J Butler
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: MWR Stokes
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: MWR Stokes
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Butler
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: J Butler
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: J Butler
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: MWR Stokes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: MWR Stokes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: MWR Stokes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: MWR Stokes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: J Butler
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: J Butler
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: J Butler
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: J Butler
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: MWR Stokes
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Butler
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: MWR Stokes
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: MWR Stokes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Butler
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: MWR Stokes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: MWR Stokes
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: J Butler
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MWR Stokes
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: J Butler
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: J Butler
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MWR Stokes
+    - 5.7:
+        actual_delivery: '5.6'
+        non_striker: J Butler
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: J Butler
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MWR Stokes
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: J Butler
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: MWR Stokes
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          role:
+          - in: Samiullah Rahmani
+            out: Zain Muzaffar
+            reason: unknown
+            role: bowler
+        batsman: J Butler
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: MWR Stokes
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: J Butler
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: J Butler
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: J Butler
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: MWR Stokes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Butler
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: MWR Stokes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: J Butler
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: MWR Stokes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: J Butler
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MWR Stokes
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: MWR Stokes
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Butler
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: MWR Stokes
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: J Butler
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: MWR Stokes
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Butler
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: MWR Stokes
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: J Butler
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: MWR Stokes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: J Butler
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MWR Stokes
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: J Butler
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MWR Stokes
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: J Butler
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: MWR Stokes
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: J Butler
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: MWR Stokes
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: J Butler
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MWR Stokes
+    - 10.3:
+        actual_delivery: '10.2'
+        non_striker: J Butler
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 10.4:
+        actual_delivery: '10.3'
+        non_striker: J Butler
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 10.5:
+        actual_delivery: '10.4'
+        non_striker: J Butler
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 10.6:
+        actual_delivery: '10.5'
+        non_striker: MWR Stokes
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 10.7:
+        actual_delivery: '10.6'
+        non_striker: J Butler
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: J Butler
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: MWR Stokes
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Butler
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: MWR Stokes
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Butler
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: J Butler
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MWR Stokes
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: J Butler
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MWR Stokes
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: J Butler
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: MWR Stokes
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Butler
+        wicket:
+          player_out: J Butler
+          kind: bowled
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: MWR Stokes
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IDA Damarell
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: MWR Stokes
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDA Damarell
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: IDA Damarell
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: MWR Stokes
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDA Damarell
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: MWR Stokes
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDA Damarell
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: MWR Stokes
+        bowler: SN Swamy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IDA Damarell
+    - 13.2:
+        actual_delivery: '13.1'
+        non_striker: MWR Stokes
+        bowler: SN Swamy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: IDA Damarell
+    - 13.3:
+        actual_delivery: '13.2'
+        non_striker: IDA Damarell
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 13.4:
+        actual_delivery: '13.3'
+        non_striker: MWR Stokes
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDA Damarell
+    - 13.5:
+        actual_delivery: '13.4'
+        non_striker: IDA Damarell
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MWR Stokes
+    - 13.6:
+        actual_delivery: '13.5'
+        non_striker: IDA Damarell
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+        wicket:
+          player_out: MWR Stokes
+          fielders:
+          - Abdul Naser Baluch
+          kind: caught
+    - 13.7:
+        actual_delivery: '13.6'
+        non_striker: IDA Damarell
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: IDA Damarell
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OB Nightingale
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: IDA Damarell
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OB Nightingale
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: IDA Damarell
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: OB Nightingale
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDA Damarell
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: OB Nightingale
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDA Damarell
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: IDA Damarell
+        bowler: A Dhabe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: OB Nightingale
+    - 14.7:
+        actual_delivery: '14.6'
+        non_striker: IDA Damarell
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: IDA Damarell
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OB Nightingale
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: IDA Damarell
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OB Nightingale
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: IDA Damarell
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OB Nightingale
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: IDA Damarell
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OB Nightingale
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: IDA Damarell
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OB Nightingale
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: IDA Damarell
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OB Nightingale
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: OB Nightingale
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDA Damarell
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: OB Nightingale
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDA Damarell
+        wicket:
+          player_out: IDA Damarell
+          fielders:
+          - YS Chauhan
+          kind: caught
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: OB Nightingale
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dale-Bradley
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: M Dale-Bradley
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: OB Nightingale
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dale-Bradley
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: M Dale-Bradley
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OB Nightingale
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: OB Nightingale
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dale-Bradley
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: M Dale-Bradley
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OB Nightingale
+        wicket:
+          player_out: OB Nightingale
+          fielders:
+          - W Boshoff
+          kind: caught
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: M Dale-Bradley
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Robinson
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: E Robinson
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dale-Bradley
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: M Dale-Bradley
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Robinson
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: M Dale-Bradley
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: E Robinson
+    - 17.7:
+        actual_delivery: '17.6'
+        non_striker: E Robinson
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Dale-Bradley
+    - 17.8:
+        actual_delivery: '17.6'
+        non_striker: E Robinson
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dale-Bradley
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: E Robinson
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dale-Bradley
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: M Dale-Bradley
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Robinson
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: M Dale-Bradley
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Robinson
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: E Robinson
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Dale-Bradley
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: E Robinson
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dale-Bradley
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: M Dale-Bradley
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Robinson
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: M Dale-Bradley
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Robinson
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: E Robinson
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dale-Bradley
+        wicket:
+          player_out: M Dale-Bradley
+          fielders:
+          - A Mundra
+          - W Boshoff
+          kind: run out
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: E Robinson
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Martel
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: E Robinson
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Martel
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: E Robinson
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Martel
+        wicket:
+          player_out: A Martel
+          fielders:
+          - Abdul Naser Baluch
+          kind: caught
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: E Robinson
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LB Ferbrache
+- 2nd innings:
+    team: Sweden
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Mundra
+        batsman: Imal Zuwak
+    - 0.2:
+        actual_delivery: '0.2'
+        bowler: LT Bichard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: A Mundra
+        batsman: Imal Zuwak
+    - 0.3:
+        actual_delivery: '0.2'
+        bowler: LT Bichard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: A Mundra
+        batsman: Imal Zuwak
+    - 0.4:
+        actual_delivery: '0.3'
+        non_striker: Imal Zuwak
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 0.5:
+        actual_delivery: '0.4'
+        non_striker: A Mundra
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imal Zuwak
+    - 0.6:
+        actual_delivery: '0.5'
+        non_striker: A Mundra
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imal Zuwak
+    - 0.7:
+        actual_delivery: '0.6'
+        non_striker: Imal Zuwak
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mundra
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: A Mundra
+        bowler: A Martel
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Imal Zuwak
+    - 1.2:
+        actual_delivery: '1.1'
+        non_striker: Imal Zuwak
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 1.3:
+        actual_delivery: '1.2'
+        non_striker: Imal Zuwak
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Mundra
+    - 1.4:
+        actual_delivery: '1.3'
+        non_striker: Imal Zuwak
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: Imal Zuwak
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 1.6:
+        actual_delivery: '1.5'
+        non_striker: Imal Zuwak
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mundra
+    - 1.7:
+        actual_delivery: '1.6'
+        non_striker: Imal Zuwak
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Imal Zuwak
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Imal Zuwak
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mundra
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: Imal Zuwak
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mundra
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: Imal Zuwak
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+        wicket:
+          player_out: A Mundra
+          fielders:
+          - E Robinson
+          kind: caught
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: Imal Zuwak
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Ahmed
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: Imal Zuwak
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saeed Ahmed
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Saeed Ahmed
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Saeed Ahmed
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imal Zuwak
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: Imal Zuwak
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saeed Ahmed
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: Imal Zuwak
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saeed Ahmed
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: Imal Zuwak
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Ahmed
+        wicket:
+          player_out: Saeed Ahmed
+          fielders:
+          - T Nightingale
+          kind: caught
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: Imal Zuwak
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Imal Zuwak
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: YS Chauhan
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: YS Chauhan
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imal Zuwak
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Imal Zuwak
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: YS Chauhan
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imal Zuwak
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: Imal Zuwak
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Chauhan
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: YS Chauhan
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imal Zuwak
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Imal Zuwak
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Chauhan
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Imal Zuwak
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Imal Zuwak
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: Imal Zuwak
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Chauhan
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: Imal Zuwak
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: YS Chauhan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: YS Chauhan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: YS Chauhan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imal Zuwak
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Imal Zuwak
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Imal Zuwak
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: YS Chauhan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imal Zuwak
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: YS Chauhan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: YS Chauhan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+        wicket:
+          player_out: Imal Zuwak
+          fielders:
+          - E Robinson
+          kind: caught
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: YS Chauhan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: YS Chauhan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: YS Chauhan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: YS Chauhan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: YS Chauhan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: YS Chauhan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Boshoff
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: YS Chauhan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: YS Chauhan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: YS Chauhan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: YS Chauhan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: W Boshoff
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: YS Chauhan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: YS Chauhan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: W Boshoff
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: YS Chauhan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: YS Chauhan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: YS Chauhan
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: YS Chauhan
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Boshoff
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: YS Chauhan
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: W Boshoff
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: YS Chauhan
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: YS Chauhan
+        bowler: MWR Stokes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Boshoff
+    - 10.7:
+        actual_delivery: '10.6'
+        non_striker: YS Chauhan
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+        wicket:
+          player_out: W Boshoff
+          fielders:
+          - A Martel
+          kind: caught
+    - 11.1:
+        actual_delivery: '11.1'
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Dhabe
+        batsman: YS Chauhan
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: YS Chauhan
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dhabe
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: YS Chauhan
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dhabe
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: YS Chauhan
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dhabe
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: A Dhabe
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Chauhan
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: A Dhabe
+        bowler: J Butler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: A Dhabe
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YS Chauhan
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: A Dhabe
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YS Chauhan
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: A Dhabe
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YS Chauhan
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: A Dhabe
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: YS Chauhan
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dhabe
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: A Dhabe
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: YS Chauhan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dhabe
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: A Dhabe
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Chauhan
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: A Dhabe
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: YS Chauhan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dhabe
+        wicket:
+          player_out: A Dhabe
+          fielders:
+          - OB Nightingale
+          kind: caught
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: YS Chauhan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Samiullah Rahmani
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: YS Chauhan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Samiullah Rahmani
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Samiullah Rahmani
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Samiullah Rahmani
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: YS Chauhan
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Samiullah Rahmani
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: YS Chauhan
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Samiullah Rahmani
+        wicket:
+          player_out: Samiullah Rahmani
+          fielders:
+          - LB Ferbrache
+          kind: caught
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: YS Chauhan
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Naser Baluch
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Abdul Naser Baluch
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Abdul Naser Baluch
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YS Chauhan
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: Abdul Naser Baluch
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: YS Chauhan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Naser Baluch
+        wicket:
+          player_out: Abdul Naser Baluch
+          fielders:
+          - IDA Damarell
+          kind: caught
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: YS Chauhan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zabiullah Zahid
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: YS Chauhan
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zabiullah Zahid
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: Zabiullah Zahid
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: YS Chauhan
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zabiullah Zahid
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Zabiullah Zahid
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: YS Chauhan
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zabiullah Zahid
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: YS Chauhan
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zabiullah Zahid
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: YS Chauhan
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zabiullah Zahid
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: YS Chauhan
+        bowler: MWR Stokes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zabiullah Zahid
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: Zabiullah Zahid
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: YS Chauhan
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zabiullah Zahid
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: Zabiullah Zahid
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YS Chauhan
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: Zabiullah Zahid
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: YS Chauhan
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zabiullah Zahid
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: YS Chauhan
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zabiullah Zahid
+        wicket:
+          player_out: Zabiullah Zahid
+          fielders:
+          - T Nightingale
+          kind: caught
+    - 18.1:
+        actual_delivery: '18.1'
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SN Swamy
+        batsman: YS Chauhan
+    - 18.2:
+        actual_delivery: '18.2'
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SN Swamy
+        batsman: YS Chauhan
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: YS Chauhan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Swamy
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: YS Chauhan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Swamy
+        wicket:
+          player_out: SN Swamy
+          fielders:
+          - MWR Stokes
+          kind: caught
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: YS Chauhan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Muzaffar
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: YS Chauhan
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zain Muzaffar
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: Zain Muzaffar
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: Zain Muzaffar
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: Zain Muzaffar
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: Zain Muzaffar
+        bowler: E Robinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+        wicket:
+          player_out: YS Chauhan
+          fielders:
+          - IDA Damarell
+          kind: caught
+    target:
+      overs: 20
+      runs: 152
